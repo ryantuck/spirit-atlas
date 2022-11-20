@@ -15,9 +15,9 @@ restart : clean setup
 
 # ___sheet.html_______________________________
 
-targets : target/sheet.html
+targets : target/sheet.html target/dag.svg
 
-target/sheet.html : html cmd md css pages
+target/sheet.html : html cmd css pages
 	cat source/sheet-section-1.html > $@
 	cat target/pages/page-1.html | python md2html.py >> $@
 	cat source/sheet-section-3.html >> $@
@@ -25,7 +25,6 @@ target/sheet.html : html cmd md css pages
 	cat source/sheet-section-5.html >> $@
 
 cmd : md2html.py
-md : table-of-contents.md cover.md
 html : source/sheet-section-1.html source/sheet-section-3.html source/sheet-section-5.html
 pages : target/pages/page-1.html target/pages/page-2.html
 css : target/sheet.css
@@ -38,3 +37,13 @@ target/pages/page-1.html : cover.md
 
 target/pages/page-2.html : table-of-contents.md
 	cat table-of-contents.md | python md2html.py > $@
+
+
+target/dag.svg : target/dag.gv
+	dot -Tsvg -o $@ $<
+
+target/dag.gv : Makefile make2dag.py
+	echo "digraph {" > $@
+	echo "rankdir=LR;" >> $@
+	cat Makefile | grep : | grep -v clean | grep -v setup | python make2dag.py | sed -e 's/\//_/g' | sed -e 's/-/_/g' | sed -e 's/\./_/g' | jq '"\(.source) -> \(.target);"' -r >> $@
+	echo "}" >> $@
