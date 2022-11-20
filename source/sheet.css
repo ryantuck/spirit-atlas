@@ -1,0 +1,32 @@
+/*
+ * 8.5 x 11
+ *
+ * TODO
+ *      pixel logic
+ *
+ * */
+
+
+.sheet {
+    width: 880px;
+    height: 680px;
+
+    background-color: #fff;
+    border: 2px solid black;
+
+    display: grid;
+    grid-template: 'page page';
+}
+
+.page {
+    margin: 30px;
+    width: 360px;
+
+    background-color: #eee;
+
+    border: 1px dashed black;
+
+    font-size: 0.7em;
+    font-family: courier;
+    text-align: center;
+}
