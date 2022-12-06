@@ -1,4 +1,4 @@
-all : targets
+all : sheets
 
 # ___controls___________________________________
 
@@ -10,32 +10,46 @@ clean :
 setup :
 	mkdir -p target
 	mkdir -p target/pages
+	mkdir -p target/sheets
 
 restart : clean setup
 
+# ___vars___________________________________
+
+BOOKS_DIR := ~/Desktop/books
+
 # ___sheet.html_______________________________
 
-targets : target/sheet.html target/dag.svg
+sheets : target/sheets/sheet-1.html target/sheets/sheet-2.html
 
-target/sheet.html : html css pages md2html.py
-	cat source/sheet-section-1.html > $@
-	cat target/pages/page-1.html | python md2html.py >> $@
-	cat source/sheet-section-3.html >> $@
-	cat target/pages/page-2.html | python md2html.py >> $@
-	cat source/sheet-section-5.html >> $@
+target/sheets/sheet-1.html : css pages render_jinja.py
+	python render_jinja.py | jq '.sheets[0]' -r > $@
 
-html : source/sheet-section-1.html source/sheet-section-3.html source/sheet-section-5.html
-pages : target/pages/page-1.html target/pages/page-2.html
+target/sheets/sheet-2.html : css pages render_jinja.py
+	python render_jinja.py | jq '.sheets[1]' -r > $@
+
+pages : target/pages/page-1.html target/pages/page-2.html target/pages/page-3.html target/pages/page-4.html
+
 css : target/sheet.css
+
 
 target/sheet.css : source/sheet.css
 	cp $< $@
 
-target/pages/page-1.html : cover.md
-	cat cover.md | python md2html.py > $@
+target/pages/page-1.html : source/cover.md
+	cat $< | python md2html.py > $@
 
-target/pages/page-2.html : table-of-contents.md
-	cat table-of-contents.md | python md2html.py > $@
+target/pages/page-2.html : source/table-of-contents.md
+	cat $< | python md2html.py > $@
+
+target/pages/page-3.html : source/dag.md target/dag.svg
+	cat $< | python md2html.py > $@
+
+target/pages/page-4.html : source/mandelbrot-set.md
+	cat $< | python md2html.py > $@
+
+
+# ___dag___________________________________
 
 
 target/dag.svg : target/dag.gv
@@ -44,5 +58,10 @@ target/dag.svg : target/dag.gv
 target/dag.gv : Makefile make2dag.py
 	echo "digraph {" > $@
 	echo "rankdir=LR;" >> $@
-	cat Makefile | grep : | grep -v clean | grep -v setup | python make2dag.py | jq '.edges[]' | sed -e 's/\//_/g' | sed -e 's/-/_/g' | sed -e 's/\./_/g' | jq '"\(.source) -> \(.target);"' -r >> $@
+	echo "node [fontname=\"Courier New\", shape=rectangle];" >> $@
+	cat Makefile \
+		| grep : | grep -v clean | grep -v setup | grep -v := \
+		| python make2dag.py | jq '.edges[]' \
+		| sed -e 's/\//_/g' | sed -e 's/-/_/g' | sed -e 's/\./_/g' \
+		| jq '"\(.source) -> \(.target);"' -r >> $@
 	echo "}" >> $@
