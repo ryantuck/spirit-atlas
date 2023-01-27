@@ -1,0 +1,22 @@
+digraph {
+rankdir=LR;
+targets -> all;
+target_sheet_html -> targets;
+target_dag_svg -> targets;
+html -> target_sheet_html;
+css -> target_sheet_html;
+pages -> target_sheet_html;
+md2html_py -> target_sheet_html;
+source_sheet_section_1_html -> html;
+source_sheet_section_3_html -> html;
+source_sheet_section_5_html -> html;
+target_pages_page_1_html -> pages;
+target_pages_page_2_html -> pages;
+target_sheet_css -> css;
+source_sheet_css -> target_sheet_css;
+cover_md -> target_pages_page_1_html;
+table_of_contents_md -> target_pages_page_2_html;
+target_dag_gv -> target_dag_svg;
+Makefile -> target_dag_gv;
+make2dag_py -> target_dag_gv;
+}
