@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>mtg-arena-on-aws</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="running-mtg-arena-in-aws">Running MTG Arena in AWS</h1>
+<p><em>Note: this all ended up being more work than just paying a couple bucks a month for vortex.gg to play dedicated games.</em></p>
+<p>I love Magic The Gathering and want to play the desktop version of the game, MTG Arena.</p>
+<p>Some brilliant product people thought it would be best to create a PC-only game, trusting that people who are smart enough to choose macs over PCs are also smart enough to figure out how to get the damn thing working in an emulator or something.</p>
+<p><strong>tl;dr - I tried WINE and VirtualBox to no avail, so used AWS to solve the problem!</strong></p>
+<h2 id="aws-setup">AWS Setup</h2>
+<p>Spin up a Windows 2019 Server in AWS.</p>
+<p>I chose a GPU-optimized machine (<code>g4dn.2xlarge</code>) to handle the graphics. TBH, it might need even more horsies than that - the graphics are a little laggy, but I can’t tell if that’s network-related or not.</p>
+<p>Anyway, the key here is to not run up your AWS bill too high - shut off your machine when you’re not playing!</p>
+<p>Gave it all pretty vanilla defaults, public IP, etc. Could probably make it more secure via security groups or whatever.</p>
+<h3 id="connect-via-microsoft-remote-desktop">Connect via Microsoft Remote Desktop</h3>
+<p>I downloaded a remote desktop application, grabbed the public DNS entry for my instance, and found the password from Actions &gt; Get Windows Password (decrypted using the <code>.pem</code> file you used when creating the instance).</p>
+<h3 id="enable-downloads">Enable downloads</h3>
+<p>AWS really locks down the download functionality by default (probably for good reason) so you gotta:</p>
+<ol type="1">
+<li>Open “Server Manager”</li>
+<li>Click “Local Server” (left hand side)</li>
+<li>Click the “On” link next to IE Enhanced Security Configuration</li>
+<li>Turn it off for administrators</li>
+<li>Now you can use IE to download MTG Arena (or Chrome, or whatever)</li>
+</ol>
+<h2 id="machine-maintenance">Machine Maintenance</h2>
+<p>I imagine I’m gonna need to ensure this thing is not turned on at all times so I don’t hemorrhage money, but that’s pretty easy to do within the app.</p>
+<p>It’d probably be cool to define a fixed public IP so I don’t have to re-enter a new DNS entry into remote desktop every time I restart the machine, but hey. A route53 entry would be cool too.</p>
+<p>Anyway, hope this helps!</p>
+</body>
+</html>

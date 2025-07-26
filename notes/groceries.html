@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>groceries</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="groceries">groceries</h1>
+<p>Proof-of-concept for having a list ready to hand at the grocery store and hoping I don’t randomly refresh the page in aisle 12.</p>
+<h2 id="condiments">condiments</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+ketchup</li>
+<li><input type="checkbox" disabled="" />
+mustard</li>
+<li><input type="checkbox" disabled="" />
+mayo</li>
+<li><input type="checkbox" disabled="" />
+lime juice</li>
+<li><input type="checkbox" disabled="" />
+lemon juice</li>
+</ul>
+<h2 id="dairy">dairy</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+butter</li>
+<li><input type="checkbox" disabled="" />
+milk</li>
+<li><input type="checkbox" disabled="" />
+shredded cheese</li>
+<li><input type="checkbox" disabled="" />
+cheese</li>
+<li><input type="checkbox" disabled="" />
+sour cream</li>
+</ul>
+<h2 id="veg">veg</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+broccoli</li>
+<li><input type="checkbox" disabled="" />
+tomatoes</li>
+<li><input type="checkbox" disabled="" />
+mushrooms</li>
+<li><input type="checkbox" disabled="" />
+onions</li>
+<li><input type="checkbox" disabled="" />
+sweet potatoes</li>
+<li><input type="checkbox" disabled="" />
+garlic</li>
+</ul>
+<h2 id="snek">snek</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+crackers</li>
+<li><input type="checkbox" disabled="" />
+popcorn</li>
+<li><input type="checkbox" disabled="" />
+tortilla chips</li>
+<li><input type="checkbox" disabled="" />
+snap peas</li>
+</ul>
+<h2 id="cans">cans</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+salsa</li>
+<li><input type="checkbox" disabled="" />
+pickles</li>
+<li><input type="checkbox" disabled="" />
+banana peppers</li>
+<li><input type="checkbox" disabled="" />
+tomato soup</li>
+<li><input type="checkbox" disabled="" />
+garbanzo beans</li>
+<li><input type="checkbox" disabled="" />
+black beans</li>
+<li><input type="checkbox" disabled="" />
+corn</li>
+<li><input type="checkbox" disabled="" />
+canned tomatoes</li>
+</ul>
+<h2 id="grain">grain</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+white bread</li>
+<li><input type="checkbox" disabled="" />
+english muffins</li>
+<li><input type="checkbox" disabled="" />
+pizza crust</li>
+<li><input type="checkbox" disabled="" />
+crescent rolls</li>
+<li><input type="checkbox" disabled="" />
+rice</li>
+<li><input type="checkbox" disabled="" />
+quinoa</li>
+</ul>
+<h2 id="great-british-baking">great british baking</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+flour</li>
+<li><input type="checkbox" disabled="" />
+baking soda</li>
+<li><input type="checkbox" disabled="" />
+baking powder</li>
+<li><input type="checkbox" disabled="" />
+sugar</li>
+<li><input type="checkbox" disabled="" />
+salt</li>
+<li><input type="checkbox" disabled="" />
+chonky salt</li>
+</ul>
+<h2 id="coffee">coffee</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+coffee</li>
+</ul>
+<h2 id="olio">olio</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+olive oil</li>
+<li><input type="checkbox" disabled="" />
+canola / veg oil</li>
+</ul>
+<h2 id="meat">meat</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+chicken</li>
+<li><input type="checkbox" disabled="" />
+steak</li>
+<li><input type="checkbox" disabled="" />
+seafood</li>
+</ul>
+<h2 id="pets">pets</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+dog food</li>
+<li><input type="checkbox" disabled="" />
+cat food - dry</li>
+<li><input type="checkbox" disabled="" />
+cat food - wet</li>
+<li><input type="checkbox" disabled="" />
+litter</li>
+<li><input type="checkbox" disabled="" />
+dog treats</li>
+<li><input type="checkbox" disabled="" />
+cat scratchers</li>
+</ul>
+<h2 id="laundry">laundry</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+dryer sheets</li>
+<li><input type="checkbox" disabled="" />
+pods</li>
+<li><input type="checkbox" disabled="" />
+bleach</li>
+</ul>
+<h2 id="cleaning">cleaning</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+dishwasher pods</li>
+<li><input type="checkbox" disabled="" />
+trash bags</li>
+<li><input type="checkbox" disabled="" />
+windex</li>
+<li><input type="checkbox" disabled="" />
+409</li>
+<li><input type="checkbox" disabled="" />
+pet cleaner</li>
+<li><input type="checkbox" disabled="" />
+mold/mildew cleaner</li>
+<li><input type="checkbox" disabled="" />
+swiffer pads</li>
+<li><input type="checkbox" disabled="" />
+sponges</li>
+</ul>
+<h2 id="smelling-nice">smelling nice</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+candles</li>
+<li><input type="checkbox" disabled="" />
+febreze</li>
+<li><input type="checkbox" disabled="" />
+glade / airwick</li>
+</ul>
+<h2 id="le-toiletries">le toiletries</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+tums</li>
+<li><input type="checkbox" disabled="" />
+deoderant</li>
+<li><input type="checkbox" disabled="" />
+toothbrushes</li>
+<li><input type="checkbox" disabled="" />
+toothpaste</li>
+<li><input type="checkbox" disabled="" />
+razors</li>
+<li><input type="checkbox" disabled="" />
+flossers</li>
+<li><input type="checkbox" disabled="" />
+shaving cream</li>
+<li><input type="checkbox" disabled="" />
+ibuprofen etc</li>
+<li><input type="checkbox" disabled="" />
+nyquil / dayquil</li>
+<li><input type="checkbox" disabled="" />
+allergy meds</li>
+<li><input type="checkbox" disabled="" />
+fiber</li>
+<li><input type="checkbox" disabled="" />
+multivitamin</li>
+<li><input type="checkbox" disabled="" />
+b12</li>
+</ul>
+<h2 id="house-stuff">house stuff</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+batteries</li>
+<li><input type="checkbox" disabled="" />
+lightbulbs</li>
+<li><input type="checkbox" disabled="" />
+filters</li>
+</ul>
+<h2 id="pt-tp">PT / TP</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+toilet paper</li>
+<li><input type="checkbox" disabled="" />
+paper towels</li>
+</ul>
+<h2 id="booze">booze</h2>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" />
+claws</li>
+<li><input type="checkbox" disabled="" />
+beer</li>
+<li><input type="checkbox" disabled="" />
+wine</li>
+<li><input type="checkbox" disabled="" />
+tequila</li>
+<li><input type="checkbox" disabled="" />
+bourbon</li>
+<li><input type="checkbox" disabled="" />
+scotch</li>
+<li><input type="checkbox" disabled="" />
+vodka</li>
+<li><input type="checkbox" disabled="" />
+rum</li>
+</ul>
+</body>
+</html>
