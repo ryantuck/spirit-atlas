@@ -14,6 +14,8 @@ def html(markdown_line):
         return html_header(markdown_line)
     if markdown_line == '':
         return None
+    if line.strip().startswith('<'):
+        return line # assumes html, prob janky
     return html_text('p', markdown_line)
 
 

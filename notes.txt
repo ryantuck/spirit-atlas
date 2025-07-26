@@ -1,0 +1,36 @@
+Use pug or whatever for html bs
+
+Use jinja
+
+page.html is a view on top of more core data
+
+    What are other views?
+
+
+Book notes pipeline
+
+
+Stack notes log. Reverse chronological order by default. log.txt. Good idea.
+
+
+What does it mean to say dark matter 'exists'? Fritz Zwicky and the Coma Cluster. The Structure of Scientific Revolutions. General Relativity.
+
+
+# TODO auto-generate entire html page
+
+
+Print layout - Landscape, 100% scale, minimum margins, should line up exactly
+
+
+Log - Oct 19, printed first crappy page, printed first tweaked settings
+
+
+The Dark Enlightenment. ISAIF.
+
+The End of History.
+
+The Cultural Revolution. The French Revolution. The Network State.
+
+Frankenstein.
+
+
