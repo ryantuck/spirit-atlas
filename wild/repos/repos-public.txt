@@ -1,0 +1,92 @@
+rock-war				
+spirit-atlas				
+quote				Pretty quote for printing out or whatever
+ryantuck.github.io				website
+birds				Cute practice recursion problems
+cellular-automata				experiments with strange computational creatures
+sewage				An experiment in simple, python-first data transformations
+dagny				
+ryantuck				readme
+tucks-data-plumbing				Tuck's Data Plumbing
+cups				Physics simulations of rolling cups
+tuckandgrubs				
+dotfiles				.
+roam-themez				CSS themes for Roam Research
+me				A CLI just for me
+examples				Working code examples
+website-from-2015				Snapshot of my old site from 2015
+ryantuck.io				Personal site
+fix-roam				Script for fixing Roam export graphs to allow for re-importing
+pyroam				Read your Roam Research graph as python objects
+gtd				
+lookmlint				Linting tool for LookML
+flows				view DOTs as graphs
+mdzk				Markdown zettelkasten
+docs.getdbt.com				The code behind the Getting Started tutorial
+lkml.vim				A LookML syntax for vim. 
+sqlfluff				A SQL Linter for Humans
+airplane				Airplane boarding simulator.
+roulette				python code for roulette simulations
+tldr				:books: Simplified and community-driven man pages
+notifications				barebones macos notifications
+listmas				social, shareable christmas lists
+rec				A tool for reconciling csv files
+weirdify-markdown				Chrome extension to turn regular markdown to weird Stack Overflow-friendly markdown.
+ghdone				Find what you've done recently on github.
+urls				A dumb and configurable cli for opening browser tabs
+rrrrr				r
+gspread				Google Spreadsheets Python API
+bingo				bingo probabilities and whatever
+puzz				a python jigsaw puzzle generator
+kaggle				Kaggle competition work.
+gibson-presentation				Presentation on chatbot-controlled infrastructure management
+facebook-etl				ETL facebook data
+lombardi				open-source fantasy football analysis framework
+databae.io				source for databae.io
+asmartment				smart apartment
+translate-words				uses google translate api to translate list of words into multiple languages
+seamless-bot				this will one day be a seamless bot
+pygotham-talk				lil fireside chat about lambdas at pygotham
+boto3-deploy				boto3-based datapipe configuration and deployment
+openai				open ai problems
+discrete-quartiles				
+apex-testing				
+looker-python-sdk				
+recipes				visualize recipes using d3
+arewecallin.it				
+dirs-from-json				fabric script for recursively creating directories from a json file
+listmas-react				social and shareable christmas list.
+sql-petstore				basic tooling to set up a basic sql db
+FastLED-Sparkcore				SparkCore specific port of FastLED
+SparkCore-NeoPixel				An Implementation of Adafruit's NeoPixel Library for Particle devices: Spark Core, Photon, P1 and Electron.
+ftf				
+luigi				Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
+modules-demo				simple demo of using modules in python
+lambda-testing				
+sql-dash-demo				basic flask web app for executing saved sql queries
+shoes-production				Production repo for shoe PCBs
+responsive-ui-grid				an attempt at making a responsive grid template for dashboards
+ftp-playground				Demo python FTP server/client playground
+lit-halo				Source code for LIT Halo
+techops-counts				
+shoes				
+hackathon-kegbot				kegbot stuff
+panels				Desktop app for controlling panels. Built with node-webkit.
+table				hacking away at the table
+xmas				MEAN social christmas list app.
+secret-santa-generator				iPython notebook that generates a secret santa list
+openpixelcontrol				A simple stream protocol for controlling arrays of RGB lights.
+public-xmas				MEAN public christmas list app. Built on top of mean.io. 
+wios-fiduino				iOS app for wifi communication with Arduino through Adafruit CC3000.
+GADS12-NYC				General Assembly Data Science 12
+cards-web-app				A personal task manager project built with AngularJS
+GADS12-NYC-Students				
+data-challenge				A little puzzler for data nerds.
+rt-backgammon				backgammon simulator
+rt-connect-four				Connect Four Simulator for Xcode
+lhbs				LIT Halo Simulator
+rt-cards				a revolutionary to-do app.
+LITSpectrumViewer				Processing Applet for viewing real-time LIT spectrum
+LIT-matlab-stuff				Matlab projects for processing LIT data
+lit-site				
+html5-settlers-of-catan				Open-source game built for HTML5 using node.js and socket.io, based off of Settlers of Catan

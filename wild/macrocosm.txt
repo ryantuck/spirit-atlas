@@ -1,0 +1,21 @@
+Email sent to Macrocosm re chaos economics.
+
+Hello,
+
+I'm an experienced software engineer with a physics degree and casual student of complexity. I read James Gleick's Chaos ten years ago and now see emergent complexity washing dirty dishes and on walks through the park. 
+
+I'm interested in knowing if you're hiring or open to contract project work.
+
+I heard about Macrocosm when Dr Farmer went on Econtalk and Mindscape recently to discuss chaos economics. The thesis that thinking about economics as a complex or chaotic system using agent-based modeling resonates with me and it sounds like there are more and more clients willing to bet on its utility. It sounds like a really cool project, and I love a good heterodox position!
+
+I've proven my track record as an engineer in data-intensive applications and now want to use those skills towards efforts closer to hard math and science. I'm otherwise looking into bioinformatics or AI research roles.
+
+If you're ever stuck on scaling your workloads in AWS or modernizing your python codebase, I'd love to help out on a challenging and meaningful project. Please don't hesitate to reach out!
+
+Best of luck with things and happy new year!
+
+https://ryantuck.io/
+
+https://github.com/ryantuck
+
+// Ryan Tuck
