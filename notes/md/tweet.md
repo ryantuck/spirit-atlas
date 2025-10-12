@@ -1,3 +1,0 @@
-# Tweet
-
-- [[cleaning-bookshelf]]
