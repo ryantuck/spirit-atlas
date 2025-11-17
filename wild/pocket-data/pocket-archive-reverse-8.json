@@ -1,0 +1,2151 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTQ1MTk3MjM5NV8qXzE0Nzg2NTkwMzU=",
+                        "node": {
+                            "url": "http://www.artofmanliness.com/2016/10/19/john-rockefellers-keys-to-success/",
+                            "_createdAt": 1478397174,
+                            "_updatedAt": 1478659104,
+                            "id": "1451972395",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478659035,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Be Your Own Tyrant: John D. Rockefeller’s Keys to Success",
+                                "itemId": "3450531009",
+                                "resolvedId": "3450531009",
+                                "resolvedUrl": "https://www.artofmanliness.com/character/manly-lessons/john-rockefellers-keys-to-success/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Art of Manliness"
+                                },
+                                "excerpt": "By age 25 John D. Rockefeller controlled one of the largest oil refineries in the nation. By age 31 he had become the world’s largest oil refiner.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 1,
+                                        "src": "https://content.artofmanliness.com/uploads/2013/12/bond-1-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 2,
+                                        "src": "https://content.artofmanliness.com/uploads/2016/10/Rockefeller-Header.jpg",
+                                        "width": 650
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 331,
+                                        "imageId": 3,
+                                        "src": "https://content.artofmanliness.com/uploads/2017/09/man2.png",
+                                        "width": 379
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 328,
+                                        "imageId": 4,
+                                        "src": "https://content.artofmanliness.com/uploads/2018/09/muir.png",
+                                        "width": 491
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 296,
+                                        "imageId": 5,
+                                        "src": "https://content.artofmanliness.com/uploads/2019/07/adams.png",
+                                        "width": 438
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 6,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/10/sweater-500x280.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 7,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/09/2022-09-20_12-50-21-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 8,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/12/commando2-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 9,
+                                        "src": "https://content.artofmanliness.com/uploads/2015/10/smell2-538x280.png",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 10,
+                                        "src": "https://content.artofmanliness.com/uploads/2021/05/weekender_blank-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 11,
+                                        "src": "https://content.artofmanliness.com/uploads/2021/03/ring-feat-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 12,
+                                        "src": "https://content.artofmanliness.com/uploads/2021/02/Beard-Style-Header-BLANK-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 13,
+                                        "src": "https://content.artofmanliness.com/uploads/2020/11/blank-beard-oil-1-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 14,
+                                        "src": "https://content.artofmanliness.com/uploads/2020/03/beard-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 15,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/05/tie-feat-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 16,
+                                        "src": "https://content.artofmanliness.com/uploads/2021/08/necktie_future_blank-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 17,
+                                        "src": "https://content.artofmanliness.com/uploads/2014/01/SOTW-Straight-Punch-BLANK-600-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 18,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/01/Supersets-4-blank-2-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 19,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/01/move-1-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 20,
+                                        "src": "https://content.artofmanliness.com/uploads/2020/10/Bro-Basics-Header-3-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 21,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/01/fast-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 22,
+                                        "src": "https://content.artofmanliness.com/uploads/2021/12/T-500x280.jpeg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 23,
+                                        "src": "https://content.artofmanliness.com/uploads/2021/02/sauna_blank-1-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 24,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/04/sierra78-538x280.jpeg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 25,
+                                        "src": "https://content.artofmanliness.com/uploads/2017/01/fit-533x280.png",
+                                        "width": 533
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 26,
+                                        "src": "https://content.artofmanliness.com/uploads/2016/06/workshop-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 27,
+                                        "src": "https://content.artofmanliness.com/uploads/2015/01/reportheader-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 28,
+                                        "src": "https://content.artofmanliness.com/uploads/2019/06/riddles1-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 29,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/12/siblings-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 30,
+                                        "src": "https://content.artofmanliness.com/uploads/2019/11/grat-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 31,
+                                        "src": "https://content.artofmanliness.com/uploads/2016/06/marriagemeeting-461x280.jpg",
+                                        "width": 461
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 32,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/10/lie-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 33,
+                                        "src": "https://content.artofmanliness.com/uploads/2014/06/deadfeat2-507x280.jpg",
+                                        "width": 507
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 34,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/06/boy-520x280.jpeg",
+                                        "width": 520
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 35,
+                                        "src": "https://content.artofmanliness.com/uploads/2018/06/father5-538x280.png",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 36,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/02/itch2-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 37,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/02/Ladder-of-Love-BLANK-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 38,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/01/carnegie-538x280.jpeg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 39,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/01/dance-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 40,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/01/phone-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 41,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/12/angry-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 42,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/09/charisma-538x280.jpeg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 43,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/05/talk-538x280.jpeg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 44,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/07/car-feat-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 45,
+                                        "src": "https://content.artofmanliness.com/uploads/2017/01/SOTW-Climb-a-Rope-BLANK-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 46,
+                                        "src": "https://content.artofmanliness.com/uploads/2017/12/Winter-Driving-Header-1-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 47,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/11/cards-feat2-500x280.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 48,
+                                        "src": "https://content.artofmanliness.com/uploads/2023/02/jim2-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 49,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/11/bushcraft-538x280.jpg",
+                                        "width": 538
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 280,
+                                        "imageId": 50,
+                                        "src": "https://content.artofmanliness.com/uploads/2022/10/Flash-Flood-in-Car-Header-BLANK-538x280.jpg",
+                                        "width": 538
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://content.artofmanliness.com/uploads/2016/10/Rockefeller-Header.jpg",
+                                "timeToRead": 25,
+                                "givenUrl": "http://www.artofmanliness.com/2016/10/19/john-rockefellers-keys-to-success/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "29509147",
+                                        "name": "Brett and Kate McKay",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-10-19 13:12:26",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4Mjg5ODQyN18qXzE0NzkzOTMzNzY=",
+                        "node": {
+                            "url": "https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/",
+                            "_createdAt": 1479357421,
+                            "_updatedAt": 1479393377,
+                            "id": "1482898427",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479393376,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The NSA’s Spy Hub in New York, Hidden in Plain Sight",
+                                "itemId": "1482898427",
+                                "resolvedId": "1482898427",
+                                "resolvedUrl": "https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Intercept"
+                                },
+                                "excerpt": "They called it Project X. It was an unusually audacious, highly sensitive assignment: to build a massive skyscraper, capable of withstanding an atomic blast, in the middle of New York City.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 440,
+                                        "imageId": 1,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/000008-440x440.jpg?auto=compress%2Cformat&q=90&fit=crop&w=440&h=440",
+                                        "width": 440
+                                    },
+                                    {
+                                        "caption": "Early model of the entrance of 33 Thomas Street as designed by John Carl Warnecke & Associates.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/stills-seq-1.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The FBI occupies the entire 23rd floor of 26 Federal Plaza, seen here behind 33 Thomas Street.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/stills-seq-20.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Intercom at 33 Thomas Street.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/stills-seq-12.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Design plan for the tower mechanical equipment floor at 33 Thomas Street.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/026V9767-high-res-edit.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Sketch of the plaza at 33 Thomas Street.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/026V0261-edit.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Satellite dishes on top of 33 Thomas Street. At TITANPOINTE, a program called SKIDROWE intercepts satellite communications.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/026V9229-1.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Diagrams showing NSA-controlled equipment inside TITANPOINTE.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/Screen-Shot-2016-11-11-at-16.59.11.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Logo for the NSA’s satellite communications exploitation program SKIDROWE.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/skidrowe-keyscore.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The entrance to 33 Thomas Street. Still from “Project X”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/000004.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Mark Klein at 33 Thomas Street in 1988. Klein worked as an AT&T employee at that location for 10 years.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/Mark-NYC-ATT-1988_2.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/000008.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+                                "timeToRead": 16,
+                                "givenUrl": "https://theintercept.com/2016/11/16/the-nsas-spy-hub-in-new-york-hidden-in-plain-sight/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "61603509",
+                                        "name": "Ryan Gallagher",
+                                        "url": "https://theintercept.com/staff/ryan-gallagher/"
+                                    },
+                                    {
+                                        "id": "61689749",
+                                        "name": "Henrik Moltke",
+                                        "url": "https://theintercept.com/staff/moltke/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-16 07:40:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MzU4Mjc1M18qXzE0Nzk1ODU5MzI=",
+                        "node": {
+                            "url": "http://www.politico.com/story/2016/11/donald-trump-wall-street-bankers-231524",
+                            "_createdAt": 1479470794,
+                            "_updatedAt": 1479585933,
+                            "id": "1483582753",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479585932,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Bankers celebrate dawn of Trump era",
+                                "itemId": "1483582753",
+                                "resolvedId": "1483582753",
+                                "resolvedUrl": "https://www.politico.com/story/2016/11/donald-trump-wall-street-bankers-231524",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "POLITICO"
+                                },
+                                "excerpt": "NEW YORK — Christmas has arrived early for Wall Street in the early days of the Donald Trump era. Former Goldman Sachs banker Steven Mnuchin has been seen at Trump Tower amid rumors that he’s the leading candidate for Treasury secretary.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Former Goldman Sachs banker Steven Mnuchin has been seen at Trump Tower amid rumors that he’s the leading candidate for Treasury secretary. | AP Photo",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://static.politico.com/dims4/default/72271ac/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F0a%2Ffe%2F46cc25734bccb4710a1eefa444c9%2F161114-steve-mnuchin-ap-16319543484492.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.politico.com/0a/fe/46cc25734bccb4710a1eefa444c9/161114-steve-mnuchin-ap-16319543484492.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.politico.com/story/2016/11/donald-trump-wall-street-bankers-231524",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "77908422",
+                                        "name": "BEN WHITE",
+                                        "url": "https://www.politico.com/staff/ben-white"
+                                    }
+                                ],
+                                "datePublished": "2016-11-17 09:07:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MzMyMjI0MF8qXzE0Nzk1ODYxMzI=",
+                        "node": {
+                            "url": "http://bravenewgeek.com/you-are-not-paid-to-write-code/",
+                            "_createdAt": 1479470205,
+                            "_updatedAt": 1479586133,
+                            "id": "1483322240",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479586132,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "You Are Not Paid to Write Code",
+                                "itemId": "1483322240",
+                                "resolvedId": "1483322240",
+                                "resolvedUrl": "https://bravenewgeek.com/you-are-not-paid-to-write-code/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "bravenewgeek.com"
+                                },
+                                "excerpt": "“Taco Bell Programming” is the idea that we can solve many of the problems we face as software engineers with clever reconfigurations of the same basic Unix tools.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://s0.wp.com/i/blank.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://bravenewgeek.com/you-are-not-paid-to-write-code/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "81350657",
+                                        "name": "Tyler Treat",
+                                        "url": "https://bravenewgeek.com/author/tyler/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-16 22:20:11",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ3ODEyODYzOF8qXzE0Nzk3NDAyMjU=",
+                        "node": {
+                            "url": "https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/",
+                            "_createdAt": 1479688870,
+                            "_updatedAt": 1479741625,
+                            "id": "1478128638",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479740225,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Surveillance Self-Defense Against the Trump Administration",
+                                "itemId": "1478128638",
+                                "resolvedId": "1478128638",
+                                "resolvedUrl": "https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Intercept"
+                                },
+                                "excerpt": "On Tuesday, Americans handed the U.S.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/11/trump_encryption_1439_bw_v2.gif",
+                                "timeToRead": 10,
+                                "givenUrl": "https://theintercept.com/2016/11/12/surveillance-self-defense-against-the-trump-administration/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "61707322",
+                                        "name": "Micah Lee",
+                                        "url": "https://theintercept.com/staff/micah-lee/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-12 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MDIwMDg0M18qXzE0Nzk3NDE2NDc=",
+                        "node": {
+                            "url": "http://www.truth-out.org/opinion/item/38360-trump-in-the-white-house-an-interview-with-noam-chomsky",
+                            "_createdAt": 1479224576,
+                            "_updatedAt": 1479741648,
+                            "id": "1480200843",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479741647,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Trump in the White House: An Interview With Noam Chomsky",
+                                "itemId": "2226869337",
+                                "resolvedId": "2226869337",
+                                "resolvedUrl": "https://truthout.org/articles/trump-in-the-white-house-an-interview-with-noam-chomsky/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "truthout.org"
+                                },
+                                "excerpt": "In the aftermath of the election, independent media is more important than ever. Can you make a donation to support the publication of more stories like this one?",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 427,
+                                        "imageId": 1,
+                                        "src": "https://truthout.org/app/uploads/2017/12/Trump-in-the-White-House-An-Interview-With-Noam-Chomsky.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://truthout.org/app/uploads/2018/03/Truthout-Default-Image-1200x900.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 3,
+                                        "src": "https://truthout.org/app/uploads/2017/12/Noam-Chomsky-on-Anarchism-Communism-and-Revolutions-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 4,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-trump-org-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 5,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-donald-trump-p-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 6,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-black-lives-matter-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 7,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-nurses-strike-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 8,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-insulin-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 9,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-robin-vos-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 10,
+                                        "src": "https://truthout.org/app/uploads/2023/01/SEG3-Okeowo-Migrants-Split-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 11,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-supreme-court-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 12,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0113-joe-manchin-400x300.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 13,
+                                        "src": "https://truthout.org/app/uploads/2023/01/2023_0112-milwaukee-voting-400x300.jpg",
+                                        "width": 400
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://truthout.org/app/uploads/2017/12/Trump-in-the-White-House-An-Interview-With-Noam-Chomsky.jpg",
+                                "timeToRead": 18,
+                                "givenUrl": "http://www.truth-out.org/opinion/item/38360-trump-in-the-white-house-an-interview-with-noam-chomsky",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "89936685",
+                                        "name": "C.J. Polychroniou",
+                                        "url": "https://truthout.org/authors/c-j-polychroniou/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MzQ5MzE1Nl8qXzE0Nzk3NzA4MTE=",
+                        "node": {
+                            "url": "http://nautil.us/issue/42/fakes/is-physical-law-an-alien-intelligence",
+                            "_createdAt": 1479754586,
+                            "_updatedAt": 1479770813,
+                            "id": "1483493156",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479770811,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1483493156",
+                                "resolvedId": "1483493156",
+                                "resolvedUrl": "http://nautil.us/issue/42/fakes/is-physical-law-an-alien-intelligence",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://nautil.us/issue/42/fakes/is-physical-law-an-alien-intelligence",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MzgwMzQ0MF8qXzE0Nzk3NzEyMDE=",
+                        "node": {
+                            "url": "https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence",
+                            "_createdAt": 1479754588,
+                            "_updatedAt": 1479771202,
+                            "id": "1483803440",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479771201,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Simple Economics of Machine Intelligence",
+                                "itemId": "1483803440",
+                                "resolvedId": "1483803440",
+                                "resolvedUrl": "https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harvard Business Review"
+                                },
+                                "excerpt": "The year 1995 was heralded as the beginning of the “New Economy.” Digital communication was set to upend markets and change everything. But economists by and large didn’t buy into the hype. It wasn’t that we didn’t recognize that something changed.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hbr.org/resources/images/article_assets/2016/11/nov16-17-499178960.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hbr.org/resources/images/article_assets/2016/11/nov16-17-499178960.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "98753871",
+                                        "name": "Avi Goldfarb",
+                                        "url": "https://hbr.org/search?term=avi%20goldfarb"
+                                    },
+                                    {
+                                        "id": "152181473",
+                                        "name": "Ajay Agrawal,",
+                                        "url": "https://hbr.org/search?term=ajay%20agrawal"
+                                    },
+                                    {
+                                        "id": "152181474",
+                                        "name": "Joshua Gans,",
+                                        "url": "https://hbr.org/search?term=joshua%20gans"
+                                    }
+                                ],
+                                "datePublished": "2016-11-17 08:00:05",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MjYxODAxM18qXzE0Nzk3NzE3OTA=",
+                        "node": {
+                            "url": "https://stratechery.com/2016/fake-news/",
+                            "_createdAt": 1479690314,
+                            "_updatedAt": 1479771791,
+                            "id": "1482618013",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1479771790,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Fake News",
+                                "itemId": "1482618013",
+                                "resolvedId": "1482618013",
+                                "resolvedUrl": "https://stratechery.com/2016/fake-news/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Stratechery"
+                                },
+                                "excerpt": "Between 2001 and 2003, Judith Miller wrote a number of pieces in the New York Times asserting that Iraq had the capability and the ambition to produce weapons of mass destruction. It was fake news. Looking back, it’s impossible to say with certainty what role Miller’s stories played in the U.S.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=512%2C512&ssl=1",
+                                "timeToRead": 10,
+                                "givenUrl": "https://stratechery.com/2016/fake-news/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "33685485",
+                                        "name": "Ben Thompson",
+                                        "url": "https://stratechery.com/author/stratechery/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-16 08:55:16",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4OTU3MTM3NV8qXzE0ODAyODU2ODQ=",
+                        "node": {
+                            "url": "http://www.gq.com/story/bernie-sanders-donald-trump-victory-interview-moty",
+                            "_createdAt": 1480284500,
+                            "_updatedAt": 1480300068,
+                            "id": "1489571375",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1480285684,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Bernie Sanders on Donald Trump’s Victory, Identity Politics, and the Failures of the Democratic Party",
+                                "itemId": "1489571375",
+                                "resolvedId": "1489571375",
+                                "resolvedUrl": "https://www.gq.com/story/bernie-sanders-donald-trump-victory-interview-moty",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "GQ"
+                                },
+                                "excerpt": "In a presidential campaign that was less about hope and change and more about resignation and horror, there was, thankfully, one candidate who provided a dose of inspiration and emotional uplift.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.gq.com/photos/583c5f69e849b193543ac51e/master/w_1600%2Cc_limit/1216-GQ-FEBE02-01-bernie-profile.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.gq.com/photos/583c5f68049b68392c553f48/master/w_1600%2Cc_limit/1216-GQ-FEBE01-01-bernie-profile.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.gq.com/photos/58347fedc764ae804c6d1878/16:9/w_1280,c_limit/bernie-profile-3x2.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "http://www.gq.com/story/bernie-sanders-donald-trump-victory-interview-moty",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "37916687",
+                                        "name": "Jason Zengerle",
+                                        "url": "https://www.gq.com/contributor/jason-zengerle"
+                                    }
+                                ],
+                                "datePublished": "2016-11-22 11:00:52",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NDc1ODkwXypfMTQ4MDI4NjY0Mg==",
+                        "node": {
+                            "url": "http://paulgraham.com/ideas.html",
+                            "_createdAt": 1480044521,
+                            "_updatedAt": 1480300068,
+                            "id": "475890",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1480286642,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Ideas for Startups",
+                                "itemId": "475890",
+                                "resolvedId": "475890",
+                                "resolvedUrl": "http://www.paulgraham.com/ideas.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "paulgraham.com"
+                                },
+                                "excerpt": "October 2005 (This essay is derived from a talk at the 2005 Startup School.) How do you get good ideas for startups? That's probably the number one question people ask me.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://paulgraham.com/ideas.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUwMDIwMjk5Ml8qXzE0ODEwNjY2NDc=",
+                        "node": {
+                            "url": "http://vvgomes.com/we-dont-need-tech-leads/",
+                            "_createdAt": 1481034580,
+                            "_updatedAt": 1481066773,
+                            "id": "1500202992",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481066647,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "We don't need a Tech Lead",
+                                "itemId": "1500202992",
+                                "resolvedId": "1500202992",
+                                "resolvedUrl": "http://vvgomes.com/we-dont-need-tech-leads/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "vvgomes.com"
+                                },
+                                "excerpt": "When it comes to medium to large teams it is quite common the presence of a full-time tech lead responsible for important leadership activities such as: Guiding the project technical vision; Analyzing risks and cross-functional requirements; Coaching less experienced people; Bridging communication b",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://vvgomes.com/assets/images/feature-leads.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "http://vvgomes.com/we-dont-need-tech-leads/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "59820997",
+                                        "name": "people",
+                                        "url": "http://vvgomes.com/tags/#people"
+                                    }
+                                ],
+                                "datePublished": "2016-11-28 03:15:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5MTA1MzI2OV8qXzE0ODEwNjY2NjE=",
+                        "node": {
+                            "url": "https://docs.google.com/spreadsheets/d/1D_6JPqB9Et2Xnfykisbp_w0LrhMmS6VKQg5jtHhdpjA/edit#gid=2104930354",
+                            "_createdAt": 1479938620,
+                            "_updatedAt": 1481066773,
+                            "id": "1491053269",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481066661,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4016578734",
+                                "resolvedId": "4016578734",
+                                "resolvedUrl": "https://docs.google.com/spreadsheets/d/1D_6JPqB9Et2Xnfykisbp_w0LrhMmS6VKQg5jtHhdpjA/edit#gid=2104930354",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Google Docs"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://docs.google.com/spreadsheets/d/1D_6JPqB9Et2Xnfykisbp_w0LrhMmS6VKQg5jtHhdpjA/edit#gid=2104930354",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyNjMzODYyNF8qXzE0ODExNTU0NjA=",
+                        "node": {
+                            "url": "http://m.huffpost.com/us/entry/9460662?",
+                            "_createdAt": 1479440089,
+                            "_updatedAt": 1481156567,
+                            "id": "1226338624",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481155460,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "'When You're Accustomed to Privilege, Equality Feels Like Oppression'",
+                                "itemId": "2542834029",
+                                "resolvedId": "2542834029",
+                                "resolvedUrl": "https://www.huffpost.com/entry/when-youre-accustomed-to-privilege_b_9460662",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "huffpost.com"
+                                },
+                                "excerpt": "I've never been punched in the face. Not in an actual fight, at least. I'm not much of a fighter, I suppose... more of an \"arguer.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 413,
+                                        "imageId": 1,
+                                        "src": "https://images.huffingtonpost.com/2016-03-14-1457974210-8372429-boesk.jpg",
+                                        "width": 620
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 441,
+                                        "imageId": 2,
+                                        "src": "https://images.huffingtonpost.com/2016-03-14-1457975323-396120-boesk2.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 3,
+                                        "src": "https://images.huffingtonpost.com/2016-03-14-1457975384-2302534-boesk3.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 196,
+                                        "imageId": 4,
+                                        "src": "https://images.huffingtonpost.com/2016-03-14-1457975439-3856209-boesk4.jpg",
+                                        "width": 500
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://img.huffingtonpost.com/asset/default-entry.jpg?ops=1200_630",
+                                "timeToRead": 8,
+                                "givenUrl": "http://m.huffpost.com/us/entry/9460662?",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-03-14 12:18:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2NDUwODkzM18qXzE0ODExNTU0ODE=",
+                        "node": {
+                            "url": "https://www.project-syndicate.org/commentary/basic-income-funded-by-capital-income-by-yanis-varoufakis-2016-10",
+                            "_createdAt": 1479687684,
+                            "_updatedAt": 1481156567,
+                            "id": "1464508933",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481155481,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Universal Right to Capital Income",
+                                "itemId": "1464508933",
+                                "resolvedId": "1464508933",
+                                "resolvedUrl": "https://www.project-syndicate.org/commentary/basic-income-funded-by-capital-income-by-yanis-varoufakis-2016-10",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Project Syndicate"
+                                },
+                                "excerpt": "The idea that some work hard and pay their income taxes, while others live off this enforced kindness, doing nothing by choice, is untenable.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 160,
+                                        "imageId": 1,
+                                        "src": "https://webapi.project-syndicate.org/library/0b50af5e70eadd61a45b65e9d9c7b527.jpg",
+                                        "width": 320
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://webapi.project-syndicate.org/library/0b50af5e70eadd61a45b65e9d9c7b527.2-1-super.1.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.project-syndicate.org/commentary/basic-income-funded-by-capital-income-by-yanis-varoufakis-2016-10",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "31641167",
+                                        "name": "Yanis Varoufakis",
+                                        "url": "https://www.project-syndicate.org/columnist/yanis-varoufakis"
+                                    }
+                                ],
+                                "datePublished": "2016-10-31 06:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5MDU3NDQ0M18qXzE0ODExNTYyMzk=",
+                        "node": {
+                            "url": "https://www.jacobinmag.com/2016/11/everybody-hates-cornel-west/",
+                            "_createdAt": 1480284508,
+                            "_updatedAt": 1481156567,
+                            "id": "1490574443",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481156239,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Everybody Hates Cornel West",
+                                "itemId": "1490574443",
+                                "resolvedId": "1490574443",
+                                "resolvedUrl": "https://jacobinmag.com/2016/11/everybody-hates-cornel-west/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Jacobin"
+                                },
+                                "excerpt": "How Cornel West went from liberal media darling to pariah. The first time I met Cornel West was at Disney World. He wasn’t hard to spot.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Cornel West speaking at the Allen Temple Baptist Church in Oakland, CA in 2015. Samuel Merrit University",
+                                        "credit": "",
+                                        "height": 700,
+                                        "imageId": 1,
+                                        "src": "https://images.jacobinmag.com/2016/11/17232208/cornel-w-1.jpg",
+                                        "width": 1039
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://images.jacobinmag.com/2016/11/17232208/cornel-w-1.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "https://www.jacobinmag.com/2016/11/everybody-hates-cornel-west/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2925905",
+                                        "name": "Connor Kilpatrick",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4OTk1MjUzM18qXzE0ODEyMDQ3OTM=",
+                        "node": {
+                            "url": "https://blog.codinghorror.com/lets-encrypt-everything/",
+                            "_createdAt": 1481200985,
+                            "_updatedAt": 1481205256,
+                            "id": "1489952533",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481204793,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Let's Encrypt Everything",
+                                "itemId": "1489952533",
+                                "resolvedId": "1489952533",
+                                "resolvedUrl": "https://blog.codinghorror.com/lets-encrypt-everything/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.codinghorror.com"
+                                },
+                                "excerpt": "I'll admit I was late to the HTTPS party. But post Snowden, and particularly after the result of the last election here in the US, it's clear that everything on the web should be encrypted by default.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://blog.codinghorror.com/content/images/2016/11/lets-encrypt-security-details.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://blog.codinghorror.com/content/images/2016/11/https-share-top-500k-sites.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://blog.codinghorror.com/content/images/2016/11/chrome-insecure.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://blog.codinghorror.com/content/images/2016/11/lets-encrypt-banner.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "SmOWzKLTODA",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/SmOWzKLTODA"
+                                    }
+                                ],
+                                "topImageUrl": null,
+                                "timeToRead": 2,
+                                "givenUrl": "https://blog.codinghorror.com/lets-encrypt-everything/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "4507",
+                                        "name": "Jeff Atwood",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-11-23 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUwODAyNDIzNl8qXzE0ODEyMDUyNTQ=",
+                        "node": {
+                            "url": "https://blogs.scientificamerican.com/guest-blog/its-not-cold-fusion-but-its-something/",
+                            "_createdAt": 1481162858,
+                            "_updatedAt": 1481205256,
+                            "id": "1508024236",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481205254,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "It's Not Cold Fusion... But It's Something",
+                                "itemId": "1508024236",
+                                "resolvedId": "1508024236",
+                                "resolvedUrl": "https://blogs.scientificamerican.com/guest-blog/its-not-cold-fusion-but-its-something/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Scientific American"
+                                },
+                                "excerpt": "A surprising opportunity to explore something new in chemistry and physics has emerged. In March 1989, electrochemists Martin Fleischmann and Stanley Pons, at the University of Utah, announced that they had \"established a sustained nuclear fusion reaction\" at room temperature.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://static.scientificamerican.com/blogs/cache/file/155B592E-6B15-41A7-96063CCFDC844DD5_source.jpg?w=590&h=800&58976901-D3E8-42F1-840EA3643CA1776D",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.scientificamerican.com/blogs/cache/file/155B592E-6B15-41A7-96063CCFDC844DD5.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://blogs.scientificamerican.com/guest-blog/its-not-cold-fusion-but-its-something/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "60044895",
+                                        "name": "Steven B. Krivit",
+                                        "url": "https://www.scientificamerican.com/author/steven-b-krivit/"
+                                    }
+                                ],
+                                "datePublished": "2016-12-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUwODc3ODY4MV8qXzE0ODEzODc4ODc=",
+                        "node": {
+                            "url": "http://quillette.com/2016/12/07/the-hijab-and-the-regressive-lefts-absurd-campaign-to-betray-freethinking-women/",
+                            "_createdAt": 1481232361,
+                            "_updatedAt": 1481387888,
+                            "id": "1508778681",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481387887,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Hijab and the Regressive Left’s Absurd Campaign to Betray Freethinking Women",
+                                "itemId": "1508778681",
+                                "resolvedId": "1508778681",
+                                "resolvedUrl": "https://quillette.com/2016/12/07/the-hijab-and-the-regressive-lefts-absurd-campaign-to-betray-freethinking-women/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quillette"
+                                },
+                                "excerpt": "The first woman in a hijab to anchor a television news broadcast!  To dance as a ballerina!  To fence in the Olympics!  To — cue for gasps at the sheer progressive splendor of the moment — pose in Playboy!  ",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 672,
+                                        "imageId": 1,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2015/12/09045835/Screen-Shot-2015-12-11-at-5.57.36-pm.png",
+                                        "width": 1019
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i1.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2015/12/09045835/Screen-Shot-2015-12-11-at-5.57.36-pm.png?fit=1019%2C672&ssl=1",
+                                "timeToRead": 11,
+                                "givenUrl": "http://quillette.com/2016/12/07/the-hijab-and-the-regressive-lefts-absurd-campaign-to-betray-freethinking-women/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "92049336",
+                                        "name": "Jeffrey Tayler",
+                                        "url": "https://quillette.com/author/jeffrey-tayler/"
+                                    }
+                                ],
+                                "datePublished": "2016-12-07 15:28:48",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5ODUxNzUwNV8qXzE0ODE1OTI1MTA=",
+                        "node": {
+                            "url": "http://www.rollingstone.com/politics/features/bernie-sanders-where-we-go-from-here-w452786",
+                            "_createdAt": 1481034585,
+                            "_updatedAt": 1481593359,
+                            "id": "1498517505",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1481592510,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Bernie Sanders: Where We Go From Here",
+                                "itemId": "2394882834",
+                                "resolvedId": "2394882834",
+                                "resolvedUrl": "https://www.rollingstone.com/politics/politics-features/bernie-sanders-where-we-go-from-here-192706/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Rolling Stone"
+                                },
+                                "excerpt": "It feels like a bomb went off in Washington. In less than a year, the leaders of both major parties have been crushed, fundamentally reshaping a political culture that for generations had seemed unalterable.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 478,
+                                        "imageId": 1,
+                                        "src": "https://www.rollingstone.com/wp-content/uploads/2018/06/r1276_fea_bernie__c-f2b078fb-377c-426e-a4ab-aafa35980240.jpg",
+                                        "width": 750
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 710,
+                                        "imageId": 2,
+                                        "src": "https://www.rollingstone.com/wp-content/uploads/2018/06/r1276_fea_bernie__b-90730bd3-eb18-4198-9868-c92b609499be.jpg",
+                                        "width": 1024
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 683,
+                                        "imageId": 3,
+                                        "src": "https://www.rollingstone.com/wp-content/uploads/2018/06/h_14887639-addde1b6-9f90-471a-ab75-1a8da60437fe.jpg",
+                                        "width": 1024
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.rollingstone.com/wp-content/uploads/2018/06/bernie-sanders-interview-rolling-stone-c4952105-4214-409e-bf15-e7b84b970d84.jpg",
+                                "timeToRead": 18,
+                                "givenUrl": "http://www.rollingstone.com/politics/features/bernie-sanders-where-we-go-from-here-w452786",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "13903",
+                                        "name": "Matt Taibbi",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-11-30 13:52:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUyNjIyMDA3M18qXzE0ODMzNzU3ODk=",
+                        "node": {
+                            "url": "https://aeon.co/essays/enter-the-sapiezoic-a-new-aeon-of-self-aware-global-change",
+                            "_createdAt": 1483197136,
+                            "_updatedAt": 1483375791,
+                            "id": "1526220073",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1483375789,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Enter the Sapiezoic : a new aeon of self-aware global change",
+                                "itemId": "1526220073",
+                                "resolvedId": "1526220073",
+                                "resolvedUrl": "https://aeon.co/essays/enter-the-sapiezoic-a-new-aeon-of-self-aware-global-change",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "As a planetary astrobiologist, I am focused on the major transitions in planetary evolution and the evolving relationship between planets and life.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://alpha.aeon.co/images/be69dd2e-86ca-47a5-8fc3-13d7903acde4/header_essay-nationalgeographic_1360773.jpg",
+                                "timeToRead": 15,
+                                "givenUrl": "https://aeon.co/essays/enter-the-sapiezoic-a-new-aeon-of-self-aware-global-change",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "133712",
+                                        "name": "David Grinspoon",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-12-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU0NzgzOTk2NV8qXzE0ODQxODI4NDg=",
+                        "node": {
+                            "url": "https://blog.ycombinator.com/notes-for-the-new-year/",
+                            "_createdAt": 1483639417,
+                            "_updatedAt": 1484182849,
+                            "id": "1547839965",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1484182848,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Notes for the New Year",
+                                "itemId": "3556736973",
+                                "resolvedId": "3556736973",
+                                "resolvedUrl": "https://www.ycombinator.com/blog/notes-for-the-new-year",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ycombinator.com"
+                                },
+                                "excerpt": "Happy 2017! As a kid, I just sort of took for granted that stuff got better every year—TVs got bigger and then thinner, cars got a little faster, and computers got unbelievably better on an exponential curve.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 7,
+                                "givenUrl": "https://blog.ycombinator.com/notes-for-the-new-year/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "163358123",
+                                        "name": "Sam Altman",
+                                        "url": "https://www.ycombinator.com/blog/author/sam-altman"
+                                    }
+                                ],
+                                "datePublished": "2017-01-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUxNzY5MzkzOV8qXzE0ODQ0MDA1OTU=",
+                        "node": {
+                            "url": "http://mobile.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?referer=",
+                            "_createdAt": 1482086393,
+                            "_updatedAt": 1484400596,
+                            "id": "1517693939",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1484400595,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3375176562",
+                                "resolvedId": "3375176562",
+                                "resolvedUrl": "https://scroll.com/nuzzel?u=http%3A%2F%2Fnuzzel.com%2Fdigeststory%2F12142016%2Fnytimes%2Fthe_great_ai_awakening%3Fe%3D590938%26c%3DvxC4n6EtYUiBXEUaq0Of2f4WWxFDzWyrhhhYWADoQl%26utm_campaign%3Ddigest%26utm_medium%3Demail%26utm_source%3Dapp",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "scroll.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://mobile.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?referer=",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUzNjA1MzMwM18qXzE0ODQ2NjEwMDg=",
+                        "node": {
+                            "url": "http://techcrunch.com/2016/12/27/how-blockchain-can-create-the-worlds-biggest-supercomputer/",
+                            "_createdAt": 1484400793,
+                            "_updatedAt": 1484664393,
+                            "id": "1536053303",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1484661008,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How blockchain can create the world’s biggest supercomputer",
+                                "itemId": "1536053303",
+                                "resolvedId": "1536053303",
+                                "resolvedUrl": "https://techcrunch.com/2016/12/27/how-blockchain-can-create-the-worlds-biggest-supercomputer/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "TechCrunch"
+                                },
+                                "excerpt": "As our desktop computers, laptops, mobile devices, etc. stand idly by for a huge portion of the day, the need for computing resources is growing at a fast pace.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Courtesy of Getty Images.",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 1,
+                                        "src": "https://beta.techcrunch.com/wp-content/uploads/2016/10/gettyimages-595163150.png?w=680",
+                                        "width": 680
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 382,
+                                        "imageId": 2,
+                                        "src": "https://beta.techcrunch.com/wp-content/uploads/2016/12/electron-blockchain.jpg?w=680",
+                                        "width": 680
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 3,
+                                        "src": "https://beta.techcrunch.com/wp-content/uploads/2016/05/google-blockchain.png?w=680",
+                                        "width": 680
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://techcrunch.com/wp-content/uploads/2016/12/916142_ddc2fd0140_o.gif?w=533",
+                                "timeToRead": 6,
+                                "givenUrl": "http://techcrunch.com/2016/12/27/how-blockchain-can-create-the-worlds-biggest-supercomputer/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "144870268",
+                                        "name": "Ben Dickson",
+                                        "url": "https://techcrunch.com/author/"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU0OTk3NzIxNF8qXzE0ODQ2NjExNjc=",
+                        "node": {
+                            "url": "https://www.quantamagazine.org/20170105-graph-isomorphism-retraction/",
+                            "_createdAt": 1483719785,
+                            "_updatedAt": 1484661331,
+                            "id": "1549977214",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1484661167,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Complexity Theory Problem Strikes Back",
+                                "itemId": "1789016425",
+                                "resolvedId": "1789016425",
+                                "resolvedUrl": "https://www.quantamagazine.org/graph-isomorphism-strikes-back-20170105/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quanta Magazine"
+                                },
+                                "excerpt": "The theoretical computer scientist László Babai has retracted a claim that amazed the computer science community when he made it just over a year ago.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2017/01/Punch_615x344_01.png",
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.quantamagazine.org/20170105-graph-isomorphism-retraction/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "27286033",
+                                        "name": "Erica Klarreich",
+                                        "url": "https://www.quantamagazine.org/authors/erica-klarreich/"
+                                    }
+                                ],
+                                "datePublished": "2017-01-05 20:43:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "ODU2ODg5NDgzXypfMTQ4NDY2MTU5MQ==",
+                        "node": {
+                            "url": "http://firstround.com/review/My-Management-Lessons-from-Three-Failed-Startups-Google-Apple-Dropbox-Twitter-and-Square/",
+                            "_createdAt": 1483197132,
+                            "_updatedAt": 1484661592,
+                            "id": "856889483",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1484661591,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "My Management Lessons from Three Failed Startups, Google, Apple, Dropbox, and Twitter",
+                                "itemId": "3261683123",
+                                "resolvedId": "3261683123",
+                                "resolvedUrl": "https://review.firstround.com/My-Management-Lessons-from-Three-Failed-Startups-Google-Apple-Dropbox-Twitter-and-Square",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "review.firstround.com"
+                                },
+                                "excerpt": "Kim Scott had one thing to do that day. She was going to price her product. It was the year 2000, she was the founder and CEO of Juice Software, and she had blocked off her whole morning to make this decision.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://assets.proof.pub/2056/firstround%2F3rIqCCkTS7C52dRRIOxy_FRC_CEOSmmt14_0129.jpg",
+                                "timeToRead": 12,
+                                "givenUrl": "http://firstround.com/review/My-Management-Lessons-from-Three-Failed-Startups-Google-Apple-Dropbox-Twitter-and-Square/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU1OTg0OTE0Ml8qXzE0ODQ4NzIyNTg=",
+                        "node": {
+                            "url": "https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic",
+                            "_createdAt": 1484664375,
+                            "_updatedAt": 1484872259,
+                            "id": "1559849142",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1484872258,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is logical thinking a way to discover or to debate? The answers from philosophy and mathematics define human knowledge",
+                                "itemId": "1559849142",
+                                "resolvedId": "1559849142",
+                                "resolvedUrl": "https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "The history of logic should be of interest to anyone with aspirations to thinking that is correct, or at least reasonable. This story illustrates different approaches to intellectual enquiry and human cognition more generally.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://epsilon.aeon.co/images/42eeaef8-65f7-47d6-a3e8-f0ece17cd098/header_homepage-dialectics-final-ben-85046.jpg",
+                                "timeToRead": 15,
+                                "givenUrl": "https://aeon.co/essays/the-rise-and-fall-and-rise-of-logic",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "24916671",
+                                        "name": "Catarina Dutilh Novaes",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-01-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "ODUxNjQzMDE2XypfMTQ4NTA1NjA0Nw==",
+                        "node": {
+                            "url": "http://www.theverge.com/2015/2/23/8069825/everything-i-know-about-a-good-death-i-learned-from-my-cat",
+                            "_createdAt": 1484872290,
+                            "_updatedAt": 1485056049,
+                            "id": "851643016",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1485056047,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Everything I know about a good death I learned from my cat",
+                                "itemId": "851643016",
+                                "resolvedId": "851643016",
+                                "resolvedUrl": "https://www.theverge.com/2015/2/23/8069825/everything-i-know-about-a-good-death-i-learned-from-my-cat",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Verge"
+                                },
+                                "excerpt": "My cat has been dying for the last two years. It is normal to me now — it is simply the state of affairs. There's a rhythm to her medication: prednisone and urosodiol in the morning, urosodiol again in the evening, chemo every other day, a vitamin B shot once a week.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/uTwgw4pD_n1PTyxuVAzkdo9PzL8=/0x72:3640x2499/1280x854/cdn.vox-cdn.com/uploads/chorus_image/image/45727436/dottie_portrait.0.0.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/3425622/DSC_0560.0.JPG",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "Kristin Delevich",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/3425384/A6n6pI7CAAA0iLu.0.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.vox-cdn.com/thumbor/tIfCt22lKQamtwyFNTM6sfEFn4M=/0x81:3640x2129/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/45727436/dottie_portrait.0.0.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "http://www.theverge.com/2015/2/23/8069825/everything-i-know-about-a-good-death-i-learned-from-my-cat",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "97595726",
+                                        "name": "Elizabeth Lopatto",
+                                        "url": "https://www.theverge.com/authors/elizabeth-lopatto"
+                                    }
+                                ],
+                                "datePublished": "2015-02-23 13:39:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5NTg5Mzc0Ml8qXzE0ODUwNTYyMzM=",
+                        "node": {
+                            "url": "http://www.economist.com/news/science-and-technology/21710790-impossible-rocket-engine-subject-peer-reviewed-paper-has-british?fsrc=scn/tw/te/bl/ed/hasabritishengineerbrokenthelawsofphysics",
+                            "_createdAt": 1484834132,
+                            "_updatedAt": 1485056235,
+                            "id": "1495893742",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1485056233,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Has a British engineer broken the laws of physics?",
+                                "itemId": "2191676413",
+                                "resolvedId": "2191676413",
+                                "resolvedUrl": "https://www.economist.com/science-and-technology/2016/11/24/has-a-british-engineer-broken-the-laws-of-physics",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Economist"
+                                },
+                                "excerpt": "ROCKETS are spectacular examples of Isaac Newton’s third law of motion: that to every action there is an equal and opposite reaction. Throwing hot gas out of its engines at high speed (the action) thrusts a rocket off its launch pad and into space (the reaction).",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 335,
+                                        "imageId": 1,
+                                        "src": "https://www.economist.com/img/b/595/335/90/sites/default/files/images/print-edition/20161126_STP002_0.jpg",
+                                        "width": 595
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.economist.com/img/b/595/335/90/sites/default/files/images/print-edition/20161126_STP002_0.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "http://www.economist.com/news/science-and-technology/21710790-impossible-rocket-engine-subject-peer-reviewed-paper-has-british?fsrc=scn/tw/te/bl/ed/hasabritishengineerbrokenthelawsofphysics",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-11-24 09:49:11",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU3Mjg4MTg1Nl8qXzE0ODUyNjk5MjE=",
+                        "node": {
+                            "url": "https://medium.com/@maximebeauchemin/the-rise-of-the-data-engineer-91be18f1e603#.pbh52kwti",
+                            "_createdAt": 1485182097,
+                            "_updatedAt": 1485270176,
+                            "id": "1572881856",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1485269921,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Rise of the Data Engineer",
+                                "itemId": "2617102115",
+                                "resolvedId": "2617102115",
+                                "resolvedUrl": "https://medium.com/free-code-camp/the-rise-of-the-data-engineer-91be18f1e603",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "I joined Facebook in 2011 as a business intelligence engineer. By the time I left in 2013, I was a data engineer. I wasn’t promoted or assigned to this new role. Instead, Facebook came to realize that the work we were doing transcended classic business intelligence.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1280,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/3840/1*j0fTLcAR6HhXmWkcii469Q.jpeg",
+                                        "width": 1920
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*j0fTLcAR6HhXmWkcii469Q.jpeg",
+                                "timeToRead": 13,
+                                "givenUrl": "https://medium.com/@maximebeauchemin/the-rise-of-the-data-engineer-91be18f1e603#.pbh52kwti",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "147804768",
+                                        "name": "Maxime Beauchemin",
+                                        "url": "https://maximebeauchemin.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2017-01-30 17:30:22",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTQ1MTk3MjM5NV8qXzE0Nzg2NTkwMzU=",
+                    "endCursor": "MTU3Mjg4MTg1Nl8qXzE0ODUyNjk5MjE="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

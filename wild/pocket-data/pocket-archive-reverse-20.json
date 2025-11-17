@@ -1,0 +1,2478 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTIxMzE4MDk4OF8qXzE1NTk5MDcwMTE=",
+                        "node": {
+                            "url": "https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/",
+                            "_createdAt": 1504910079,
+                            "_updatedAt": 1559907011,
+                            "id": "1213180988",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907011,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Spotify’s Event Delivery – The Road to the Cloud (Part II)",
+                                "itemId": "1221955283",
+                                "resolvedId": "1213180988",
+                                "resolvedUrl": "https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "goo.gl"
+                                },
+                                "excerpt": "Whenever a user performs an action in the Spotify client—such as listening to a song or searching for an artist—a small piece of information, an event, is sent to our servers.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 395,
+                                        "imageId": 1,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/new-system-design.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 351,
+                                        "imageId": 2,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/gabo-kafka-system-design.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 239,
+                                        "imageId": 3,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/gabo-pref-2xx.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 238,
+                                        "imageId": 4,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/gabo-pref-5xx.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 243,
+                                        "imageId": 5,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/net_trafiic.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 202,
+                                        "imageId": 6,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/pubsub-published.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 202,
+                                        "imageId": 7,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/pubsub-published-per-topic.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 8,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/long-term-load-test.png",
+                                        "width": 730
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 409,
+                                        "imageId": 9,
+                                        "src": "https://spotifylabscom.files.wordpress.com/2016/03/gabo-system-design-2x.png",
+                                        "width": 730
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://spotifylabscom.files.wordpress.com/2016/03/gabo-system-design-2x.png",
+                                "timeToRead": 11,
+                                "givenUrl": "https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67570573",
+                                        "name": "Igor Maravić",
+                                        "url": "https://labs.spotify.com/author/imaravic/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-03 06:58:23",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyMDQ0Nzk5NV8qXzE1NTk5MDcwMTM=",
+                        "node": {
+                            "url": "https://labs.spotify.com/2016/03/10/spotifys-event-delivery-the-road-to-the-cloud-part-iii/",
+                            "_createdAt": 1504910081,
+                            "_updatedAt": 1559907013,
+                            "id": "1220447995",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907013,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Spotify’s Event Delivery – The Road to the Cloud (Part III)",
+                                "itemId": "3580514303",
+                                "resolvedId": "3580514303",
+                                "resolvedUrl": "https://engineering.atspotify.com/2016/03/spotifys-event-delivery-the-road-to-the-cloud-part-iii/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "engineering.atspotify.com"
+                                },
+                                "excerpt": "Whenever a user performs an action in the Spotify client—such as listening to a song or searching for an artist—a small piece of information, an event, is sent to our servers.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://engineering.atspotify.com/wp-content/themes/theme-spotify/images/icon.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/Event-Delivery.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/gabo-system-design-2x.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/screen-shot-2016-01-01-at-21-00-14.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/screen-shot-2016-01-01-at-21-00-45.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/screen-shot-2015-12-26-at-14-25-48.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/screen-shot-2016-01-01-at-21-01-24.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/screen-shot-2015-12-26-at-14-26-03.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://storage.googleapis.com/production-eng/1/2016/03/screen-shot-2015-12-26-at-14-27-01.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://storage.googleapis.com/production-eng/1/2016/03/Event-Delivery.png",
+                                "timeToRead": 10,
+                                "givenUrl": "https://labs.spotify.com/2016/03/10/spotifys-event-delivery-the-road-to-the-cloud-part-iii/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "104063988",
+                                        "name": "Igor Maravić",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-03-10 03:55:25",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTkxMDc5OTU1OV8qXzE1NTk5MDcwMTY=",
+                        "node": {
+                            "url": "http://lithub.com/art-meat-and-the-lives-and-deaths-of-animals/",
+                            "_createdAt": 1507039695,
+                            "_updatedAt": 1559907016,
+                            "id": "1910799559",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907016,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Art, Meat, and the Lives and Deaths of Animals",
+                                "itemId": "1910799559",
+                                "resolvedId": "1910799559",
+                                "resolvedUrl": "https://lithub.com/art-meat-and-the-lives-and-deaths-of-animals/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Literary Hub"
+                                },
+                                "excerpt": "In Precarious Life: The Powers of Mourning and Violence (2004), Judith Butler writes that when one mourns they submit to the transformations that come about as an effect of loss. To mourn is to submit to the transformation of loss. Such a task requires one to admit that a loss has taken place.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://s26162.pcdn.co/wp-content/uploads/2017/09/Raw.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 2,
+                                        "src": "https://s26162.pcdn.co/wp-content/uploads/2017/09/OJ_tlb35contents_1-copy-231x300.png",
+                                        "width": 231
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://s26162.pcdn.co/wp-content/uploads/2017/09/Raw.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "http://lithub.com/art-meat-and-the-lives-and-deaths-of-animals/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "154859619",
+                                        "name": "Hayley Singer",
+                                        "url": "https://lithub.com/author/hayley-singer/"
+                                    }
+                                ],
+                                "datePublished": "2017-10-02 04:49:34",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTkxOTI1Njc3Ml8qXzE1NTk5MDcwMTg=",
+                        "node": {
+                            "url": "http://quillette.com/2017/10/09/universal-basic-income-threat-tyranny/",
+                            "_createdAt": 1507655726,
+                            "_updatedAt": 1559907018,
+                            "id": "1919256772",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907018,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Universal Basic Income and the Threat of Tyranny",
+                                "itemId": "1919256772",
+                                "resolvedId": "1919256772",
+                                "resolvedUrl": "https://quillette.com/2017/10/09/universal-basic-income-threat-tyranny/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quillette"
+                                },
+                                "excerpt": "Much praise has been heaped on the idea of a universal basic income in recent years.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 665,
+                                        "imageId": 1,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2017/09/21001637/The_Wealth_of_the_Nation_Seymour_Fogel.jpg",
+                                        "width": 1024
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2017/09/21001637/The_Wealth_of_the_Nation_Seymour_Fogel.jpg?fit=1024%2C665&ssl=1",
+                                "timeToRead": 7,
+                                "givenUrl": "http://quillette.com/2017/10/09/universal-basic-income-threat-tyranny/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "92516247",
+                                        "name": "Shai Shapira",
+                                        "url": "https://quillette.com/author/shai-shapira/"
+                                    }
+                                ],
+                                "datePublished": "2017-10-09 18:03:33",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTgzNjM1NTAzMF8qXzE1NTk5MDcwMjA=",
+                        "node": {
+                            "url": "https://news.21.co/quantifying-decentralization-e39db233c28e",
+                            "_createdAt": 1507950782,
+                            "_updatedAt": 1559907020,
+                            "id": "1836355030",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907020,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Quantifying Decentralization",
+                                "itemId": "1941247490",
+                                "resolvedId": "1941247490",
+                                "resolvedUrl": "https://news.earn.com/quantifying-decentralization-e39db233c28e",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "news.earn.com"
+                                },
+                                "excerpt": "By Balaji S. Srinivasan and Leland Lee The primary advantage of Bitcoin and Ethereum over their legacy alternatives is widely understood to be decentralization. However, despite the widely acknowledged importance of this property, most discussion on the topic lacks quantification.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "The Lorenz curve is shown in red above. As the cumulative distribution diverges from a straight line, the Gini coefficient",
+                                        "credit": "G",
+                                        "height": 181,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1190/1*r_dzSK3Hrqnhl3I49uD7jA.png",
+                                        "width": 595
+                                    },
+                                    {
+                                        "caption": "The Lorenz Curve and the Gini Coefficient.",
+                                        "credit": "",
+                                        "height": 525,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1400/1*jOsIMe9ZTJLJFvfxJqddlQ.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Source: https://coinmarketcap.com/",
+                                        "credit": "",
+                                        "height": 700,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1400/1*_9O45dWuGjBrphgdKod7Hw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "We will use these six subsystems to illustrate how to measure the decentralization of Bitcoin or Ethereum. Please note: you may decide to use different subsystems based on which ones you consider essential to decentralization of the system as a whole.",
+                                        "credit": "",
+                                        "height": 353,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1400/1*YZxNhRIGBbGTuP3LXHku1Q.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/1400/1*IPHuoPubvmGn2uZNIPPdAg.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1400/1*yjl2uatx2Htc_-iahS_V-g.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1400/1*9VYcusxlF1hbgBHUiNrNZQ.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 700,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/1400/1*bimlkHOYwAu1Sddykp3t1A.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "The Nakamoto coefficient represents the minimum number of entities to compromise a given subsystem. The minimum Nakamoto coefficient is the minimum of the Nakamoto coefficients over all subsystems.",
+                                        "credit": "",
+                                        "height": 432,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1400/1*Xne0Aw1DbpFKBDEXVikwqw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 700,
+                                        "imageId": 10,
+                                        "src": "https://miro.medium.com/max/1400/1*AZsowj93qE_D2MFsMg1aFQ.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 11,
+                                        "src": "https://miro.medium.com/max/1400/1*90lbLF4sYCo7LaZWYsRZ0Q.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 12,
+                                        "src": "https://miro.medium.com/max/1400/1*hAgDa2Otv4n54wE4MgbbAA.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 13,
+                                        "src": "https://miro.medium.com/max/1400/1*p6Gc3jjV4V53HuZEBocRNA.png",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*bimlkHOYwAu1Sddykp3t1A.png",
+                                "timeToRead": 12,
+                                "givenUrl": "https://news.21.co/quantifying-decentralization-e39db233c28e",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "33865312",
+                                        "name": "Balaji S. Srinivasan",
+                                        "url": "https://medium.com/@balajis"
+                                    }
+                                ],
+                                "datePublished": "2017-10-31 11:19:53",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTkzMDQyNzg3OF8qXzE1NTk5MDcwMjI=",
+                        "node": {
+                            "url": "https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891",
+                            "_createdAt": 1508436686,
+                            "_updatedAt": 1559907022,
+                            "id": "1930427878",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907022,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Build Your Own Blockchain",
+                                "itemId": "1930427878",
+                                "resolvedId": "1930427878",
+                                "resolvedUrl": "https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "medium.facilelogin.com"
+                                },
+                                "excerpt": "Ethereum is a decentralized platform that runs smart contracts, applications that run exactly as programmed without possibility of downtime, censorship, fraud or third party interference.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 604,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/2048/1*Qgb9er44feSPOqMwhOqWHA.png",
+                                        "width": 1024
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/fit/c/96/96/2*xj6jpDHqK74l4QjKnnRf9A.png",
+                                        "width": 48
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 668,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/2504/1*__sLQLwo3lOcN4XoIvFGiQ.png",
+                                        "width": 1252
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 574,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1412/1*KPueGkxcKSCv50-yZrYDpg.png",
+                                        "width": 706
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 466,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/2096/1*mi1yCMX5tgn6AwpSe0HBTw.png",
+                                        "width": 1048
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 306,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/2092/1*PekzNvGajWsif2Mh1mVvbA.png",
+                                        "width": 1046
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 716,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/2108/1*wyOevTwdCP8A--qOP5XSsw.png",
+                                        "width": 1054
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 330,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/2016/1*Kv9ay6TZLj225mxBykA3Hg.png",
+                                        "width": 1008
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 326,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1964/1*Blqc5ZNjXxkELeTenPBoJw.png",
+                                        "width": 982
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1442,
+                                        "imageId": 10,
+                                        "src": "https://miro.medium.com/max/5332/1*9F8kAIY2zGHc7FU9uDhmBQ.png",
+                                        "width": 2666
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1024/1*Qgb9er44feSPOqMwhOqWHA.png",
+                                "timeToRead": 12,
+                                "givenUrl": "https://medium.facilelogin.com/build-your-own-blockchain-b8eaeea2f891",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "142346857",
+                                        "name": "Prabath Siriwardena",
+                                        "url": "https://prabath.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2017-10-19 17:50:40",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk0NjEzNDY5OV8qXzE1NTk5MDcwMjQ=",
+                        "node": {
+                            "url": "https://www.neustadt.fr/essays/against-a-user-hostile-web/",
+                            "_createdAt": 1509645418,
+                            "_updatedAt": 1559907024,
+                            "id": "1946134699",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907024,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Against an Increasingly User-Hostile Web",
+                                "itemId": "1946134699",
+                                "resolvedId": "1946134699",
+                                "resolvedUrl": "https://neustadt.fr/essays/against-a-user-hostile-web/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "neustadt.fr"
+                                },
+                                "excerpt": "We're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people. We need to stop it. - Parimal Satyal, 2 november 2017. See also: my Paris Web 2020 talk based on this article and the Hacker News discussion threads from 2017 and from 2020.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/Netscape-4-04-1997.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/Gopher-Usenet-Archives-1981.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/world-wide-web-1992.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Screenshot of Mr. Alexander Nix presenting the work of Cambridge Analytica, video The Power of Big Data and Psychographics on Youtube",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/Cambridge-Analytica-youtube-2017.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/LeMonde-sonde-jupiter-article-2016.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/naked-maja-francisco-goya.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/incredible-journey-2017.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://neustadt.fr/essays/against-a-user-hostile-web/DoomLevelDesign-Geocities-1999.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 22,
+                                "givenUrl": "https://www.neustadt.fr/essays/against-a-user-hostile-web/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "34799795",
+                                        "name": "Parimal Satyal",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-10-31 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk1MDUxMDI4Ml8qXzE1NTk5MDcwNjY=",
+                        "node": {
+                            "url": "https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2",
+                            "_createdAt": 1510007767,
+                            "_updatedAt": 1559907066,
+                            "id": "1950510282",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907066,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Something is wrong on the internet",
+                                "itemId": "1950510282",
+                                "resolvedId": "1950510282",
+                                "resolvedUrl": "https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "I’m James Bridle. I’m a writer and artist concerned with technology and culture. I usually write on my own blog, but frankly I don’t want what I’m talking about here anywhere near my own site.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 44,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/v2/resize:fill:88:88/0*qaaA3IA1BsQbY7Jx.jpg",
+                                        "width": 44
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*QGOZOIJAApFyJO0_sxTE3w.png",
+                                "timeToRead": 23,
+                                "givenUrl": "https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "78498635",
+                                        "name": "James Bridle",
+                                        "url": "https://medium.com/@jamesbridle"
+                                    }
+                                ],
+                                "datePublished": "2018-06-21 06:58:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk0NzU4NTA2M18qXzE1NTk5MDcwNzA=",
+                        "node": {
+                            "url": "https://niskanencenter.org/blog/libertarian-democracy-skepticism-infected-american-right/",
+                            "_createdAt": 1510108047,
+                            "_updatedAt": 1559907070,
+                            "id": "1947585063",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907070,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Libertarian Democracy Skepticism Infected the American Right",
+                                "itemId": "2732232899",
+                                "resolvedId": "2732232899",
+                                "resolvedUrl": "https://www.niskanencenter.org/libertarian-democracy-skepticism-infected-american-right/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "niskanencenter.org"
+                                },
+                                "excerpt": "In her book Democracy in Chains: The Deep History of the Radical Right’s Stealth Plan for America, which has been shortlisted for the National Book Award, the Duke University historian Nancy MacLean advances the surprising thesis that the hidden figure behind the contemporary libertarian-leaning p",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.niskanencenter.org/wp-content/uploads/2017/11/Rand_Paul_18800541875-1200x630.jpg",
+                                "timeToRead": 18,
+                                "givenUrl": "https://niskanencenter.org/blog/libertarian-democracy-skepticism-infected-american-right/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "172060186",
+                                        "name": "Will Wilkinson",
+                                        "url": "https://www.niskanencenter.org/author/will-wilkinson/"
+                                    }
+                                ],
+                                "datePublished": "2017-11-03 11:29:12",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk1NzE2ODc0Ml8qXzE1NTk5MDcwNzM=",
+                        "node": {
+                            "url": "https://www.wired.com/story/free-money-the-surprising-effects-of-a-basic-income-supplied-by-government",
+                            "_createdAt": 1510802647,
+                            "_updatedAt": 1559907073,
+                            "id": "1957168742",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907073,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Free Money: The Surprising Effects of a Basic Income Supplied by Government",
+                                "itemId": "1957168742",
+                                "resolvedId": "1957168742",
+                                "resolvedUrl": "https://www.wired.com/story/free-money-the-surprising-effects-of-a-basic-income-supplied-by-government/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "Skooter McCoy was 20 years old when his wife, Michelle, gave birth to their first child, a son named Spencer. It was 1996, and McCoy was living in the tiny town of Cherokee, North Carolina, attending Western Carolina University on a football scholarship.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/5a05fc272a76145d1c96ebed/master/w_2560%2Cc_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-7.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.wired.com/photos/5a05fbb309ca3179e60bac8f/master/w_1600%2Cc_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-4.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.wired.com/photos/5a05fbd7f9c42b56d1c10332/master/w_1600%2Cc_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-5.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.wired.com/photos/5a05fb7d30cbf8189532daf7/master/w_1600%2Cc_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-3.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.wired.com/photos/5a05fc9bf59f3d469ce403f5/master/w_1600%2Cc_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-10.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.wired.com/photos/5a05faa98cbbd153ec490430/master/w_1600%2Cc_limit/YaelMalka_2017_11_09_WIRED_CherokeeYaelMalka_2017_11_09_WIRED_Cherokee_DSC8820-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.wired.com/photos/5a05fb560a70d83a75d697c1/master/w_1600%2Cc_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-2.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.wired.com/photos/5a05fc784e6d1743dde85906/master/w_1600%2Cc_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-9.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/5a05fc272a76145d1c96ebed/191:100/w_1280,c_limit/YaelMalka_WIRED_Cherokee_BasicIncome2017-7.jpg",
+                                "timeToRead": 19,
+                                "givenUrl": "https://www.wired.com/story/free-money-the-surprising-effects-of-a-basic-income-supplied-by-government",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "69510820",
+                                        "name": "Issie Lapowsky",
+                                        "url": "https://www.wired.com/author/issie-lapowsky"
+                                    }
+                                ],
+                                "datePublished": "2017-11-12 07:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTg5ODU3MDgwNl8qXzE1NTk5MDcwNzU=",
+                        "node": {
+                            "url": "http://nautil.us/issue/52/the-hive/modern-media-is-a-dos-attack-on-your-free-will",
+                            "_createdAt": 1511209227,
+                            "_updatedAt": 1559907075,
+                            "id": "1898570806",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907075,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Modern Media Is a DoS Attack on Your Free Will",
+                                "itemId": "3543891286",
+                                "resolvedId": "3543891286",
+                                "resolvedUrl": "https://nautil.us/modern-media-is-a-dos-attack-on-your-free-will-6607/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "It’s not that James Williams, a doctoral candidate at the Oxford Internet Institute’s Digital Ethics Lab (motto: “Every Bit as Good”), had a “God, what I have I done?” moment during his time at Google. But it did occur to him that something had gone awry.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 489,
+                                        "imageId": 1,
+                                        "src": "https://assets.nautil.us/13224_bdd1b613ee6fcac7694cf648430358ce.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 421,
+                                        "imageId": 2,
+                                        "src": "https://assets.nautil.us/13237_3f258712c3ba708ba78a60afde94352a.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://nautil.us/wp-content/themes/nautilus/images/icons/logo-icon.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://assets.nautil.us/13230_089234f71dea0ae931a029e8a3a45502.png",
+                                "timeToRead": 12,
+                                "givenUrl": "http://nautil.us/issue/52/the-hive/modern-media-is-a-dos-attack-on-your-free-will",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "326400",
+                                        "name": "Brian Gallagher",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-09-20 05:51:44",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTgwMjczMDExNF8qXzE1NTk5MDcwNzc=",
+                        "node": {
+                            "url": "https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603",
+                            "_createdAt": 1513006927,
+                            "_updatedAt": 1559907077,
+                            "id": "1802730114",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907077,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Rise of the Data Engineer",
+                                "itemId": "2607847373",
+                                "resolvedId": "2607847373",
+                                "resolvedUrl": "https://www.freecodecamp.org/news/the-rise-of-the-data-engineer-91be18f1e603/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "freecodecamp.org"
+                                },
+                                "excerpt": "Learn to code for free. freeCodeCamp's open source curriculum has helped more than 40,000 people get jobs as developers. Get started",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 533,
+                                        "imageId": 1,
+                                        "src": "https://cdn-media-1.freecodecamp.org/images/GKmKRHjcqTJ0ozn2qe1PCt3c-NIcVfPuxtme",
+                                        "width": 800
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn-media-1.freecodecamp.org/images/1*j0fTLcAR6HhXmWkcii469Q.jpeg",
+                                "timeToRead": 2,
+                                "givenUrl": "https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "21634351",
+                                        "name": "Maxime Beauchemin",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-01-20 17:44:03",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTkwNDQxNDA0M18qXzE1NTk5MDcwODM=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/",
+                            "_createdAt": 1513719994,
+                            "_updatedAt": 1559907083,
+                            "id": "1904414043",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907083,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Coming Software Apocalypse",
+                                "itemId": "1904414043",
+                                "resolvedId": "1904414043",
+                                "resolvedUrl": "https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "There were six hours during the night of April 10, 2014, when the entire population of Washington State had no 911 service. People who called for help got a busy signal. One Seattle woman dialed 911 at least 37 times while a stranger was trying to break into her house.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Lynn Scurfield",
+                                        "credit": "",
+                                        "height": 810,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/iTzwN-qrMZdubIcExn-2pLs7t80=/108x230:1897x1236/1440x810/media/img/2017/09/21/TheAtlantic_CodeFinal3/original.png",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 90,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/WFckt7nAeh28KU4uiwUqWDYAvNk=/333x0:1666x1333/90x90/media/img/mt/2017/09/ComputerLyfe/original.jpg",
+                                        "width": 90
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 90,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/tvaQ-P7tsgeLGAN5CwI1BrFZM2w=/413x0:2418x2005/90x90/media/img/mt/2015/09/code/original.jpg",
+                                        "width": 90
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 90,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/thumbor/8Aw3boZqgy0x3A-t5ky1R-fuxF8=/570x0:1695x1125/90x90/media/img/2020/12/CC_Thompson_Suzman/original.png",
+                                        "width": 90
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-crossword-promo-71e9c22fbca07267d82afb8cca81ec00.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 7,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 9,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 11,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/ud_p3Hp5As5Wjz7gZ9GAcZXdObo=/0x187:1997x1227/1200x625/media/img/mt/2017/09/TheAtlantic_CodeFinal3/original.png",
+                                "timeToRead": 42,
+                                "givenUrl": "https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67298353",
+                                        "name": "James Somers",
+                                        "url": "https://www.theatlantic.com/author/james-somers/"
+                                    }
+                                ],
+                                "datePublished": "2017-09-26 10:10:42",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk5NjIzMzY2MF8qXzE1NTk5MDcwOTE=",
+                        "node": {
+                            "url": "https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5",
+                            "_createdAt": 1514419986,
+                            "_updatedAt": 1559907091,
+                            "id": "1996233660",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907091,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Docker Can Help You Become A More Effective Data Scientist",
+                                "itemId": "1996233660",
+                                "resolvedId": "1996233660",
+                                "resolvedUrl": "https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Towards Data Science"
+                                },
+                                "excerpt": "For the past 5 years, I have heard lots of buzz about docker containers. It seemed like all my software engineering friends are using them for developing applications.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*JAJ910fg52ODIRZjHXASBQ.png",
+                                "timeToRead": 16,
+                                "givenUrl": "https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "68312154",
+                                        "name": "Hamel Husain",
+                                        "url": "https://medium.com/@hamelhusain"
+                                    }
+                                ],
+                                "datePublished": "2020-08-26 12:10:10",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTkzODIyNzY1OV8qXzE1NTk5MDcwOTQ=",
+                        "node": {
+                            "url": "https://squawker.org/technology/blockchain-just-became-obsolete-the-future-is-hashgraph/",
+                            "_createdAt": 1514419996,
+                            "_updatedAt": 1559907094,
+                            "id": "1938227659",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907094,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1938227659",
+                                "resolvedId": "1938227659",
+                                "resolvedUrl": "https://squawker.org/technology/blockchain-just-became-obsolete-the-future-is-hashgraph/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "squawker.org"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://squawker.org/technology/blockchain-just-became-obsolete-the-future-is-hashgraph/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTg2Mzc3MzQ4OV8qXzE1NTk5MDcwOTY=",
+                        "node": {
+                            "url": "https://blockgeeks.com/guides/what-is-cryptoeconomics/",
+                            "_createdAt": 1514420004,
+                            "_updatedAt": 1559907096,
+                            "id": "1863773489",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907096,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What is Cryptoeconomics? The Ultimate Beginners Guide",
+                                "itemId": "1863773489",
+                                "resolvedId": "1863773489",
+                                "resolvedUrl": "https://blockgeeks.com/guides/what-is-cryptoeconomics/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blockgeeks.com"
+                                },
+                                "excerpt": "What is cryptoeconomics? Ethereum developer Vlad Zamfir says that cryptoeconomics is: The blockchain technology runs on the principles of cryptoeconomics.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 770,
+                                        "imageId": 1,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/linkedlists.jpg",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 770,
+                                        "imageId": 2,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/blockchains.jpg",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 770,
+                                        "imageId": 3,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/merkletree.jpg",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 770,
+                                        "imageId": 4,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/merkletracing.jpg",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 781,
+                                        "imageId": 5,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/pubkey_bg-4.jpg",
+                                        "width": 1600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 361,
+                                        "imageId": 6,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2019/05/byzantinegenerals-1.jpg",
+                                        "width": 802
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 578,
+                                        "imageId": 7,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/image9.png",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 770,
+                                        "imageId": 8,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/image12-1.png",
+                                        "width": 894
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 184,
+                                        "imageId": 9,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/action.png",
+                                        "width": 1028
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 186,
+                                        "imageId": 10,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/image10-2.png",
+                                        "width": 494
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 162,
+                                        "imageId": 11,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/push2.png",
+                                        "width": 1035
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 185,
+                                        "imageId": 12,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/image11-1.png",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 221,
+                                        "imageId": 13,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/image13.png",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 109,
+                                        "imageId": 14,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/08/image14.png",
+                                        "width": 488
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "6RCtNrlzV28",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/6RCtNrlzV28?start=457"
+                                    }
+                                ],
+                                "topImageUrl": "https://static.blockgeeks.com/wp-content/uploads/2017/08/cryptoeco.jpg",
+                                "timeToRead": 28,
+                                "givenUrl": "https://blockgeeks.com/guides/what-is-cryptoeconomics/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "9073360",
+                                        "name": "Ameer Rosic",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2020-05-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTgxNjkxNTgxNl8qXzE1NTk5MDcxMDE=",
+                        "node": {
+                            "url": "https://shift.newco.co/graphic-blockchain-for-every-industry-dfcbdcfe23ea",
+                            "_createdAt": 1514421216,
+                            "_updatedAt": 1559907101,
+                            "id": "1816915816",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907101,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Graphic: Blockchain for Every Industry",
+                                "itemId": "2433205621",
+                                "resolvedId": "2433205621",
+                                "resolvedUrl": "https://shift.newco.co/2017/07/11/graphic-blockchain-for-every-industry/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "shift.newco.co"
+                                },
+                                "excerpt": "Blockchain technology has the potential to upend the way every industry manages its information and data, not only financial services. Imagine being able to track shipments through your supply chain with ease, down to the individual package or even component level.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://i0.wp.com/shift.newco.co/wp-content/uploads/2017/07/1*bTiqPvb975TdbD6bJr6ovw.jpeg?w=660&ssl=1",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://149354111.v2.pressablecdn.com/wp-content/themes/shift-newco/images/newco-logo-2.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "https://shift.newco.co/graphic-blockchain-for-every-industry-dfcbdcfe23ea",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "94751633",
+                                        "name": "jeremiah-owyang",
+                                        "url": "https://shift.newco.co/author/jeremiah-owyang/"
+                                    }
+                                ],
+                                "datePublished": "2017-07-11 06:55:32",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk5MzAxNDY2M18qXzE1NTk5MDcxMDI=",
+                        "node": {
+                            "url": "https://seekingalpha.com/article/4131847-next-bitcoin-take-hard-look-iota",
+                            "_createdAt": 1514825887,
+                            "_updatedAt": 1559907102,
+                            "id": "1993014663",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907102,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "The Next Bitcoin? Take A Hard Look At IOTA (Pending:COIN-OLD)",
+                                "itemId": "1993014663",
+                                "resolvedId": "1993014663",
+                                "resolvedUrl": "https://seekingalpha.com/article/4131847-next-bitcoin-take-hard-look-iota",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Seeking Alpha"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://static.seekingalpha.com/uploads/2017/12/13/3949741-1513184507699859.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://seekingalpha.com/article/4131847-next-bitcoin-take-hard-look-iota",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAwMjcxNDE3NF8qXzE1NTk5MDcxMDQ=",
+                        "node": {
+                            "url": "https://hackernoon.com/iota-vs-raiblocks-413679bb4c3e",
+                            "_createdAt": 1514825901,
+                            "_updatedAt": 1559907104,
+                            "id": "2002714174",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907104,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "IOTA vs NANO (RaiBlocks)",
+                                "itemId": "2002714174",
+                                "resolvedId": "2002714174",
+                                "resolvedUrl": "https://hackernoon.com/iota-vs-raiblocks-413679bb4c3e",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Hacker Noon"
+                                },
+                                "excerpt": "RaiBlocks rebranded to NANO. I am leaving occurrences of RaiBlocks for historical purposes. Wherever you see RaiBlocks, you can substitute the word NANO.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hackernoon.com/hn-images/1*31w0IKSYkw9nN9-mHQ41EQ.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Official IOTA Wallet",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://hackernoon.com/hn-images/1*5q7KYT5qi8AJxOz9cMKdDg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Screenshot of the upcoming IOTA wallet from UCL",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://hackernoon.com/hn-images/1*tg5OjCHMLz5tsrjx7u9Z9g.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Official RaiBlocks Wallet",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://hackernoon.com/hn-images/1*J5ugYD3BG8e_GoowpUaiSg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://hackernoon.com/hn-images/1*kKWUfY0VV1D6KEVGOcT72Q.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.hackernoon.com/Devimg/story-image-default.png",
+                                "timeToRead": 25,
+                                "givenUrl": "https://hackernoon.com/iota-vs-raiblocks-413679bb4c3e",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "75401121",
+                                        "name": "Peter Ryszkiewicz",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2018-02-02 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk4MzkxNjg1M18qXzE1NTk5MDcxMDU=",
+                        "node": {
+                            "url": "https://www.axios.com/the-next-trade-war-data-2514797907.html",
+                            "_createdAt": 1514825927,
+                            "_updatedAt": 1559907105,
+                            "id": "1983916853",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907105,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The coming trade war over data",
+                                "itemId": "3611087727",
+                                "resolvedId": "3611087727",
+                                "resolvedUrl": "https://www.axios.com/2017/12/16/the-coming-trade-war-over-data-1513388374",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Axios"
+                                },
+                                "excerpt": "Technology companies are facing growing international obstacles affecting how their most valuable asset — data — flows across borders. New trade agreements and laws are affecting how companies share and store their troves of data around the world.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Illustration: Rebecca Zisser / Axios",
+                                        "credit": "Illustration: Rebecca Zisser / Axios",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.axios.com/b_kp_z7APieL-_iqksAmCupuSxs=/1920x1080/smart/2017/12/16/1513388374689.jpg?w=1920",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://images.axios.com/vcT_RdUacDagLnwcm-7h7Rqt_nU=/1366x768/smart/2017/12/16/1513388374689.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.axios.com/the-next-trade-war-data-2514797907.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "88629724",
+                                        "name": "Kim Hart",
+                                        "url": "https://www.axios.com/authors/khart"
+                                    }
+                                ],
+                                "datePublished": "2017-12-06 04:00:12",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk5NjUzNjU5NV8qXzE1NTk5MDcxMDg=",
+                        "node": {
+                            "url": "http://vitalik.ca/general/2017/12/17/voting.html",
+                            "_createdAt": 1514826318,
+                            "_updatedAt": 1559907108,
+                            "id": "1996536595",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907108,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Notes on Blockchain Governance",
+                                "itemId": "1996536595",
+                                "resolvedId": "1996536595",
+                                "resolvedUrl": "https://vitalik.ca/general/2017/12/17/voting.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "vitalik.ca"
+                                },
+                                "excerpt": "2017 Dec 17 See all posts In which I argue that \"tightly coupled\" on-chain voting is overrated, the status quo of \"informal governance\" as practiced by Bitcoin, Bitcoin Cash, Ethereum, Zcash and similar systems is much less bad than commonly thought, that people who think that the purpose of blockc",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://vitalik.ca/images/voting-files/decisionfunction.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "An abstract coordination game. You benefit heavily from making the same move as everyone else. --",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://vitalik.ca/images/voting-files/coordinationgame.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://vitalik.ca/images/voting-files/byzantinegeneral.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://vitalik.ca/images/voting-files/vote2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "--",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://vitalik.ca/images/voting-files/vote3.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://vitalik.ca/images/voting-files/vote1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "http://upyun-assets.ethfans.org/uploads/photo/image/97e569c5676248db835c1a01eaf0e790.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://vitalik.ca/images/voting-files/liskpool1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://vitalik.ca/images/voting-files/liskpool2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://i.imgur.com/evqfsMj.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://vitalik.ca/images/voting-files/governance3.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://philoofalexandria.files.wordpress.com/2011/10/top_marginal_income_tax_rate_1913-2003.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://vitalik.ca/images/icon.png",
+                                "timeToRead": 18,
+                                "givenUrl": "http://vitalik.ca/general/2017/12/17/voting.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk5MjQ0NjQwNV8qXzE1NTk5MDcxMDk=",
+                        "node": {
+                            "url": "http://nautil.us/issue/55/trust/the-bitcoin-paradox",
+                            "_createdAt": 1514826324,
+                            "_updatedAt": 1559907109,
+                            "id": "1992446405",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907109,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Bitcoin Paradox",
+                                "itemId": "1992446405",
+                                "resolvedId": "1992446405",
+                                "resolvedUrl": "http://nautil.us/issue/55/trust/the-bitcoin-paradox",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "Why cryptocurrency will always be political. You are an inmate in a luxury hotel. Locked in your soundproof suite, you hear nothing and see nothing. Liveried butlers bring you meals on silver carts. You have plenty of time to read, think, and listen to music.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/13872_7e7a41b8100b5266d5ffe632211f8ecb.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://static.nautil.us/13871_bca314ed6a27eb1a7ce8434de54e3453.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://static.nautil.us/13879_5c0c3007f1af27e1191082e12a27b0b8.png",
+                                        "width": 733
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static.nautil.us/13872_7e7a41b8100b5266d5ffe632211f8ecb.png",
+                                "timeToRead": 8,
+                                "givenUrl": "http://nautil.us/issue/55/trust/the-bitcoin-paradox",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1061002",
+                                        "name": "Simon Dedeo",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-12-14 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAwNjExNzI1OV8qXzE1NTk5MDcxMTI=",
+                        "node": {
+                            "url": "http://www.structuremag.org/?p=12389",
+                            "_createdAt": 1514826619,
+                            "_updatedAt": 1559907112,
+                            "id": "2006117259",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907112,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Structural Challenges for Space Architecture",
+                                "itemId": "2006117259",
+                                "resolvedId": "2006117259",
+                                "resolvedUrl": "https://www.structuremag.org/?p=12389",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "structuremag.org"
+                                },
+                                "excerpt": "Several decades after the first space age, there is renewed interest in space exploration and specifically in future human habitation far beyond the Earth’s surface.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "NASA 3D printed Habitat Challenge. Project: Ouroboros. Team Digital Structures Research Group. Faculty Advisor Caitlin Mueller.",
+                                        "credit": "",
+                                        "height": 208,
+                                        "imageId": 1,
+                                        "src": "https://www.structuremag.org/wp-content/uploads/2017/11/1217-otb-2.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Redwood Forest City – Mars City DesignTM Competition 2017. Team: Valentina Sumini, Alpha Arsano, George Lordos, Meghan Maupin, Zoe N. Lallas, Sam Wald, Matthew Moraguez, John Stillman, Mark Tam, Alejandro Trujillo and Luis Fernando Herrera Arias. Faculty advisor: Caitlin Mueller.",
+                                        "credit": "",
+                                        "height": 197,
+                                        "imageId": 2,
+                                        "src": "https://www.structuremag.org/wp-content/uploads/2017/11/1217-otb-3.jpg",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 11,
+                                "givenUrl": "http://www.structuremag.org/?p=12389",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "81345053",
+                                        "name": "Valentina Sumini",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAwNDAyMjA2OF8qXzE1NTk5MDcxMTY=",
+                        "node": {
+                            "url": "https://www.wired.com/story/its-time-for-innovators-to-take-responsibility-for-their-creations/",
+                            "_createdAt": 1514826867,
+                            "_updatedAt": 1559907116,
+                            "id": "2004022068",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907116,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "It’s Time for Innovators to Take Responsibility for their Creations",
+                                "itemId": "2004022068",
+                                "resolvedId": "2004022068",
+                                "resolvedUrl": "https://www.wired.com/story/its-time-for-innovators-to-take-responsibility-for-their-creations/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "Susan Wu (@sw) is an entrepreneur, engineer, and angel investor. Susan is cofounder of a new educational movement focused on empowering children to thrive in the world of the future. She is also part of the founding team of Project Include.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Silicon Valley’s executives are no longer merely startup founders and product creators; they’re societal leaders, too.",
+                                        "credit": "HOTLITTLEPOTATO",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/5a3d750777a03325bdaea54e/master/w_2560%2Cc_limit/Innovation_monsters-FINAL.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.wired.com/photos/59f8f82792a0bc7f1634b2bd/master/w_775%2Cc_limit/GettyImages-868712868.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.wired.com/photos/59f8d45b73663f647bee2072/master/w_775%2Cc_limit/RussiaTechHearing-HP-868706000.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.wired.com/photos/59fb602e5a1be83221873ee9/master/w_775%2Cc_limit/net_state-FINAL.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/5a3d750777a03325bdaea54e/191:100/w_1280,c_limit/Innovation_monsters-FINAL.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.wired.com/story/its-time-for-innovators-to-take-responsibility-for-their-creations/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "70719544",
+                                        "name": "Susan Wu",
+                                        "url": "https://www.wired.com/author/susan-wu"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTkyMDM3MjAxOF8qXzE1NTk5MDcxMTk=",
+                        "node": {
+                            "url": "https://medium.com/@timcavey/i-banned-my-phone-from-the-bedroom-for-two-weeks-heres-what-happened-53ecc00854c7",
+                            "_createdAt": 1514827041,
+                            "_updatedAt": 1559907119,
+                            "id": "1920372018",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907119,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "I Banned my Phone from the Bedroom for Two Weeks. Here’s What Happened.",
+                                "itemId": "1920372018",
+                                "resolvedId": "1920372018",
+                                "resolvedUrl": "https://medium.com/@timcavey/i-banned-my-phone-from-the-bedroom-for-two-weeks-heres-what-happened-53ecc00854c7",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "After numerous ill-fated attempts that petered out after a couple of days, I’ve successfully kept my phone out of the bedroom for two weeks straight. I’m not saying that I never walk into my bedroom or bathroom throughout the day with my phone still in my pocket. Ditto for my bathroom.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/2*wNZTpMPbB8ti3ll9n5jafw.jpeg",
+                                        "width": 28
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 856,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/2560/1*IqszXK6XVxD3SoMZ31SGdQ.jpeg",
+                                        "width": 1280
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*IqszXK6XVxD3SoMZ31SGdQ.jpeg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://medium.com/@timcavey/i-banned-my-phone-from-the-bedroom-for-two-weeks-heres-what-happened-53ecc00854c7",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "76996767",
+                                        "name": "Tim Cavey",
+                                        "url": "https://medium.com/@timcavey"
+                                    }
+                                ],
+                                "datePublished": "2017-10-09 15:48:28",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAwNTM2MzE0N18qXzE1NTk5MDcxMjU=",
+                        "node": {
+                            "url": "https://jalopnik.com/heres-what-it-takes-to-land-a-boeing-777-at-the-busiest-1821586958",
+                            "_createdAt": 1514827453,
+                            "_updatedAt": 1559907125,
+                            "id": "2005363147",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907125,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Here's What It Takes To Land A Boeing 777 At The Busiest Airport In New York",
+                                "itemId": "2005363147",
+                                "resolvedId": "2005363147",
+                                "resolvedUrl": "https://jalopnik.com/heres-what-it-takes-to-land-a-boeing-777-at-the-busiest-1821586958",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Jalopnik"
+                                },
+                                "excerpt": "There’s only so much us meager passengers can see during the final approach of a flight. Thanks to a new high-definition video, we’re able to get a glimpse of what it’s like inside the cabin of a Boeing 777 as it makes a descent toward New York City. It’s fascinating to watch.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/197xrjaz7466rpng.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://jalopnik.com/heres-what-it-takes-to-land-a-boeing-777-at-the-busiest-1821586958",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152360866",
+                                        "name": "Ryan Felton",
+                                        "url": "https://jalopnik.com/author/ryanfelton13"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk2Nzk3ODMyOV8qXzE1NTk5MDcxMjY=",
+                        "node": {
+                            "url": "https://blockgeeks.com/guides/ethereum-casper/",
+                            "_createdAt": 1514827533,
+                            "_updatedAt": 1559907126,
+                            "id": "1967978329",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907126,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What is Ethereum Casper Protocol? Crash Course",
+                                "itemId": "1967978329",
+                                "resolvedId": "1967978329",
+                                "resolvedUrl": "https://blockgeeks.com/guides/ethereum-casper/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blockgeeks.com"
+                                },
+                                "excerpt": "In this guide, we present to you the definitive guide to ethereum Casper and how it will change Ethereum forever. If you are interested in Ethereum or Cryptocurrency in general, then you must be aware of the terms proof-of-stake and ethereum Casper.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 720,
+                                        "imageId": 1,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/casper.jpg",
+                                        "width": 1280
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 524,
+                                        "imageId": 2,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image3-1.png",
+                                        "width": 685
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1696,
+                                        "imageId": 3,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/10/proofofworkvsproofofstake-1.jpg",
+                                        "width": 1510
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 537,
+                                        "imageId": 4,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image5.png",
+                                        "width": 1018
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 5,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image4.png",
+                                        "width": 529
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 498,
+                                        "imageId": 6,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image6.png",
+                                        "width": 1026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 443,
+                                        "imageId": 7,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image7.png",
+                                        "width": 898
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 502,
+                                        "imageId": 8,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image10.png",
+                                        "width": 602
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 445,
+                                        "imageId": 9,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image8.png",
+                                        "width": 987
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 459,
+                                        "imageId": 10,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image9.png",
+                                        "width": 983
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 413,
+                                        "imageId": 11,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/bitcoinvscountriesenergy.jpg",
+                                        "width": 985
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 413,
+                                        "imageId": 12,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/bitcoinvsvisaenergy.jpg",
+                                        "width": 985
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 335,
+                                        "imageId": 13,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/image13.png",
+                                        "width": 601
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 424,
+                                        "imageId": 14,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/databasesharding.jpg",
+                                        "width": 606
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 447,
+                                        "imageId": 15,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/tab1.png",
+                                        "width": 683
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 176,
+                                        "imageId": 16,
+                                        "src": "https://static.blockgeeks.com/wp-content/uploads/2017/11/tab2.png",
+                                        "width": 698
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.blockgeeks.com/wp-content/uploads/2017/11/What-is-Ethereum-Casper-Protocol_-Crash-Course.png",
+                                "timeToRead": 17,
+                                "givenUrl": "https://blockgeeks.com/guides/ethereum-casper/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "9073360",
+                                        "name": "Ameer Rosic",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2020-05-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAwNDE0MTE1Nl8qXzE1NTk5MDcxMzE=",
+                        "node": {
+                            "url": "https://www.scientificamerican.com/article/h-g-wells-vs-george-orwell-their-debate-whether-science-is-humanitys-best-hope-continues-today/",
+                            "_createdAt": 1514827561,
+                            "_updatedAt": 1559907131,
+                            "id": "2004141156",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907131,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "H. G. Wells versus George Orwell: Their Debate Whether Science Is Humanity's Best Hope Continues Today",
+                                "itemId": "2013298140",
+                                "resolvedId": "2013298140",
+                                "resolvedUrl": "https://www.scientificamerican.com/article/h-g-wells-versus-george-orwell-their-debate-whether-science-is-humanitys-best-hope-continues-today/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Scientific American"
+                                },
+                                "excerpt": "In the midst of contemporary science's stunning discoveries and innovations – for example, 2017 alone brought the editing of a human embryo's genes, the location of an eighth continent under the ocean and the ability to reuse a spacecraft's rocket boosters – it's easy to forget that there's an o",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://static.scientificamerican.com/sciam/cache/file/5722BE5F-5B3B-4729-9A6A328BA50A1ADC_source.jpg?w=590&h=800&717A1A31-491A-4A43-A15C67F147684135",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.scientificamerican.com/sciam/cache/file/5722BE5F-5B3B-4729-9A6A328BA50A1ADC.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.scientificamerican.com/article/h-g-wells-vs-george-orwell-their-debate-whether-science-is-humanitys-best-hope-continues-today/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152500837",
+                                        "name": "Richard Gunderman",
+                                        "url": "https://www.scientificamerican.com/author/https://theconversation.com/profiles/richard-gunderman-103804/"
+                                    }
+                                ],
+                                "datePublished": "2017-12-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAwNDg3MTIzMV8qXzE1NTk5MDcxMzQ=",
+                        "node": {
+                            "url": "https://www.wired.com/story/whats-next-for-crispr/",
+                            "_createdAt": 1514828251,
+                            "_updatedAt": 1559907134,
+                            "id": "2004871231",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907134,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Crispr Isn’t Enough Any More. Get Ready for Gene Editing 2.0",
+                                "itemId": "2004871231",
+                                "resolvedId": "2004871231",
+                                "resolvedUrl": "https://www.wired.com/story/whats-next-for-crispr/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "In fewer than five years, the gene-editing technology known as Crispr has revolutionized the face and pace of modern biology. Since its ability to find, remove, and replace genetic material was first reported in 2012, scientists have published more than 5,000 papers mentioning Crispr.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Getty Images/Wired",
+                                        "credit": "Getty Images/Wired",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/5a3aeb0e7ed4041c06145647/master/w_2560%2Cc_limit/cripr-TA.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.wired.com/photos/5a25a9388a857c413fae725b/master/w_775%2Cc_limit/crispr-FA.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.wired.com/photos/5937588bca941e4d0cb7d09e/master/w_775%2Cc_limit/CrisprTA-639549255.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.wired.com/photos/59811a705350085419ca147d/master/w_775%2Cc_limit/CrisprTA-821268794-%25255BConverted%25255D.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/5a3aeb0e81cb141366fdced8/191:100/w_1280,c_limit/cripsr-FA.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.wired.com/story/whats-next-for-crispr/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "69797161",
+                                        "name": "Megan Molteni",
+                                        "url": "https://www.wired.com/author/megan-molteni"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAyMTk3NTQ4MV8qXzE1NTk5MDcxNDA=",
+                        "node": {
+                            "url": "http://blog.ycombinator.com/building-for-the-blockchain/",
+                            "_createdAt": 1515524624,
+                            "_updatedAt": 1559907140,
+                            "id": "2021975481",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907140,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Building for the Blockchain",
+                                "itemId": "3578662393",
+                                "resolvedId": "3578662393",
+                                "resolvedUrl": "https://www.ycombinator.com/blog/building-for-the-blockchain",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ycombinator.com"
+                                },
+                                "excerpt": "If you’re here, we assume that you’re a developer/hacker who’s intrigued by the blockchain. You’re convinced that you understand how it works and now you’re itching to figure out what the blockchain means for you and your developer skill set.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 9,
+                                "givenUrl": "http://blog.ycombinator.com/building-for-the-blockchain/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "163952811",
+                                        "name": "Vincent Chen",
+                                        "url": "https://www.ycombinator.com/blog/author/vincent-chen"
+                                    }
+                                ],
+                                "datePublished": "2018-01-09 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTIxMzE4MDk4OF8qXzE1NTk5MDcwMTE=",
+                    "endCursor": "MjAyMTk3NTQ4MV8qXzE1NTk5MDcxNDA="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

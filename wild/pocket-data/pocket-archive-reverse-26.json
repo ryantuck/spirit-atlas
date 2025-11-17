@@ -1,0 +1,1891 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjgyMTA4MDc0N18qXzE1NzkxMzEyMTc=",
+                        "node": {
+                            "url": "http://paulgraham.com/lesson.html?utm_source=Pointer&utm_campaign=3c05d179ed-ISSUE_165&utm_medium=email&utm_term=0_6ba2b83261-3c05d179ed-262690585",
+                            "_createdAt": 1576169655,
+                            "_updatedAt": 1579132000,
+                            "id": "2821080747",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579131217,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Lesson to Unlearn",
+                                "itemId": "2815787561",
+                                "resolvedId": "2815787561",
+                                "resolvedUrl": "http://paulgraham.com/lesson.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "paulgraham.com"
+                                },
+                                "excerpt": "The most damaging thing you learned in school wasn't something you learned in any specific class. It was learning to get good grades. When I was in college, a particularly earnest philosophy grad student once told me that he never cared what grade he got in a class, only what he learned in it.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://paulgraham.com/lesson.html?utm_source=Pointer&utm_campaign=3c05d179ed-ISSUE_165&utm_medium=email&utm_term=0_6ba2b83261-3c05d179ed-262690585",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMTc5ODYwNl8qXzE1Nzk1NjY2MzU=",
+                        "node": {
+                            "url": "https://blog.fishtownanalytics.com/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8",
+                            "_createdAt": 1560362807,
+                            "_updatedAt": 1579566760,
+                            "id": "2621798606",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566635,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A wave of acquisitions in business intelligence",
+                                "itemId": "3656080520",
+                                "resolvedId": "3656080520",
+                                "resolvedUrl": "https://www.getdbt.com/blog/a-wave-of-acquisitions-in-business-intelligence/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "getdbt.com"
+                                },
+                                "excerpt": "Holy crap! Within the past week we’ve seen the acquisitions of the two biggest players in the modern BI landscape, Looker (announcement) and Tableau (announcement).",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.getdbt.com/ui/img/blog/a-wave-of-acquisitions-in-business-intelligence/jeremy-bishop-uBHSWYWZT7A-unsplash.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://blog.fishtownanalytics.com/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "167073282",
+                                        "name": "Tristan Handy",
+                                        "url": "https://www.getdbt.com/author/tristan-handy/"
+                                    }
+                                ],
+                                "datePublished": "2019-06-10 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxNzk4Njk3Nl8qXzE1Nzk1NjY2Mzc=",
+                        "node": {
+                            "url": "https://medium.com/nikeengineering/moving-faster-with-aws-by-creating-an-event-stream-database-dedec8ca3eeb",
+                            "_createdAt": 1560356896,
+                            "_updatedAt": 1579566760,
+                            "id": "2617986976",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566637,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Moving Faster With AWS by Creating an Event Stream Database",
+                                "itemId": "2617986976",
+                                "resolvedId": "2617986976",
+                                "resolvedUrl": "https://medium.com/nikeengineering/moving-faster-with-aws-by-creating-an-event-stream-database-dedec8ca3eeb",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "As engineers at Nike, we are constantly being asked to deliver features faster, more reliably and at scale. With these pressures, it’s easy to get overwhelmed by the complexity of modern microservice stacks.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 563,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/2000/1*A2LhVoDvkVSX3eAVtLW7yw.png",
+                                        "width": 1000
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 436,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/2000/1*-p-x3lYFCJ6c7yK9JTs8og.png",
+                                        "width": 1000
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*A2LhVoDvkVSX3eAVtLW7yw.png",
+                                "timeToRead": 7,
+                                "givenUrl": "https://medium.com/nikeengineering/moving-faster-with-aws-by-creating-an-event-stream-database-dedec8ca3eeb",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "112984200",
+                                        "name": "Adam Farrell",
+                                        "url": "https://medium.com/@adam.farrell"
+                                    }
+                                ],
+                                "datePublished": "2019-06-06 16:01:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMjU5MjQxOV8qXzE1Nzk1NjY2Mzk=",
+                        "node": {
+                            "url": "https://www.nytimes.com/2019/06/11/opinion/youtube-radicalization-algorithms.html",
+                            "_createdAt": 1560278051,
+                            "_updatedAt": 1579566760,
+                            "id": "2622592419",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566639,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Faults Beyond Our Algorithms",
+                                "itemId": "2622592419",
+                                "resolvedId": "2622592419",
+                                "resolvedUrl": "https://www.nytimes.com/2019/06/11/opinion/youtube-radicalization-algorithms.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "In the last month there have been two big profiles, one in this newspaper and one in Washingtonian, of young men who were radicalized into some version of the alt-right and then later abjured far-right politics.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 398,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2019/06/14/opinion/11douthatWeb/13587b3f1ccf4733ac5a67907f921698-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge-v2.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2019/06/14/opinion/11douthatWeb/11douthatWeb-facebookJumbo.jpg?year=2019&h=549&w=1050&s=561a356287218d09dc9422f930205fbb905197466f95a7e9fdb841b6d07dbc59&k=ZQJBKqZ0VN",
+                                "timeToRead": 7,
+                                "givenUrl": "https://www.nytimes.com/2019/06/11/opinion/youtube-radicalization-algorithms.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62805967",
+                                        "name": "ROSS DOUTHAT",
+                                        "url": "https://www.nytimes.com/by/ross-douthat"
+                                    }
+                                ],
+                                "datePublished": "2019-06-11 05:00:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMTcxNDU3OF8qXzE1Nzk1NjY2NDI=",
+                        "node": {
+                            "url": "https://github.com/linzjax/remotelife-tips-and-tricks/blob/master/README.md",
+                            "_createdAt": 1560178764,
+                            "_updatedAt": 1579566760,
+                            "id": "2621714578",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566642,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "",
+                                "itemId": "2621714578",
+                                "resolvedId": "2621714578",
+                                "resolvedUrl": "https://github.com/linzjax/remotelife-tips-and-tricks/blob/master/README.md",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "GitHub"
+                                },
+                                "excerpt": "Ever wondered what it's like to work from home everyday? You can work from literally anywhere with an internet connection.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 7,
+                                "givenUrl": "https://github.com/linzjax/remotelife-tips-and-tricks/blob/master/README.md",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2018-11-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMDUxMzgxNl8qXzE1Nzk1NjY2NTA=",
+                        "node": {
+                            "url": "https://theintercept.com/2019/06/09/heshmat-alavi-fake-iran-mek/",
+                            "_createdAt": 1560107847,
+                            "_updatedAt": 1579566760,
+                            "id": "2620513816",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566650,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "An Iranian Activist Wrote Dozens of Articles for Right-Wing Outlets. But Is He a Real Person?",
+                                "itemId": "2620513816",
+                                "resolvedId": "2620513816",
+                                "resolvedUrl": "https://theintercept.com/2019/06/09/heshmat-alavi-fake-iran-mek/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Intercept"
+                                },
+                                "excerpt": "In 2018, President Donald Trump was seeking to jettison the landmark nuclear deal that his predecessor had signed with Iran in 2015, and he was looking for ways to win over a skeptical press.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Photo illustration: Soohee Cho/The InterceptPhoto illustration: Soohee Cho/The Intercept",
+                                        "credit": "Photo illustration: Soohee Cho/The Intercept",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2019/05/MEK-fake-writer-FINAL-red-2-1557951981.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Hassan Heyrani.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2019/06/hassan-heyrani-1559938265.jpg?auto=compress%2Cformat&q=90&w=768&h=1024",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Alavi’s author page for Forbes.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2019/06/alavi-forbes-1559938930.jpg?auto=compress%2Cformat&q=90&w=1024&h=741",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Maryam Rajavi speaks at a conference outside of Paris, France, on Aug. 25. 2018.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2019/06/AP_18240566609452-maryam-rajavi-1559938091.jpg?auto=compress%2Cformat&q=90",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Alavi’s Twitter account.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2019/06/alavi-twitter-1559938932.jpg?auto=compress%2Cformat&q=90&w=1024&h=741",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://theintercept.imgix.net/wp-uploads/sites/1/2019/05/MEK-fake-writer-FINAL-red-2-1557951981.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+                                "timeToRead": 15,
+                                "givenUrl": "https://theintercept.com/2019/06/09/heshmat-alavi-fake-iran-mek/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "42476660",
+                                        "name": "Murtaza Hussain",
+                                        "url": "https://theintercept.com/staff/murtaza-hussain/"
+                                    }
+                                ],
+                                "datePublished": "2019-06-09 11:49:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NDM3Mzc0Nzc4XypfMTU3OTU2NjY1Ng==",
+                        "node": {
+                            "url": "http://www.feynmanlectures.caltech.edu/I_22.html",
+                            "_createdAt": 1559998589,
+                            "_updatedAt": 1579566760,
+                            "id": "437374778",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566656,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Feynman Lectures on Physics Vol. I Ch. 22 : Algebra",
+                                "itemId": "437374778",
+                                "resolvedId": "437374778",
+                                "resolvedUrl": "https://www.feynmanlectures.caltech.edu/I_22.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "feynmanlectures.caltech.edu"
+                                },
+                                "excerpt": "In our study of oscillating systems we shall have occasion to use one of the most remarkable, almost astounding, formulas in all of mathematics. From the physicist’s point of view we could bring forth this formula in two minutes or so, and be done with it.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/camera.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Figure 22–1",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_I/f22-01/f22-01_tc_big.svgz",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 22–2.$x + iy = re^{i\\theta}$.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_I/f22-02/f22-02_tc_big.svgz",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.feynmanlectures.caltech.edu/I_22.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxMDg4NDY0NF8qXzE1Nzk1NjY2NjI=",
+                        "node": {
+                            "url": "https://freebeacon.com/columns/making-sense-of-the-new-american-right/",
+                            "_createdAt": 1559734530,
+                            "_updatedAt": 1579566760,
+                            "id": "2610884644",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566662,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Making Sense of the New American Right",
+                                "itemId": "2610884644",
+                                "resolvedId": "2610884644",
+                                "resolvedUrl": "https://freebeacon.com/columns/making-sense-of-the-new-american-right/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "freebeacon.com"
+                                },
+                                "excerpt": "I like to start my classes on conservative intellectual history by distinguishing between three groups. There is the Republican Party, with its millions of adherents and spectrum of opinion from very conservative, somewhat conservative, moderate, and yes, liberal.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 340,
+                                        "imageId": 1,
+                                        "src": "https://s3.freebeacon.com/up/2019/05/Cotton-Rubio-Lee-Hawley.png",
+                                        "width": 485
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://freebeacon.com/wp-content/uploads/2019/05/Cotton-Rubio-Lee-Hawley.png",
+                                "timeToRead": 17,
+                                "givenUrl": "https://freebeacon.com/columns/making-sense-of-the-new-american-right/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "92571281",
+                                        "name": "Matthew Continetti",
+                                        "url": "https://freebeacon.com/author/matt/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-31 05:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwOTczNjE5MV8qXzE1Nzk1NjY2NjU=",
+                        "node": {
+                            "url": "http://nautil.us/issue/72/quandary/the-worth-of-an-angry-god",
+                            "_createdAt": 1559734395,
+                            "_updatedAt": 1579566760,
+                            "id": "2609736191",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566665,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2609736191",
+                                "resolvedId": "2609736191",
+                                "resolvedUrl": "http://nautil.us/issue/72/quandary/the-worth-of-an-angry-god",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://nautil.us/issue/72/quandary/the-worth-of-an-angry-god",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxMjg2MTI1MF8qXzE1Nzk1NjY2Njk=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/ideas/archive/2019/06/executive-power-doesnt-mean-much/590461/",
+                            "_createdAt": 1559734268,
+                            "_updatedAt": 1579566760,
+                            "id": "2612861250",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566669,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Two Crucial Words in the Constitution Actually Mean",
+                                "itemId": "2612861250",
+                                "resolvedId": "2612861250",
+                                "resolvedUrl": "https://www.theatlantic.com/ideas/archive/2019/06/executive-power-doesnt-mean-much/590461/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "About the author: Julian Davis Mortenson is a law professor at the University of Michigan. Is the president a king? The question may sound absurd, but you’d be surprised: A great many lawyers, politicians, judges, and policy experts think the U.S.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "RonTech3000 / Shutterstock / The Atlantic",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/Dh-epbK72chDWeqQ-V53BSVQBPc=/0x0:2000x1125/960x540/media/img/mt/2019/05/PresidentKing/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/9IEBVa2veZlk8V2-izS7DJlZjPk=/0x18:2000x1060/960x500/media/img/mt/2019/05/PresidentKing/original.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "https://www.theatlantic.com/ideas/archive/2019/06/executive-power-doesnt-mean-much/590461/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "112759272",
+                                        "name": "Julian Davis Mortenson",
+                                        "url": "https://www.theatlantic.com/author/julian-davis-mortenson/"
+                                    }
+                                ],
+                                "datePublished": "2019-06-02 05:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjI3MTc0MzI5MV8qXzE1Nzk1NjY3NjI=",
+                        "node": {
+                            "url": "https://www.nationalreview.com/2018/07/culture-war-turns-expression-and-free-speech-into-weapon/",
+                            "_createdAt": 1558544264,
+                            "_updatedAt": 1579566762,
+                            "id": "2271743291",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566762,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Weapons of Mass ‘Weaponization’",
+                                "itemId": "2271743291",
+                                "resolvedId": "2271743291",
+                                "resolvedUrl": "https://www.nationalreview.com/2018/07/culture-war-turns-expression-and-free-speech-into-weapon/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "National Review"
+                                },
+                                "excerpt": "The days of normalization — meaning roughly “talking about something media elites don’t like without constantly criticizing it” — are gone. The new buzzword for opinion-makers is “weaponization.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 1,
+                                        "src": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/07/Tracey-Lambrechs.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 2,
+                                        "src": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/money-benjamin-franklin.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 3,
+                                        "src": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/gavel-law-library.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 4,
+                                        "src": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/prison-fence.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/05/trump-supporter-protester-argument.jpg?fit=1200%2C700&ssl=1",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.nationalreview.com/2018/07/culture-war-turns-expression-and-free-speech-into-weapon/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "85890783",
+                                        "name": "Oliver Traldi",
+                                        "url": "https://www.nationalreview.com/author/oliver-traldi/"
+                                    }
+                                ],
+                                "datePublished": "2018-07-27 05:30:12",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwMjI3MzU2Ml8qXzE1Nzk1NjY3NjQ=",
+                        "node": {
+                            "url": "https://link.medium.com/jhtcLPslVW",
+                            "_createdAt": 1558614024,
+                            "_updatedAt": 1579566765,
+                            "id": "2602273562",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566764,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Using Mode definitions (and dbt) to bootstrap your data model",
+                                "itemId": "2481089921",
+                                "resolvedId": "2481089921",
+                                "resolvedUrl": "https://towardsdatascience.com/using-mode-definitions-and-dbt-to-bootstrap-your-data-model-9ea6c9691131",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Towards Data Science"
+                                },
+                                "excerpt": "At Landed, we track a variety of customer journeys through a variety of lifecycle stages across a variety of products. To explore all this variety, our teams rely on a collection of analytics dashboards to help them anticipate the needs of our customers and partners.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/2*0HnekUaW4xL0c_GIWqpVXg.jpeg",
+                                        "width": 28
+                                    },
+                                    {
+                                        "caption": "Penny model. Oh, if our network graphs were so simple.",
+                                        "credit": "",
+                                        "height": 1333,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/4000/1*4Yi7dwj3mjSkDOggZRY1mA.png",
+                                        "width": 2000
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*4Yi7dwj3mjSkDOggZRY1mA.png",
+                                "timeToRead": 6,
+                                "givenUrl": "https://link.medium.com/jhtcLPslVW",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "49116886",
+                                        "name": "Siobhán K Cronin",
+                                        "url": "https://medium.com/@siobhankcronin"
+                                    }
+                                ],
+                                "datePublished": "2019-02-06 18:16:41",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU5MDk3ODcwMl8qXzE1Nzk1NjY3NzA=",
+                        "node": {
+                            "url": "https://aeon.co/essays/bring-back-science-and-philosophy-as-natural-philosophy",
+                            "_createdAt": 1558517316,
+                            "_updatedAt": 1579566802,
+                            "id": "2590978702",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566770,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Natural philosophy redux",
+                                "itemId": "2590978702",
+                                "resolvedId": "2590978702",
+                                "resolvedUrl": "https://aeon.co/essays/bring-back-science-and-philosophy-as-natural-philosophy",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "There are decisive grounds for holding that we need to bring about a revolution in philosophy, a revolution in science, and then put the two together again to create a modern version of natural philosophy.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Man of Science",
+                                        "credit": "1839",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://epsilon.aeon.co/images/4024f287-59a9-4191-a4ad-8364d00b179e/header_essay-a13857.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig 1. Aim-orientated empiricism.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://d2e1bqvws99ptg.cloudfront.net/user_image_upload/999/Picture1.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://epsilon.aeon.co/images/4024f287-59a9-4191-a4ad-8364d00b179e/header_essay-a13857.jpg",
+                                "timeToRead": 19,
+                                "givenUrl": "https://aeon.co/essays/bring-back-science-and-philosophy-as-natural-philosophy",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "111426173",
+                                        "name": "Nicholas Maxwell",
+                                        "url": "https://aeon.co/users/nicholas-maxwell"
+                                    }
+                                ],
+                                "datePublished": "2019-05-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU5NjAwMDYzOV8qXzE1Nzk1NjY3NzQ=",
+                        "node": {
+                            "url": "https://www.vox.com/science-and-health/2019/5/17/18627757/kilogram-redefined-world-metrology-day-explained",
+                            "_createdAt": 1558517204,
+                            "_updatedAt": 1579566831,
+                            "id": "2596000639",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566774,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The new kilogram just debuted. It’s a massive achievement.",
+                                "itemId": "2596000639",
+                                "resolvedId": "2596000639",
+                                "resolvedUrl": "https://www.vox.com/science-and-health/2019/5/17/18627757/kilogram-redefined-world-metrology-day-explained",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Vox"
+                                },
+                                "excerpt": "The new definition represents a victory of humankind over chaos in the universe. Really. Humanity has a new definition of the kilogram, the standard unit of mass used the world over.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "Fox Photos/Getty Images",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/C8OCpFaCrc2_UxmL-tPHahGRFfU=/10x542:3323x2688/1200x800/filters:focal(1804x884:2374x1454)/cdn.vox-cdn.com/uploads/chorus_image/image/63852687/GettyImages_3089908.0.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/urZ9c-2F6ILMYvxwaZkpJtpBZnk=/0x0:2175x2796/1200x0/filters:focal(0x0:2175x2796):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/16283748/GettyImages_3263878.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/22734206/paypal_logo.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.vox-cdn.com/thumbor/bt73mtYT-60gsj6DiQNe6MlMdCo=/10x542:3323x2277/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16283658/GettyImages_3089908.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.vox.com/science-and-health/2019/5/17/18627757/kilogram-redefined-world-metrology-day-explained",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67776166",
+                                        "name": "Brian Resnick",
+                                        "url": "https://www.vox.com/authors/brian-resnick"
+                                    }
+                                ],
+                                "datePublished": "2019-05-20 07:45:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU5NzkyNjc0NF8qXzE1Nzk1NjY3Nzc=",
+                        "node": {
+                            "url": "https://www.engadget.com/2019/05/19/impossible-foods-burger-sausage-empire/",
+                            "_createdAt": 1558517059,
+                            "_updatedAt": 1579566831,
+                            "id": "2597926744",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566777,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Impossible Foods’ rising empire of almost-meat",
+                                "itemId": "2601112481",
+                                "resolvedId": "2601112481",
+                                "resolvedUrl": "https://www.reddit.com/r/indepthstories/comments/brnvro/impossible_foods_rising_empire_of_almostmeat/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Reddit"
+                                },
+                                "excerpt": "38Posted by3 years ago engadget.com/2019/0...Sorry, this post was removed by Reddit's spam filters.Reddit's automated bots frequently filter posts it thinks might be spam.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://external-preview.redd.it/UTfbXoEEU1zN7bd1GwQDFUHouAIMfqxkx4Qeu3vs2y8.jpg?auto=webp&s=7444a7056b873fb93d60bd322820259843f0f77f",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.engadget.com/2019/05/19/impossible-foods-burger-sausage-empire/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2009-08-26 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM0NjA0ODg5NV8qXzE1Nzk1NjY3ODU=",
+                        "node": {
+                            "url": "https://jvns.ca/blog/senior-engineer/",
+                            "_createdAt": 1557761115,
+                            "_updatedAt": 1579566831,
+                            "id": "2346048895",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566785,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What's a senior engineer's job?",
+                                "itemId": "2346048895",
+                                "resolvedId": "2346048895",
+                                "resolvedUrl": "https://jvns.ca/blog/senior-engineer/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "jvns.ca"
+                                },
+                                "excerpt": "There’s this great post by John Allspaw called “On being a senior engineer”. I originally read it 4ish years ago when I started my current job and it really influenced how I thought about the direction I wanted to go in.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "https://jvns.ca/blog/senior-engineer/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "5751812",
+                                        "name": "Julia Evans",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU4NTc1ODg5OV8qXzE1Nzk1NjY3ODc=",
+                        "node": {
+                            "url": "https://link.medium.com/fESBr3xpwW",
+                            "_createdAt": 1557316045,
+                            "_updatedAt": 1579566831,
+                            "id": "2585758899",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566787,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is DeFi Ethereums Killer App?",
+                                "itemId": "2573304720",
+                                "resolvedId": "2573304720",
+                                "resolvedUrl": "https://medium.com/@davekaj/is-defi-ethereums-killer-app-60f18bf785af",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Is DeFi Ethereums Killer App?A Case Study with Compound FinanceDave KajpustApr 26, 201911 min read·After 4 years it is still unclear what the best use case for smart contracts are.The ICO was a revolutionary shift in fund raising, which drove a massive bull market that peaked in January 2018.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Source: https://www.theblockcrypto.com/2019/03/14/mapping-out-ethereums-defi/",
+                                        "credit": "",
+                                        "height": 399,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*Hb47KHf0VRCzSJO4Cvx4Vw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Source: https://mikemcdonald.github.io/eth-defi/ — The amount of ETH locked in some DeFi protocols on April 16th 2019",
+                                        "credit": "",
+                                        "height": 866,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/3830/1*ZTOm5X5buZICIr8FBUwAjg.png",
+                                        "width": 1915
+                                    },
+                                    {
+                                        "caption": "The Compound Money Market Dapp",
+                                        "credit": "",
+                                        "height": 850,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/1*roaAh1arxNPofPqJsrgwRA.png",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*ZTOm5X5buZICIr8FBUwAjg.png",
+                                "timeToRead": 11,
+                                "givenUrl": "https://link.medium.com/fESBr3xpwW",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "81498044",
+                                        "name": "Dave Kajpust",
+                                        "url": "https://medium.com/@davekaj"
+                                    }
+                                ],
+                                "datePublished": "2019-05-01 19:02:08",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU3OTUzMzc1N18qXzE1Nzk1NjY3OTA=",
+                        "node": {
+                            "url": "https://www.nationalreview.com/magazine/2019/05/20/will-the-right-defend-economic-liberty/",
+                            "_createdAt": 1556900259,
+                            "_updatedAt": 1579566831,
+                            "id": "2579533757",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566790,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Will the Right Defend Economic Liberty?",
+                                "itemId": "2579533757",
+                                "resolvedId": "2579533757",
+                                "resolvedUrl": "https://www.nationalreview.com/magazine/2019/05/20/will-the-right-defend-economic-liberty/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "National Review"
+                                },
+                                "excerpt": "Republican leaders will have to acknowledge that market capitalism is not a religion. Market capitalism is a tool, like a staple gun or a toaster. You’d have to be a fool to worship it. Our system was created by human beings for the benefit of human beings. We do not exist to serve markets.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 1,
+                                        "src": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/school-classroom-montebello-california.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 2,
+                                        "src": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-022820-19.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 3,
+                                        "src": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/Mark-Milley.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 4,
+                                        "src": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/trump-2.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/05/hayek-friedman.jpg?fit=1200%2C700&ssl=1",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.nationalreview.com/magazine/2019/05/20/will-the-right-defend-economic-liberty/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "84234615",
+                                        "name": "Jonah Goldberg",
+                                        "url": "https://www.nationalreview.com/author/jonah-goldberg/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-02 12:29:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM4MzUzMzY5MF8qXzE1Nzk1NjY3OTI=",
+                        "node": {
+                            "url": "https://quillette.com/2018/11/10/camille-paglia-its-time-for-a-new-map-of-the-gender-world/",
+                            "_createdAt": 1556763619,
+                            "_updatedAt": 1579566831,
+                            "id": "2383533690",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566792,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Camille Paglia: It’s Time for a New Map of the Gender World",
+                                "itemId": "2383533690",
+                                "resolvedId": "2383533690",
+                                "resolvedUrl": "https://quillette.com/2018/11/10/camille-paglia-its-time-for-a-new-map-of-the-gender-world/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quillette"
+                                },
+                                "excerpt": "I discovered Camille Paglia’s work when I was pursuing my undergraduate arts education at The University of Adelaide, South Australia, in the early 2000s.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 386,
+                                        "imageId": 1,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/11/08100805/9781524746896-fullsize-rgb.jpg?resize=256%2C386&ssl=1",
+                                        "width": 256
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/11/08100512/Camille-Paglia.jpg",
+                                "timeToRead": 12,
+                                "givenUrl": "https://quillette.com/2018/11/10/camille-paglia-its-time-for-a-new-map-of-the-gender-world/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "89451902",
+                                        "name": "Claire Lehmann",
+                                        "url": "https://quillette.com/author/clairelehmann/"
+                                    }
+                                ],
+                                "datePublished": "2018-11-10 04:12:56",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU1OTQ5MTQ1MV8qXzE1Nzk1NjY3OTU=",
+                        "node": {
+                            "url": "https://www.enigma.com/blog/containerizing-data-workflows",
+                            "_createdAt": 1555423368,
+                            "_updatedAt": 1579566831,
+                            "id": "2559491451",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566795,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3368693868",
+                                "resolvedId": "3368693868",
+                                "resolvedUrl": "https://enigma.com/404",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "enigma.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.enigma.com/blog/containerizing-data-workflows",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NDcxNF8qXzE1Nzk1NjY3OTc=",
+                        "node": {
+                            "url": "https://martinfowler.com/articles/injection.html",
+                            "_createdAt": 1555346934,
+                            "_updatedAt": 1579566831,
+                            "id": "4714",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566797,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Inversion of Control Containers and the Dependency Injection pattern",
+                                "itemId": "4714",
+                                "resolvedId": "4714",
+                                "resolvedUrl": "https://martinfowler.com/articles/injection.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Martin Fowler"
+                                },
+                                "excerpt": "In the Java community there's been a rush of lightweight containers that help to assemble components from different projects into a cohesive application.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Figure 1: The dependencies using a simple creation\nin the lister class",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://martinfowler.com/articles/injection/naive.gif",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Figure 2: The dependencies for a Dependency\nInjector",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://martinfowler.com/articles/injection/injector.gif",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Figure 3: The dependencies for a Service\nLocator",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://martinfowler.com/articles/injection/locator.gif",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://martinfowler.com/logo-sq.png",
+                                "timeToRead": 28,
+                                "givenUrl": "https://martinfowler.com/articles/injection.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2004-01-23 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjA4MzM3NzgwOF8qXzE1Nzk1NjY3OTk=",
+                        "node": {
+                            "url": "https://hbr.org/2018/03/better-brainstorming",
+                            "_createdAt": 1553920824,
+                            "_updatedAt": 1579566831,
+                            "id": "2083377808",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566799,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Better Brainstorming",
+                                "itemId": "2083377808",
+                                "resolvedId": "2083377808",
+                                "resolvedUrl": "https://hbr.org/2018/03/better-brainstorming",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harvard Business Review"
+                                },
+                                "excerpt": "About 20 years ago I was leading a brainstorming session in one of my MBA classes, and it was like wading through oatmeal. We were talking about something that many organizations struggle with: how to build a culture of equality in a male-dominated environment.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Harvard Business Review Staff",
+                                        "credit": "Harvard Business Review Staff",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hbr.org/resources/images/article_assets/2018/02/R1802C_GREGERSEN.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hbr.org/resources/images/article_assets/2018/02/R1802C_GREGERSEN.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://hbr.org/2018/03/better-brainstorming",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "98732963",
+                                        "name": "Hal Gregersen",
+                                        "url": "https://hbr.org/search?term=hal%20gregersen"
+                                    }
+                                ],
+                                "datePublished": "2018-02-28 23:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUzNzM4MzQ2NF8qXzE1Nzk1NjY4MDY=",
+                        "node": {
+                            "url": "http://www.bbc.com/future/story/20190326-are-we-close-to-solving-the-puzzle-of-consciousness",
+                            "_createdAt": 1553920598,
+                            "_updatedAt": 1579566844,
+                            "id": "2537383464",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566806,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3915489540",
+                                "resolvedId": "3915489540",
+                                "resolvedUrl": "https://getpocket.com:443/sIzWee?cta=1&src=ph",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.bbc.com/future/story/20190326-are-we-close-to-solving-the-puzzle-of-consciousness",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU3NzY4MDg4Ml8qXzE1Nzk1NjY4MTE=",
+                        "node": {
+                            "url": "https://hbr.org/2017/01/how-to-prioritize-your-work-when-your-manager-doesnt",
+                            "_createdAt": 1553920582,
+                            "_updatedAt": 1579566844,
+                            "id": "1577680882",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566811,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Prioritize Your Work When Your Manager Doesn’t",
+                                "itemId": "1577680882",
+                                "resolvedId": "1577680882",
+                                "resolvedUrl": "https://hbr.org/2017/01/how-to-prioritize-your-work-when-your-manager-doesnt",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harvard Business Review"
+                                },
+                                "excerpt": "Prioritizing work can be frustrating, especially if you work for a hands-off manager or a company that doesn’t give you clear goals. Most of us face this reality each and every day.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hbr.org/resources/images/article_assets/2017/01/jan17-24-141480044.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 987,
+                                        "imageId": 2,
+                                        "src": "https://hbr.org/resources/images/article_assets/2017/01/W170112_SU_PRIORITIZETASKS.png",
+                                        "width": 641
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hbr.org/resources/images/article_assets/2017/01/jan17-24-141480044.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://hbr.org/2017/01/how-to-prioritize-your-work-when-your-manager-doesnt",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "97817045",
+                                        "name": "Amy Jen Su",
+                                        "url": "https://hbr.org/search?term=amy%20jen%20su"
+                                    }
+                                ],
+                                "datePublished": "2017-01-24 07:05:54",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTY4NjcwMzE0MF8qXzE1Nzk1NjY4MTM=",
+                        "node": {
+                            "url": "http://nautil.us/issue/47/consciousness/is-matter-conscious",
+                            "_createdAt": 1553920523,
+                            "_updatedAt": 1579566844,
+                            "id": "1686703140",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566813,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1686703140",
+                                "resolvedId": "1686703140",
+                                "resolvedUrl": "http://nautil.us/issue/47/consciousness/is-matter-conscious",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://nautil.us/issue/47/consciousness/is-matter-conscious",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjA0NjU5Njc0OF8qXzE1Nzk1NjY4MTY=",
+                        "node": {
+                            "url": "https://fs.blog/2016/04/munger-operating-system/",
+                            "_createdAt": 1553920374,
+                            "_updatedAt": 1579566844,
+                            "id": "2046596748",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566816,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Munger Operating System: How to Live a Life That Really Works",
+                                "itemId": "3467576614",
+                                "resolvedId": "3467576614",
+                                "resolvedUrl": "https://fs.blog/munger-operating-system/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Shane Parrish"
+                                },
+                                "excerpt": "In 2007, Charlie Munger gave the commencement address at USC Law School, opening his speech by saying, “Well, no doubt many of you are wondering why the speaker is so old. Well, the answer is obvious: He hasn’t died yet.” Fortunately for us, Munger has kept on ticking.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://149664534.v2.pressablecdn.com/wp-content/uploads/2016/04/The-Munger-Operating-System.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "https://fs.blog/2016/04/munger-operating-system/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "169584848",
+                                        "name": "Farnam Street",
+                                        "url": "https://www.facebook.com/FarnamStreet/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-13 06:00:03",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjY1Mjg0ODU2XypfMTU3OTU2NjgxOA==",
+                        "node": {
+                            "url": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/",
+                            "_createdAt": 1551548764,
+                            "_updatedAt": 1579566844,
+                            "id": "665284856",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566818,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Understanding Convolutions",
+                                "itemId": "665284856",
+                                "resolvedId": "665284856",
+                                "resolvedUrl": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "colah.github.io"
+                                },
+                                "excerpt": "In a previous post, we built up an understanding of convolutional neural networks, without referring to any significant mathematics. To go further, however, we need to understand convolutions.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-fagb.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-split-21.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-splits-12-03.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-OnePath.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-SumPaths.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-Reverse.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-BackProb.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-Intermediate.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-Intermediate-Align.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-Intermediate-Sep.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "From Wikipedia",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/Wiki-BoxConvAnim.gif",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/ProbConv-TwoDim.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "From the River Trail documentation",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/RiverTrain-ImageConvDiagram.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Derived from the Gimp documentation",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 14,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/Gimp-Blur.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Derived from the Gimp documentation",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 15,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/Gimp-Edge.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 16,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/Conv-9-Conv2-XY.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 17,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/Conv-9-Conv2-XY-W.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 18,
+                                        "src": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/img/Conv2-5x5-Conv2-XY.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 9,
+                                "givenUrl": "http://colah.github.io/posts/2014-07-Understanding-Convolutions/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2014-07-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk5MzkyNzlfKl8xNTc5NTY2ODIz",
+                        "node": {
+                            "url": "http://www.edchange.org/multicultural/speeches/malcolm_x_ballot.html",
+                            "_createdAt": 1544631687,
+                            "_updatedAt": 1579566844,
+                            "id": "19939279",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566823,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "19939279",
+                                "resolvedId": "19939279",
+                                "resolvedUrl": "https://www.edchange.org/multicultural/speeches/malcolm_x_ballot.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "edchange.org"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.edchange.org/multicultural/speeches/malcolm_x_ballot.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE0MDhfKl8xNTc5NTY2ODI1",
+                        "node": {
+                            "url": "http://www.paulgraham.com/hs.html",
+                            "_createdAt": 1546884138,
+                            "_updatedAt": 1579566844,
+                            "id": "21408",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566825,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What You'll Wish You'd Known",
+                                "itemId": "21408",
+                                "resolvedId": "21408",
+                                "resolvedUrl": "https://paulgraham.com/hs.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "paulgraham.com"
+                                },
+                                "excerpt": "January 2005 (I wrote this talk for a high school. I never actually gave it, because the school authorities vetoed the plan to invite me.) When I said I was speaking at a high school, my friends were curious.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.paulgraham.com/hs.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ0NTI5ODc5MV8qXzE1Nzk1NjY4Mjc=",
+                        "node": {
+                            "url": "https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47",
+                            "_createdAt": 1548180482,
+                            "_updatedAt": 1579566844,
+                            "id": "2445298791",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566827,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What are Eigenvalues and Eigenvectors?",
+                                "itemId": "2445298791",
+                                "resolvedId": "2445298791",
+                                "resolvedUrl": "https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Eigenvectors and eigenvalues live in the heart of the data science field. This article will aim to explain what eigenvectors and eigenvalues are, how they are calculated and how we can use them. It’s a must-know topic for anyone who wants to understand machine learning in-depth.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "Helloquence on Unsplash",
+                                        "height": 4912,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/14720/0*un4JIg7hpd361bW9",
+                                        "width": 7360
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "Joel Filipe on Unsplash",
+                                        "height": 4610,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/7296/0*WNS9_2r9wr0ABe2U",
+                                        "width": 3648
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 68,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/1*OBDgTXEUlUt3wfKblp47BQ.png",
+                                        "width": 111
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 90,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1600/1*i8_lG1Wq2q5Im0OFvWW_BQ.png",
+                                        "width": 476
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 75,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/1600/1*E7x0smkNrGplqb0YhDRZFA.png",
+                                        "width": 383
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 115,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1600/1*OXQsEKBeDeWu_VlPdSHLwg.png",
+                                        "width": 424
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 44,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1600/1*LMvVzGqj7hJJv-Fyna7WqQ.png",
+                                        "width": 55
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 69,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/1600/1*bIQMbqKHI5OM_wnGsnq9bw.png",
+                                        "width": 304
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 71,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1600/1*KcNyn2BW__twG3ITnjj0-w.png",
+                                        "width": 107
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 57,
+                                        "imageId": 10,
+                                        "src": "https://miro.medium.com/max/1600/1*OpsOYzopms_iwU8ESsdXTg.png",
+                                        "width": 546
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 65,
+                                        "imageId": 11,
+                                        "src": "https://miro.medium.com/max/1600/1*EGGlvpfv4ICf1IVyOMlr9A.png",
+                                        "width": 617
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "CMDR Shane on Unsplash",
+                                        "height": 3657,
+                                        "imageId": 12,
+                                        "src": "https://miro.medium.com/max/11196/0*oGruCmAHtmrbTLl3",
+                                        "width": 5598
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 65,
+                                        "imageId": 13,
+                                        "src": "https://miro.medium.com/max/1600/1*4htJZnnvPc6CLad3IqPLbw.png",
+                                        "width": 104
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 52,
+                                        "imageId": 14,
+                                        "src": "https://miro.medium.com/max/1600/1*5XDc5OiKldso7a1cPzhCQQ.png",
+                                        "width": 160
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 50,
+                                        "imageId": 15,
+                                        "src": "https://miro.medium.com/max/1600/1*eZSqgvsRvB8-sahbKqseGQ.png",
+                                        "width": 115
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 62,
+                                        "imageId": 16,
+                                        "src": "https://miro.medium.com/max/1600/1*EwH4NKJU-A3X0UE3VlYv2Q.png",
+                                        "width": 284
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 37,
+                                        "imageId": 17,
+                                        "src": "https://miro.medium.com/max/1600/1*pT5Il4QZ7pFttwWjWvR7RA.png",
+                                        "width": 170
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 86,
+                                        "imageId": 18,
+                                        "src": "https://miro.medium.com/max/1600/1*AKrPdfFcTiy9_5ie_utp-A.png",
+                                        "width": 444
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 57,
+                                        "imageId": 19,
+                                        "src": "https://miro.medium.com/max/1600/1*AEOX0sbJaKs-M04KB91u3w.png",
+                                        "width": 114
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/0*oGruCmAHtmrbTLl3",
+                                "timeToRead": 12,
+                                "givenUrl": "https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "126583825",
+                                        "name": "Farhad Malik",
+                                        "url": "https://medium.com/@farhadmalik"
+                                    }
+                                ],
+                                "datePublished": "2020-01-29 16:14:45",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjgyMTA4MDc0N18qXzE1NzkxMzEyMTc=",
+                    "endCursor": "MjQ0NTI5ODc5MV8qXzE1Nzk1NjY4Mjc="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

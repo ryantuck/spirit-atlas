@@ -1,0 +1,1889 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjY1OTYyNTM2NF8qXzE1NjM1MDM3NDA=",
+                        "node": {
+                            "url": "https://blog.fishtownanalytics.com/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce",
+                            "_createdAt": 1563397330,
+                            "_updatedAt": 1563503741,
+                            "id": "2659625364",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563503740,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Five principles that will keep your data warehouse organized",
+                                "itemId": "3610183033",
+                                "resolvedId": "3610183033",
+                                "resolvedUrl": "https://www.getdbt.com/blog/five-principles-that-will-keep-your-data-warehouse-organized/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "getdbt.com"
+                                },
+                                "excerpt": "The natural state of the universe is chaos: entropy tends to increase in closed systems, and there’s really nothing that we can do about that.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.getdbt.com/ui/img/blog/five-principles-that-will-keep-your-data-warehouse-organized/chuttersnap-kyCNGGKCvyw-unsplash.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "https://blog.fishtownanalytics.com/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "167097432",
+                                        "name": "Claire Carroll",
+                                        "url": "https://www.getdbt.com/author/claire-carroll/"
+                                    }
+                                ],
+                                "datePublished": "2019-07-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY0NDU3MTkxM18qXzE1NjM1MDM5ODI=",
+                        "node": {
+                            "url": "https://jvns.ca/blog/brag-documents/",
+                            "_createdAt": 1563207949,
+                            "_updatedAt": 1563503982,
+                            "id": "2644571913",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563503982,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Get your work recognized: write a brag document",
+                                "itemId": "2644571913",
+                                "resolvedId": "2644571913",
+                                "resolvedUrl": "https://jvns.ca/blog/brag-documents/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "jvns.ca"
+                                },
+                                "excerpt": "There’s this idea that, if you do great work at your job, people will (or should!) automatically recognize that work and reward you for it with promotions / increased pay. In practice, it’s often more complicated than that – some kinds of important work are more visible/memorable than others.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 13,
+                                "givenUrl": "https://jvns.ca/blog/brag-documents/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "20624468",
+                                        "name": "Aashni Shah",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY1MzI1NjIxNl8qXzE1NjM1MDQyOTM=",
+                        "node": {
+                            "url": "https://areomagazine.com/2019/07/09/hippocratic-oath-for-the-culture-war/",
+                            "_createdAt": 1562708410,
+                            "_updatedAt": 1563504293,
+                            "id": "2653256216",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563504293,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Hippocratic Oath for the Culture War",
+                                "itemId": "2653256216",
+                                "resolvedId": "2653256216",
+                                "resolvedUrl": "https://areomagazine.com/2019/07/09/hippocratic-oath-for-the-culture-war/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "areomagazine.com"
+                                },
+                                "excerpt": "It starts with a tweet, perhaps, or a brief video clip. Someone, somewhere, has violated your core values—those of every correct-thinking person.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Beautiful young african american woman over isolated background Swearing with hand on chest and open palm, making a loyalty promise oath",
+                                        "credit": "",
+                                        "height": 858,
+                                        "imageId": 1,
+                                        "src": "https://i0.wp.com/areomagazine.com/wp-content/uploads/2019/07/AdobeStock_240494190.jpeg?fit=1920%2C858&ssl=1",
+                                        "width": 1920
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 31,
+                                        "imageId": 2,
+                                        "src": "https://i0.wp.com/areomagazine.com/wp-content/uploads/2019/07/Creative-Commons.png?resize=88%2C31&ssl=1",
+                                        "width": 88
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://areomagazine.com/wp-content/uploads/2019/07/AdobeStock_240494190-1160x518.jpeg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://areomagazine.com/2019/07/09/hippocratic-oath-for-the-culture-war/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "91799862",
+                                        "name": "Conor Barnes",
+                                        "url": "https://areomagazine.com/author/ideopunk/"
+                                    }
+                                ],
+                                "datePublished": "2019-09-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAyMjM3NDQyMF8qXzE1NjM2MjkwMTk=",
+                        "node": {
+                            "url": "https://www.samwoolfe.com/2014/05/spirals-everywhere.html",
+                            "_createdAt": 1560621065,
+                            "_updatedAt": 1563629019,
+                            "id": "2022374420",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563629019,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why Do Spirals Exist Everywhere in Nature?",
+                                "itemId": "2022374420",
+                                "resolvedId": "2022374420",
+                                "resolvedUrl": "https://www.samwoolfe.com/2014/05/spirals-everywhere.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "samwoolfe.com"
+                                },
+                                "excerpt": "Spirals are a common shape found in nature, as well as in sacred architecture.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Mitla",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://2.bp.blogspot.com/-2KSG67jVIIw/U4jHASLnW0I/AAAAAAAABc0/gdQXtfoAUYY/s1600/zapotec+ruins+mosaic.JPG",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The Great Mosque of Samarra",
+                                        "credit": "",
+                                        "height": 305,
+                                        "imageId": 2,
+                                        "src": "http://1.bp.blogspot.com/-bSdtHCPUsYc/U4jHfgooIOI/AAAAAAAABc8/J1r8p3Fa4u0/s1600/library_037_lg.jpg",
+                                        "width": 298
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://4.bp.blogspot.com/-EtPgdA1FlDE/U4jIEzna-dI/AAAAAAAABdU/8ZSYPhXm3b4/s1600/Helianthus_whorl.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "http://3.bp.blogspot.com/-d2IrJUAh7Q8/U4jIpng7FCI/AAAAAAAABdc/MScY1NJTO8A/s1600/Spiral_staircase_in_the_Vatican_Museums.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "http://4.bp.blogspot.com/-COD4Frv_9Ew/U4jLB9I97HI/AAAAAAAABds/WwIxTA7ltt8/s1600/DirkvdM_natural_spiral.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "http://4.bp.blogspot.com/-z9y-nrNSnz8/U4jLRcZH5mI/AAAAAAAABd0/Zypbia59wio/s1600/4733975909_3ef4692478_z.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "http://2.bp.blogspot.com/-DMcwQfVB12k/U4jLtUlU7ZI/AAAAAAAABd8/wQ5G80qf6UI/s1600/1315247_cc6b021e.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://1.bp.blogspot.com/-5E1J3LmqhrU/U4jCbjRa8GI/AAAAAAAABcs/Nm3lV09Ai8Q/s1600/spiral-galaxy-and-nautilus2.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://www.samwoolfe.com/2014/05/spirals-everywhere.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "149159420",
+                                        "name": "Sam Woolfe",
+                                        "url": "https://www.samwoolfe.com/author/samwoolfe"
+                                    }
+                                ],
+                                "datePublished": "2014-05-30 12:20:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyNTAxMTk4Nl8qXzE1NjM2Mzc5MzM=",
+                        "node": {
+                            "url": "https://link.medium.com/LobwNjGbuX",
+                            "_createdAt": 1560427783,
+                            "_updatedAt": 1563637934,
+                            "id": "2625011986",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563637933,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4016578659",
+                                "resolvedId": "4016578659",
+                                "resolvedUrl": "https://rsci.app.link/LobwNjGbuX?_p=c31029c09a047af6e4038d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rsci.app.link"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://link.medium.com/LobwNjGbuX",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMDA4ODQ2Nl8qXzE1NjM2NDgwOTU=",
+                        "node": {
+                            "url": "https://macwright.org/2019/06/08/ipfs-again.html",
+                            "_createdAt": 1560352741,
+                            "_updatedAt": 1563648096,
+                            "id": "2620088466",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563648095,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "IPFS, Again",
+                                "itemId": "3134167819",
+                                "resolvedId": "3134167819",
+                                "resolvedUrl": "https://macwright.com/2019/06/08/ipfs-again.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "macwright.com"
+                                },
+                                "excerpt": "In 2017, I wrote how to decentralize your website with IPFS. I wasn’t able to do it back then. Two years later, a few things have changed. Instead of 52 million dollars, Protocol Labs has about 257 more, bringing the total over 300 million dollars.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://macwright.com/images/2019-06-08-ipfs-again-ipfs-graphic.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://macwright.com/images/2019-06-08-ipfs-again-ipfs.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://macwright.com/images/2019-06-08-ipfs-again-thumbnail-image.png",
+                                "timeToRead": 12,
+                                "givenUrl": "https://macwright.org/2019/06/08/ipfs-again.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "11462160",
+                                        "name": "Tom MacWright",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY3MTM4NDIyNV8qXzE1NjQzNjg3MDM=",
+                        "node": {
+                            "url": "https://www.washingtonpost.com/nation/2019/07/26/it-snuck-up-us-city-killer-asteroid-just-missed-earth-scientists-almost-didnt-detect-it-time/",
+                            "_createdAt": 1564368347,
+                            "_updatedAt": 1564368703,
+                            "id": "2671384225",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1564368703,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "‘It snuck up on us’: Scientists stunned by ‘city-killer’ asteroid that just missed Earth",
+                                "itemId": "2671384225",
+                                "resolvedId": "2671384225",
+                                "resolvedUrl": "https://www.washingtonpost.com/nation/2019/07/26/it-snuck-up-us-city-killer-asteroid-just-missed-earth-scientists-almost-didnt-detect-it-time/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "“People are only sort of realizing what happened pretty much after it’s already flung past us,” one astronomer said.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3XHF4GQUJGW3JCIPMYMMWL3EE.jpg&w=1440",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.washingtonpost.com/nation/2019/07/26/it-snuck-up-us-city-killer-asteroid-just-missed-earth-scientists-almost-didnt-detect-it-time/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "83225926",
+                                        "name": "Allyson Chiu",
+                                        "url": "https://www.washingtonpost.com/people/allyson-chiu/"
+                                    }
+                                ],
+                                "datePublished": "2019-07-26 06:20:28",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY3MTUxMDM3Nl8qXzE1NjQzNjg3MDg=",
+                        "node": {
+                            "url": "https://www.popularmechanics.com/technology/design/g28510912/history-of-washing-machines/",
+                            "_createdAt": 1564368301,
+                            "_updatedAt": 1564368708,
+                            "id": "2671510376",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1564368708,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Secret History of Washing Machines",
+                                "itemId": "2671510376",
+                                "resolvedId": "2671510376",
+                                "resolvedUrl": "https://www.popularmechanics.com/technology/design/g28510912/history-of-washing-machines/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Popular Mechanics"
+                                },
+                                "excerpt": "Gear-obsessed editors choose every product we review. We may earn commission if you buy from a link. How we test gear.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/row-of-clothes-dryers-laundromat-royalty-free-image-470450361-1564089661.jpg?crop=1.00xw:0.751xh;0,0.141xh&resize=1200:*",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.popularmechanics.com/technology/design/g28510912/history-of-washing-machines/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "83223522",
+                                        "name": "Joe Pappalardo",
+                                        "url": "https://www.popularmechanics.com/author/7035/joe-pappalardo/"
+                                    }
+                                ],
+                                "datePublished": "2019-07-26 01:47:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwMDQ4ODg2Nl8qXzE1NjQzNjg5OTk=",
+                        "node": {
+                            "url": "https://medium.com/@peterw.spangler/investing-in-data-fluency-6140adc9d490",
+                            "_createdAt": 1563562830,
+                            "_updatedAt": 1564368999,
+                            "id": "2600488866",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1564368999,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Investing in Data Fluency",
+                                "itemId": "2600488866",
+                                "resolvedId": "2600488866",
+                                "resolvedUrl": "https://medium.com/@peterw.spangler/investing-in-data-fluency-6140adc9d490",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "“…we were accused of ‘muddying the water’, to which our response was that we were simply acknowledging that the water was, indeed, muddy.” — Peter J. Diggle, Amanda G. Chetwynd, Statistics and Scientific Method Data are being collected faster than we know what to do with them.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*dxrSNP_6108gHKknqZCmHg.jpeg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://medium.com/@peterw.spangler/investing-in-data-fluency-6140adc9d490",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "174518974",
+                                        "name": "Storybench",
+                                        "url": "http://www.storybench.org/author/martinfri/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-20 09:41:50",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY3ODg4MjExMF8qXzE1NjU1NDQwNTc=",
+                        "node": {
+                            "url": "https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look",
+                            "_createdAt": 1565180266,
+                            "_updatedAt": 1565544057,
+                            "id": "2678882110",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1565544057,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The hypersane are among us, if only we are prepared to look",
+                                "itemId": "2678882110",
+                                "resolvedId": "2678882110",
+                                "resolvedUrl": "https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "‘Hypersanity’ is not a common or accepted term. But neither did I make it up. I first came across the concept while training in psychiatry, in The Politics of Experience and the Bird of Paradise (1967) by R D Laing.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://nu.aeon.co/images/a0c9b7c1-f9fc-44d3-9c14-a313e8e469d3/idea_sized-gettyimages-970466758.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://aeon.co/ideas/the-hypersane-are-among-us-if-only-we-are-prepared-to-look",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2509179",
+                                        "name": "Neel Burton",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-08-02 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcwMDI0MjczN18qXzE1NjY2MDI3MTE=",
+                        "node": {
+                            "url": "https://www.smithsonianmag.com/smithsonian-institution/chunk-trinitite-reminds-sheer-devastating-power-atomic-bomb-180972848/",
+                            "_createdAt": 1566507181,
+                            "_updatedAt": 1566602711,
+                            "id": "2700242737",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1566602711,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Chunk of Trinitite Reminds Us of the Sheer, Devastating Power of the Atomic Bomb",
+                                "itemId": "2700242737",
+                                "resolvedId": "2700242737",
+                                "resolvedUrl": "https://www.smithsonianmag.com/smithsonian-institution/chunk-trinitite-reminds-sheer-devastating-power-atomic-bomb-180972848/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Smithsonian Magazine"
+                                },
+                                "excerpt": "The first atomic bomb ever exploded was a test device, insouciantly nicknamed the Gadget.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Samples of trinitite from the Smithsonian National Museum of Natural History.",
+                                        "credit": "(Maggie West)",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://thumbs-prod.si-cdn.com/FfPDFxNYSfKQUDuYzM4DqtG8xps=/800x600/filters:no_upscale():focal(2254x1598:2255x1599)/https://public-media.si-cdn.com/filer/33/73/33733c2a-0d03-4e95-a5b5-e3ad76eb171e/sep2019_e02_prologue.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Physicist Norris Bradbury, group leader for bomb assembly, stands next to the partially assembled Gadget atop the test tower.",
+                                        "credit": "(U.S. Department of Energy)",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://thumbs-prod.si-cdn.com/ZVwlFSjrfCdIimvnNvkpbHyAE3A=/fit-in/1072x0/https://public-media.si-cdn.com/filer/19/0c/190c202c-dfe2-40c5-bb8a-ed01feb43b9f/sep2019_e27_prologue.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "A closer view of the samples of trinitite from the Smithsonian National Museum of Natural History.",
+                                        "credit": "(Maggie West)",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://thumbs-prod.si-cdn.com/WYMl1XOhfRyCFU96AtjWDey0aXw=/fit-in/1072x0/https://public-media.si-cdn.com/filer/ff/31/ff31e10b-2836-484f-a166-3d94f406d760/sep2019_e28_prologue.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "This article is a selection from the September 2019 issue of Smithsonian magazine",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://thumbs-prod.si-cdn.com/MkSDIoJEzpRf93jHXtkboziZ-i8=/fit-in/300x0/https://public-media.si-cdn.com/embedly/SEP2019_-_Web_Cover.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "Bwosj5WmXj8",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/Bwosj5WmXj8"
+                                    }
+                                ],
+                                "topImageUrl": "https://thumbs-prod.si-cdn.com/3eGu546RB8RAF4WeilTiOe3lU9w=/fit-in/1600x0/filters:focal(2254x1598:2255x1599)/https://public-media.si-cdn.com/filer/33/73/33733c2a-0d03-4e95-a5b5-e3ad76eb171e/sep2019_e02_prologue.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.smithsonianmag.com/smithsonian-institution/chunk-trinitite-reminds-sheer-devastating-power-atomic-bomb-180972848/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "117865515",
+                                        "name": "Richard Rhodes",
+                                        "url": "https://www.smithsonianmag.com/author/richard-rhodes/"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY5Nzk1ODkyOV8qXzE1NjY2MDI3MTM=",
+                        "node": {
+                            "url": "https://cloud.google.com/blog/products/data-analytics/introducing-the-bigquery-terraform-module",
+                            "_createdAt": 1566401530,
+                            "_updatedAt": 1566602713,
+                            "id": "2697958929",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1566602713,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Introducing the BigQuery Terraform module",
+                                "itemId": "2697958929",
+                                "resolvedId": "2697958929",
+                                "resolvedUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-the-bigquery-terraform-module/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Google"
+                                },
+                                "excerpt": "It’s no secret software developers love to automate their work away, and cloud development is no different.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://cloud.google.com/blog/products/data-analytics/introducing-the-bigquery-terraform-module",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-08-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUyMzAwMjE0OV8qXzE1NjY2MDMwNDc=",
+                        "node": {
+                            "url": "https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt",
+                            "_createdAt": 1565733437,
+                            "_updatedAt": 1566603047,
+                            "id": "2523002149",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1566603047,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "3 Kinds of Good Tech Debt — Squarespace / Engineering",
+                                "itemId": "2523002149",
+                                "resolvedId": "2523002149",
+                                "resolvedUrl": "https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "engineering.squarespace.com"
+                                },
+                                "excerpt": "“Tech debt” is a dirty word in the software engineering world. It’s often said with an air of regret; a past mistake that will eventually need to be atoned for with refactoring. Financial debt isn’t universally reviled in the same way.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "http://static1.squarespace.com/static/56ab961ecbced617ccd2461e/t/57923ed0e4fcb57da233b96a/1469202129895/home-thumbnail.jpg?format=1500w",
+                                "timeToRead": 8,
+                                "givenUrl": "https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "107347361",
+                                        "name": "Jon Thornton",
+                                        "url": "https://engineering.squarespace.com/?author=5c86d817e2c483a9d35e00b2"
+                                    }
+                                ],
+                                "datePublished": "2021-09-07 20:06:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc0NzExMTI5OF8qXzE1NzExMTIzNjc=",
+                        "node": {
+                            "url": "https://heterodoxacademy.org/seizing-means-knowledge-production/",
+                            "_createdAt": 1570992967,
+                            "_updatedAt": 1571112367,
+                            "id": "2747111298",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571112367,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Seizing the Means of Knowledge Production",
+                                "itemId": "3187754352",
+                                "resolvedId": "3187754352",
+                                "resolvedUrl": "https://heterodoxacademy.org/blog/seizing-means-knowledge-production/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "heterodoxacademy.org"
+                                },
+                                "excerpt": "“The appeal to ‘social justice’ has by now become the most widely used and most effective argument in political discussion.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://heterodoxacademy.org/wp-content/uploads/2019/10/School-in-the-year-2000-800x445-1.jpg",
+                                "timeToRead": 26,
+                                "givenUrl": "https://heterodoxacademy.org/seizing-means-knowledge-production/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2907805",
+                                        "name": "schizophrenia",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-10-04 04:30:36",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM0MDUzNDQ2MV8qXzE1NzExMTI1MzE=",
+                        "node": {
+                            "url": "https://medium.com/the-prefect-blog/positive-and-negative-data-engineering-a02cb497583d",
+                            "_createdAt": 1570731063,
+                            "_updatedAt": 1571112532,
+                            "id": "2340534461",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571112531,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Positive and Negative Engineering",
+                                "itemId": "2340534461",
+                                "resolvedId": "2340534461",
+                                "resolvedUrl": "https://medium.com/the-prefect-blog/positive-and-negative-data-engineering-a02cb497583d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Prefect has a culture of transparency, which involves sharing news — both good and bad — with our employees and investors. In keeping with those values and the spirit of open-source, we’d like to also include the broader community when possible.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Image by Courtney Corlew on Unsplash",
+                                        "credit": "",
+                                        "height": 563,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/2000/0*9gizj1DiblN9DWzg",
+                                        "width": 1000
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/0*9gizj1DiblN9DWzg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://medium.com/the-prefect-blog/positive-and-negative-data-engineering-a02cb497583d",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "96564918",
+                                        "name": "Jeremiah Lowin",
+                                        "url": "https://medium.com/@jeremiah_62682"
+                                    }
+                                ],
+                                "datePublished": "2020-10-19 20:39:46",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcxODMxMDY3M18qXzE1NzExMTMyNTQ=",
+                        "node": {
+                            "url": "https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending",
+                            "_createdAt": 1568000112,
+                            "_updatedAt": 1571113255,
+                            "id": "2718310673",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571113254,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What If We Stopped Pretending?",
+                                "itemId": "2718310673",
+                                "resolvedId": "2718310673",
+                                "resolvedUrl": "https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "“There is infinite hope,” Kafka tells us, “only not for us.” This is a fittingly mystical epigram from a writer whose characters strive for ostensibly reachable goals and, tragically or amusingly, never manage to get any closer to them.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/5d72702ed9dd6c00097a5b7d/master/w_2560%2Cc_limit/Franzen-ClimateChange.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-inverted.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header-reverse.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/photos/59096916019dfc3494ea1127/4:3/w_480%2Cc_limit/150406_r26354.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/5c7ea6866c34f42c640ea5f9/4:3/w_480%2Cc_limit/Riederer-DWWClimateChangeBook.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1566827875/thenewyorker_the-amazon-forest-fires-are-stronger-than-ever-here-s-why.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/65a08e24d6e2913e0a541cde/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5d72702ed9dd6c00097a5b7d/16:9/w_1280,c_limit/Franzen-ClimateChange.jpg",
+                                "timeToRead": 12,
+                                "givenUrl": "https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "74711173",
+                                        "name": "Jonathan Franzen",
+                                        "url": "https://www.newyorker.com/contributors/jonathan-franzen"
+                                    }
+                                ],
+                                "datePublished": "2019-09-08 04:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc0OTg1NTI5OF8qXzE1NzExMTQ1OTY=",
+                        "node": {
+                            "url": "https://www.newyorker.com/magazine/2019/10/14/nietzsches-eternal-return",
+                            "_createdAt": 1570629604,
+                            "_updatedAt": 1571114597,
+                            "id": "2749855298",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571114596,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Nietzsche’s Eternal Return",
+                                "itemId": "2749855298",
+                                "resolvedId": "2749855298",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2019/10/14/nietzsches-eternal-return",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "It takes a strong philosopher to assume control of a preposition and propel it into a foreign language. That is what Friedrich Nietzsche did with the word über. In German, it can mean “over,” “beyond,” or “about.” You are reading an essay über Nietzsche.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/59097b73019dfc3494ea36d5/1:1/w_270%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Nietzsche raged against democracy, but also against nationalism and anti-Semitism.Illustration by Karolis Strautniekas; photograph from Hulton Archive / Getty",
+                                        "credit": "Illustration  Karolis Strautniekas; photograph from Hulton Archive / Getty",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/photos/5d979417daf38e00089a9354/master/w_2560%2Cc_limit/191014_r35108.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/590968b42179605b11ad6796/4:3/w_480%2Cc_limit/110425_r20797_g2048.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/59093347ebe912338a37199c/4:3/w_480%2Cc_limit/080310_r17144a_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1568733760/thenewyorker_tidying-up-temp.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.newyorker.com/photos/64efbe9026446c720a57a4a3/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5d979417daf38e00089a9354/16:9/w_1280,c_limit/191014_r35108.jpg",
+                                "timeToRead": 22,
+                                "givenUrl": "https://www.newyorker.com/magazine/2019/10/14/nietzsches-eternal-return",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "73051152",
+                                        "name": "Alex Ross",
+                                        "url": "https://www.newyorker.com/contributors/alex-ross"
+                                    }
+                                ],
+                                "datePublished": "2019-10-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU0NzgxODMzMF8qXzE1NzEzMzgxNzc=",
+                        "node": {
+                            "url": "https://fivethirtyeight.com/features/when-we-say-70-percent-it-really-means-70-percent/",
+                            "_createdAt": 1569531828,
+                            "_updatedAt": 1571338177,
+                            "id": "2547818330",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571338177,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "When We Say 70 Percent, It Really Means 70 Percent",
+                                "itemId": "2547818330",
+                                "resolvedId": "2547818330",
+                                "resolvedUrl": "https://fivethirtyeight.com/features/when-we-say-70-percent-it-really-means-70-percent/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "FiveThirtyEight"
+                                },
+                                "excerpt": "One of FiveThirtyEight’s goals has always been to get people to think more carefully about probability.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 234,
+                                        "imageId": 1,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2019/04/silver-bragging-0404.png",
+                                        "width": 575
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 591,
+                                        "imageId": 2,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2019/04/silver-BRAGGING-01-1.png",
+                                        "width": 575
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://fivethirtyeight.com/wp-content/uploads/2019/04/CheckingOurWork-16x9.png?w=712",
+                                "timeToRead": 6,
+                                "givenUrl": "https://fivethirtyeight.com/features/when-we-say-70-percent-it-really-means-70-percent/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "30712001",
+                                        "name": "Nate Silver",
+                                        "url": "https://fivethirtyeight.com/contributors/nate-silver/"
+                                    }
+                                ],
+                                "datePublished": "2019-04-04 16:16:47",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc2NTMxODQwMF8qXzE1NzE3NTEzOTI=",
+                        "node": {
+                            "url": "https://thefederalist.com/2019/10/21/a-drug-cartel-just-defeated-the-mexican-military-in-battle/",
+                            "_createdAt": 1571694808,
+                            "_updatedAt": 1571751392,
+                            "id": "2765318400",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571751392,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Drug Cartel Just Defeated The Mexican Military In Battle",
+                                "itemId": "2765318400",
+                                "resolvedId": "2765318400",
+                                "resolvedUrl": "https://thefederalist.com/2019/10/21/a-drug-cartel-just-defeated-the-mexican-military-in-battle/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Federalist"
+                                },
+                                "excerpt": "The southwest U.S. border might be quieter now than it was this spring at the height of the migrant crisis, but south of the Rio Grande the Mexican state is disintegrating.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 747,
+                                        "imageId": 1,
+                                        "src": "https://thefederalist.com/wp-content/uploads/2019/10/Culiacan-998x747.jpeg",
+                                        "width": 998
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://thefederalist.com/wp-content/uploads/2019/10/Culiacan.jpeg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://thefederalist.com/2019/10/21/a-drug-cartel-just-defeated-the-mexican-military-in-battle/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "58023562",
+                                        "name": "John Daniel Davidson",
+                                        "url": "https://thefederalist.com/author/jddavidson/"
+                                    }
+                                ],
+                                "datePublished": "2019-10-21 10:04:24",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc1MzU1NjYyOV8qXzE1NzE3OTg4NDI=",
+                        "node": {
+                            "url": "http://m.nautil.us/issue/77/underworlds/why-were-drawn-into-darkness",
+                            "_createdAt": 1571496995,
+                            "_updatedAt": 1571798842,
+                            "id": "2753556629",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571798842,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Nautilus Prime",
+                                "itemId": "2753315480",
+                                "resolvedId": "2753315480",
+                                "resolvedUrl": "http://nautil.us/issue/77/underworlds/why-were-drawn-into-darkness",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "John Carreyrou talks to Nautilus about the lessons of a $1 billion fraud. Composer Philip Glass talks time with painter Fredericka Foster.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/18473_b88524c1561b782a1a78bd24d1712ffb.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 320,
+                                        "imageId": 2,
+                                        "src": "http://static.nautil.us/18486_cdc1ce4ccb8971d465671618daf191b9_dblwd.png",
+                                        "width": 376
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 320,
+                                        "imageId": 3,
+                                        "src": "http://static.nautil.us/18489_a78cd673323dd4da94a6a78acb242ae9.png",
+                                        "width": 376
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 320,
+                                        "imageId": 4,
+                                        "src": "http://static.nautil.us/18483_41b182cde0c7b7efe3545795c447bbc5.png",
+                                        "width": 376
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 320,
+                                        "imageId": 5,
+                                        "src": "http://static.nautil.us/18499_593a5897c7e61892028b751da337a193_dblwd.png",
+                                        "width": 376
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 320,
+                                        "imageId": 6,
+                                        "src": "http://static.nautil.us/18496_923cac285a4b2e03d3d618857c250eee.png",
+                                        "width": 376
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 320,
+                                        "imageId": 7,
+                                        "src": "http://static.nautil.us/18507_98dba627f91b8906b021e25e4a91a210.png",
+                                        "width": 376
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/oceans/logo_short.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/oceans_0x0_476x316_a-706.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/spark/logo_short.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/spark_0x0_476x316_a-705.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/cshl/logo_short.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/cshl_0x0_476x316_a-704.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 14,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/abstractions/logo_short.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 15,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/abstractions_0x0_476x316_a-702.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 16,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/alliance/logo_short.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 17,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/alliance_0x0_476x316_a-699.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 18,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/aging/logo_short.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 19,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/aging_0x0_476x316_a-173.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 20,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/wise/logo_short.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 21,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/wise_0x0_476x316_a-611.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 22,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/tlas/logo_short.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 23,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/tlas_0x0_476x316_a-258.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 24,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/poetry/logo_short.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 25,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/poetry_0x0_476x316_a-493.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 26,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/cosmos/logo_short.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 27,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/cosmos_0x0_476x316_a-161.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 28,
+                                        "src": "http://nautilus-vertical.s3.amazonaws.com/vert/earth/logo_short.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 29,
+                                        "src": "https://s3.amazonaws.com/nautilus-vertical/earth_0x0_476x316_a-674.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 450,
+                                        "imageId": 30,
+                                        "src": "http://nautilus-prod.s3.amazonaws.com/global_image/hp_prime.jpg",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://nautil.us/assets/site/img/global/nautilus.png",
+                                "timeToRead": 4,
+                                "givenUrl": "http://m.nautil.us/issue/77/underworlds/why-were-drawn-into-darkness",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "145333160",
+                                        "name": "Biology",
+                                        "url": "https://nautil.us/term/l/Biology"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc1ODk1NTc5NF8qXzE1NzE3OTg4NTg=",
+                        "node": {
+                            "url": "https://doist.com/blog/asynchronous-communication/",
+                            "_createdAt": 1571237670,
+                            "_updatedAt": 1571798864,
+                            "id": "2758955794",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571798858,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What the heck is asynchronous communication anyway?",
+                                "itemId": "3620018892",
+                                "resolvedId": "3620018892",
+                                "resolvedUrl": "https://async.twist.com/asynchronous-communication/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "async.twist.com"
+                                },
+                                "excerpt": "Study after study after study into remote work has clarified that remote workers are more productive than their office-bound counterparts. What’s not entirely clear is why.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://async.twist.com/content/images/2022/05/asynchronous-communication-1.png",
+                                "timeToRead": 16,
+                                "givenUrl": "https://doist.com/blog/asynchronous-communication/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "167657151",
+                                        "name": "Amir Salihefendic",
+                                        "url": "https://async.twist.com/author/amir/"
+                                    }
+                                ],
+                                "datePublished": "2022-05-17 11:13:54",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjczMTkwNjU5OF8qXzE1NzE4NDc0OTY=",
+                        "node": {
+                            "url": "http://nymag.com/intelligencer/2019/09/andrew-sullivan-when-the-ideologues-come-for-the-kids.html",
+                            "_createdAt": 1569190172,
+                            "_updatedAt": 1571847504,
+                            "id": "2731906598",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571847496,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "When the Ideologues Come for the Kids",
+                                "itemId": "2731906598",
+                                "resolvedId": "2731906598",
+                                "resolvedUrl": "https://nymag.com/intelligencer/2019/09/andrew-sullivan-when-the-ideologues-come-for-the-kids.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "Like any religion, wokeness understands the need to convert children. The old Jesuit motto (sometimes attributed to Voltaire) was, after all, “Give me the child for the first seven years and I will give you the man.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "intelligencer is a Vox Media Network.\n     © 2021 Vox Media, LLC. All rights reserved.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/a9d/b3c/4bd34756564c90147a7d7917d0e8b47aff-20-gender.rsquare.w700.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pyxis.nymag.com/v1/imgs/a9d/b3c/4bd34756564c90147a7d7917d0e8b47aff-20-gender.1x.rsocial.w1200.jpg",
+                                "timeToRead": 14,
+                                "givenUrl": "http://nymag.com/intelligencer/2019/09/andrew-sullivan-when-the-ideologues-come-for-the-kids.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "109965024",
+                                        "name": "Andrew Sullivan",
+                                        "url": "https://nymag.com/author/andrew-sullivan/"
+                                    }
+                                ],
+                                "datePublished": "2019-09-20 10:09:26",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc2MTIwMDIwMV8qXzE1NzE4ODY1ODE=",
+                        "node": {
+                            "url": "https://www.haaretz.com/world-news/.premium.MAGAZINE-a-million-people-are-jailed-at-china-s-gulags-i-escaped-here-s-what-goes-on-inside-1.7994216",
+                            "_createdAt": 1571694777,
+                            "_updatedAt": 1571886582,
+                            "id": "2761200201",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1571886581,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Million People Are Jailed at China's Gulags. I Managed to Escape. Here's What Really Goes on Inside",
+                                "itemId": "2761200201",
+                                "resolvedId": "2761200201",
+                                "resolvedUrl": "https://www.haaretz.com/world-news/.premium.MAGAZINE-a-million-people-are-jailed-at-china-s-gulags-i-escaped-here-s-what-goes-on-inside-1.7994216",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Haaretz"
+                                },
+                                "excerpt": "STOCKHOLM – Twenty prisoners live in one small room. They are handcuffed, their heads shaved, every move is monitored by ceiling cameras. A bucket in the corner of the room is their toilet. The daily routine begins at 6 A.M.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://img.haarets.co.il/img/1.7994215/966805368.jpg?precrop=1200,700,x0,y263&height=698&width=1200",
+                                "timeToRead": 21,
+                                "givenUrl": "https://www.haaretz.com/world-news/.premium.MAGAZINE-a-million-people-are-jailed-at-china-s-gulags-i-escaped-here-s-what-goes-on-inside-1.7994216",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "24872940",
+                                        "name": "David Stavrou",
+                                        "url": ""
+                                    },
+                                    {
+                                        "id": "156866721",
+                                        "name": "1.5601908",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-10-17 15:23:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc5Njc0ODI2M18qXzE1NzQ0Njk1MjE=",
+                        "node": {
+                            "url": "https://www.the-american-interest.com/2019/11/19/ben-gurions-letters-to-america/",
+                            "_createdAt": 1574208698,
+                            "_updatedAt": 1574469522,
+                            "id": "2796748263",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1574469521,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Ben-Gurion's Letters to America",
+                                "itemId": "2796748263",
+                                "resolvedId": "2796748263",
+                                "resolvedUrl": "https://www.the-american-interest.com/2019/11/19/ben-gurions-letters-to-america/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "the-american-interest.com"
+                                },
+                                "excerpt": "David Gruen loved Shmuel Fuchs. He loved him intensely, painfully, in that shape adolescent friendships often take. They were teenagers, they were Jews, and they lived deep in Poland, in the miserable town of Płońsk, in the west of the Russian Empire.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i1.wp.com/www.the-american-interest.com/wp-content/uploads/2019/11/BenGurion.jpg?fit=1200%2C679&ssl=1",
+                                "timeToRead": 16,
+                                "givenUrl": "https://www.the-american-interest.com/2019/11/19/ben-gurions-letters-to-america/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "79334469",
+                                        "name": "Ben Judah",
+                                        "url": "https://www.the-american-interest.com/v/ben-judah/"
+                                    }
+                                ],
+                                "datePublished": "2019-11-19 06:27:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc3MzI3MDU3Ml8qXzE1NzUxNTE1NTg=",
+                        "node": {
+                            "url": "https://physicsworld.com/a/dark-energy-debate-reignited-by-controversial-analysis-of-supernovae-data/",
+                            "_createdAt": 1575045570,
+                            "_updatedAt": 1575151559,
+                            "id": "2773270572",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1575151558,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Dark energy debate reignited by controversial analysis of supernovae data",
+                                "itemId": "2773270572",
+                                "resolvedId": "2773270572",
+                                "resolvedUrl": "https://physicsworld.com/a/dark-energy-debate-reignited-by-controversial-analysis-of-supernovae-data/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "physicsworld.com"
+                                },
+                                "excerpt": "The mysterious substance known as dark energy thought to be pushing the universe apart at ever greater speeds may be nothing more than an artefact of our acceleration through a local patch of the universe.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://physicsworld.com/wp-content/uploads/2019/10/Supernova-remnant.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://physicsworld.com/wp-content/uploads/2016/10/PW-2016-10-21-Johnston-dark-1.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://physicsworld.com/wp-content/uploads/2019/10/Supernova-remnant.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://physicsworld.com/a/dark-energy-debate-reignited-by-controversial-analysis-of-supernovae-data/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-10-28 10:58:58",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjgyNDI5NjE3OV8qXzE1NzY1NjAxNjg=",
+                        "node": {
+                            "url": "https://amgreatness.com/2019/12/15/a-science-based-case-for-ending-the-porn-epidemic/",
+                            "_createdAt": 1576558687,
+                            "_updatedAt": 1576560168,
+                            "id": "2824296179",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1576560168,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Science-Based Case for Ending the Porn Epidemic",
+                                "itemId": "2824296179",
+                                "resolvedId": "2824296179",
+                                "resolvedUrl": "https://amgreatness.com/2019/12/15/a-science-based-case-for-ending-the-porn-epidemic/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "amgreatness.com"
+                                },
+                                "excerpt": "They say the first step is admitting you have a problem. I think many readers of this article will respond with outrage, and many will see it says things they already knew to be true—and I think these two groups will largely overlap.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://cdn.amgreatness.com/app/uploads/2019/12/GettyImages-1083962008-scaled.jpg",
+                                "timeToRead": 52,
+                                "givenUrl": "https://amgreatness.com/2019/12/15/a-science-based-case-for-ending-the-porn-epidemic/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "126241594",
+                                        "name": "Pascal-Emmanuel Gobry",
+                                        "url": "https://amgreatness.com/author/pascal-emmanuel-gobry/"
+                                    }
+                                ],
+                                "datePublished": "2019-12-15 21:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTE4MjY0NTIwNl8qXzE1NzkxMzA4MjI=",
+                        "node": {
+                            "url": "https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/",
+                            "_createdAt": 1578175633,
+                            "_updatedAt": 1579131999,
+                            "id": "1182645206",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579130822,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "935376086",
+                                "resolvedId": "935376086",
+                                "resolvedUrl": "http://www.technologyreview.com/view/531911/isaac-asimov-asks-how-do-people-get-new-ideas/?utm_content=buffer642c6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "MIT Technology Review"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjg0MDY1NjMwM18qXzE1NzkxMzA4Mjg=",
+                        "node": {
+                            "url": "https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/",
+                            "_createdAt": 1578030623,
+                            "_updatedAt": 1579131999,
+                            "id": "2840656303",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579130828,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "‘Two hands are a lot’ — we’re hiring data scientists, project managers, policy experts, assorted weirdos…",
+                                "itemId": "2840656303",
+                                "resolvedId": "2840656303",
+                                "resolvedUrl": "https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "dominiccummings.com"
+                                },
+                                "excerpt": "‘This is possibly the single largest design flaw contributing to the bad Nash equilibrium in which … many governments are stuck. Every individual high-functioning competent person knows they can’t make much difference by being one more face in that crowd.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://s0.wp.com/i/blank.jpg",
+                                "timeToRead": 13,
+                                "givenUrl": "https://dominiccummings.com/2020/01/02/two-hands-are-a-lot-were-hiring-data-scientists-project-managers-policy-experts-assorted-weirdos/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "70850454",
+                                        "name": "dominiccummings",
+                                        "url": "https://dominiccummings.com/author/dominiccummings/"
+                                    }
+                                ],
+                                "datePublished": "2020-01-02 11:26:42",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjgzOTMxNzczMl8qXzE1NzkxMzA4MzQ=",
+                        "node": {
+                            "url": "https://marginalrevolution.com/marginalrevolution/2020/01/what-libertarianism-has-become-and-will-become-state-capacity-libertarianism.html",
+                            "_createdAt": 1577893807,
+                            "_updatedAt": 1579131999,
+                            "id": "2839317732",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579130834,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What libertarianism has become and will become — State Capacity Libertarianism",
+                                "itemId": "2839317732",
+                                "resolvedId": "2839317732",
+                                "resolvedUrl": "https://marginalrevolution.com/marginalrevolution/2020/01/what-libertarianism-has-become-and-will-become-state-capacity-libertarianism.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Marginal Revolution"
+                                },
+                                "excerpt": "Having tracked the libertarian “movement” for much of my life, I believe it is now pretty much hollowed out, at least in terms of flow.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+                                "timeToRead": 6,
+                                "givenUrl": "https://marginalrevolution.com/marginalrevolution/2020/01/what-libertarianism-has-become-and-will-become-state-capacity-libertarianism.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "87004756",
+                                        "name": "Tyler Cowen",
+                                        "url": "https://marginalrevolution.com/about"
+                                    }
+                                ],
+                                "datePublished": "2020-01-01 01:29:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjgyNDE2OTAwNl8qXzE1NzkxMzA5MjA=",
+                        "node": {
+                            "url": "https://zackkanter.substack.com/p/0001-the-hard-fork/",
+                            "_createdAt": 1576621196,
+                            "_updatedAt": 1579132000,
+                            "id": "2824169006",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579130920,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "0001: The Hard Fork",
+                                "itemId": "2824169006",
+                                "resolvedId": "2824169006",
+                                "resolvedUrl": "https://zackkanter.substack.com/p/0001-the-hard-fork",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "zackkanter.substack.com"
+                                },
+                                "excerpt": "Twice in my life I’ve had the good fortune of getting exactly what I wanted, only to find that, once I had it, it wasn’t what I wanted at all. The first was 8 years ago, when I was 25.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://cdn.substack.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc1d40c4-d37b-46f8-8f9c-148b758ced89_256x256.png",
+                                "timeToRead": 8,
+                                "givenUrl": "https://zackkanter.substack.com/p/0001-the-hard-fork/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "156023411",
+                                        "name": "Zack Kanter",
+                                        "url": "https://zackkanter.substack.com/people/5566201-zack-kanter"
+                                    }
+                                ],
+                                "datePublished": "2019-12-16 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjY1OTYyNTM2NF8qXzE1NjM1MDM3NDA=",
+                    "endCursor": "MjgyNDE2OTAwNl8qXzE1NzkxMzA5MjA="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

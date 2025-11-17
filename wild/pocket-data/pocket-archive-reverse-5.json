@@ -1,0 +1,1831 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTM5MjE0OTk1OV8qXzE0NzI1NjYyOTI=",
+                        "node": {
+                            "url": "http://www.newyorker.com/business/currency/why-the-high-cost-of-big-city-living-is-bad-for-everyone",
+                            "_createdAt": 1472177327,
+                            "_updatedAt": 1472587529,
+                            "id": "1392149959",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1472566292,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why the High Cost of Big-City Living Is Bad for Everyone",
+                                "itemId": "1392149959",
+                                "resolvedId": "1392149959",
+                                "resolvedUrl": "https://www.newyorker.com/business/currency/why-the-high-cost-of-big-city-living-is-bad-for-everyone",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "In 1948, a federal housing bureaucrat named Paul Oppermann, trying to come to terms with the perils of the nuclear age, proposed a solution to the problem of protecting America’s cities from the bomb: empty them out preëmptively by encouraging the population to move to suburbs and small towns of",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Cities like San Francisco provide decreasing opportunities for many of those who already live in them.Photograph by Sean Gallup / Getty",
+                                        "credit": "Photograph  Sean Gallup / Getty",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/5909798bc14b3c606c10904e/master/w_2560%2Cc_limit/Gimein-High-Rent-San-Francisco.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.f1893bac6dafe13d6d5bad671a5bee2345efa44d.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.6e34c81346bc43475ffd572e6c2eb3e125927148.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/photos/59095f75c14b3c606c105a0c/4:3/w_480%2Cc_limit/140707_r25221.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/59097715019dfc3494ea2dff/4:3/w_480%2Cc_limit/Vauhini-Denver-Tech-Boom1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/59096f46019dfc3494ea1e9b/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/590967611c7a8e33fb38d79e/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.f915b516b6ca9c0c2a9bdf9b749519365b2b2e4a.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5909798bc14b3c606c10904e/16:9/w_1280,c_limit/Gimein-High-Rent-San-Francisco.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.newyorker.com/business/currency/why-the-high-cost-of-big-city-living-is-bad-for-everyone",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "75651493",
+                                        "name": "Mark Gimein",
+                                        "url": "https://www.newyorker.com/contributors/mark-gimein"
+                                    }
+                                ],
+                                "datePublished": "2016-08-25 03:48:58",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2Mjg1Mzg0M18qXzE0NzI2NTAzODM=",
+                        "node": {
+                            "url": "https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/",
+                            "_createdAt": 1472558730,
+                            "_updatedAt": 1472655778,
+                            "id": "1362853843",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1472650383,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The hardest problem in computer science / fuzzy notepad",
+                                "itemId": "1362853843",
+                                "resolvedId": "1362853843",
+                                "resolvedUrl": "https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "eev.ee"
+                                },
+                                "excerpt": "Not just naming variables or new technologies. Oh no. We can’t even agree on names for basic concepts.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 16,
+                                "givenUrl": "https://eev.ee/blog/2016/07/26/the-hardest-problem-in-computer-science/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2549805",
+                                        "name": "Eevee",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-07-26 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQwNDMyNjE4N18qXzE0NzM3MjM5ODY=",
+                        "node": {
+                            "url": "https://blog.acolyer.org/2016/09/06/no-silver-bullet-essence-and-accident-in-software-engineering/",
+                            "_createdAt": 1473428250,
+                            "_updatedAt": 1473723988,
+                            "id": "1404326187",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1473723986,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "No Silver Bullet – essence and accident in software engineering",
+                                "itemId": "1404326187",
+                                "resolvedId": "1404326187",
+                                "resolvedUrl": "https://blog.acolyer.org/2016/09/06/no-silver-bullet-essence-and-accident-in-software-engineering/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.acolyer.org"
+                                },
+                                "excerpt": "We hear desperate cries for a silver bullet – something to make software costs drop as rapidly as computer hardware costs do…. Not only are there no silver bullets now in view, the very nature of software makes it unlikely that there will be any.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 7,
+                                "givenUrl": "https://blog.acolyer.org/2016/09/06/no-silver-bullet-essence-and-accident-in-software-engineering/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "136059453",
+                                        "name": "Adrian Colyer",
+                                        "url": "https://blog.acolyer.org/author/adriancolyer/"
+                                    }
+                                ],
+                                "datePublished": "2016-09-06 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAxNTY2NzRfKl8xNDczODU1NjY5",
+                        "node": {
+                            "url": "http://reactor-core.org/reality-hallucination.html",
+                            "_createdAt": 1472701856,
+                            "_updatedAt": 1473856233,
+                            "id": "20156674",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1473855669,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "REALITY IS A SHARED HALLUCINATION",
+                                "itemId": "20156674",
+                                "resolvedId": "20156674",
+                                "resolvedUrl": "http://reactor-core.org/reality-hallucination.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "reactor-core.org"
+                                },
+                                "excerpt": "REALITY IS A SHARED HALLUCINATION HISTORY OF THE GROUP BRAIN VIII — 35,000 B.P. and Beyond. Copyright © April 12, 1997 by Howard Bloom The artificial construction of reality was to play a key role in the new form of global intelligence which would soon emerge among human beings.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://reactor-core.org/reality-hallucination.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "1997-04-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM1MTM0Mjk2MV8qXzE0NzM4OTM5NzQ=",
+                        "node": {
+                            "url": "https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf",
+                            "_createdAt": 1471964221,
+                            "_updatedAt": 1473895256,
+                            "id": "1351342961",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1473893974,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How the internet was invented",
+                                "itemId": "1351342961",
+                                "resolvedId": "1351342961",
+                                "resolvedUrl": "https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Guardian"
+                                },
+                                "excerpt": "In the kingdom of apps and unicorns, Rossotti’s is a rarity. This beer garden in the heart of Silicon Valley has been standing on the same spot since 1852. It isn’t disruptive; it doesn’t scale.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Illustration: Danae Diaz at PVUK",
+                                        "credit": "",
+                                        "height": 1200,
+                                        "imageId": 1,
+                                        "src": "https://i.guim.co.uk/img/media/0c2c3a454a807af240cdca64d8b773058037312a/8_0_2758_1655/master/2758.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=1be1e15b7620ebc3ab01efd0c7dd4550",
+                                        "width": 2000
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 354,
+                                        "imageId": 2,
+                                        "src": "https://i.guim.co.uk/img/media/5351275edacf53cef386feb4d4262ad50f408689/0_0_590_354/master/590.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aecf95f6a75b57712563586867ee9d39",
+                                        "width": 590
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 3015,
+                                        "imageId": 3,
+                                        "src": "https://i.guim.co.uk/img/media/f1b8d890584ca2982eb927c187100c0a4f549b91/0_1171_5026_3015/master/5026.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=d7a0016fec8328b6ef09adc1b94043ad",
+                                        "width": 5026
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 790,
+                                        "imageId": 4,
+                                        "src": "https://i.guim.co.uk/img/media/85d0b6741c6e785ff10bf6302b93e459e3d77572/0_41_1317_790/master/1317.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4af486b4264a2de4108b40d116b582d3",
+                                        "width": 1317
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 759,
+                                        "imageId": 5,
+                                        "src": "https://i.guim.co.uk/img/media/6519789ec7d491666d1dce6ee444e5677c17f7dd/28_0_1265_759/master/1265.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=b2a500444ea671400f6ce1075061bf46",
+                                        "width": 1265
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i.guim.co.uk/img/media/0c2c3a454a807af240cdca64d8b773058037312a/0_0_2775_1655/2775.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d627e9261f41ff8e2f74bf3c10f022b5",
+                                "timeToRead": 10,
+                                "givenUrl": "https://www.theguardian.com/technology/2016/jul/15/how-the-internet-was-invented-1976-arpa-kahn-cerf",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "54677990",
+                                        "name": "Ben Tarnoff",
+                                        "url": "https://www.theguardian.com/profile/ben-tarnoff"
+                                    }
+                                ],
+                                "datePublished": "2017-11-28 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2MzQ5NjgwMF8qXzE0NzM4OTQxNzc=",
+                        "node": {
+                            "url": "https://hbr.org/2016/07/what-i-learned-from-10-years-of-doing-pr-for-apple",
+                            "_createdAt": 1471964193,
+                            "_updatedAt": 1473895256,
+                            "id": "1363496800",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1473894177,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What I Learned From 10 Years of Doing PR for Apple",
+                                "itemId": "1363496800",
+                                "resolvedId": "1363496800",
+                                "resolvedUrl": "https://hbr.org/2016/07/what-i-learned-from-10-years-of-doing-pr-for-apple",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harvard Business Review"
+                                },
+                                "excerpt": "I first started working for Apple on the PR agency side at Porter Novelli in Sydney, Australia in 1997. Steve Jobs had just returned to the company and the product line was a shamble of computers with confusing names, printers, scanners, and a curious, yet ill-conceived PDA called the Newton.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hbr.org/resources/images/article_assets/2016/07/jul16-27-wesson-wang.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hbr.org/resources/images/article_assets/2016/07/jul16-27-wesson-wang.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://hbr.org/2016/07/what-i-learned-from-10-years-of-doing-pr-for-apple",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "97804309",
+                                        "name": "Cameron Craig",
+                                        "url": "https://hbr.org/search?term=cameron%20craig"
+                                    }
+                                ],
+                                "datePublished": "2016-07-27 11:00:15",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5OTM4NzEzMl8qXzE0NzQwMzYzMTU=",
+                        "node": {
+                            "url": "http://nautil.us/issue/40/learning/how-much-more-can-we-learn-about-the-universe",
+                            "_createdAt": 1473286259,
+                            "_updatedAt": 1474038111,
+                            "id": "1399387132",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1474036315,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Much More Can We Learn About the Universe?",
+                                "itemId": "1399387132",
+                                "resolvedId": "1399387132",
+                                "resolvedUrl": "http://nautil.us/issue/40/learning/how-much-more-can-we-learn-about-the-universe",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "These are the few limits on our ability to know. As a cosmologist, some of the questions I hear most frequently after a lecture include: What lies beyond our universe? What is our universe expanding into? Will our universe expand forever? These are natural questions to ask.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/10294_90968598e1b1d4ae4838f0ad8e39bf11.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "ON A CLEAR DAY YOU CAN’T SEE FOREVER: The farthest you see, in principle, is 45.3 billion light-years. Although that represents a direct limitation on our knowledge, it doesn’t keep us from grasping the basic workings of nature.",
+                                        "credit": "NASA / Bill Ingalls",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://static.nautil.us/10297_ca5fbbbddd0c0ff6c01f782c60c9d1b5.jpg",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "COLLIDING GALAXIES: Such cosmic commotion will one day cease to occur, and observers in the distant future may never realize how dynamic our universe once was.",
+                                        "credit": "NASA",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://static.nautil.us/10298_45e7f4b7b70aea2ca2053b78bf65fd2c.jpg",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "http://static.nautil.us/10299_5fe8fdc79ce292c39c5f209d734b7206.jpg",
+                                        "width": 733
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static.nautil.us/10294_90968598e1b1d4ae4838f0ad8e39bf11.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://nautil.us/issue/40/learning/how-much-more-can-we-learn-about-the-universe",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2552646",
+                                        "name": "Lawrence M. Krauss",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-09-01 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxNjg3Mzg2Nl8qXzE0NzQyOTA2NTM=",
+                        "node": {
+                            "url": "http://mobile.nytimes.com/2016/09/18/opinion/why-do-anything.html",
+                            "_createdAt": 1474236118,
+                            "_updatedAt": 1474290655,
+                            "id": "1416873866",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1474290653,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3911334029",
+                                "resolvedId": "3911334029",
+                                "resolvedUrl": "https://getpocket.com:443/sMZFto?cta=1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://mobile.nytimes.com/2016/09/18/opinion/why-do-anything.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxMjE1MDIzNl8qXzE0NzQ1MTE3ODk=",
+                        "node": {
+                            "url": "http://www.inc.com/jeff-haden/7-things-steve-jobs-said-that-you-should-say-every-single-day.html",
+                            "_createdAt": 1474511248,
+                            "_updatedAt": 1474511790,
+                            "id": "1412150236",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1474511789,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "7 Things Steve Jobs Said That You Should Say Every Single Day",
+                                "itemId": "1412150236",
+                                "resolvedId": "1412150236",
+                                "resolvedUrl": "https://www.inc.com/jeff-haden/7-things-steve-jobs-said-that-you-should-say-every-single-day.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Inc. Magazine"
+                                },
+                                "excerpt": "Ideas without action aren't ideas. They're regrets. Every day, most people let hesitation and uncertainty stop them from acting on an idea. (Fear of the unknown and fear of failure are often what stop me, and they may be what stop you, too.)",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.incimages.com/uploaded_files/image/1024x576/getty_56558692_200013912000928023_108834.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.inc.com/jeff-haden/7-things-steve-jobs-said-that-you-should-say-every-single-day.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "66294230",
+                                        "name": "Jeff Haden",
+                                        "url": "https://www.inc.com/author/jeff-haden"
+                                    }
+                                ],
+                                "datePublished": "2016-09-13 08:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5MjA5MDM4OF8qXzE0NzQ1MTE5MzY=",
+                        "node": {
+                            "url": "https://codewithoutrules.com/2016/08/25/the-01x-programmer/",
+                            "_createdAt": 1474511123,
+                            "_updatedAt": 1474511937,
+                            "id": "1392090388",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1474511936,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "From 10x programmer to 0.1x programmer: creating more with less",
+                                "itemId": "1392090388",
+                                "resolvedId": "1392090388",
+                                "resolvedUrl": "https://codewithoutrules.com/2016/08/25/the-01x-programmer/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "codewithoutrules.com"
+                                },
+                                "excerpt": "You’ve heard of the mythical 10x programmers, programmers who can produce ten times as much as us normal humans. If you want to become a better programmer this myth is demoralizing, but it’s also not useful: how can you write ten times as much code? On the other hand, consider the 0.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://codewithoutrules.com/assets/titles/the-01x-programmer.png",
+                                "timeToRead": 3,
+                                "givenUrl": "https://codewithoutrules.com/2016/08/25/the-01x-programmer/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62379597",
+                                        "name": "Itamar Turner-Trauring",
+                                        "url": "mailto:itamar@codewithoutrules.com"
+                                    }
+                                ],
+                                "datePublished": "2016-08-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxOTU4MDEzNl8qXzE0NzQ4OTU4MTU=",
+                        "node": {
+                            "url": "http://nautil.us/blog/the-fundamental-limits-of-machine-learning",
+                            "_createdAt": 1474849132,
+                            "_updatedAt": 1474898413,
+                            "id": "1419580136",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1474895815,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Fundamental Limits of Machine Learning",
+                                "itemId": "1419580136",
+                                "resolvedId": "1419580136",
+                                "resolvedUrl": "http://nautil.us/blog/the-fundamental-limits-of-machine-learning",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "She thought her solution was obvious. Her colleagues, though, were sure their solution was correct—and the two didn’t match. Was the problem with one of their answers, or with the puzzle itself?",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/10413_ff12592a08c792faa97fd3d2dc40f1cd.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://static.nautil.us/10415_670d3369559cd4f24e79046d6372a0e9.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "LAYER CAKE: In neural networks, data is passed from layer to layer of “neurons,” undergoing simple transformations at each step. The intermediate layers can learn to recognize higher-level features that matter to the final output.",
+                                        "credit": "Michael Nielsen / NeuralNetworksandDeepLearning.com",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://static.nautil.us/10417_f15f2020c8dfbe665c036e75c9176f7c.png",
+                                        "width": 733
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static.nautil.us/10413_ff12592a08c792faa97fd3d2dc40f1cd.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://nautil.us/blog/the-fundamental-limits-of-machine-learning",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "11142088",
+                                        "name": "Jesse Dunietz",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-09-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxNDUzOTg3Nl8qXzE0NzUxMDQ0NzU=",
+                        "node": {
+                            "url": "https://blog.komand.com/microservices-please-dont",
+                            "_createdAt": 1475103979,
+                            "_updatedAt": 1475106787,
+                            "id": "1414539876",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475104475,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Microservices – Please, don’t",
+                                "itemId": "3939423448",
+                                "resolvedId": "3939423448",
+                                "resolvedUrl": "https://www.rapid7.com/blog/post/2016/09/15/microservices-please-dont/?utm_content=buffer2b035&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rapid7.com"
+                                },
+                                "excerpt": "This article originally appeared on Basho. It is adapted from a lightning talk Sean gave at the Boston Golang meetup in December of 2015. For a while, it seemed like everyone was crazy for microservices.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://blog.rapid7.com/content/images/k-img/thumb-microservices-dont.jpg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://blog.komand.com/microservices-please-dont",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2017-11-30 18:52:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MTYwMDkzM18qXzE0NzUxMDQ0ODk=",
+                        "node": {
+                            "url": "http://cacm.acm.org/magazines/2016/5/201592-the-challenges-of-partially-automated-driving/fulltext",
+                            "_createdAt": 1474648187,
+                            "_updatedAt": 1475106787,
+                            "id": "1271600933",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475104489,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Challenges of Partially Automated Driving",
+                                "itemId": "2381219785",
+                                "resolvedId": "2381219785",
+                                "resolvedUrl": "https://m-cacm.acm.org/magazines/2016/5/201592-the-challenges-of-partially-automated-driving/fulltext",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "m-cacm.acm.org"
+                                },
+                                "excerpt": "Autonomous cars promise to give us back the time we spend in traffic, improve the flow of traffic, reduce accidents, deaths, and injuries, and make personal car travel possible for everyone regardless of their abilities or condition.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://dl.acm.org/cms/attachment/d796b125-0521-410c-93db-eb53af55a853/ins01.gif",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://m-cacm.acm.org/system/assets/0002/3414/042216_CACMpg71_The-Challenges.large.jpg?1476779511&1461268447",
+                                "timeToRead": 28,
+                                "givenUrl": "http://cacm.acm.org/magazines/2016/5/201592-the-challenges-of-partially-automated-driving/fulltext",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "23683697",
+                                        "name": "Stephen M. Casner",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-05-01 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQyMjA1MzI3NV8qXzE0NzUxMDQ0OTM=",
+                        "node": {
+                            "url": "http://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085",
+                            "_createdAt": 1474637808,
+                            "_updatedAt": 1475106787,
+                            "id": "1422053275",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475104493,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Palantir Is Taking Over New York City",
+                                "itemId": "1422053275",
+                                "resolvedId": "1422053275",
+                                "resolvedUrl": "https://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Gizmodo"
+                                },
+                                "excerpt": "In 2006, then-New York City mayor Michael Bloomberg issued an executive order establishing the Office of Special Enforcement, a citywide agency responsible for enforcing “quality of life” regulations—a nebulous, ideologically charged concept that refers to anything from music venues with too m",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Illustration: Jim Cooke, Photo: Stephan Guarch, Shutterstock",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/she6d4abkkboywlstftf.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_264,pg_1,q_80,w_470/348bb347387796bbc45945365426b90e.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "NYC’s first purchase order to Palantir Technologies, for 32 “perpetual server core licenses”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/iyinqx7gmm9qqxo164hc.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "",
+                                        "videoId": 1,
+                                        "type": "HTML5",
+                                        "src": "https://vid.kinja.com/prod/194160/194160_240p.mp4"
+                                    }
+                                ],
+                                "topImageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/she6d4abkkboywlstftf.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://gizmodo.com/how-palantir-is-taking-over-new-york-city-1786738085",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "148829594",
+                                        "name": "Brendan O'Connor",
+                                        "url": "https://gizmodo.com/author/brendanoconnor"
+                                    }
+                                ],
+                                "datePublished": "2016-09-22 08:30:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxMzg3OTI2NF8qXzE0NzUxMDQ3Nzk=",
+                        "node": {
+                            "url": "https://neilmadden.wordpress.com/2016/09/13/critical-thinking-for-software-engineers/",
+                            "_createdAt": 1475103998,
+                            "_updatedAt": 1475106790,
+                            "id": "1413879264",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475104779,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Critical thinking for software engineers",
+                                "itemId": "2556325436",
+                                "resolvedId": "2556325436",
+                                "resolvedUrl": "https://neilmadden.blog/2016/09/13/critical-thinking-for-software-engineers/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "neilmadden.blog"
+                                },
+                                "excerpt": "I am sometimes asked whether doing a PhD was worth it, given that I left academia and research to become a full-time software developer. My answer is an unequivocal “yes”, despite the fact that my thesis is about as relevant to what I do now as a book on the sex lives of giraffes.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Charles Sanders Peirce. Image: Public Domain",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://neilmadden.files.wordpress.com/2016/09/25747-004-4210db7b.jpg?w=840",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "An evidence evaluation cycle",
+                                        "credit": "",
+                                        "height": 246,
+                                        "imageId": 2,
+                                        "src": "https://neilmadden.files.wordpress.com/2016/09/screen-shot-2016-09-13-at-13-56-42.png?w=332&h=246",
+                                        "width": 332
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://neilmadden.files.wordpress.com/2016/09/screen-shot-2016-09-13-at-13-56-42.png",
+                                "timeToRead": 4,
+                                "givenUrl": "https://neilmadden.wordpress.com/2016/09/13/critical-thinking-for-software-engineers/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "19666303",
+                                        "name": "Neil Madden",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-09-13 10:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxNTI1NDQ3NF8qXzE0NzUxMDUxNDI=",
+                        "node": {
+                            "url": "http://blog.howarddierking.com/2016/09/15/there-is-no-rest-api/",
+                            "_createdAt": 1475104163,
+                            "_updatedAt": 1475106790,
+                            "id": "1415254474",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475105142,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "There is No REST API",
+                                "itemId": "2292933911",
+                                "resolvedId": "2292933911",
+                                "resolvedUrl": "https://www.howarddierking.com/2016/09/15/there-is-no-rest-api/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "howarddierking.com"
+                                },
+                                "excerpt": "I’ve spent some time talking with my teams recently about REST from the perspective of an API, and also how APIs built through the lens of technologies like Swagger go against some of the most important principles of REST.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.howarddierking.com/images/there-is-no-spoon.jpeg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://blog.howarddierking.com/2016/09/15/there-is-no-rest-api/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyOTQwMDg1OV8qXzE0NzUzNzAyMTQ=",
+                        "node": {
+                            "url": "http://thenewstack.io/terminal-essentials-command-line-tools-devs-sysadmins/",
+                            "_createdAt": 1459723752,
+                            "_updatedAt": 1475370215,
+                            "id": "1229400859",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370214,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Terminal Essentials: Advanced Command Line Tools For Devs and Sysadmins",
+                                "itemId": "1229400859",
+                                "resolvedId": "1229400859",
+                                "resolvedUrl": "https://thenewstack.io/terminal-essentials-command-line-tools-devs-sysadmins/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "thenewstack.io"
+                                },
+                                "excerpt": "Previously, I had written about terminal tools potentially useful for computer users who have discovered how handy the command line can be. For this article, I’ll dive into some advanced setups for developers and system administrators.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1281,
+                                        "imageId": 1,
+                                        "src": "https://thenewstack.io/wp-content/uploads/2016/03/vim-annotated.png",
+                                        "width": 1521
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 552,
+                                        "imageId": 2,
+                                        "src": "https://thenewstack.io/wp-content/uploads/2016/03/vimdiff.png",
+                                        "width": 787
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 520,
+                                        "imageId": 3,
+                                        "src": "https://thenewstack.io/wp-content/uploads/2016/03/tig.png",
+                                        "width": 759
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 584,
+                                        "imageId": 4,
+                                        "src": "https://thenewstack.io/wp-content/uploads/2016/03/gdb-tui.png",
+                                        "width": 794
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 504,
+                                        "imageId": 5,
+                                        "src": "https://thenewstack.io/wp-content/uploads/2016/03/htop.png",
+                                        "width": 759
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 600,
+                                        "imageId": 6,
+                                        "src": "https://thenewstack.io/wp-content/uploads/2016/03/ncdu.png",
+                                        "width": 759
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 728,
+                                        "imageId": 7,
+                                        "src": "https://thenewstack.io/wp-content/uploads/2016/03/lolcat.png",
+                                        "width": 913
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.thenewstack.io/media/2016/03/8877604417_b9b6b4d4a7_o.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://thenewstack.io/terminal-essentials-command-line-tools-devs-sysadmins/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "63426478",
+                                        "name": "Suchakra Sharma",
+                                        "url": "https://thenewstack.io/author/suchakra/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-18 16:49:21",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTE3NzY3NzE3Ml8qXzE0NzUzNzAyMTk=",
+                        "node": {
+                            "url": "http://jods.mitpress.mit.edu/pub/AgeOfEntanglement",
+                            "_createdAt": 1457719816,
+                            "_updatedAt": 1475370220,
+                            "id": "1177677172",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370219,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Age of Entanglement · Journal of Design and Science",
+                                "itemId": "2969266516",
+                                "resolvedId": "2969266516",
+                                "resolvedUrl": "https://jods.mitpress.mit.edu/pub/ageofentanglement/release/1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "jods.mitpress.mit.edu"
+                                },
+                                "excerpt": "This essay proposes a map for four domains of creative exploration—Science, Engineering, Design and Art—in an attempt to represent the antidisciplinary hypothesis: that knowledge can no longer be ascribed to, or produced within, disciplinary boundaries, but is entirely entangled.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://resize-v3.pubpub.org/eyJidWNrZXQiOiJhc3NldHMucHVicHViLm9yZyIsImtleSI6IjkzdXExaWRnLzIxNTA4MjczMjc2Nzc1LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ODAwLCJmaXQiOiJpbnNpZGUiLCJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWV9fX0=",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://assets.pubpub.org/_testing/31510191656011.png",
+                                "timeToRead": 14,
+                                "givenUrl": "http://jods.mitpress.mit.edu/pub/AgeOfEntanglement",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "83868112",
+                                        "name": "Neri Oxman",
+                                        "url": "https://jods.mitpress.mit.edu/user/neri-oxman"
+                                    }
+                                ],
+                                "datePublished": "2016-01-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyNzk2MDU5NV8qXzE0NzUzNzAyNjE=",
+                        "node": {
+                            "url": "http://zeroturnaround.com/rebellabs/docker-commands-and-best-practices-cheat-sheet",
+                            "_createdAt": 1459723813,
+                            "_updatedAt": 1475370262,
+                            "id": "1227960595",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370261,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Docker Commands Cheat Sheet",
+                                "itemId": "2875250726",
+                                "resolvedId": "2875250726",
+                                "resolvedUrl": "https://www.jrebel.com/blog/docker-commands-cheat-sheet",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "jrebel.com"
+                                },
+                                "excerpt": "Today, we're presenting our Docker Commands Cheat Sheet — a one-page guide to using Docker that includes a glossary of common terms, useful one-liners, cleanup commands, machine commands, compose syntax and instructions on how to interact with a container.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 1,
+                                        "src": "https://www.jrebel.com/sites/rebel/files/image/2019-11/image-blog-docker-commands-and-best-practices-cheat-sheet.jpg",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.jrebel.com/sites/rebel/files/styles/social_preview_image/public/image/2019-11/image-blog-docker-commands-and-best-practices-cheat-sheet.jpg?itok=ga7Pn1wz",
+                                "timeToRead": 7,
+                                "givenUrl": "http://zeroturnaround.com/rebellabs/docker-commands-and-best-practices-cheat-sheet",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152260048",
+                                        "name": "clicking here",
+                                        "url": "https://www.jrebel.com/resources/java-developer-productivity-report-2020"
+                                    }
+                                ],
+                                "datePublished": "2016-03-17 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyMTkxNTE4MF8qXzE0NzUzNzAyNjU=",
+                        "node": {
+                            "url": "http://strength.stack52.com/periodic-table-of-dumbbell-exercises-2/",
+                            "_createdAt": 1460325108,
+                            "_updatedAt": 1475370266,
+                            "id": "1221915180",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370265,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Periodic Table of Dumbbell Exercises",
+                                "itemId": "3075993930",
+                                "resolvedId": "3075993930",
+                                "resolvedUrl": "https://stack52.com/periodic-table-of-dumbbell-exercises-2/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "stack52.com"
+                                },
+                                "excerpt": "Dumbbells are a fantastic choice for any home gym. They are perfect for building strength and muscle, but are also excellent for cardio exercise and losing weight. You can achieve any fitness goal with regular dumbbell workouts.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://strength.stack52.com/periodic-table-of-dumbbell-exercises-2/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2020-01-12 15:17:40",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTAxNjUwNzcyM18qXzE0NzUzNzAyNjc=",
+                        "node": {
+                            "url": "https://aws.amazon.com/blogs/compute/better-together-amazon-ecs-and-aws-lambda/",
+                            "_createdAt": 1460599316,
+                            "_updatedAt": 1475370268,
+                            "id": "1016507723",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370267,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Better Together: Amazon ECS and AWS Lambda",
+                                "itemId": "1016507723",
+                                "resolvedId": "1016507723",
+                                "resolvedUrl": "https://aws.amazon.com/blogs/compute/better-together-amazon-ecs-and-aws-lambda/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Amazon.com"
+                                },
+                                "excerpt": "My colleague Constantin Gonzalez sent a nice guest post that shows how to create container workers using Amazon ECS.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://s3.amazonaws.com/chrisb/pov-blog-diagram3.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://s3.amazonaws.com/chrisb/pov-blog-diagram2.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+                                "timeToRead": 17,
+                                "givenUrl": "https://aws.amazon.com/blogs/compute/better-together-amazon-ecs-and-aws-lambda/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2015-08-19 17:13:55",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MDQwMTE1Ml8qXzE0NzUzNzAyNzE=",
+                        "node": {
+                            "url": "https://codewords.recurse.com/issues/six/immutability-is-not-enough",
+                            "_createdAt": 1460699929,
+                            "_updatedAt": 1475370272,
+                            "id": "1240401152",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370271,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Immutability is not enough",
+                                "itemId": "1240401152",
+                                "resolvedId": "1240401152",
+                                "resolvedUrl": "https://codewords.recurse.com/issues/six/immutability-is-not-enough",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "codewords.recurse.com"
+                                },
+                                "excerpt": "Immutable data structures – also known as persistent or purely functional data structures – are a key part of modern functional programming. Once created, immutable data structures cannot be modified.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 302,
+                                        "imageId": 1,
+                                        "src": "https://codewords.recurse.com/images/six/immutability/manuel.png",
+                                        "width": 502
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 302,
+                                        "imageId": 2,
+                                        "src": "https://codewords.recurse.com/images/six/immutability/manuel-obstacle.png",
+                                        "width": 502
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 12,
+                                "givenUrl": "https://codewords.recurse.com/issues/six/immutability-is-not-enough",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152676019",
+                                        "name": "Patrick Dubroy",
+                                        "url": "https://codewords.recurse.com/about#Patrick%20Dubroy"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MDEzMjMxMF8qXzE0NzUzNzAyNzU=",
+                        "node": {
+                            "url": "http://www.datadan.io/containerized-data-science-and-engineering-part-2-dockerized-data-science/",
+                            "_createdAt": 1460699947,
+                            "_updatedAt": 1475370276,
+                            "id": "1240132310",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370275,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1240132310",
+                                "resolvedId": "1240132310",
+                                "resolvedUrl": "http://www.datadan.io/containerized-data-science-and-engineering-part-2-dockerized-data-science/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "datadan.io"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.datadan.io/containerized-data-science-and-engineering-part-2-dockerized-data-science/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIzNjY2MzM0N18qXzE0NzUzNzAyNzc=",
+                        "node": {
+                            "url": "http://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/",
+                            "_createdAt": 1460700044,
+                            "_updatedAt": 1475370278,
+                            "id": "1236663347",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370277,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Thanks For Ruining Another Game Forever, Computers",
+                                "itemId": "1236663347",
+                                "resolvedId": "1236663347",
+                                "resolvedUrl": "https://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.codinghorror.com"
+                                },
+                                "excerpt": "We may have reached an inflection point. The problem space of chess is so astonishingly large that incremental increases in hardware speed and algorithms are unlikely to result in meaningful gains from here on out. So. About that. Turns out I was kinda … totally completely wrong.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://blog.codinghorror.com/content/images/2016/03/go-game.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://blog.codinghorror.com/content/images/2016/03/asus-380x-front.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "iSnAiXKU7h8",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/iSnAiXKU7h8"
+                                    },
+                                    {
+                                        "vid": "rbsqaJwpu6A",
+                                        "videoId": 2,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/rbsqaJwpu6A"
+                                    }
+                                ],
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "http://blog.codinghorror.com/thanks-for-ruining-another-game-forever-computers/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "4507",
+                                        "name": "Jeff Atwood",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-03-25 17:29:41",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MTcwMzAyOV8qXzE0NzUzNzAyNzk=",
+                        "node": {
+                            "url": "https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5#.u4wcetjsa",
+                            "_createdAt": 1460700470,
+                            "_updatedAt": 1475370280,
+                            "id": "1241703029",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370279,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Superset: Airbnb’s data exploration platform",
+                                "itemId": "1241703029",
+                                "resolvedId": "1241703029",
+                                "resolvedUrl": "https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "At Airbnb, we love data, and we like to think that analytics belongs everywhere. For us to be data-driven, we need data to be fluid, fast flowing, and crystal clear.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/96/96/1*PrgppbVAePgtuFs2XZa8Ig.jpeg",
+                                        "width": 48
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 828,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1764/1*TT5LMU94rEyOyfNeYAbHpg.png",
+                                        "width": 882
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 440,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1764/1*8JrwN6a0e2FXP9DoM9YbvA.png",
+                                        "width": 882
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 876,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1764/1*wu0049Gdy3U7KTd2jo3rBg.png",
+                                        "width": 882
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 483,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/1764/1*toSH9rhtZSZzPx7H92Zxgw.png",
+                                        "width": 882
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 715,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1764/1*DUWhR3zikFOVzjjFQQlJ3A.png",
+                                        "width": 882
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 509,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1764/1*OFgxYDyACWanHySy_r1aGg.png",
+                                        "width": 882
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 478,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/1600/1*D3ySPz-ERWmqnYxN9CKlvQ.png",
+                                        "width": 606
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 54,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1600/1*YsUOrWx3mRxZZljtc9xZyw.png",
+                                        "width": 54
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/882/1*TT5LMU94rEyOyfNeYAbHpg.png",
+                                "timeToRead": 4,
+                                "givenUrl": "https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5#.u4wcetjsa",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152732886",
+                                        "name": "Maxime Beauchemin",
+                                        "url": "https://medium.com/u/9f4d525c99e2?source=post_page-----15a72aa610e5--------------------------------"
+                                    }
+                                ],
+                                "datePublished": "2017-02-03 00:18:30",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MjE5MjIxNl8qXzE0NzUzNzAyODA=",
+                        "node": {
+                            "url": "https://docs.google.com/spreadsheets/d/1xo6TpmHy41xP5h7DA4otJG3Mv6VkAhV6iH0CdMrOZDY/edit#gid=0",
+                            "_createdAt": 1461081534,
+                            "_updatedAt": 1475370281,
+                            "id": "1262192216",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370280,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4016578748",
+                                "resolvedId": "4016578748",
+                                "resolvedUrl": "https://docs.google.com/spreadsheets/d/1xo6TpmHy41xP5h7DA4otJG3Mv6VkAhV6iH0CdMrOZDY/edit#gid=0",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Google Docs"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://docs.google.com/spreadsheets/d/1xo6TpmHy41xP5h7DA4otJG3Mv6VkAhV6iH0CdMrOZDY/edit#gid=0",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0Nzc5MDE0MF8qXzE0NzUzNzAyODM=",
+                        "node": {
+                            "url": "http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/",
+                            "_createdAt": 1461203850,
+                            "_updatedAt": 1475370285,
+                            "id": "1247790140",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370283,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Definitive Guide to Linux System Calls",
+                                "itemId": "3548700047",
+                                "resolvedId": "3548700047",
+                                "resolvedUrl": "https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.packagecloud.io"
+                                },
+                                "excerpt": "This blog post explains how Linux programs call functions in the Linux kernel.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.buttercms.com/DSu8zZx4R1afirJZ1vdb",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn.buttercms.com/VoYqTLwjSFm7TuHJsjb7",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.buttercms.com/EZVkh0M6QynHd0jfNsuv",
+                                "timeToRead": 32,
+                                "givenUrl": "http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "180261661",
+                                        "name": "Joe Damato",
+                                        "url": "https://blog.packagecloud.io/author/joe-damato/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIzODAyMTMwMV8qXzE0NzUzNzAyOTc=",
+                        "node": {
+                            "url": "https://gist.github.com/bearfrieze/a746c6f12d8bada03589",
+                            "_createdAt": 1461204183,
+                            "_updatedAt": 1475370298,
+                            "id": "1238021301",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370297,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Comprehensions in Python the Jedi way",
+                                "itemId": "1238021301",
+                                "resolvedId": "1238021301",
+                                "resolvedUrl": "https://gist.github.com/bearfrieze/a746c6f12d8bada03589",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "GitHub"
+                                },
+                                "excerpt": "by Bjørn Friese is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://camo.githubusercontent.com/de37d65ff15f0fd0b4d2f7571e0ce2b076080c5562970dde07e43a456b9f6d11/68747470733a2f2f696d6775722e636f6d2f6f4b43587277412e676966",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://camo.githubusercontent.com/198e6133d1adf95d34d12e6215d7252c0933ed60315ac424c3906430fe619b9e/68747470733a2f2f692e696d6775722e636f6d2f646d57526f35742e676966",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://camo.githubusercontent.com/df1e42a6ea0e3f1e08f7ca12cb3961f7252dda4ecf08b014190179b0296fce4d/687474703a2f2f696d6775722e636f6d2f503847335738772e676966",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://camo.githubusercontent.com/f57a3924aeacd9e007c00499b8b9d84d6512eb8c7e4c877cd6f180a05dd78275/68747470733a2f2f692e696d6775722e636f6d2f4e4c6731677a432e676966",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://camo.githubusercontent.com/9bddc93fe6e4c86fba9826d9996c2514f51016ad8a7aabb723fb71f71eec0d54/68747470733a2f2f692e696d6775722e636f6d2f6c314c3973304b2e676966",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://camo.githubusercontent.com/8cb7deae2c290fed41830db9d8b2aff97776697978938991a67512df2914668c/68747470733a2f2f696d6775722e636f6d2f4242453955556c2e676966",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://camo.githubusercontent.com/0df8fd3e955d97ae69dedfa2568fb2dd4186cd60917ca40aefabb7466d5b46ce/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d73612f342e302f38387833312e706e67",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://gist.github.com/bearfrieze/a746c6f12d8bada03589",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "55835546",
+                                        "name": "262588213843476",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2021-05-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MTk4MzgyOV8qXzE0NzUzNzAzMTM=",
+                        "node": {
+                            "url": "https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/",
+                            "_createdAt": 1461813473,
+                            "_updatedAt": 1475370314,
+                            "id": "1261983829",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370313,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The 30 Basic Vim Commands You'll Use Every Day",
+                                "itemId": "1261983829",
+                                "resolvedId": "1261983829",
+                                "resolvedUrl": "https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "spin.atomicobject.com"
+                                },
+                                "excerpt": "Vim is a pretty great text editor, but learning to use it effectively can be a challenge. Even if you keep a quick-reference card or cheatsheet around, it can be difficult to figure out which commands are the most useful.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://spin.atomicobject.com/wp-content/uploads/20171229214432/Vim1.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "45428268",
+                                        "name": "Brian Vanderwal",
+                                        "url": "https://spin.atomicobject.com/author/brian-vanderwal/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-19 11:00:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NzY2MDEyMl8qXzE0NzUzNzAzMzg=",
+                        "node": {
+                            "url": "https://medium.com/@dmca/the-mba-data-science-toolkit-8-resources-to-go-from-the-spreadsheet-to-the-command-line-cbb59ea82144",
+                            "_createdAt": 1461814087,
+                            "_updatedAt": 1475370339,
+                            "id": "1247660122",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370338,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The MBA Data Science Toolkit: 8 resources to go from the spreadsheet to the command line",
+                                "itemId": "1247660122",
+                                "resolvedId": "1247660122",
+                                "resolvedUrl": "https://medium.com/@dmca/the-mba-data-science-toolkit-8-resources-to-go-from-the-spreadsheet-to-the-command-line-cbb59ea82144",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "I recently had the pleasure of speaking on a few panels about analytics to my fellow MBA students and alumni, as well as many Penn undergrads. After these talks, I’ve been asked for my advice on what the best resources are for someone coming from the business world (i.e.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "E.J. Marey’s train schedule from for Paris to Lyon, 1885",
+                                        "credit": "",
+                                        "height": 814,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/2928/1*0gHhGPMNUiaH0kV1QTnjLg.jpeg",
+                                        "width": 1464
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/fit/c/56/56/1*v7F2r3Ltx7kvxZ6MNRxklA@2x.jpeg",
+                                        "width": 28
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 467,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/1*CfsIkA5XuTdTuSphJn1J6g.png",
+                                        "width": 619
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*0gHhGPMNUiaH0kV1QTnjLg.jpeg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://medium.com/@dmca/the-mba-data-science-toolkit-8-resources-to-go-from-the-spreadsheet-to-the-command-line-cbb59ea82144",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "40143653",
+                                        "name": "Daniel McAuley",
+                                        "url": "https://medium.com/@dmca"
+                                    }
+                                ],
+                                "datePublished": "2019-11-19 22:24:02",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTM5MjE0OTk1OV8qXzE0NzI1NjYyOTI=",
+                    "endCursor": "MTI0NzY2MDEyMl8qXzE0NzUzNzAzMzg="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

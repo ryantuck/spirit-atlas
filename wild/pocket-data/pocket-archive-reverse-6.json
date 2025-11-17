@@ -1,0 +1,2089 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTI2MDcxMTE3NV8qXzE0NzUzNzAzNDI=",
+                        "node": {
+                            "url": "https://technologyconversations.com/2016/04/18/docker-flow/",
+                            "_createdAt": 1461813739,
+                            "_updatedAt": 1475370343,
+                            "id": "1260711175",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370342,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Docker Flow – Walkthrough",
+                                "itemId": "1260711175",
+                                "resolvedId": "1260711175",
+                                "resolvedUrl": "https://technologyconversations.com/2016/04/18/docker-flow/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "technologyconversations.com"
+                                },
+                                "excerpt": "Docker Flow is a project aimed towards creating an easy to use continuous deployment flow. It depends on Docker Engine, Docker Compose, Consul, and Registrator. Each of those tools is proven to bring value and are recommended for any Docker deployment.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Swarm cluster with basic service discovery",
+                                        "credit": "",
+                                        "height": 377,
+                                        "imageId": 1,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/base-architecture.png?w=625&h=377",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "Swarm cluster setup",
+                                        "credit": "",
+                                        "height": 357,
+                                        "imageId": 2,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/vagrant-sample.png?w=625&h=357",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "The first deployment through Docker Flow",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 3,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/first-deployment-flow.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "Users can access the service through the proxy",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 4,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/first-deployment-user.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "The second deployment through Docker Flow",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 5,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/second-deployment-flow.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "During the deployment, users continue interacting with the old release",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 6,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/second-deployment-user-before.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "After the deployment, users are redirected to the new release",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 7,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/second-deployment-user-after.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "Relative scaling through Docker Flow",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 8,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/scaling-flow.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "User’s requests are load balanced across all instances of the service",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 9,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/scaling-user.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "Deployment without reconfiguring proxy",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 10,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/deployment-without-proxy-flow.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "User’s requests are still redirected to the old release",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 11,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/deployment-without-proxy-user.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "Proxy reconfiguration without deployment",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 12,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/proxy-flow.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "User’s requests are redirected to the new release",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 13,
+                                        "src": "https://technologyconversations.files.wordpress.com/2016/04/proxy-user.png?w=625&h=337",
+                                        "width": 625
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 14,
+                                        "src": "https://technologyconversations.files.wordpress.com/2014/04/the-devops-2-0-toolkit.png?w=188&h=300",
+                                        "width": 188
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://technologyconversations.files.wordpress.com/2016/04/vagrant-sample.png",
+                                "timeToRead": 23,
+                                "givenUrl": "https://technologyconversations.com/2016/04/18/docker-flow/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "48400086",
+                                        "name": "Viktor Farcic",
+                                        "url": "https://technologyconversations.com/author/technologyconversations/"
+                                    }
+                                ],
+                                "datePublished": "2016-05-22 19:16:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MjU0MTM0NF8qXzE0NzUzNzAzNDQ=",
+                        "node": {
+                            "url": "http://highscalability.com/blog/2016/4/29/stuff-the-internet-says-on-scalability-for-april-29th-2016.html",
+                            "_createdAt": 1462278502,
+                            "_updatedAt": 1475370344,
+                            "id": "1272541344",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370344,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Stuff The Internet Says On Scalability For April 29th, 2016",
+                                "itemId": "1272541344",
+                                "resolvedId": "1272541344",
+                                "resolvedUrl": "http://highscalability.com/blog/2016/4/29/stuff-the-internet-says-on-scalability-for-april-29th-2016.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "highscalability"
+                                },
+                                "excerpt": "Hey, it's HighScalability time: The Universe in one image (Pablo Budassi). Imagine an ancient being leaning over, desperately scrying to figure out what they have wrought. 50 minutes: Facebook daily average use; 1.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://c2.staticflickr.com/2/1587/26614183726_acdcd6ac83_o.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://c2.staticflickr.com/2/1587/26614183726_acdcd6ac83_o.png",
+                                "timeToRead": 14,
+                                "givenUrl": "http://highscalability.com/blog/2016/4/29/stuff-the-internet-says-on-scalability-for-april-29th-2016.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "49334233",
+                                        "name": "Your Brainwaves With",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-29 08:56:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1NzQ0NzQyN18qXzE0NzUzNzAzNDU=",
+                        "node": {
+                            "url": "http://www.crankyotaku.com/2016/04/linux-programming-daemon-basics.html",
+                            "_createdAt": 1462278563,
+                            "_updatedAt": 1475370346,
+                            "id": "1257447427",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370345,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1257447427",
+                                "resolvedId": "1257447427",
+                                "resolvedUrl": "http://www.crankyotaku.com/2016/04/linux-programming-daemon-basics.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "crankyotaku.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.crankyotaku.com/2016/04/linux-programming-daemon-basics.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2NTI1NzQ1M18qXzE0NzUzNzAzNDk=",
+                        "node": {
+                            "url": "http://observer.com/2016/04/why-ayaan-hirsi-alis-criticism-of-islam-angers-western-liberals/#.Vx5qhulNLAs.twitter",
+                            "_createdAt": 1462278710,
+                            "_updatedAt": 1475370350,
+                            "id": "1265257453",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370349,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why Ayaan Hirsi Ali’s Criticism of Islam Angers Western Liberals",
+                                "itemId": "1265257453",
+                                "resolvedId": "1265257453",
+                                "resolvedUrl": "https://observer.com/2016/04/why-ayaan-hirsi-alis-criticism-of-islam-angers-western-liberals/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Observer Media"
+                                },
+                                "excerpt": "Ayaan Hirsi Ali can recount in virtual slow motion the events of November 2, 2004—the day Theo Van Gogh, her collaborator on a film about abuse of women in certain Muslim societies, was assassinated.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Ayaan Hirsi Ali attends a book presentation in April 2015 in Berlin.",
+                                        "credit": "",
+                                        "height": 423,
+                                        "imageId": 1,
+                                        "src": "https://observer-media.go-vip.net/wp-content/uploads/sites/2/2016/04/gettyimages-470426776.jpg?quality=80&w=635",
+                                        "width": 635
+                                    },
+                                    {
+                                        "caption": "Hirsi Ali speaks at the National Press Club in Washington, D.C., last year.",
+                                        "credit": "",
+                                        "height": 223,
+                                        "imageId": 2,
+                                        "src": "https://observer-media.go-vip.net/wp-content/uploads/sites/2/2016/04/gettyimages-468824652.jpg?quality=80&w=300",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "A man mourns the dead in the November 2015 Paris terrorist attacks by lighting a candle at a memorial outside La Belle Equipe restaraunt on Rue de Charonne, one of the locations where gunmen massacred innocents.",
+                                        "credit": "",
+                                        "height": 423,
+                                        "imageId": 3,
+                                        "src": "https://observer-media.go-vip.net/wp-content/uploads/sites/2/2016/04/gettyimages-497237160.jpg?quality=80",
+                                        "width": 635
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://observer.com/wp-content/uploads/sites/2/2016/04/gettyimages-470426776.jpg?quality=80&w=970&strip",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://observer.com/wp-content/uploads/sites/2/2016/04/gettyimages-470426776.jpg?quality=80&strip",
+                                "timeToRead": 8,
+                                "givenUrl": "http://observer.com/2016/04/why-ayaan-hirsi-alis-criticism-of-islam-angers-western-liberals/#.Vx5qhulNLAs.twitter",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "111017865",
+                                        "name": "Jeff Robbins",
+                                        "url": "https://observer.com/author/jeff-robbins/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-22 08:00:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTEzNjM3MTE4MF8qXzE0NzUzNzAzNjA=",
+                        "node": {
+                            "url": "http://www.wired.com/2015/12/how-rogue-techies-armed-the-predator-almost-stopped-911-and-accidentally-invented-remote-war/",
+                            "_createdAt": 1463187324,
+                            "_updatedAt": 1475370361,
+                            "id": "1136371180",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370360,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Rogue Techies Armed the Predator, Almost Stopped 9/11, and Accidentally Invented Remote War",
+                                "itemId": "1136371180",
+                                "resolvedId": "1136371180",
+                                "resolvedUrl": "https://www.wired.com/2015/12/how-rogue-techies-armed-the-predator-almost-stopped-911-and-accidentally-invented-remote-war/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "On the afternoon of October 7, 2001, the first day of the war in Afghanistan, an Air Force pilot named Scott Swanson made history while sitting in a captain’s chair designed for an RV. His contribution to posterity was to kill someone in a completely novel way.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/5955a7f396d7ef123a1d40d3/master/w_2560%2Cc_limit/drone_origin11.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.wired.com/photos/5955a7f563d43b038e9bc462/master/w_1600%2Cc_limit/drone_origin_scott_swanson.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.wired.com/photos/5955a7f7ad90646d424bb236/master/w_1600%2Cc_limit/drone_origin_godfather.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.wired.com/photos/5955a7f9ad90646d424bb238/master/w_1600%2Cc_limit/drone_origin_chief.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.wired.com/photos/5955a7fa63d43b038e9bc464/master/w_1600%2Cc_limit/drone_origin_technical_lead.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.wired.com/photos/5955a7fb5992c54331ac156f/master/w_1600%2Cc_limit/drone_origin_intel_officer.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.wired.com/photos/5955a7fc3ff99d6b3a1d12e4/master/w_1600%2Cc_limit/drone_origin_the_target.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.wired.com/photos/5955a7fdcbd9b77a419157ea/master/w_1600%2Cc_limit/drone_origin_genius.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://media.wired.com/photos/5955a7ff96d7ef123a1d40d5/master/w_1600%2Cc_limit/drone_origin_ops_director.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/5955a7f396d7ef123a1d40d3/191:100/w_1280,c_limit/drone_origin11.jpg",
+                                "timeToRead": 20,
+                                "givenUrl": "http://www.wired.com/2015/12/how-rogue-techies-armed-the-predator-almost-stopped-911-and-accidentally-invented-remote-war/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "98784358",
+                                        "name": "Arthur Holland Michel",
+                                        "url": "https://www.wired.com/author/arthur-holland-michel"
+                                    }
+                                ],
+                                "datePublished": "2015-12-17 07:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MDU0MDcyOV8qXzE0NzUzNzAzNjI=",
+                        "node": {
+                            "url": "https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer",
+                            "_createdAt": 1463187336,
+                            "_updatedAt": 1475370364,
+                            "id": "1270540729",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370362,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "What are the things required to become a hardcore programmer? - Quora",
+                                "itemId": "1270540729",
+                                "resolvedId": "1270540729",
+                                "resolvedUrl": "https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quora"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.quora.com/What-are-the-things-required-to-become-a-hardcore-programmer",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjI0NTIwMTQxXypfMTQ3NTM3MDM2NA==",
+                        "node": {
+                            "url": "http://waitbutwhy.com/2014/05/fermi-paradox.html",
+                            "_createdAt": 1463187352,
+                            "_updatedAt": 1475370365,
+                            "id": "624520141",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370364,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Fermi Paradox",
+                                "itemId": "624520141",
+                                "resolvedId": "624520141",
+                                "resolvedUrl": "https://waitbutwhy.com/2014/05/fermi-paradox.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Wait But Why"
+                                },
+                                "excerpt": "PDF: We made a fancy PDF of this post for printing and offline viewing. Buy it here. (Or see a preview.) Some people stick with the traditional, feeling struck by the epic beauty or blown away by the insane scale of the universe.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Night-FEATURE-1-white-head.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 366,
+                                        "imageId": 2,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Stars-fixed.jpg",
+                                        "width": 553
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 553,
+                                        "imageId": 3,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Milky-Way.jpg",
+                                        "width": 553
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 225,
+                                        "imageId": 4,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/timeline.png",
+                                        "width": 553
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 315,
+                                        "imageId": 5,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/timeline-22.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 344,
+                                        "imageId": 6,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Dyson-Sphere.png",
+                                        "width": 344
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 570,
+                                        "imageId": 7,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Colonize-Galaxy.png",
+                                        "width": 340
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 392,
+                                        "imageId": 8,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Great-Filter1.png",
+                                        "width": 553
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 291,
+                                        "imageId": 9,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Great-Filter-RARE1.png",
+                                        "width": 553
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 237,
+                                        "imageId": 10,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Great-Filter-EARLY2.png",
+                                        "width": 553
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 285,
+                                        "imageId": 11,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Great-Filter-FUCKED1.png",
+                                        "width": 553
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 32,
+                                        "imageId": 12,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2017/01/PDF-Button.png",
+                                        "width": 150
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2014/05/Night-FEATURE-1-white-head.png",
+                                "timeToRead": 20,
+                                "givenUrl": "http://waitbutwhy.com/2014/05/fermi-paradox.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "13563762",
+                                        "name": "Tim Urban",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2014-05-21 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MDcyNzU1OF8qXzE0NzUzNzAzNjY=",
+                        "node": {
+                            "url": "https://medium.com/@Mybridge/the-most-useful-free-ebooks-for-web-developers-3854767ee52f",
+                            "_createdAt": 1463187427,
+                            "_updatedAt": 1475370367,
+                            "id": "1270727558",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370366,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Most Useful Free eBooks for Web Developers.",
+                                "itemId": "1271045734",
+                                "resolvedId": "1271045734",
+                                "resolvedUrl": "https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "medium.mybridge.co"
+                                },
+                                "excerpt": "This is a collection of free ebooks for front-end developers about JavaScript, ES6, NodeJS, CSS3 and HTML5. In this observation, we compared nearly 400 free ebooks related to web development and sized the number down to 17.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*gwQtVuHhpy7EnwDe1X0Zqg.png",
+                                "timeToRead": 2,
+                                "givenUrl": "https://medium.com/@Mybridge/the-most-useful-free-ebooks-for-web-developers-3854767ee52f",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "48218928",
+                                        "name": "Mybridge",
+                                        "url": "https://medium.com/@Mybridge"
+                                    }
+                                ],
+                                "datePublished": "2017-10-26 20:57:17",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3NDk4NTEzNF8qXzE0NzUzNzAzNzk=",
+                        "node": {
+                            "url": "http://fossbytes.com/basic-linux-commands-awesome-cheat-sheet-download/",
+                            "_createdAt": 1463187513,
+                            "_updatedAt": 1475370379,
+                            "id": "1274985134",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370379,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1274985134",
+                                "resolvedId": "1274985134",
+                                "resolvedUrl": "http://fossbytes.com/basic-linux-commands-awesome-cheat-sheet-download/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "fossbytes.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://fossbytes.com/basic-linux-commands-awesome-cheat-sheet-download/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI5MDMwODk3NF8qXzE0NzUzNzAzODE=",
+                        "node": {
+                            "url": "http://www.theatlantic.com/magazine/archive/2016/06/theres-no-such-thing-as-free-will/480750/",
+                            "_createdAt": 1464060458,
+                            "_updatedAt": 1475370382,
+                            "id": "1290308974",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370381,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "There’s No Such Thing as Free Will",
+                                "itemId": "1290308974",
+                                "resolvedId": "1290308974",
+                                "resolvedUrl": "https://www.theatlantic.com/magazine/archive/2016/06/theres-no-such-thing-as-free-will/480750/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "But we’re better off believing in it anyway. For centuries, philosophers and theologians have almost unanimously held that civilization as we know it depends on a widespread belief in free will—and that losing this belief could be calamitous.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Edmon de Haro",
+                                        "credit": "",
+                                        "height": 810,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/r5rgVJv5RZ9mXguJeC2dDIXXX2o=/0x104:2000x1229/1440x810/media/img/2016/05/09/WEL_Cave_FreeWill_OpenerArt_Web_r3/original.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 108,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/OkxPRoNlAeC0pv2Mxzj41OG64RE=/15x0:2348x3150/80x108/media/img/issues/2016/05/16/0616_Cover_RGB_nopgno/original.jpg",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Edmon de Haro",
+                                        "credit": "",
+                                        "height": 708,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/X8KzlmZAre-RhnOc8rD5iOsrYtM=/630x799/media/img/posts/2016/05/WEL_Cave_FreeWill_ArtSecondary_Web/original.jpg",
+                                        "width": 559
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 6,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 9,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 128,
+                                        "imageId": 11,
+                                        "src": "https://cdn.theatlantic.com/thumbor/w7IwSgt6rTwnhc4SwM1qdpz1BbA=/0x0:2362x3150/96x128/media/img/issues/2016/05/16/0616_Cover_RGB_nopgno/original.jpg",
+                                        "width": 96
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/1jx_-5lC1p2i0SUTB6h-mouvT5w=/0x67:1999x1108/1200x625/media/img/2016/05/WEL_Cave_FreeWill_OpenerArt_Web_r3/original.jpg",
+                                "timeToRead": 17,
+                                "givenUrl": "http://www.theatlantic.com/magazine/archive/2016/06/theres-no-such-thing-as-free-will/480750/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "95865425",
+                                        "name": "Stephen Cave",
+                                        "url": "https://www.theatlantic.com/author/stephen-cave/"
+                                    }
+                                ],
+                                "datePublished": "2016-05-16 19:00:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3NTc3OTkwNF8qXzE0NzUzNzAzODI=",
+                        "node": {
+                            "url": "http://ben-evans.com/benedictevans/2016/5/2/inevitability-in-technology",
+                            "_createdAt": 1464060816,
+                            "_updatedAt": 1475370383,
+                            "id": "1275779904",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370382,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Inevitability in technology",
+                                "itemId": "1275779904",
+                                "resolvedId": "1275779904",
+                                "resolvedUrl": "https://www.ben-evans.com/benedictevans/2016/5/2/inevitability-in-technology",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Benedict Evans"
+                                },
+                                "excerpt": "One of the lenses historians sometime apply to history is the counterfactual - if something fairly small had happened differently, what would have changed? If this battle had gone the other way or that statesman or general had died in infancy, would the whole period have looked different, or not?",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.squarespace-cdn.com/content/v1/50363cf324ac8e905e7df861/1462243660438-6QTWZP0K2XB0A7DPZJ6T/image.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/5728114cc2ea512469a11c2c/1462243661621/image.jpg?format=1500w",
+                                "timeToRead": 5,
+                                "givenUrl": "http://ben-evans.com/benedictevans/2016/5/2/inevitability-in-technology",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "116009647",
+                                        "name": "Benedict Evans",
+                                        "url": "https://www.ben-evans.com/benedictevans?author=50363cf324ac8e905e7df863"
+                                    }
+                                ],
+                                "datePublished": "2016-05-03 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI5Njc2MDg1Ml8qXzE0NzUzNzAzODQ=",
+                        "node": {
+                            "url": "http://www.newyorker.com/magazine/2016/05/30/the-new-activism-of-liberal-arts-colleges",
+                            "_createdAt": 1464650215,
+                            "_updatedAt": 1475370385,
+                            "id": "1296760852",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370384,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Big Uneasy",
+                                "itemId": "1296760852",
+                                "resolvedId": "1296760852",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2016/05/30/the-new-activism-of-liberal-arts-colleges",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "At Oberlin, it started in December, when the temperatures ran high, although the weeping willows and the yellow poplars that had flared in the fall were bare already. Problems had a tendency to escalate.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Illustration by Oliver Munday; Source: Joe Mabel",
+                                        "credit": "building",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/590976ec1c7a8e33fb38f854/master/w_2560%2Cc_limit/160530_r28214.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“Can you stop that crap? The bison are on the move.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/cartoons/593b66aeedb25442b234e739/master/w_1600%2Cc_limit/160530_a20166.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“They rifled through our drawers, ransacked our closets, and completely redeveloped the central character in Carlton’s novel.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/cartoons/593b66af5d2f45736c34d026/master/w_1600%2Cc_limit/160530_a19907.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“It’s amazing what you can see once you get away from all that light pollution.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/cartoons/593b66b3edb25442b234e741/master/w_1600%2Cc_limit/160530_a19708.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“Give him time—if anyone can break that swing set, it’s Ol’ Tex.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/cartoons/593b66b78a032b339a0cd788/master/w_1600%2Cc_limit/160530_a19872.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“And this is Joshua, he’ll be a hundred and forty-seven months next week.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/cartoons/593b66695d2f45736c34cfda/master/w_1600%2Cc_limit/160530_flake-2013-05-27.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“My child’s school is having an auction, so can your entire life come to a halt?”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/cartoons/593b666dc195de33cba591d4/master/w_1600%2Cc_limit/160530_kaplan-2007-06-25.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://media.newyorker.com/photos/59097b792179605b11ad8f18/1:1/w_270%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://media.newyorker.com/photos/59095d131c7a8e33fb38c272/4:3/w_480%2Cc_limit/140929_r25506.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://media.newyorker.com/photos/59d3b273467ec334f6b1253e/4:3/w_480%2Cc_limit/171009_r30689-tout.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://media.newyorker.com/photos/652ea24ce345f765e51c9ef3/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 14,
+                                        "src": "https://media.newyorker.com/photos/65159e287ef26f0f1de69762/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 15,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/590976ec1c7a8e33fb38f854/16:9/w_1280,c_limit/160530_r28214.jpg",
+                                "timeToRead": 37,
+                                "givenUrl": "http://www.newyorker.com/magazine/2016/05/30/the-new-activism-of-liberal-arts-colleges",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "72398550",
+                                        "name": "Nathan Heller",
+                                        "url": "https://www.newyorker.com/contributors/nathan-heller"
+                                    }
+                                ],
+                                "datePublished": "2016-05-23 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI4OTMzNTg0NV8qXzE0NzUzNzAzODY=",
+                        "node": {
+                            "url": "https://azure.microsoft.com/cs-cz/documentation/articles/machine-learning-algorithm-cheat-sheet/",
+                            "_createdAt": 1464651488,
+                            "_updatedAt": 1475370387,
+                            "id": "1289335845",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370386,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Tahákový list algoritmu Machine Learning pro návrháře Azure Machine Learning",
+                                "itemId": "2959383542",
+                                "resolvedId": "2959383542",
+                                "resolvedUrl": "https://docs.microsoft.com/cs-cz/azure/machine-learning/algorithm-cheat-sheet",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Microsoft"
+                                },
+                                "excerpt": "Tahákový list s algoritmem Azure Machine Learning vám pomůže vybrat správný algoritmus z návrháře pro model prediktivní analýzy.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://docs.microsoft.com/cs-cz/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://azure.microsoft.com/cs-cz/documentation/articles/machine-learning-algorithm-cheat-sheet/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "60825839",
+                                        "name": "FrancescaLazzeri",
+                                        "url": ""
+                                    },
+                                    {
+                                        "id": "93513271",
+                                        "name": "Lazzeri",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2020-03-05 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI5MjQ3MzEzMV8qXzE0NzUzNzAzOTE=",
+                        "node": {
+                            "url": "https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.fsugo38sd",
+                            "_createdAt": 1466661817,
+                            "_updatedAt": 1475370392,
+                            "id": "1292473131",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370391,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Technology is Hijacking Your Mind",
+                                "itemId": "2148086994",
+                                "resolvedId": "2148086994",
+                                "resolvedUrl": "https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Estimated reading time: 15 minutes. I’m an expert on how technology hijacks our psychological vulnerabilities. That’s why I spent the last three years as a Design Ethicist at Google caring about how to design things in a way that defends a billion people’s minds from getting hijacked.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 44,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/v2/resize:fill:88:88/1*1N2PDIyPA1RkGKMC0j9bjQ.jpeg",
+                                        "width": 44
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 24,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/v2/resize:fill:48:48/1*pJB1GHII0Xdst93hke6KDw.png",
+                                        "width": 24
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*jv-w56ymDBTwsiqx7YdIdQ.jpeg",
+                                "timeToRead": 17,
+                                "givenUrl": "https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.fsugo38sd",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "181283868",
+                                        "name": "Follow",
+                                        "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Fc806a873d503&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthrive-global%2Fhow-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3&user=Tristan+Harris&userId=c806a873d503&source=post_page-c806a873d503----56d62ef5edf3---------------------post_header-----------"
+                                    }
+                                ],
+                                "datePublished": "2019-10-15 20:30:35",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMyNTY1ODg2Nl8qXzE0NzUzNzAzOTQ=",
+                        "node": {
+                            "url": "http://nymag.com/daily/intelligencer/2016/06/the-hack-that-could-take-down-nyc.html",
+                            "_createdAt": 1466662020,
+                            "_updatedAt": 1475370395,
+                            "id": "1325658866",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370394,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Envisioning the Hack That Could Take Down New York City",
+                                "itemId": "1325658866",
+                                "resolvedId": "1325658866",
+                                "resolvedUrl": "http://nymag.com/daily/intelligencer/2016/06/the-hack-that-could-take-down-nyc.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "The day cars drove themselves into walls and the hospitals froze A scenario that could happen based on what already has.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "The day cars drove themselves into walls and the hospitals froze. A scenario that could happen based on what already has.\n        \n      \n      \n        \n         \n          Illustration:\n        \n          R. Kikuo Johnson",
+                                        "credit": "Illustration:\n        \n          R. Kikuo Johnson",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pixel.nymag.com/imgs/daily/intelligencer/2016/06/10/magazine/14-the-big-hack-lede.w245.h368.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://pixel.nymag.com/imgs/daily/intelligencer/2016/06/10/magazine/16-feature-thebighack.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Their networks dark, hospitals fell into chaos.\n        \n      \n      \n        \n         \n          Illustration:\n        \n          R. Kikuo Johnson",
+                                        "credit": "Illustration:\n        \n          R. Kikuo Johnson",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://pixel.nymag.com/imgs/daily/intelligencer/2016/06/10/magazine/14-the-big-hack-2.nocrop.w529.h327.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "When the power went out, so did the subways, stranding riders.\n        \n      \n      \n        \n         \n          Illustration:\n        \n          R. Kikuo Johnson",
+                                        "credit": "Illustration:\n        \n          R. Kikuo Johnson",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://pixel.nymag.com/imgs/daily/intelligencer/2016/06/10/magazine/14-the-big-hack-3.nocrop.w529.h615.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://pixel.nymag.com/imgs/daily/intelligencer/2016/06/10/magazine/14-the-big-hack-lede.w1200.h630.jpg",
+                                "timeToRead": 31,
+                                "givenUrl": "http://nymag.com/daily/intelligencer/2016/06/the-hack-that-could-take-down-nyc.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "18937467",
+                                        "name": "Reeves Wiedeman",
+                                        "url": "http://nymag.com/author/Reeves%20Wiedeman/"
+                                    }
+                                ],
+                                "datePublished": "2017-12-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMzNDAxMTQyN18qXzE0NzUzNzAzOTY=",
+                        "node": {
+                            "url": "https://www.theguardian.com/science/2016/jun/28/why-bad-ideas-refuse-die",
+                            "_createdAt": 1467720858,
+                            "_updatedAt": 1475370397,
+                            "id": "1334011427",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475370396,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why bad ideas refuse to die",
+                                "itemId": "1334011427",
+                                "resolvedId": "1334011427",
+                                "resolvedUrl": "https://www.theguardian.com/science/2016/jun/28/why-bad-ideas-refuse-die",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Guardian"
+                                },
+                                "excerpt": "In January 2016, the rapper BoB took to Twitter to tell his fans that the Earth is really flat. “A lot of people are turned off by the phrase ‘flat earth’,” he acknowledged, “but there’s no way u can see all the evidence and not know … grow up.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 288,
+                                        "imageId": 1,
+                                        "src": "https://i.guim.co.uk/img/media/77f445bf98a540ea49f16a7ed46ca03ae8c19277/0_336_5145_3088/master/5145.jpg?width=480&quality=85&dpr=1&s=none",
+                                        "width": 480
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 2,
+                                        "src": "https://i.guim.co.uk/img/media/ad9a8d887abc6442f4eb43eaff0ceba00d4a1171/93_139_4018_3612/master/4018.jpg?width=445&quality=85&dpr=1&s=none",
+                                        "width": 445
+                                    },
+                                    {
+                                        "caption": "Flat-Earthers regard as fake any photographs of the Earth that were taken on the Apollo missions Photograph: Alamy",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 3,
+                                        "src": "https://i.guim.co.uk/img/media/60adb5467594cd7f96b9375ca34a9bb357ea43c9/0_935_3000_1800/master/3000.jpg?width=445&quality=85&dpr=1&s=none",
+                                        "width": 445
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 4,
+                                        "src": "https://i.guim.co.uk/img/media/8cd9afeebb38dca0cdc871fef58210614e4f6bf6/0_163_5760_3456/master/5760.jpg?width=445&quality=85&dpr=1&s=none",
+                                        "width": 445
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i.guim.co.uk/img/media/77f445bf98a540ea49f16a7ed46ca03ae8c19277/0_336_5145_3088/5145.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e50c54f17eb719d1f14b3c5f29851f07",
+                                "timeToRead": 18,
+                                "givenUrl": "https://www.theguardian.com/science/2016/jun/28/why-bad-ideas-refuse-die",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "52269984",
+                                        "name": "Steven Poole",
+                                        "url": "https://www.theguardian.com/profile/stevenpoole"
+                                    }
+                                ],
+                                "datePublished": "2016-06-28 00:00:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQyOTg5ODU5MF8qXzE0NzU1NDI5OTY=",
+                        "node": {
+                            "url": "http://www.scientificamerican.com/article/scientists-trace-society-s-myths-to-primordial-origins/",
+                            "_createdAt": 1475452675,
+                            "_updatedAt": 1475544052,
+                            "id": "1429898590",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475542996,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Scientists Trace Society’s Myths to Primordial Origins",
+                                "itemId": "1450698347",
+                                "resolvedId": "1450698347",
+                                "resolvedUrl": "https://www.scientificamerican.com/article/scientists-trace-society-rsquo-s-myths-to-primordial-origins/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Scientific American"
+                                },
+                                "excerpt": "The Greek version of a familiar myth starts with Artemis, goddess of the hunt and fierce protectress of innocent young women. Artemis demands that Callisto, “the most beautiful,” and her other handmaidens take a vow of chastity.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://static.scientificamerican.com/sciam/cache/file/B69EC1C7-65A6-45A4-ADDCEC6063614483.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "http://www.scientificamerican.com/article/scientists-trace-society-s-myths-to-primordial-origins/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "56892940",
+                                        "name": "Julien d'Huy",
+                                        "url": "https://www.scientificamerican.com/author/julien-d-huy/"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0ODEyMzQ2MF8qXzE0NzU1NDMwMDc=",
+                        "node": {
+                            "url": "http://www.newyorker.com/culture/cultural-comment/headphones-everywhere",
+                            "_createdAt": 1469066598,
+                            "_updatedAt": 1475544052,
+                            "id": "1348123460",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543007,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Headphones Everywhere",
+                                "itemId": "1348123460",
+                                "resolvedId": "1348123460",
+                                "resolvedUrl": "https://www.newyorker.com/culture/cultural-comment/headphones-everywhere",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "Anyone who has recently spent time in a public space—traversing the aisle of an airplane, say, lurching toward your seat adjacent to the toilet, trying to shift your backpack without thwapping a fellow traveller on the forehead—has likely noticed the sudden and extraordinary ubiquity of headphon",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.f1893bac6dafe13d6d5bad671a5bee2345efa44d.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Is the ubiquity of headphones just another emblem of catastrophic social decline, edging us even deeper into narcissism and unsociability?",
+                                        "credit": "PHOTOGRAPH  MARTIN PARR / MAGNUM",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/photos/590978302179605b11ad8891/master/w_2560%2Cc_limit/Petrusich_Headphones.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.6e34c81346bc43475ffd572e6c2eb3e125927148.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/photos/59097b8bebe912338a378689/1:1/w_270%2Cc_limit/petrusich-amanda.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/590977c08b51cf59fc4234e9/4:3/w_480%2Cc_limit/Petrusich-TheEndofOtherMusic.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/590974ecebe912338a377900/4:3/w_480%2Cc_limit/Petrusich-The-Music-Critic-in-the-Age-of-the-Insta-Release.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.f915b516b6ca9c0c2a9bdf9b749519365b2b2e4a.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/590978302179605b11ad8891/16:9/w_1280,c_limit/Petrusich_Headphones.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "http://www.newyorker.com/culture/cultural-comment/headphones-everywhere",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "72528309",
+                                        "name": "Amanda Petrusich",
+                                        "url": "https://www.newyorker.com/contributors/amanda-petrusich"
+                                    }
+                                ],
+                                "datePublished": "2016-07-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0ODExOTI2NV8qXzE0NzU1NDMwMDg=",
+                        "node": {
+                            "url": "https://www.farnamstreetblog.com/2016/07/logical-fallacies/",
+                            "_createdAt": 1469066605,
+                            "_updatedAt": 1475544052,
+                            "id": "1348119265",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543008,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Fun with Logical Fallacies",
+                                "itemId": "2088516607",
+                                "resolvedId": "2088516607",
+                                "resolvedUrl": "https://fs.blog/2016/07/logical-fallacies/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Shane Parrish"
+                                },
+                                "excerpt": "We came across a cool book recently called Logically Fallacious: The Ultimate Collection of Over 300 Logical Fallacies, by a social psychologist named Bo Bennett.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.farnamstreetblog.com/wp-content/uploads/2016/07/Logical-Fallacies.jpg",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://149366099.v2.pressablecdn.com/wp-content/uploads/2016/07/Logical-Fallacies.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.farnamstreetblog.com/2016/07/logical-fallacies/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-07-12 06:00:20",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0MDAxNDgzOV8qXzE0NzU1NDMwMTU=",
+                        "node": {
+                            "url": "http://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html",
+                            "_createdAt": 1469066665,
+                            "_updatedAt": 1475544052,
+                            "id": "1340014839",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543015,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4013607252",
+                                "resolvedId": "4013607252",
+                                "resolvedUrl": "https://getpocket.com:443/sMpGNk",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM1NDAzODc1NF8qXzE0NzU1NDMwMTc=",
+                        "node": {
+                            "url": "https://www.schneier.com/blog/archives/2016/07/futuristic_cybe.html",
+                            "_createdAt": 1469067763,
+                            "_updatedAt": 1475544052,
+                            "id": "1354038754",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543017,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Futuristic Cyberattack Scenario",
+                                "itemId": "1354038754",
+                                "resolvedId": "1354038754",
+                                "resolvedUrl": "https://www.schneier.com/blog/archives/2016/07/futuristic_cybe.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Schneier Blog"
+                                },
+                                "excerpt": "This is a piece of near-future fiction about a cyberattack on New York, including hacking of cars, the water system, hospitals, elevators, and the power grid. Although it is definitely a movie-plot attack, all the individual pieces are plausible and will certainly happen individually and separately.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.schneier.com/blog/archives/2016/07/futuristic_cybe.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-07-18 06:27:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjMwMDQ0NjUyXypfMTQ3NTU0MzAzMQ==",
+                        "node": {
+                            "url": "https://medium.com/the-physics-arxiv-blog/the-astounding-link-between-the-p-np-problem-and-the-quantum-nature-of-universe-7ef5eea6fd7a#.6lom12yui",
+                            "_createdAt": 1469397773,
+                            "_updatedAt": 1475544052,
+                            "id": "630044652",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543031,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Astounding Link Between the P≠NP Problem and the Quantum Nature of Universe",
+                                "itemId": "630044652",
+                                "resolvedId": "630044652",
+                                "resolvedUrl": "https://medium.com/the-physics-arxiv-blog/the-astounding-link-between-the-p-np-problem-and-the-quantum-nature-of-universe-7ef5eea6fd7a",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "The paradox of Schrodinger’s cat is a thought experiment dreamed up to explore one of the great mysteries of quantum mechanics—why we don’t see its strange and puzzling behaviour in the macroscopic world. The paradox is simple to state.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/763/1*-q8yaLMYH43XHyhdTSJo1w.png",
+                                "timeToRead": 7,
+                                "givenUrl": "https://medium.com/the-physics-arxiv-blog/the-astounding-link-between-the-p-np-problem-and-the-quantum-nature-of-universe-7ef5eea6fd7a#.6lom12yui",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "11498974",
+                                        "name": "The Physics arXiv Blog",
+                                        "url": "https://medium.com/@arxivblog"
+                                    }
+                                ],
+                                "datePublished": "2014-04-06 15:09:40",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "ODE5MzI3MTUwXypfMTQ3NTU0MzAzMw==",
+                        "node": {
+                            "url": "http://www.theatlantic.com/magazine/archive/1999/11/phony-science-wars/377882/",
+                            "_createdAt": 1469402784,
+                            "_updatedAt": 1475544052,
+                            "id": "819327150",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543033,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Phony Science Wars",
+                                "itemId": "819327150",
+                                "resolvedId": "819327150",
+                                "resolvedUrl": "https://www.theatlantic.com/magazine/archive/1999/11/phony-science-wars/377882/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "THE SOCIAL CONSTRUCTION OF WHAT? OCCASIONALLY we read about a war that is supposed to be going on among philosophers. The war, we are told, is between those who believe in truth and rationality and those who do not.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "http://www.theatlantic.com/magazine/archive/1999/11/phony-science-wars/377882/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152201045",
+                                        "name": "Richard Rorty",
+                                        "url": "https://www.theatlantic.com/author/richard-rorty/"
+                                    }
+                                ],
+                                "datePublished": "1999-10-31 23:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM1OTA1NDQ0Ml8qXzE0NzU1NDMwMzU=",
+                        "node": {
+                            "url": "https://www.soasta.com/blog/google-machine-learning-ecommerce-research/?imm_mid=0e6078&cmp=em-webops-na-na-newsltr_20160722",
+                            "_createdAt": 1469624465,
+                            "_updatedAt": 1475544052,
+                            "id": "1359054442",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543035,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How We Used Machine Learning to Predict Bounce and Conversion Rates",
+                                "itemId": "2326998537",
+                                "resolvedId": "2326998537",
+                                "resolvedUrl": "https://developer.akamai.com/blog/2016/07/20/machine-learning-predicts-bound-conversions",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "developer.akamai.com"
+                                },
+                                "excerpt": "If you’re ever offered a chance to throw a million or so beacons' worth of user data into a Google-developed machine-learning system, I highly recommend you say yes. That’s what we did when Google approached us a year ago about partnering with them on a pioneering research project.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://developer.akamai.com/sites/default/files/inline-images/Screenshot%202018-07-31%2015.59.50.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://developer.akamai.com/sites/default/files/inline-images/Screenshot%202018-07-31%2016.00.22.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://developer.akamai.com/sites/default/files/inline-images/Screenshot%202018-07-31%2016.01.42.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://developer.akamai.com/sites/default/files/inline-images/Screenshot%202018-07-31%2016.02.29.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://developer.akamai.com/sites/default/files/inline-images/Screenshot%202018-07-31%2016.03.00.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://developer.akamai.com/sites/default/files/inline-images/Screenshot%202018-07-31%2016.03.36.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 9,
+                                "givenUrl": "https://www.soasta.com/blog/google-machine-learning-ecommerce-research/?imm_mid=0e6078&cmp=em-webops-na-na-newsltr_20160722",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "3079702",
+                                        "name": "Tammy Everts",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-07-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMzMTIxMDU2M18qXzE0NzU1NDMwMzc=",
+                        "node": {
+                            "url": "https://chomsky.info/an-eight-point-brief-for-lev-lesser-evil-voting/",
+                            "_createdAt": 1470002290,
+                            "_updatedAt": 1475544052,
+                            "id": "1331210563",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543037,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "An Eight Point Brief for LEV (Lesser Evil Voting)",
+                                "itemId": "1331210563",
+                                "resolvedId": "1331210563",
+                                "resolvedUrl": "https://chomsky.info/an-eight-point-brief-for-lev-lesser-evil-voting/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "chomsky.info"
+                                },
+                                "excerpt": "By John Halle and Noam Chomsky JohnHalle.com (Note: Professor Chomsky requests that he not be contacted with responses to this piece.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 6,
+                                "givenUrl": "https://chomsky.info/an-eight-point-brief-for-lev-lesser-evil-voting/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "43622514",
+                                        "name": "BIOS",
+                                        "url": "https://chomsky.info/bios/"
+                                    }
+                                ],
+                                "datePublished": "2016-06-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAzOTU2ODRfKl8xNDc1NTQzMDQ1",
+                        "node": {
+                            "url": "http://longnow.org/essays/richard-feynman-connection-machine/",
+                            "_createdAt": 1471188234,
+                            "_updatedAt": 1475544052,
+                            "id": "20395684",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543045,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Richard Feynman and The Connection Machine",
+                                "itemId": "20395684",
+                                "resolvedId": "20395684",
+                                "resolvedUrl": "http://longnow.org/essays/richard-feynman-connection-machine/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "longnow.org"
+                                },
+                                "excerpt": "Reprinted with permission from Phys. Today 42(2), 78 (1989). Copyright 1989, American Institute of Physics. One day when I was having lunch with Richard Feynman, I mentioned to him that I was planning to start a company to build a parallel computer with a million processors.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.longnow.org/files/2/Feynman.JPG",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "8CKW4A6jnJA",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/8CKW4A6jnJA"
+                                    }
+                                ],
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://longnow.org/essays/richard-feynman-connection-machine/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2ODUzMzUxMF8qXzE0NzU1NDMwNDk=",
+                        "node": {
+                            "url": "https://medium.com/the-coinbase-blog/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.gkmsg6doj",
+                            "_createdAt": 1471381172,
+                            "_updatedAt": 1475544052,
+                            "id": "1368533510",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543049,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1512671884",
+                                "resolvedId": "1512671884",
+                                "resolvedUrl": "https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.coinbase.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://medium.com/the-coinbase-blog/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.gkmsg6doj",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM3Njg5Njk5OF8qXzE0NzU1NDMwNTM=",
+                        "node": {
+                            "url": "http://www.nature.com/news/the-bandwidth-bottleneck-that-is-throttling-the-internet-1.20392",
+                            "_createdAt": 1471381260,
+                            "_updatedAt": 1475544052,
+                            "id": "1376896998",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543053,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The bandwidth bottleneck that is throttling the Internet",
+                                "itemId": "3358735350",
+                                "resolvedId": "3358735350",
+                                "resolvedUrl": "https://www.nature.com/articles/536139a",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nature Publishing Group"
+                                },
+                                "excerpt": "Researchers are scrambling to repair and expand data pipes worldwide and to keep the information revolution from grinding to a halt.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Credit: Illustration by Richard Wilkinson",
+                                        "credit": "Illustration  Richard Wilkinson",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F536139a/MediaObjects/41586_2016_Article_BF536139a_Figa_HTML.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Credit: Nik Spencer/<i>Nature</i>",
+                                        "credit": "Nik Spencer/<i>Nature</i>",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2F536139a/MediaObjects/41586_2016_Article_BF536139a_Figb_HTML.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Credit: Source: Telegeography",
+                                        "credit": "Source: Telegeography",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.springernature.com/relative-r300-703_m1050/springer-static/image/art%3A10.1038%2F536139a/MediaObjects/41586_2016_Article_BF536139a_Figc_HTML.jpg",
+                                        "width": 703
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F536139a/MediaObjects/41586_2016_Article_BF536139a_Figa_HTML.jpg",
+                                "timeToRead": 15,
+                                "givenUrl": "http://www.nature.com/news/the-bandwidth-bottleneck-that-is-throttling-the-internet-1.20392",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "164275211",
+                                        "name": "Jeff Hecht",
+                                        "url": "https://www.nature.com/articles/536139a?error=cookies_not_supported&code=b4c076d5-3722-4c02-b4bc-92bea17d0ba6#auth-Jeff-Hecht"
+                                    }
+                                ],
+                                "datePublished": "2016-08-10 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM3MzUyODMyMl8qXzE0NzU1NDMwNTU=",
+                        "node": {
+                            "url": "https://medium.com/@cshirky/theres-no-such-thing-as-a-protest-vote-c2fdacabd704",
+                            "_createdAt": 1471527697,
+                            "_updatedAt": 1475544052,
+                            "id": "1373528322",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543055,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "There’s No Such Thing As A Protest Vote",
+                                "itemId": "1373528322",
+                                "resolvedId": "1373528322",
+                                "resolvedUrl": "https://medium.com/@cshirky/theres-no-such-thing-as-a-protest-vote-c2fdacabd704",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "We’re in the season of protest vote advocacy, with writers of all political stripes making arguments for third-party candidates (Jill Stein, Gary Johnson), write-in votes (Bernie Sanders, Rod Silva), or refusing to vote altogether (#NeverTrump, #BernieOrBust.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/0*3JV8V-Iv9NpT2JBl.jpg",
+                                        "width": 28
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 7,
+                                "givenUrl": "https://medium.com/@cshirky/theres-no-such-thing-as-a-protest-vote-c2fdacabd704",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "25723270",
+                                        "name": "Clay Shirky",
+                                        "url": "https://medium.com/@cshirky"
+                                    }
+                                ],
+                                "datePublished": "2016-08-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0NjI2MDYzN18qXzE0NzU1NDMwNTc=",
+                        "node": {
+                            "url": "https://medium.com/the-wtf-economy/machine-money-and-people-money-29b497eeb9d0",
+                            "_createdAt": 1471527759,
+                            "_updatedAt": 1475544052,
+                            "id": "1346260637",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543057,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3915960162",
+                                "resolvedId": "3915960162",
+                                "resolvedUrl": "https://getpocket.com:443/sMpXdq?cta=1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://medium.com/the-wtf-economy/machine-money-and-people-money-29b497eeb9d0",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTI2MDcxMTE3NV8qXzE0NzUzNzAzNDI=",
+                    "endCursor": "MTM0NjI2MDYzN18qXzE0NzU1NDMwNTc="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

@@ -1,0 +1,1978 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTE5MTIxMjAxM18qXzE0NTU4ODczNzE=",
+                        "node": {
+                            "url": "https://medium.com/life-learning/how-i-became-a-morning-person-learned-a-new-language-and-read-5x-more-books-in-2015-867ed067bb9#.u81nci3t1",
+                            "_createdAt": 1455886709,
+                            "_updatedAt": 1455967949,
+                            "id": "1191212013",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1455887371,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How I Became a Morning Person, Learned a New Language, and Read 5x More Books in 2015",
+                                "itemId": "1296513355",
+                                "resolvedId": "1296513355",
+                                "resolvedUrl": "https://stories.buffer.com/how-i-became-a-morning-person-learned-a-new-language-and-read-5x-more-books-in-2015-867ed067bb9",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Buffer"
+                                },
+                                "excerpt": "You’ll notice that I made the title of this post sound quite impressive (at least I hope I did!). But the great thing about this story is that anyone can have such an impressive outcome, and it’s not at all as daunting as it might sound.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1024/1*95FyqDB6T2B8lEwzIDl0WQ.jpeg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://medium.com/life-learning/how-i-became-a-morning-person-learned-a-new-language-and-read-5x-more-books-in-2015-867ed067bb9#.u81nci3t1",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "34187226",
+                                        "name": "Buffer",
+                                        "url": "https://medium.com/@buffer"
+                                    }
+                                ],
+                                "datePublished": "2016-04-27 10:06:17",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTE5MzAyMDM4OV8qXzE0NTU4ODc2ODA=",
+                        "node": {
+                            "url": "https://medium.com/life-learning/15-things-insanely-productive-people-do-differently-f336e3e6c199#.jcp00eyvq",
+                            "_createdAt": 1455886728,
+                            "_updatedAt": 1455967949,
+                            "id": "1193020389",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1455887680,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2047703349",
+                                "resolvedId": "2047703349",
+                                "resolvedUrl": "https://medium.com/life-learning/15-things-insanely-productive-people-do-differently-f336e3e6c199#.9h02xoucx",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://medium.com/life-learning/15-things-insanely-productive-people-do-differently-f336e3e6c199#.jcp00eyvq",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwNzE0NTE1MF8qXzE0NTY2NzU0MDk=",
+                        "node": {
+                            "url": "https://looker.warby.io/spaces/114",
+                            "_createdAt": 1456507167,
+                            "_updatedAt": 1456675410,
+                            "id": "1207145150",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1456675409,
+                            "tags": [],
+                            "item": {}
+                        }
+                    },
+                    {
+                        "cursor": "MTE5NDUwNTgyMF8qXzE0NTY2NzU4NTk=",
+                        "node": {
+                            "url": "http://nymag.com/scienceofus/2016/02/debunking-the-myth-of-the-winter-blues.html#jumpLink?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                            "_createdAt": 1456106912,
+                            "_updatedAt": 1456675861,
+                            "id": "1194505820",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1456675859,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why Your Brain Actually Works Better in Winter",
+                                "itemId": "1979743255",
+                                "resolvedId": "1979743255",
+                                "resolvedUrl": "https://www.thecut.com/2016/02/debunking-the-myth-of-the-winter-blues.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Cut"
+                                },
+                                "excerpt": "It was terrifyingly cold in New York this weekend, and this cold snap occurred right as we’re entering the postholiday doldrums.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "Photo: ClassicStock/Corbis",
+                                        "height": 700,
+                                        "imageId": 1,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/d1d/406/5d1524b5a0f75b0750d9e941f6a84bb46f-12-winter-seasonal-affective-disorder.rsquare.w700.jpg",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pyxis.nymag.com/v1/imgs/d1d/406/5d1524b5a0f75b0750d9e941f6a84bb46f-12-winter-seasonal-affective-disorder.1x.rsocial.w1200.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "http://nymag.com/scienceofus/2016/02/debunking-the-myth-of-the-winter-blues.html#jumpLink?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "94107724",
+                                        "name": "Christian Jarrett",
+                                        "url": "https://www.thecut.com/author/christian-jarrett/"
+                                    }
+                                ],
+                                "datePublished": "2016-02-14 19:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "OTY0MTYwNDQ3XypfMTQ1NjY3NTg2Nw==",
+                        "node": {
+                            "url": "http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                            "_createdAt": 1456106847,
+                            "_updatedAt": 1456675868,
+                            "id": "964160447",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1456675867,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A World Without Work",
+                                "itemId": "961175747",
+                                "resolvedId": "961175747",
+                                "resolvedUrl": "https://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "For centuries, experts have predicted that machines would make workers obsolete. That moment may finally be arriving. Could that be a good thing? 1. Youngstown, U.S.A.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Adam Levey",
+                                        "credit": "",
+                                        "height": 810,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/aWg88g92XkVPRuohbv2x8XH0p20=/0x1061:1970x2169/1440x810/media/img/2015/06/18/WEL_ThompsonWork_Phone-3/original.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "Adam Levey",
+                                        "credit": "",
+                                        "height": 905,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/hYyKfCyPsumgDAdHetof6XxTZpg=/0x131:1473x1567/928x905/media/img/posts/2015/06/WEL_ThompsonWork_Mug/original.jpg",
+                                        "width": 928
+                                    },
+                                    {
+                                        "caption": "Adam Levey",
+                                        "credit": "",
+                                        "height": 983,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/s844qW2X-nz_FTZsaUjmXUqnlSc=/0x193:1665x1956/928x983/media/img/posts/2015/06/WEL_ThompsonWork_FactoryMan21C/original.jpg",
+                                        "width": 928
+                                    },
+                                    {
+                                        "caption": "Adam Levey",
+                                        "credit": "",
+                                        "height": 1057,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/thumbor/VtrG74QFfRv2CVloJzFrVHUPGC4=/0x260:1333x1778/928x1057/media/img/posts/2015/06/WEL_ThompsonWork_Jar/original.jpg",
+                                        "width": 928
+                                    },
+                                    {
+                                        "caption": "Adam Levey",
+                                        "credit": "",
+                                        "height": 1249,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/thumbor/5eObDz7P6ugSfJuYMT_nwi4WEKI=/0x0:2686x3616/928x1249/media/img/posts/2015/06/WEL_ThompsonWork_OfficeWorker/original.jpg",
+                                        "width": 928
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 8,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 9,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 11,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 12,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 128,
+                                        "imageId": 13,
+                                        "src": "https://cdn.theatlantic.com/thumbor/eKsUEKwi23UT37nCKVK5hXrgmio=/0x0:2362x3150/96x128/media/img/issues/2015/09/11/original_1/original.jpg",
+                                        "width": 96
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/wFMROFnZ5NULPQzlcCBciIbQGPo=/0x802:1970x1828/1200x625/media/img/2015/06/WEL_ThompsonWork_Phone/original.jpg",
+                                "timeToRead": 37,
+                                "givenUrl": "http://www.theatlantic.com/magazine/archive/2015/07/world-without-work/395294/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "60180033",
+                                        "name": "Derek Thompson",
+                                        "url": "https://www.theatlantic.com/author/derek-thompson/"
+                                    }
+                                ],
+                                "datePublished": "2015-06-22 19:25:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjcxMDYxMjYzXypfMTQ1NjY3NTg3MA==",
+                        "node": {
+                            "url": "http://www.newyorker.com/magazine/2011/03/14/lessons-from-late-night",
+                            "_createdAt": 1456106893,
+                            "_updatedAt": 1456675871,
+                            "id": "671061263",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1456675870,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Lessons from Late Night",
+                                "itemId": "671061263",
+                                "resolvedId": "671061263",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2011/03/14/lessons-from-late-night",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "In 1997, I realized one of my childhood dreams. (Not the one where I’m being chased by Count Chocula.) I flew to New York from Chicago, where I was working as a performer at Second City, to interview for a writing position at “Saturday Night Live.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "“Only in comedy does an obedient white girl from the suburbs count as diversity.”",
+                                        "credit": "Photograph  Mary Ellen Matthews",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/590968fa2179605b11ad6816/master/w_2560%2Cc_limit/110314_r20630_g2048.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“If you prick a corporation, does it not bleed? If you tickle it, does it not laugh? If you poison it, does it not die?”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/cartoons/593b624a8a032b339a0cd3be/master/w_1600%2Cc_limit/110314_a15631_g2048.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“I’ve lost track. Are you unhappy because I said you were making me unhappy or is it the other way around?”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/cartoons/593b624f6f669264efc137d7/master/w_1600%2Cc_limit/110314_a15578_g2048.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.f1893bac6dafe13d6d5bad671a5bee2345efa44d.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.6e34c81346bc43475ffd572e6c2eb3e125927148.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Photograph by Dana Edelsen / NBCU Photo Bank",
+                                        "credit": "Photograph  Dana Edelsen / NBCU Photo Bank",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/590968fc1c7a8e33fb38dac8/master/w_1600%2Cc_limit/110314_r20625_26.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/590977972179605b11ad8766/4:3/w_480%2Cc_limit/081208_r18016_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.newyorker.com/photos/590968ee019dfc3494ea10da/4:3/w_480%2Cc_limit/110214_r20525_p886.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://media.newyorker.com/photos/590977b48b51cf59fc4234cf/4:3/w_480%2Cc_limit/081222_r18049_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://media.newyorker.com/photos/59095450c14b3c606c104566/4:3/w_480%2Cc_limit/liz-lemon-465.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.f915b516b6ca9c0c2a9bdf9b749519365b2b2e4a.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/590968fa2179605b11ad6816/16:9/w_1280,c_limit/110314_r20630_g2048.jpg",
+                                "timeToRead": 20,
+                                "givenUrl": "http://www.newyorker.com/magazine/2011/03/14/lessons-from-late-night",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "78744801",
+                                        "name": "Tina Fey",
+                                        "url": "https://www.newyorker.com/contributors/tina-fey"
+                                    }
+                                ],
+                                "datePublished": "2011-03-06 18:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxMTg0MjA4OF8qXzE0NTc0NDQ5Njg=",
+                        "node": {
+                            "url": "https://medium.com/@thisissethsblog/will-this-be-on-the-test-237ae9cc53b4#.4p1ztiolj",
+                            "_createdAt": 1456942091,
+                            "_updatedAt": 1457523580,
+                            "id": "1211842088",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1457444968,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "“Will this be on the test?”",
+                                "itemId": "1212673297",
+                                "resolvedId": "1212673297",
+                                "resolvedUrl": "https://medium.com/swlh/will-this-be-on-the-test-237ae9cc53b4",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "The first generation of online learning came with a lot of hype but didn’t fully deliver on its promise. What does the future hold? A few years ago, a computer science course online broke records and signed up 100,000 students. It was a revelation.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/0*ApVeaQuM3eHg1IKv.",
+                                "timeToRead": 9,
+                                "givenUrl": "https://medium.com/@thisissethsblog/will-this-be-on-the-test-237ae9cc53b4#.4p1ztiolj",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "141783911",
+                                        "name": "Seth Godin",
+                                        "url": "https://sethgodinwrites.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2021-05-03 13:47:32",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwOTI2NDIzOF8qXzE0NTc2MTU4MTA=",
+                        "node": {
+                            "url": "https://medium.freecodecamp.com/git-rebase-and-the-golden-rule-explained-70715eccc372?gi=e3ab9fecaa2",
+                            "_createdAt": 1457615130,
+                            "_updatedAt": 1457616088,
+                            "id": "1209264238",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1457615810,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "🐙 Git series 2/3: Rebase and the golden rule explained",
+                                "itemId": "2503011057",
+                                "resolvedId": "2503011057",
+                                "resolvedUrl": "https://www.daolf.com/posts/git-series-part-2/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "daolf.com"
+                                },
+                                "excerpt": "What really happened during a git rebase, and why you should care. This post is a follow up to this one where we explore the .git directory.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn-images-1.medium.com/max/2404/1*FNaZp740nmp8wz851BqcAg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn-images-1.medium.com/max/2404/1*p0EGOtTUhzpUnF5p2c2UAw.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Everybody is sync with the remote",
+                                        "credit": "GitHub",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://cdn-images-1.medium.com/max/2504/1*wxzwv6lSoduI8rKFrKCF4A.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Do you see what’s coming ?",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://cdn-images-1.medium.com/max/2864/1*XXo413qBib80JBSbQrqVaQ.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://cdn-images-1.medium.com/max/2260/1*PZAACeGy9iYU2kwEHfec9g.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Had Anna known what’s coming, she wouldn’t have come to work this morning.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://cdn-images-1.medium.com/max/3038/1*tqeYmgNpYKp4a8jmyKmdxw.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://cdn-images-1.medium.com/max/2248/1*be7e3r7D_gFvnIt_GAlNxA.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://cdn-images-1.medium.com/max/3224/1*f7dhTYNizT045XFCUgcc1Q.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://cdn-images-1.medium.com/max/3330/1*POHw-A3poPkF_0IRMHolSA.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://cdn-images-1.medium.com/max/2258/1*TRBHnwetziMTN0cSaNdwRA.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "https://medium.freecodecamp.com/git-rebase-and-the-golden-rule-explained-70715eccc372?gi=e3ab9fecaa2",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "46256192",
+                                        "name": "Pierre de Wulf",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-01-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxMzAyMjU4NV8qXzE0NTc2NjM1MTA=",
+                        "node": {
+                            "url": "http://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/",
+                            "_createdAt": 1457615056,
+                            "_updatedAt": 1457701053,
+                            "id": "1213022585",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1457663510,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Inside the Cunning, Unprecedented Hack of Ukraine's Power Grid",
+                                "itemId": "1213022585",
+                                "resolvedId": "1213022585",
+                                "resolvedUrl": "https://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "It was 3:30 p.m. last December 23, and residents of the Ivano-Frankivsk region of Western Ukraine were preparing to end their workday and head home through the cold winter streets.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/59272896af95806129f51c4d/master/w_2560%2Cc_limit/ukranian-power-hack-501073146.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/59272896af95806129f51c4d/191:100/w_1280,c_limit/ukranian-power-hack-501073146.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "http://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "69915595",
+                                        "name": "Kim Zetter",
+                                        "url": "https://www.wired.com/author/kim-zetter"
+                                    }
+                                ],
+                                "datePublished": "2016-03-03 07:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwNDg1OTY0NF8qXzE0NTc2NjM5MDg=",
+                        "node": {
+                            "url": "https://eng.uber.com/go-geofence/",
+                            "_createdAt": 1457615112,
+                            "_updatedAt": 1457701053,
+                            "id": "1204859644",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1457663908,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2131988570",
+                                "resolvedId": "2131988570",
+                                "resolvedUrl": "https://ubere.ng/2zcoiwa",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ubere.ng"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://eng.uber.com/go-geofence/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxMzIwODY4NF8qXzE0NTc3MDI4OTQ=",
+                        "node": {
+                            "url": "http://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/",
+                            "_createdAt": 1457701088,
+                            "_updatedAt": 1457702895,
+                            "id": "1213208684",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1457702894,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Etsy CTO Q&A: We Need Software Engineers, Not Developers",
+                                "itemId": "1213208684",
+                                "resolvedId": "1213208684",
+                                "resolvedUrl": "https://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "thenewstack.io"
+                                },
+                                "excerpt": "When it comes to the practice of DevOps, few companies have been on the cutting edge as long as Etsy, which once famously asserted that its new engineer hires would commit code to production after the first day of work. Don’t be fooled by the crafty look-and-feel of Etsy.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 497,
+                                        "imageId": 1,
+                                        "src": "https://cdn.thenewstack.io/media/2016/03/dumbo_office_005-2.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 247,
+                                        "imageId": 2,
+                                        "src": "http://thenewstack.io/wp-content/uploads/2016/03/Etsy-John-Allspaw-300x247.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 3,
+                                        "src": "http://thenewstack.io/wp-content/uploads/2016/03/dumbo_office_063-300x200.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 4,
+                                        "src": "http://thenewstack.io/wp-content/uploads/2016/03/dumbo_office_027-300x200.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 5,
+                                        "src": "http://thenewstack.io/wp-content/uploads/2016/03/dumbo_office_020-300x200.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 6,
+                                        "src": "http://thenewstack.io/wp-content/uploads/2016/03/dumbo_office_025-200x300.jpg",
+                                        "width": 200
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.thenewstack.io/media/2016/03/dumbo_office_005-2.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "http://thenewstack.io/etsy-cto-qa-need-software-engineers-not-developers/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "63225897",
+                                        "name": "Joab Jackson",
+                                        "url": "https://thenewstack.io/author/joab/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-03 09:29:46",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwOTgzMjYwOV8qXzE0NTgxNjgwNjc=",
+                        "node": {
+                            "url": "https://m.signalvnoise.com/the-majestic-monolith-29166d022228?gi=9e3feb1e9966",
+                            "_createdAt": 1457701060,
+                            "_updatedAt": 1458169409,
+                            "id": "1209832609",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1458168067,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1209832609",
+                                "resolvedId": "1209832609",
+                                "resolvedUrl": "https://m.signalvnoise.com/the-majestic-monolith-29166d022228?gi=9e3feb1e9966",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Basecamp"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://m.signalvnoise.com/the-majestic-monolith-29166d022228?gi=9e3feb1e9966",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxOTU5MTg4N18qXzE0NTgxNjgwNzU=",
+                        "node": {
+                            "url": "https://discourse.looker.com/t/why-arent-my-measures-coming-through-a-join/327",
+                            "_createdAt": 1457550816,
+                            "_updatedAt": 1458169409,
+                            "id": "1219591887",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1458168075,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Activity in Looker",
+                                "itemId": "3870226159",
+                                "resolvedId": "3870226159",
+                                "resolvedUrl": "https://www.googlecloudcommunity.com/gc/Looker/ct-p/looker",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "googlecloudcommunity.com"
+                                },
+                                "excerpt": "The place for data-driven discussion and all your Looker questions, answers, and excitement. My pie chart in data looker doesnt show all data. It only shows data of one product while I have four",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.googlecloudcommunity.com/html/assets/social-icon-google-cloud.png",
+                                "timeToRead": 2,
+                                "givenUrl": "https://discourse.looker.com/t/why-arent-my-measures-coming-through-a-join/327",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "181793941",
+                                        "name": "BellaBui",
+                                        "url": "https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/425913"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxMzUwNDA0MF8qXzE0NTgxNjgzMTQ=",
+                        "node": {
+                            "url": "https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs",
+                            "_createdAt": 1457701104,
+                            "_updatedAt": 1458169409,
+                            "id": "1213504040",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1458168314,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Secure Password Storage in Go, Python, Ruby, Java, Haskell, and NodeJS",
+                                "itemId": "1213504040",
+                                "resolvedId": "1213504040",
+                                "resolvedUrl": "https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "praetorian.com"
+                                },
+                                "excerpt": "In order to authenticate users, web applications often store user passwords. This can be tricky, because password storage mechanisms are a watering hole for bad advice: there are several solutions to this problem but very few are truly secure.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 263,
+                                        "imageId": 1,
+                                        "src": "https://www.praetorian.com/wp-content/uploads/2021/01/5cdef5b03f00ec2d75af900d__template.jpg",
+                                        "width": 500
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.praetorian.com/wp-content/uploads/2021/01/5cdef5b03f00ec2d75af900d__template.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.praetorian.com/blog/secure-password-storage-in-go-python-ruby-java-haskell-and-nodejs",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "150765941",
+                                        "name": "Editorial Team",
+                                        "url": "https://www.praetorian.com/author/editorial-team/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-03 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxOTM4OTc5NV8qXzE0NTgzMDI2OTk=",
+                        "node": {
+                            "url": "http://arstechnica.com/information-technology/2016/03/what-slack-is-doing-to-our-offices-and-our-minds/",
+                            "_createdAt": 1457701073,
+                            "_updatedAt": 1458303079,
+                            "id": "1219389795",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1458302699,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Slack is doing to our offices—and our minds",
+                                "itemId": "1219389795",
+                                "resolvedId": "1219389795",
+                                "resolvedUrl": "https://arstechnica.com/information-technology/2016/03/what-slack-is-doing-to-our-offices-and-our-minds/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Ars Technica"
+                                },
+                                "excerpt": "Walking into the Slack offices in downtown San Francisco feels like walking into a Slack channel online. Brightly colored sofas in the shape of hashtags fill the shared spaces, surrounded by a comfortable margin of airy whitespace.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Inside Slack's SF office",
+                                        "credit": "Slack",
+                                        "height": 427,
+                                        "imageId": 1,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/SlackOffice1-640x427.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / If you haven't dabbled in Slack yet, this is what the main interface looks like for the Desktop App.",
+                                        "credit": "Slack",
+                                        "height": 430,
+                                        "imageId": 2,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/SlackChat.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / You know you want a yak fact example.",
+                                        "credit": "",
+                                        "height": 107,
+                                        "imageId": 3,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/02/yakfacts.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / Using Slack, we made 40 percent more widgets.",
+                                        "credit": "Slack",
+                                        "height": 518,
+                                        "imageId": 4,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/02/slackproductivity.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / A glimpse at Ars Slack emoji culture. That's Kylo Ren for :daddyissues: and Ron Amadeo for :dealwithit:",
+                                        "credit": "Ars Technica",
+                                        "height": 186,
+                                        "imageId": 5,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/Screen-Shot-2016-03-08-at-1.53.33-PM.png",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Enlarge / The social scene at a home office is a very, very different thing from traditional setups.",
+                                        "credit": "Getty Images",
+                                        "height": 354,
+                                        "imageId": 6,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/Screen-Shot-2016-03-08-at-1.56.52-PM.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / CTO Cal Henderson, our guide at Slack HQ.",
+                                        "credit": "Slack",
+                                        "height": 200,
+                                        "imageId": 7,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/SlackCal.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Enlarge / Working from home: PRO—You can wear your favorite Slack socks all the time, no judgement CON—Utter lack of compliments on Slack socks",
+                                        "credit": "Slack",
+                                        "height": 427,
+                                        "imageId": 8,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/SlackSock.jpg",
+                                        "width": 640
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/SlackOffice1-640x427.jpg",
+                                "timeToRead": 29,
+                                "givenUrl": "http://arstechnica.com/information-technology/2016/03/what-slack-is-doing-to-our-offices-and-our-minds/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62056347",
+                                        "name": "Annalee Newitz",
+                                        "url": "https://arstechnica.com/author/annalee/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-09 09:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwMzQ3ODQzN18qXzE0NTgzMDI3MTU=",
+                        "node": {
+                            "url": "http://nymag.com/daily/intelligencer/2016/02/mta-one-day-625-delays.html",
+                            "_createdAt": 1456265411,
+                            "_updatedAt": 1458303079,
+                            "id": "1203478437",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1458302715,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How a Single Mechanical Failure Sparked 625 MTA Delays",
+                                "itemId": "1203478437",
+                                "resolvedId": "1203478437",
+                                "resolvedUrl": "http://nymag.com/daily/intelligencer/2016/02/mta-one-day-625-delays.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "No trains affected. No trains affected.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Passengers waiting for the 6 train at 96th Street on October 16, 2015.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pixel.nymag.com/imgs/daily/intelligencer/2016/02/19/magazine/19-mta-lede.w529.h352.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://pixel.nymag.com/imgs/daily/intelligencer/2016/02/19/magazine/22-feature-mta.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Track workers fixing the “gap filler.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://pixel.nymag.com/imgs/daily/intelligencer/2016/02/19/magazine/19-mta-1.w529.h352.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "",
+                                        "videoId": 1,
+                                        "type": "HTML5",
+                                        "src": "http://nymag.com/includes/3/daily/intel/2016/mta-video-capture.mp4"
+                                    }
+                                ],
+                                "topImageUrl": "http://pixel.nymag.com/imgs/daily/intelligencer/2016/02/19/magazine/19-mta-lede.w1200.h630.jpg",
+                                "timeToRead": 26,
+                                "givenUrl": "http://nymag.com/daily/intelligencer/2016/02/mta-one-day-625-delays.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "18852556",
+                                        "name": "Robert Kolker",
+                                        "url": "http://nymag.com/author/Robert%20Kolker/"
+                                    }
+                                ],
+                                "datePublished": "2016-02-23 07:11:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTEyNDAyNDEwMl8qXzE0NTgzMDI3MTc=",
+                        "node": {
+                            "url": "http://m.nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                            "_createdAt": 1456106983,
+                            "_updatedAt": 1458303079,
+                            "id": "1124024102",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1458302717,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "835536698",
+                                "resolvedId": "835536698",
+                                "resolvedUrl": "http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://m.nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyMTQxMDQxNl8qXzE0NTg3MDAwNDU=",
+                        "node": {
+                            "url": "https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture",
+                            "_createdAt": 1458525501,
+                            "_updatedAt": 1458700046,
+                            "id": "1221410416",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1458700045,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Microservices as an Evolutionary Architecture",
+                                "itemId": "1221410416",
+                                "resolvedId": "1221410416",
+                                "resolvedUrl": "https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "thoughtworks.com"
+                                },
+                                "excerpt": "The microservice architectural style is taking the world by storm. Last March, O'Reilly hosted their first Software Architecture Conference, and a huge percentage of the abstracts the program committee received touched on some aspect of microservices.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 340,
+                                        "imageId": 1,
+                                        "src": "https://insights-images.thoughtworks.com/redball01_437fc75f08aa48895d9b93961ba6be8f.png",
+                                        "width": 1000
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 600,
+                                        "imageId": 2,
+                                        "src": "https://insights-images.thoughtworks.com/Microservices20as20an20Evolutionary20Architecture01_ad97c413fac60136c38d5de6dd203711.png",
+                                        "width": 1000
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "SzSZpZI02Jg",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/SzSZpZI02Jg"
+                                    }
+                                ],
+                                "topImageUrl": "https://insights-images.thoughtworks.com/Microservices_as_an_Evolutionary_Architecture_twitter_ecf207bc685a6cff894d7e6ddaf26d5d.png",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "43834854",
+                                        "name": "Neal Ford",
+                                        "url": "https://www.thoughtworks.com/profiles/neal-ford"
+                                    }
+                                ],
+                                "datePublished": "2016-03-11 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxNjA4NzYwM18qXzE0NTkwMDQ4OTE=",
+                        "node": {
+                            "url": "https://www.innoq.com/en/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/",
+                            "_createdAt": 1458526085,
+                            "_updatedAt": 1459004955,
+                            "id": "1216087603",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1459004891,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why RESTful communication between microservices can be perfectly fine",
+                                "itemId": "1216087603",
+                                "resolvedId": "1216087603",
+                                "resolvedUrl": "https://www.innoq.com/en/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "innoq.com"
+                                },
+                                "excerpt": "We‘d love to show you a tweet right here. To do that, we need your consent to load third party content from twitter.com We‘d love to show you a tweet right here. To do that, we need your consent to load third party content from twitter.com",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "A system of decoupled systems",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://res.cloudinary.com/innoq/image/upload/uploads-production/system-of-systems-scs_c4f01ff4-79d1-446b-a1a5-a48032ae017c.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hotshot.innoq.io/shoot?path=%2Fen%2Fblog%2Fwhy-restful-communication-between-microservices-can-be-perfectly-fine%2Fcover%2F&selector=.cover&padding=0",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.innoq.com/en/blog/why-restful-communication-between-microservices-can-be-perfectly-fine/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-03-06 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxODQwODc1M18qXzE0NTkwMDUxNzg=",
+                        "node": {
+                            "url": "http://redmonk.com/jgovernor/2016/03/08/rise-of-the-docker-pattern/",
+                            "_createdAt": 1458525633,
+                            "_updatedAt": 1459005639,
+                            "id": "1218408753",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1459005178,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Rise of The Docker Pattern",
+                                "itemId": "1218408753",
+                                "resolvedId": "1218408753",
+                                "resolvedUrl": "https://redmonk.com/jgovernor/2016/03/08/rise-of-the-docker-pattern/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "redmonk.com"
+                                },
+                                "excerpt": "Once you’ve been in the industry for a while the patterns become clearer. Enterprise technology adoption has some fairly distinct shapes. In 2009 I wrote “Amazon is the new VMware. The adoption patterns are going to be similar.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 481,
+                                        "imageId": 1,
+                                        "src": "http://jgovernor-media.redmonk.com/jgovernor/files/2016/03/Sharp-Green-by-Debbie-Clapper.jpg",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://jgovernor-media.redmonk.com/jgovernor/files/2016/03/Sharp-Green-by-Debbie-Clapper.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://redmonk.com/jgovernor/2016/03/08/rise-of-the-docker-pattern/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "87168898",
+                                        "name": "James Governor",
+                                        "url": "https://redmonk.com/jgovernor/author/jgovernor/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-08 11:18:47",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyMTY4OTc3OF8qXzE0NTk3NzAyNDQ=",
+                        "node": {
+                            "url": "http://alifeofproductivity.com/keep-a-weekly-accomplishments-list/",
+                            "_createdAt": 1459723874,
+                            "_updatedAt": 1459770245,
+                            "id": "1221689778",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1459770244,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why you should keep a weekly accomplishments list",
+                                "itemId": "3858188117",
+                                "resolvedId": "3858188117",
+                                "resolvedUrl": "https://chrisbailey.com/keep-a-weekly-accomplishments-list/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "chrisbailey.com"
+                                },
+                                "excerpt": "Estimated Reading Time: 3 minutes, 19s. I’m a big fan of maintaining an Accomplishments List throughout the year, and adding to it whenever I accomplish something awesome. On mine, I keep all kinds of milestones:",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 434,
+                                        "imageId": 1,
+                                        "src": "https://e7kz5pq2qq4.exactdn.com/wp-content/uploads/2016/03/Write.jpg?strip=all&lossy=1&resize=675%2C434&ssl=1",
+                                        "width": 675
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://chrisbailey.com/wp-content/uploads/2016/03/Write.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "http://alifeofproductivity.com/keep-a-weekly-accomplishments-list/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "171949944",
+                                        "name": "Chris Bailey",
+                                        "url": "https://chrisbailey.com/about/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-11 09:40:47",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIzNTEzOTUzOV8qXzE0NjAxMTc0Nzk=",
+                        "node": {
+                            "url": "https://blog.docker.com/2016/03/docker-for-mac-windows-beta/",
+                            "_createdAt": 1460116558,
+                            "_updatedAt": 1460117483,
+                            "id": "1235139539",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1460117479,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop",
+                                "itemId": "2856709296",
+                                "resolvedId": "2856709296",
+                                "resolvedUrl": "https://www.docker.com/blog/docker-for-mac-windows-beta/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "docker.com"
+                                },
+                                "excerpt": "To celebrate Docker’s third birthday, today we start a limited availability beta program for Docker for Mac and Docker for Windows, an integrated, easy-to-deploy environment for building, assembling, and shipping applications from Mac or Windows.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 255,
+                                        "imageId": 1,
+                                        "src": "https://d36jcksde1wxzq.cloudfront.net/2283d444f1a0cfb8b7dc574779ee2086.png",
+                                        "width": 255
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "9CuClvKMt04",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/9CuClvKMt04"
+                                    }
+                                ],
+                                "topImageUrl": "https://www.docker.com/blog/wp-content/uploads/docker_for_mac_beta.png",
+                                "timeToRead": 15,
+                                "givenUrl": "https://blog.docker.com/2016/03/docker-for-mac-windows-beta/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "140004694",
+                                        "name": "Marina Kvitnitsky",
+                                        "url": "https://www.docker.com/blog/author/marina-kvitnitsky/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-24 08:00:40",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1Mjk2NTk5MV8qXzE0NjAzMjQ2NjI=",
+                        "node": {
+                            "url": "https://ttlc.intuit.com/questions/2733819-question-on-1099-b-box-e-with-proceeds-listed-but-no-cost-basis",
+                            "_createdAt": 1460318589,
+                            "_updatedAt": 1460324663,
+                            "id": "1252965991",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1460324662,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1252965991",
+                                "resolvedId": "1252965991",
+                                "resolvedUrl": "https://ttlc.intuit.com/questions/2733819-question-on-1099-b-box-e-with-proceeds-listed-but-no-cost-basis",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ttlc.intuit.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://ttlc.intuit.com/questions/2733819-question-on-1099-b-box-e-with-proceeds-listed-but-no-cost-basis",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1MDA0NzU3MV8qXzE0NjA0NjMzNDI=",
+                        "node": {
+                            "url": "http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/",
+                            "_createdAt": 1460325292,
+                            "_updatedAt": 1460468892,
+                            "id": "1250047571",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1460463342,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Managed services killed DevOps",
+                                "itemId": "1250047571",
+                                "resolvedId": "1250047571",
+                                "resolvedUrl": "https://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "TechCrunch"
+                                },
+                                "excerpt": "DevOps, as we know it, is dead. Perhaps not many people agree with me, but the age of DevOps is just about over. Then again, perhaps this won’t come as a surprise to some.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://techcrunch.com/wp-content/uploads/2015/01/code.jpg?w=600",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://techcrunch.com/wp-content/uploads/2015/01/code.jpg?w=600",
+                                "timeToRead": 4,
+                                "givenUrl": "http://techcrunch.com/2016/04/07/devops-is-dead-long-live-devops/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152377331",
+                                        "name": "Andrey Akselrod",
+                                        "url": "https://techcrunch.com/author/"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NjYwNzQ0NF8qXzE0NjA1NDgzMzk=",
+                        "node": {
+                            "url": "http://www.vox.com/2016/4/4/11361780/the-panama-papers-cartoon",
+                            "_createdAt": 1460325093,
+                            "_updatedAt": 1460548341,
+                            "id": "1246607444",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1460548339,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Panama Papers leak, explained with an adorable comic about piggy banks",
+                                "itemId": "1246607444",
+                                "resolvedId": "1246607444",
+                                "resolvedUrl": "https://www.vox.com/2016/4/4/11361780/the-panama-papers-cartoon",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Vox"
+                                },
+                                "excerpt": "It's easy to get confused by all the headlines about the Panama Papers, a massive 2.6-terabyte leak of documents that reveals a global web of corruption and tax avoidance. But Vox's German Lopez uncovered a great explanation of what's happening, and it's courtesy of brilliant redditor DanGliesack.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/UJ8Z9XpKrx62QZ35y-TaoRqBUHk=/0x0:800x475/1200x0/filters:focal(0x0:800x475):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286065/Panama_panel1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/afUu8tS7N6nBWmHD036n514k4Uk=/0x0:794x477/1200x0/filters:focal(0x0:794x477):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286067/Panama_panel2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/N0yr4HiwTuBoOGNEaLUtJ6ofz4M=/0x0:825x439/1200x0/filters:focal(0x0:825x439):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6287907/Panama_panel3f.0.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/2ACErmO3gi6WzwbP3_BoHpoKAi4=/0x0:847x470/1200x0/filters:focal(0x0:847x470):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286731/Panama_panel4.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/Jz3khgRc2_4qSvfqtzLmVoyvE-8=/0x0:847x470/1200x0/filters:focal(0x0:847x470):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286735/Panama_panel5.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/uctrFjebwtbQH6ZtPebwgCxewnQ=/0x0:858x449/1200x0/filters:focal(0x0:858x449):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286747/Panama_panel6.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/FlEgrjHFke1GeYE8cP9sAY7wd6k=/0x0:858x263/1200x0/filters:focal(0x0:858x263):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286755/Panama_panel7.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/eM2cD6B8F3Xq4eIx2wMY6MMA3Gw=/0x0:873x558/1200x0/filters:focal(0x0:873x558):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6287911/Panama_panel9f.0.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/VZ3h7nasCWZHy8mX6PQ2KxRA_XI=/0x0:786x429/1200x0/filters:focal(0x0:786x429):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286777/Panama_panel10.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/zoKbLo2tMhczhUz4G8nj8KVtp3w=/0x0:795x480/1200x0/filters:focal(0x0:795x480):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6287155/panel_8.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/btZcplmoFMwRDzntuWJtbgL3xFU=/0x0:786x231/1200x0/filters:focal(0x0:786x231):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286813/Panama_panel11.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/als1ifVNZa77yA_7HTBR8KjdLbU=/0x0:786x590/1200x0/filters:focal(0x0:786x590):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6286823/Panama_panel12.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/22734206/paypal_logo.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.vox-cdn.com/uploads/network/placeholder_image/5/vox_placeholder.9.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "http://www.vox.com/2016/4/4/11361780/the-panama-papers-cartoon",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67777816",
+                                        "name": "Alvin Chang",
+                                        "url": "https://www.vox.com/authors/alvin"
+                                    },
+                                    {
+                                        "id": "67790826",
+                                        "name": "Javier Zarracina",
+                                        "url": "https://www.vox.com/authors/javier-zarracina"
+                                    }
+                                ],
+                                "datePublished": "2016-04-04 13:40:02",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIzODU5OTQxMF8qXzE0NjA1NDk0NDk=",
+                        "node": {
+                            "url": "https://medium.com/@alexinslc/how-to-be-a-great-developer-201ad1a8d9c5#.98gj2agp3",
+                            "_createdAt": 1460325025,
+                            "_updatedAt": 1460549450,
+                            "id": "1238599410",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1460549449,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How To Be A Great Developer",
+                                "itemId": "1238599410",
+                                "resolvedId": "1238599410",
+                                "resolvedUrl": "https://medium.com/@alexinslc/how-to-be-a-great-developer-201ad1a8d9c5",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "This was posted in 2014 by the awesome @funkatron — Yes, it’s a repost. The original seemed unavailable but @funkatron just sent me his original that is available here. He also has this available. It’s great advice all developers should take into consideration.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/0*BfxP4IO_jBrUktpe.jpeg",
+                                        "width": 28
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 3,
+                                "givenUrl": "https://medium.com/@alexinslc/how-to-be-a-great-developer-201ad1a8d9c5#.98gj2agp3",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "37035137",
+                                        "name": "Alex Lutz",
+                                        "url": "https://medium.com/@alexinslc"
+                                    }
+                                ],
+                                "datePublished": "2016-03-28 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2MTQyXypfMTQ2MDU4NjQ2NA==",
+                        "node": {
+                            "url": "http://www.paulgraham.com/head.html",
+                            "_createdAt": 1460338851,
+                            "_updatedAt": 1460629025,
+                            "id": "136142",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1460586464,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Holding a Program in One's Head",
+                                "itemId": "136142",
+                                "resolvedId": "136142",
+                                "resolvedUrl": "https://paulgraham.com/head.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "paulgraham.com"
+                                },
+                                "excerpt": "A good programmer working intensively on his own code can hold it in his mind the way a mathematician holds a problem he's working on. Mathematicians don't answer questions by working them out on paper the way schoolchildren are taught to.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "http://www.paulgraham.com/head.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1MjcwNTQ5M18qXzE0NjEwMjM1MzE=",
+                        "node": {
+                            "url": "http://fusion.net/story/287592/internet-mapping-glitch-kansas-farm/",
+                            "_createdAt": 1460699944,
+                            "_updatedAt": 1461039962,
+                            "id": "1252705493",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461023531,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3942034409",
+                                "resolvedId": "3942034409",
+                                "resolvedUrl": "https://us5.list-manage.com/track/click?u=610c6c88d981c23e5c6638b14&id=c3a83492e5&e=cc07b5614d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "us5.list-manage.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://fusion.net/story/287592/internet-mapping-glitch-kansas-farm/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1NDY4NDQ0Ml8qXzE0NjEwMzE5NDE=",
+                        "node": {
+                            "url": "http://www.theatlantic.com/business/archive/2016/04/absurd-primacy-of-the-car-in-american-life/476346/",
+                            "_createdAt": 1460699907,
+                            "_updatedAt": 1461039962,
+                            "id": "1254684442",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461031941,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Absurd Primacy of the Automobile in American Life",
+                                "itemId": "1254684442",
+                                "resolvedId": "1254684442",
+                                "resolvedUrl": "https://www.theatlantic.com/business/archive/2016/04/absurd-primacy-of-the-car-in-american-life/476346/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Considering the constant fatalities, rampant pollution, and exorbitant costs of ownership, there is no better word to characterize the car’s dominance than insane. The car is the star.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Tim Roberts Photography / Shutterstock",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/654g7Bsv_52phZ1zmN-sZTZgjGI=/0x292:5616x3451/960x540/media/img/mt/2016/04/shutterstock_82948486/original.jpg",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 4,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/6YpMB5rSNr3M9Qb8mWPGmAKhBVU=/876x592:5354x2924/1200x625/media/img/mt/2016/04/shutterstock_82948486/original.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.theatlantic.com/business/archive/2016/04/absurd-primacy-of-the-car-in-american-life/476346/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "87478623",
+                                        "name": "Edward Humes",
+                                        "url": "https://www.theatlantic.com/author/edward-humes/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-12 06:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1NDY2OTA1N18qXzE0NjEwMzIxNjk=",
+                        "node": {
+                            "url": "http://www.independent.co.uk/voices/i-am-on-the-us-kill-list-this-is-what-it-feels-like-to-be-hunted-by-drones-a6980141.html",
+                            "_createdAt": 1460700335,
+                            "_updatedAt": 1461039962,
+                            "id": "1254669057",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461032169,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "I'm on the Kill List. This is what it feels like to be hunted by drones",
+                                "itemId": "1254669057",
+                                "resolvedId": "1254669057",
+                                "resolvedUrl": "https://www.independent.co.uk/voices/i-am-on-the-us-kill-list-this-is-what-it-feels-like-to-be-hunted-by-drones-a6980141.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Independent"
+                                },
+                                "excerpt": "I am in the strange position of knowing that I am on the ‘Kill List’. I know this because I have been told, and I know because I have been targeted for death over and over again. Four times missiles have been fired at me. I am extraordinarily fortunate to be alive.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/04/08/09/world-in-pic-1.jpg?quality=75&width=640&height=614&fit=bounds&format=pjpg&crop=16%3A9%2Coffset-y0.5&auto=webp",
+                                        "width": 640
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/09/04/18/pg-29-drones-ap.jpg?quality=75&width=1200&auto=webp",
+                                "timeToRead": 5,
+                                "givenUrl": "http://www.independent.co.uk/voices/i-am-on-the-us-kill-list-this-is-what-it-feels-like-to-be-hunted-by-drones-a6980141.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152222542",
+                                        "name": "Malik Jalal",
+                                        "url": "https://www.independent.co.uk/author/malik-jalal"
+                                    }
+                                ],
+                                "datePublished": "2017-11-27 06:47:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": false,
+                    "startCursor": "MTE5MTIxMjAxM18qXzE0NTU4ODczNzE=",
+                    "endCursor": "MTI1NDY2OTA1N18qXzE0NjEwMzIxNjk="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

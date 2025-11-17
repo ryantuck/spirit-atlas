@@ -1,0 +1,1782 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTI0Mjg0NDI5MV8qXzE0NjEzMjY3OTc=",
+                        "node": {
+                            "url": "http://m.phys.org/news/2016-03-language-cells.html",
+                            "_createdAt": 1461203828,
+                            "_updatedAt": 1461331943,
+                            "id": "1242844291",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461326797,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A programming language for living cells",
+                                "itemId": "1242646594",
+                                "resolvedId": "1242646594",
+                                "resolvedUrl": "https://phys.org/news/2016-03-language-cells.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Phys.org"
+                                },
+                                "excerpt": "MIT biological engineers have devised a programming language that can be used to give new functions to E. coli bacteria.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 530,
+                                        "imageId": 1,
+                                        "src": "https://scx1.b-cdn.net/csz/news/800a/2016/aprogramming.jpg",
+                                        "width": 800
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2016/aprogramming.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "http://m.phys.org/news/2016-03-language-cells.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "49468",
+                                        "name": "Anne Trafton",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-03-31 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIzNjYwMDkzNV8qXzE0NjE0NTMzNTI=",
+                        "node": {
+                            "url": "https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb#.2up778b0b",
+                            "_createdAt": 1461203912,
+                            "_updatedAt": 1461454986,
+                            "id": "1236600935",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461453352,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Bot Rulebook",
+                                "itemId": "1236600935",
+                                "resolvedId": "1236600935",
+                                "resolvedUrl": "https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "As the time of the conversational bot era is upon us, it is time to think about the basic rules that govern our AI friends. Inspired by my childhood hero Asimov. Shared as an open thought and call for discussion.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 218,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*Z4ZmCo0cNqSFFbAiTJc3pQ.jpeg",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*Z4ZmCo0cNqSFFbAiTJc3pQ.jpeg",
+                                "timeToRead": null,
+                                "givenUrl": "https://medium.com/slack-developer-blog/the-bot-rulebook-a442d9fb21cb#.2up778b0b",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "148501158",
+                                        "name": "Amir Shevat",
+                                        "url": "https://ashevat.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2016-04-08 01:06:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1ODQ2MTYzMl8qXzE0NjE0NTM1MDU=",
+                        "node": {
+                            "url": "http://arstechnica.com/science/2016/04/dyson-dryers-hurl-60x-more-viruses-most-at-kid-face-height-than-other-dryers/",
+                            "_createdAt": 1461203845,
+                            "_updatedAt": 1461454986,
+                            "id": "1258461632",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461453505,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Using a Dyson hand dryer is like setting off a viral bomb in a bathroom [Updated]",
+                                "itemId": "1258461632",
+                                "resolvedId": "1258461632",
+                                "resolvedUrl": "https://arstechnica.com/science/2016/04/dyson-dryers-hurl-60x-more-viruses-most-at-kid-face-height-than-other-dryers/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Ars Technica"
+                                },
+                                "excerpt": "Bathrooms are a prime location for smearing disease-causing microbes all over your hands. Yet, despite societal pressures and prodding signage, a lot of people don’t clean their grimy mitts after a potty break.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Sorosh Tavakoli",
+                                        "credit": "Sorosh Tavakoli",
+                                        "height": 480,
+                                        "imageId": 1,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/04/2741928471_1b22b245ee_z-640x480.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "Kimmitt and Redway",
+                                        "height": 254,
+                                        "imageId": 2,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/04/Screen-Shot-2016-04-15-at-2.21.03-PM.png",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/04/2741928471_1b22b245ee_z-640x480.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://arstechnica.com/science/2016/04/dyson-dryers-hurl-60x-more-viruses-most-at-kid-face-height-than-other-dryers/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62062161",
+                                        "name": "Beth Mole",
+                                        "url": "https://arstechnica.com/author/beth/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-15 14:10:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MzY5Mjc4NV8qXzE0NjE0NTM2OTg=",
+                        "node": {
+                            "url": "https://www.technologyreview.com/s/601179/data-mining-algorithm-reveals-the-stormy-evolution-of-mathematics-over-700-years/",
+                            "_createdAt": 1461203810,
+                            "_updatedAt": 1461454986,
+                            "id": "1243692785",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461453698,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Data-Mining Algorithm Reveals the Stormy Evolution of Mathematics over 700 Years",
+                                "itemId": "3006999730",
+                                "resolvedId": "3006999730",
+                                "resolvedUrl": "https://www.technologyreview.com/2016/04/01/161205/data-mining-algorithm-reveals-the-stormy-evolution-of-mathematics-over-700-years/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "MIT Technology Review"
+                                },
+                                "excerpt": "The history of mathematics is in some ways a study of the human mind and how it has understood the world.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.technologyreview.com/i/images/mathematical-evolution.png?sw=700&cx=0&cy=0&cw=1017&ch=444",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.technologyreview.com/s/601179/data-mining-algorithm-reveals-the-stormy-evolution-of-mathematics-over-700-years/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "28381895",
+                                        "name": "Emerging Technology From the arXiv",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-01 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MDc3NDY5M18qXzE0NjE1ODc1NDE=",
+                        "node": {
+                            "url": "https://blog.micro.mu/2016/04/18/micro-architecture.html",
+                            "_createdAt": 1461587136,
+                            "_updatedAt": 1461588322,
+                            "id": "1260774693",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587541,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1260774693",
+                                "resolvedId": "1260774693",
+                                "resolvedUrl": "https://blog.micro.mu/2016/04/18/micro-architecture.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.micro.mu"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://blog.micro.mu/2016/04/18/micro-architecture.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MzI4NzcxMl8qXzE0NjE1ODc2ODk=",
+                        "node": {
+                            "url": "http://highscalability.com/blog/2016/4/20/how-twitter-handles-3000-images-per-second.html",
+                            "_createdAt": 1461587086,
+                            "_updatedAt": 1461588322,
+                            "id": "1263287712",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587689,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Twitter Handles 3,000 Images Per Second",
+                                "itemId": "1263287712",
+                                "resolvedId": "1263287712",
+                                "resolvedUrl": "http://highscalability.com/blog/2016/4/20/how-twitter-handles-3000-images-per-second.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "highscalability"
+                                },
+                                "excerpt": "Today Twitter is creating and persisting 3,000 (200 GB) images per second. Even better, in 2015 Twitter was able to save $6 million due to improved media storage policies. It was not always so. Twitter in 2012 was primarily text based.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://c2.staticflickr.com/2/1592/26535840265_7dc844e236_o.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://c2.staticflickr.com/2/1592/26535840265_7dc844e236_o.png",
+                                "timeToRead": 9,
+                                "givenUrl": "http://highscalability.com/blog/2016/4/20/how-twitter-handles-3000-images-per-second.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "5143776",
+                                        "name": "Todd Hoff",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-20 08:56:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1NzIwODIwM18qXzE0NjE1ODc3MDc=",
+                        "node": {
+                            "url": "https://blog.docker.com/2016/04/the-modern-software-supply-chain-runs-on-docker/",
+                            "_createdAt": 1461204300,
+                            "_updatedAt": 1461588322,
+                            "id": "1257208203",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587707,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Modern Software Supply Chain Runs on Docker",
+                                "itemId": "3394049252",
+                                "resolvedId": "3394049252",
+                                "resolvedUrl": "https://www.docker.com/blog/the-modern-software-supply-chain-runs-on-docker/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "docker.com"
+                                },
+                                "excerpt": "At the beginning of March, we ran a survey across to people interested in Docker to shine a light on the state of the current software supply chain, and how Docker plays a role in its evolution. We’re delighted to release that report this morning, and you can find all the details here.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://i2.wp.com/www.docker.com/sites/default/files/Docker_Supply-chain-V1.5-01.png?ssl=1",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://img.scoop.it/R_JdKE0R1FKca93plz65J7nTzqrqzN7Y9aBZTaXoQ8Q=",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://img.scoop.it/g2bHQzsUcpvwRqGXhczPtLnTzqrqzN7Y9aBZTaXoQ8Q=",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "http://img.scoop.it/oPgp8gXCZdPRFvM__yhtDrnTzqrqzN7Y9aBZTaXoQ8Q=",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "http://img.scoop.it/_gtZi5ODwCcggIaSWF7Oi7nTzqrqzN7Y9aBZTaXoQ8Q=",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "http://img.scoop.it/q9BtLgyiQSgQSbUV1KX0fLnTzqrqzN7Y9aBZTaXoQ8Q=",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 255,
+                                        "imageId": 7,
+                                        "src": "https://d36jcksde1wxzq.cloudfront.net/2283d444f1a0cfb8b7dc574779ee2086.png",
+                                        "width": 255
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.docker.com/sites/default/files/Docker_Supply-chain-V1.5-01.png",
+                                "timeToRead": 3,
+                                "givenUrl": "https://blog.docker.com/2016/04/the-modern-software-supply-chain-runs-on-docker/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "154501085",
+                                        "name": "Kevin Alvarez",
+                                        "url": "https://www.docker.com/blog/author/kevin-alvarez/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-14 10:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NzczMzI3Nl8qXzE0NjE1ODc3MDk=",
+                        "node": {
+                            "url": "https://aws.amazon.com/blogs/aws/building-bridges-for-better-cancer-treatment-with-the-fred-hutchinson-cancer-research-center/",
+                            "_createdAt": 1461205385,
+                            "_updatedAt": 1461588322,
+                            "id": "1247733276",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587709,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Building Bridges for Better Cancer Treatment with the Fred Hutchinson Cancer Research Center",
+                                "itemId": "1247733276",
+                                "resolvedId": "1247733276",
+                                "resolvedUrl": "https://aws.amazon.com/blogs/aws/building-bridges-for-better-cancer-treatment-with-the-fred-hutchinson-cancer-research-center/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Amazon.com"
+                                },
+                                "excerpt": "My colleagues Jessica Beegle and Christopher Crosbie shared the inspiring story below! The science of cancer research is continually evolving to include new fields of study. Examples include development of chemotherapies, radiology amplified treatments, and epidemiology for identifying carcinogens.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 582,
+                                        "imageId": 1,
+                                        "src": "https://media.amazonwebservices.com/blog/2016/oncoscape_arch_1.png",
+                                        "width": 900
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+                                "timeToRead": 2,
+                                "givenUrl": "https://aws.amazon.com/blogs/aws/building-bridges-for-better-cancer-treatment-with-the-fred-hutchinson-cancer-research-center/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "48245486",
+                                        "name": "Eric Holland",
+                                        "url": "https://www.fredhutch.org/en/labs/profiles/holland-eric.html"
+                                    }
+                                ],
+                                "datePublished": "2016-04-05 13:20:08",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MTYyODY5OV8qXzE0NjE1ODc3MTc=",
+                        "node": {
+                            "url": "https://www.percona.com/blog/2016/03/30/docker-mysql-replication-101/",
+                            "_createdAt": 1461204125,
+                            "_updatedAt": 1461588322,
+                            "id": "1241628699",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587717,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Docker MySQL Replication 101",
+                                "itemId": "1241628699",
+                                "resolvedId": "1241628699",
+                                "resolvedUrl": "https://www.percona.com/blog/2016/03/30/docker-mysql-replication-101/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "percona.com"
+                                },
+                                "excerpt": "In this blog post, we’ll discuss some of the basics regarding Docker MySQL replication. Docker has gained widespread popularity in recent years as a lightweight alternative to virtualization. It is ideal for building virtual development and testing environments.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 135,
+                                        "imageId": 1,
+                                        "src": "https://www.percona.com/blog/wp-content/uploads/2016/01/homepage-docker-logo.png",
+                                        "width": 166
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.percona.com/blog/wp-content/uploads/2016/01/homepage-docker-logo.png",
+                                "timeToRead": 2,
+                                "givenUrl": "https://www.percona.com/blog/2016/03/30/docker-mysql-replication-101/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "47970382",
+                                        "name": "Nik Vyzas",
+                                        "url": "https://www.percona.com/blog/author/nik-vyzas/"
+                                    }
+                                ],
+                                "datePublished": "2019-08-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MzE1OTcxNF8qXzE0NjE1ODc3MTk=",
+                        "node": {
+                            "url": "https://www.tbray.org/ongoing/When/201x/2016/03/31/Serverlessness",
+                            "_createdAt": 1461204097,
+                            "_updatedAt": 1461588322,
+                            "id": "1243159714",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587719,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Serverlessness",
+                                "itemId": "1243159714",
+                                "resolvedId": "1243159714",
+                                "resolvedUrl": "https://www.tbray.org/ongoing/When/201x/2016/03/31/Serverlessness",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "tbray.org"
+                                },
+                                "excerpt": "Today Microsoft announced Azure Functions, joining Google Cloud Functions and (from 2014) AWS Lambda. This is fun stuff, and might be a big deal. In the beginning was the server. The last one I ever bought was from Dell; I can remember hauling it out of the cardboard and sliding it into the rack.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.tbray.org/ongoing/When/201x/2016/03/31/Serverlessness",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-04-01 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NDExNTY4NF8qXzE0NjE1ODc3MjI=",
+                        "node": {
+                            "url": "https://scene-si.org/2016/04/01/how-to-live-inside-a-docker-container/",
+                            "_createdAt": 1461203954,
+                            "_updatedAt": 1461588322,
+                            "id": "1244115684",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587722,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to live inside a docker container?",
+                                "itemId": "1244115684",
+                                "resolvedId": "1244115684",
+                                "resolvedUrl": "https://scene-si.org/2016/04/01/how-to-live-inside-a-docker-container/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "scene-si.org"
+                                },
+                                "excerpt": "This is a story of how I learned to stop worrying and love the bomb. Well, it’s just about as iconic. Lone developer turns to Docker to set up a clean development environment as seamlessly as possible, including the bells and whistles of SSH agent forwarding.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://scene-si.org/images/2016-03-31-how-to-live-inside-a-docker-container/docker-shell.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://scene-si.org/images/2016-03-31-how-to-live-inside-a-docker-container/heading.png",
+                                "timeToRead": 8,
+                                "givenUrl": "https://scene-si.org/2016/04/01/how-to-live-inside-a-docker-container/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2021-02-21 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MDM4NzU2NV8qXzE0NjE1ODc3Mjg=",
+                        "node": {
+                            "url": "https://gist.github.com/vasanthk/485d1c25737e8e72759f",
+                            "_createdAt": 1461203878,
+                            "_updatedAt": 1461588322,
+                            "id": "1260387565",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461587728,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "System Design Cheatsheet",
+                                "itemId": "1260387565",
+                                "resolvedId": "1260387565",
+                                "resolvedUrl": "https://gist.github.com/vasanthk/485d1c25737e8e72759f",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "GitHub"
+                                },
+                                "excerpt": "Instantly share code, notes, and snippets.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://gist.github.com/vasanthk/485d1c25737e8e72759f",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "55835546",
+                                        "name": "262588213843476",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2022-10-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1OTI5NDExMF8qXzE0NjE1ODgwNzI=",
+                        "node": {
+                            "url": "http://techtraits.com/microservice.html",
+                            "_createdAt": 1461203799,
+                            "_updatedAt": 1461588322,
+                            "id": "1259294110",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461588072,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Challenges of micro-service deployments",
+                                "itemId": "1259294110",
+                                "resolvedId": "1259294110",
+                                "resolvedUrl": "http://techtraits.com/microservice.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "techtraits.com"
+                                },
+                                "excerpt": "I recently took part in a panel discussion discussing continuous delivery of micro-services hosted by ElectricCloud with Daniel Rolnick, Darko Fabijan and Anders Wallgren.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 1,
+                                        "src": "http://techtraits.com/assets/images/a-b-c.png",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 2,
+                                        "src": "http://techtraits.com/assets/images/z-y-z.png",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "ciGcTivBSVg",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/ciGcTivBSVg"
+                                    }
+                                ],
+                                "topImageUrl": null,
+                                "timeToRead": 7,
+                                "givenUrl": "http://techtraits.com/microservice.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "48545888",
+                                        "name": "Usman Ismail",
+                                        "url": "https://github.com/usmanismail"
+                                    }
+                                ],
+                                "datePublished": "2016-02-23 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MTg3NTk4MF8qXzE0NjE3MTI5NzU=",
+                        "node": {
+                            "url": "https://www.wired.com/2016/04/magic-leap-vr/",
+                            "_createdAt": 1461199431,
+                            "_updatedAt": 1461713801,
+                            "id": "1261875980",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461712975,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Untold Story of Magic Leap, the World’s Most Secretive Startup",
+                                "itemId": "1261875980",
+                                "resolvedId": "1261875980",
+                                "resolvedUrl": "https://www.wired.com/2016/04/magic-leap-vr/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "There is something special happening in a generic office park in an uninspiring suburb near Fort Lauderdale, Florida.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Don’t call it a lens: Magic Leap founder Rony Abovitz displaying his company’s mysterious photonic lightfield chip.\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPeter Yang for Wired",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/magic_leap-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "May 2016. Subscribe to WIREDSebastian Kim for WIRED",
+                                        "credit": "Sebastian Kim for WIRED",
+                                        "height": 791,
+                                        "imageId": 2,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/may_2016_cover1.jpg",
+                                        "width": 582
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/ff_magic_leap-ultralight_beam.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide:  1 / of  4.\n\t\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\t\tCaption: Magic Leap's UX team, which creates the ways that users will interact with the mixed reality universe and experiences.PETER YANG FOR WIRED",
+                                        "credit": "PETER YANG FOR WIRED",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/24.05.FF_.MagicLeap.61545.DH_.Robo_Enviro_120_rgb.jpg.8",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide:  2 / of  4.\n\t\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\t\tCaption: Magic Leap uses a pair of robots named Click and Clack  to test and calibrate its prototype hardware.PETER YANG FOR WIRED",
+                                        "credit": "PETER YANG FOR WIRED",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/24.05.FF_.MagicLeap.61545.DH_.Robo_Enviro_060_rgb.jpg.8",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide:  3 / of  4.\n\t\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\t\tCaption: A lobby area where Magic Leap staff often holds meetings, with some attending via telepresence bot.PETER YANG FOR WIRED",
+                                        "credit": "PETER YANG FOR WIRED",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/24.05.FF_.MagicLeap.61545.DH_.Office_Enviro_178_rgb.jpg.8",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide:  4 / of  4.\n\t\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\t\tCaption: Magic Leap test and metrology engineer Mikkel Green.PETER YANG FOR WIRED",
+                                        "credit": "PETER YANG FOR WIRED",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/Robo_Enviro_080_rgb.jpg.9",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide: 1 / of  4\n\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\tCaption: Magic Leap's UX team, which creates the ways that users will interact with the mixed reality universe and experiences.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/24.05.FF_.MagicLeap.61545.DH_.Robo_Enviro_120_rgb.jpg.14",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide: 2 / of  4\n\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\tCaption: Magic Leap uses a pair of robots named Click and Clack  to test and calibrate its prototype hardware.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/24.05.FF_.MagicLeap.61545.DH_.Robo_Enviro_060_rgb.jpg.14",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide: 3 / of  4\n\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\tCaption: A lobby area where Magic Leap staff often holds meetings, with some attending via telepresence bot.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/24.05.FF_.MagicLeap.61545.DH_.Office_Enviro_178_rgb.jpg.14",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Slide: 4 / of  4\n\t\t\t\t\t\t\tCaption: \n\t\t\t\t\t\t\tCaption: Magic Leap test and metrology engineer Mikkel Green.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/Robo_Enviro_080_rgb.jpg.15",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/ff_magic_leap-beam_spiral2.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://www.wired.com/2016/04/magic-leap-vr/ff_magic_leap-rainbowfull.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/59270d32cefba457b079bf85/191:100/w_1280,c_limit/may_2016_cover1.jpg",
+                                "timeToRead": 41,
+                                "givenUrl": "https://www.wired.com/2016/04/magic-leap-vr/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "7755",
+                                        "name": "KEVIN KELLY",
+                                        "url": ""
+                                    },
+                                    {
+                                        "id": "462368",
+                                        "name": "Conde Nast",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-19 05:00:47",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NzU0NDExOF8qXzE0NjE3MTMyMDc=",
+                        "node": {
+                            "url": "http://singularityhub.com/2016/04/05/how-to-think-exponentially-and-better-predict-the-future/",
+                            "_createdAt": 1461587286,
+                            "_updatedAt": 1461713801,
+                            "id": "1247544118",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461713207,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Think Exponentially and Better Predict the Future",
+                                "itemId": "1247544118",
+                                "resolvedId": "1247544118",
+                                "resolvedUrl": "https://singularityhub.com/2016/04/05/how-to-think-exponentially-and-better-predict-the-future/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "singularityhub.com"
+                                },
+                                "excerpt": "This is the third in a four-part series looking at the big ideas in Ray Kurzweil’s book The Singularity Is Near. ​Be sure to read the other articles: We humans aren’t great predictors of the future. For most of history, our experience has been “local and linear.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Though the pace of technology is progressing exponentially, the default mode of our caveman brains is to think linearly.",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 1,
+                                        "src": "https://singularityhub.com/wp-content/uploads/2016/04/linear-vs-exponential-21.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 338,
+                                        "imageId": 2,
+                                        "src": "https://singularityhub.com/wp-content/uploads/2016/04/individual-s-curve-progress-time-chart.jpg",
+                                        "width": 500
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://singularityhub.com/wp-content/uploads/2016/04/linear-vs-exponential-predict-the-future-roads-inception.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://singularityhub.com/2016/04/05/how-to-think-exponentially-and-better-predict-the-future/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "60097166",
+                                        "name": "Alison E. Berman",
+                                        "url": "https://singularityhub.com/author/aberman/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-05 10:00:26",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1NzI3MTU5N18qXzE0NjE3NTgxMDM=",
+                        "node": {
+                            "url": "http://www.blog.pythonlibrary.org/2016/04/14/python-201-whats-a-deque/",
+                            "_createdAt": 1461587105,
+                            "_updatedAt": 1461761248,
+                            "id": "1257271597",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461758103,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Python 201 – What’s a deque?",
+                                "itemId": "1257271597",
+                                "resolvedId": "1257271597",
+                                "resolvedUrl": "https://www.blog.pythonlibrary.org/2016/04/14/python-201-whats-a-deque/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.pythonlibrary.org"
+                                },
+                                "excerpt": "According to the Python documentation, deques “are a generalization of stacks and queues”. They are pronounced “deck” which is short for “double-ended queue”. They are a replacement container for the Python list.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 3,
+                                "givenUrl": "http://www.blog.pythonlibrary.org/2016/04/14/python-201-whats-a-deque/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62518221",
+                                        "name": "Mike",
+                                        "url": "https://www.blog.pythonlibrary.org/author/mld/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-14 12:15:46",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1OTQwNjY0M18qXzE0NjE4MDIzOTg=",
+                        "node": {
+                            "url": "http://fortune.com/2016/04/16/ray-kurzweil-solar-will-dominate-energy-within-12-years/",
+                            "_createdAt": 1461587156,
+                            "_updatedAt": 1461804345,
+                            "id": "1259406643",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461802398,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Ray Kurzweil Says Solar Will Dominate Energy Within 12 Years",
+                                "itemId": "1259406643",
+                                "resolvedId": "1259406643",
+                                "resolvedUrl": "https://fortune.com/2016/04/16/ray-kurzweil-solar-will-dominate-energy-within-12-years/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Fortune"
+                                },
+                                "excerpt": "Solar growth is exponential—just like processing power.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://content.fortune.com/wp-content/uploads/2016/03/gettyimages-82274942.jpg?resize=1200,600",
+                                "timeToRead": null,
+                                "givenUrl": "http://fortune.com/2016/04/16/ray-kurzweil-solar-will-dominate-energy-within-12-years/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MDc2MTYwN18qXzE0NjE4MDI2MTg=",
+                        "node": {
+                            "url": "http://theweek.com/articles/618141/big-science-broken",
+                            "_createdAt": 1461587093,
+                            "_updatedAt": 1461804345,
+                            "id": "1260761607",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461802618,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Big Science is broken",
+                                "itemId": "1260761607",
+                                "resolvedId": "1260761607",
+                                "resolvedUrl": "https://theweek.com/articles/618141/big-science-broken",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Week"
+                                },
+                                "excerpt": "Science is broken. That's the thesis of a must-read article in First Things magazine, in which William A. Wilson accumulates evidence that a lot of published research is false. But that's not even the worst part.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 211,
+                                        "imageId": 1,
+                                        "src": "https://mediacloud.theweek.com/image/private/s--4DJ_KUHI--/f_auto,t_primary-image-mobile@1/v1608352950/42-76175484.jpg",
+                                        "width": 375
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://mediacloud.theweek.com/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1608352950/42-76175484.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "http://theweek.com/articles/618141/big-science-broken",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152235670",
+                                        "name": "Pascal-Emmanuel Gobry",
+                                        "url": "https://theweek.com/authors/pascal-emmanuel-gobry"
+                                    }
+                                ],
+                                "datePublished": "2016-04-18 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NjE0Mzc3N18qXzE0NjE4MDI4MjY=",
+                        "node": {
+                            "url": "https://www.willmcgugan.com/blog/tech/post/creating-a-virtual-filesystem-with-python-and-why-you-need-one/",
+                            "_createdAt": 1461205400,
+                            "_updatedAt": 1461804345,
+                            "id": "1246143777",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461802826,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Creating a Virtual Filesystem with Python (and why you need one)",
+                                "itemId": "1246143777",
+                                "resolvedId": "1246143777",
+                                "resolvedUrl": "https://www.willmcgugan.com/blog/tech/post/creating-a-virtual-filesystem-with-python-and-why-you-need-one/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "willmcgugan.com"
+                                },
+                                "excerpt": "If you are writing an application of any size, it will most likely require a number of files to run – files which could be stored in a variety of possible locations. Furthermore, you will probably want to be able to change the location of those files when debugging and testing.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.willmcgugan.com/blog/tech/post/creating-a-virtual-filesystem-with-python-and-why-you-need-one/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2011-03-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MDIwMTIyMl8qXzE0NjE4MDI4NTM=",
+                        "node": {
+                            "url": "http://spectrum.ieee.org/computing/software/linux-at-25-qa-with-linus-torvalds",
+                            "_createdAt": 1461066457,
+                            "_updatedAt": 1461804345,
+                            "id": "1240201222",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461802853,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Full Page Reload",
+                                "itemId": "1240201222",
+                                "resolvedId": "1240201222",
+                                "resolvedUrl": "http://spectrum.ieee.org/computing/software/linux-at-25-qa-with-linus-torvalds",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "IEEE"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://spectrum.ieee.org/computing/software/linux-at-25-qa-with-linus-torvalds",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NTM4NTIyMl8qXzE0NjE4MDI4NTU=",
+                        "node": {
+                            "url": "https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/",
+                            "_createdAt": 1460700488,
+                            "_updatedAt": 1461804345,
+                            "id": "1245385222",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461802855,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A practical introduction to Functional Programming for Python coders",
+                                "itemId": "1245385222",
+                                "resolvedId": "1245385222",
+                                "resolvedUrl": "https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "codesachin.wordpress.com"
+                                },
+                                "excerpt": "This post acquaints the reader with the fundamentals of Functional Programming in the context of Python. Most programmers rarely touch upon languages with a primary functional focus- such as Lisp or Haskell, except maybe as a part of an academic course.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://codesachin.files.wordpress.com/2016/04/220px-function_machine2-svg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 139,
+                                        "imageId": 2,
+                                        "src": "https://codesachin.files.wordpress.com/2016/04/images.png",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://codesachin.files.wordpress.com/2016/04/220px-function_machine2-svg.png",
+                                "timeToRead": 7,
+                                "givenUrl": "https://codesachin.wordpress.com/2016/04/03/a-practical-introduction-to-functional-programming-for-python-coders/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-04-03 09:32:22",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1Mzc3ODI5N18qXzE0NjE4MDI4NTg=",
+                        "node": {
+                            "url": "http://www.nytimes.com/2016/04/12/science/scientists-unveil-new-tree-of-life.html",
+                            "_createdAt": 1460700477,
+                            "_updatedAt": 1461804345,
+                            "id": "1253778297",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461802858,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Scientists Unveil New ‘Tree of Life’",
+                                "itemId": "1253778297",
+                                "resolvedId": "1253778297",
+                                "resolvedUrl": "https://www.nytimes.com/2016/04/12/science/scientists-unveil-new-tree-of-life.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "A team of scientists unveiled a new tree of life on Monday, a diagram outlining the evolution of all living things. The researchers found that bacteria make up most of life’s branches.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 681,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2016/04/12/science/11TREEOFLIFE/11TREEOFLIFE-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2016/04/12/science/11TREEOFLIFE/11TREEOFLIFE-facebookJumbo.jpg?year=2016&h=549&w=1050&s=c6ae8cb6bf060fe15232f1eb9f95f461b9c2691211247561ca1f7c26c1c39c1d&k=ZQJBKqZ0VN",
+                                "timeToRead": 4,
+                                "givenUrl": "http://www.nytimes.com/2016/04/12/science/scientists-unveil-new-tree-of-life.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "78165290",
+                                        "name": "Carl Zimmer",
+                                        "url": "https://www.nytimes.com/by/carl-zimmer"
+                                    }
+                                ],
+                                "datePublished": "2016-04-11 10:04:08",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2NTM1MjM4NV8qXzE0NjE4NDk4MjY=",
+                        "node": {
+                            "url": "https://www.washingtonpost.com/news/wonk/wp/2016/04/22/the-great-ethnic-food-lie/",
+                            "_createdAt": 1461814158,
+                            "_updatedAt": 1461852077,
+                            "id": "1265352385",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461849826,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "How Americans pretend to love ‘ethnic food’",
+                                "itemId": "1265352385",
+                                "resolvedId": "1265352385",
+                                "resolvedUrl": "https://www.washingtonpost.com/news/wonk/wp/2016/04/22/the-great-ethnic-food-lie/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "The lie Americans like to tell themselves about \"ethnic food.\"",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T43QKDOF5A3KRH7VE4OIS5QR7Q.jpg&w=1440",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.washingtonpost.com/news/wonk/wp/2016/04/22/the-great-ethnic-food-lie/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-04-22 09:48:58",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2NzgzNjc4NF8qXzE0NjE5MzAyMjM=",
+                        "node": {
+                            "url": "https://fivethirtyeight.com/features/universal-basic-income/",
+                            "_createdAt": 1461813542,
+                            "_updatedAt": 1461930225,
+                            "id": "1267836784",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461930223,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Would Happen If We Just Gave People Money?",
+                                "itemId": "1267836784",
+                                "resolvedId": "1267836784",
+                                "resolvedUrl": "https://fivethirtyeight.com/features/universal-basic-income/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "FiveThirtyEight"
+                                },
+                                "excerpt": "Daniel Straub remembers the night he got hooked on basic income. He had invited Götz Werner, a billionaire owner of a German drugstore chain, to give an independent talk in Zurich, where Straub was working as a project manager for a think tank.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Illustrations by Heads of State.",
+                                        "credit": "Illustrations  Heads of State",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2016/04/promo_4x32.gif?w=575",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 800,
+                                        "imageId": 2,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2016/04/538_progressive_finalflat.jpg",
+                                        "width": 575
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 745,
+                                        "imageId": 3,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2016/04/flowers-ubi-12.png",
+                                        "width": 575
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 800,
+                                        "imageId": 4,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2016/04/538_libertarian_finalflat_edit.jpg",
+                                        "width": 575
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 862,
+                                        "imageId": 5,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2016/04/flowers-ubi-21.png",
+                                        "width": 575
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 800,
+                                        "imageId": 6,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2016/04/538_experimentalist_finalflat1.jpg",
+                                        "width": 575
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 800,
+                                        "imageId": 7,
+                                        "src": "https://fivethirtyeight.com/wp-content/uploads/2016/04/538_technologists_finalflat.jpg",
+                                        "width": 575
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://fivethirtyeight.com/wp-content/uploads/2016/04/promo_4x32.gif?w=712",
+                                "timeToRead": 23,
+                                "givenUrl": "https://fivethirtyeight.com/features/universal-basic-income/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "33618381",
+                                        "name": "Andrew Flowers",
+                                        "url": "https://fivethirtyeight.com/contributors/andrew-flowers/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-25 05:00:39",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2NDIyODYxN18qXzE0NjE5MzAyODA=",
+                        "node": {
+                            "url": "http://devblog.avdi.org/2016/04/21/some-quick-thoughts-on-input-validation/",
+                            "_createdAt": 1461813514,
+                            "_updatedAt": 1461930818,
+                            "id": "1264228617",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461930280,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Some quick thoughts on input validation",
+                                "itemId": "2741732662",
+                                "resolvedId": "2741732662",
+                                "resolvedUrl": "https://avdi.codes/some-quick-thoughts-on-input-validation/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "avdi.codes"
+                                },
+                                "excerpt": "The Hanami project is looking at upgrading and/or replacing their input validation system. I had some thoughts on this topic, but I don’t want to excessively clutter up their thread with discussion which may be out of scope.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i2.wp.com/avdi.codes/wp-content/uploads/2019/06/cropped-favicon-extraced-from-linda-kerr-loga.png?fit=512%2C512&ssl=1",
+                                "timeToRead": null,
+                                "givenUrl": "http://devblog.avdi.org/2016/04/21/some-quick-thoughts-on-input-validation/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "78921469",
+                                        "name": "Avdi Grimm",
+                                        "url": "https://avdi.codes/author/avdi/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-21 08:36:55",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1MzkwNjUwMV8qXzE0NjE5MzA0NzU=",
+                        "node": {
+                            "url": "http://techblog.netflix.com/2016/04/saving-13-million-computational-minutes.html",
+                            "_createdAt": 1461813597,
+                            "_updatedAt": 1461930818,
+                            "id": "1253906501",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1461930475,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Saving 13 Million Computational Minutes per Day with Flame Graphs",
+                                "itemId": "2869493975",
+                                "resolvedId": "2869493975",
+                                "resolvedUrl": "https://netflixtechblog.com/saving-13-million-computational-minutes-per-day-with-flame-graphs-d95633b6d01f",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "netflixtechblog.com"
+                                },
+                                "excerpt": "We recently uncovered a significant performance win for a key microservice here at Netflix, and we want to share the problems, challenges, and new developments for the kind of analysis that lead us to the optimization. Optimizing performance is critical for Netflix.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 958,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/2400/0*0H9JWHW9X1e4fQ_1.",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 958,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/2400/0*qVKFsW6tf_o7Osse.",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1600,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/594/0*oHmga48gjAQ-NkIT.",
+                                        "width": 297
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1302,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/2400/0*DRxxdEmsQheDVRXf.",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 848,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/2400/0*OcWlSzaQe7dkJo6x.",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 444,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1368/0*30eIfDGNkOznkzbh.",
+                                        "width": 684
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 449,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1368/0*D4q9lEQ9i2hpZVJ9.",
+                                        "width": 684
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 592,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/2400/0*xrFEtkjb8aQsr-Ha.",
+                                        "width": 1200
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/focal/1200/632/61/17/0*qVKFsW6tf_o7Osse.",
+                                "timeToRead": 8,
+                                "givenUrl": "http://techblog.netflix.com/2016/04/saving-13-million-computational-minutes.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "145766647",
+                                        "name": "Netflix Technology Blog",
+                                        "url": "https://netflixtechblog.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2017-04-19 10:13:57",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MjM0MDc0Nl8qXzE0NjIwMzA3OTg=",
+                        "node": {
+                            "url": "http://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                            "_createdAt": 1462024657,
+                            "_updatedAt": 1462034724,
+                            "id": "1272340746",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462030798,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free",
+                                "itemId": "1270044885",
+                                "resolvedId": "1270044885",
+                                "resolvedUrl": "https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "The Friday afternoon news dump, a grand tradition observed by politicians and capitalists alike, is usually supposed to hide bad news.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/59270860f3e2356fd800b3f8/master/w_2560%2Cc_limit/h_14117315-edit.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.wired.com/photos/592708667034dc5f91bed680/master/w_1600%2Cc_limit/IMG_0173-edited.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.wired.com/photos/59270867f3e2356fd800b3fd/master/w_1600%2Cc_limit/IMG_0213-edited-fr1.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/59270860f3e2356fd800b3f8/191:100/w_1280,c_limit/h_14117315-edit.jpg",
+                                "timeToRead": 14,
+                                "givenUrl": "http://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "68379144",
+                                        "name": "Cade Metz",
+                                        "url": "https://www.wired.com/author/cade-metz"
+                                    }
+                                ],
+                                "datePublished": "2016-04-27 06:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyMjI4MjQ5OV8qXzE0NjIwMzEyNDI=",
+                        "node": {
+                            "url": "https://25iq.com/2016/03/12/richard-feynman-and-charlie-munger-expert-generalists/",
+                            "_createdAt": 1461813762,
+                            "_updatedAt": 1462034725,
+                            "id": "1222282499",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462031242,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Richard Feynman and Charlie Munger: Expert Generalists",
+                                "itemId": "1222282499",
+                                "resolvedId": "1222282499",
+                                "resolvedUrl": "https://25iq.com/2016/03/12/richard-feynman-and-charlie-munger-expert-generalists/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "25iq.com"
+                                },
+                                "excerpt": "Richard Feynman was a scientist, professor, musician and raconteur. Bill Gates adds to that description Feynman: “In 1965, Feynman shared a Nobel Prize for work on particle physics. Feynman wasn’t famous just for being a great teacher and a world-class scientist; he was also quite a character.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://i2.wp.com/ffden-2.phys.uaf.edu/211_fall2002.web.dir/David_Boniface-Jones/Pics/1.10-29.jpg?w=676",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://s0.wp.com/i/blank.jpg",
+                                "timeToRead": 14,
+                                "givenUrl": "https://25iq.com/2016/03/12/richard-feynman-and-charlie-munger-expert-generalists/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-03-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2NDQwNDk2N18qXzE0NjIwMzE3NzI=",
+                        "node": {
+                            "url": "https://eng.uber.com/building-tincup/",
+                            "_createdAt": 1461813491,
+                            "_updatedAt": 1462034725,
+                            "id": "1264404967",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462031772,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Rewriting Uber Engineering: The Opportunities Microservices Provide",
+                                "itemId": "2187329938",
+                                "resolvedId": "1264404967",
+                                "resolvedUrl": "https://eng.uber.com/building-tincup/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ubere.ng"
+                                },
+                                "excerpt": "A few months back, we discussed Uber’s decision to abandon its monolithic codebase in favor of a modular, flexible microservice architecture.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 298,
+                                        "imageId": 1,
+                                        "src": "https://1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/currency_header_uber_eng.jpg",
+                                        "width": 696
+                                    },
+                                    {
+                                        "caption": "You can tap the slider icon to request a ride no matter where you are. Tincup ensures that you pay for the ride in the currency of whichever country you are in.",
+                                        "credit": "",
+                                        "height": 500,
+                                        "imageId": 2,
+                                        "src": "http://1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com/wp-content/uploads/2016/04/currency_graphic_uber_eng.jpg",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://eng.uber.com/wp-content/uploads/2016/04/currency_header_uber_eng.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://eng.uber.com/building-tincup/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "104968276",
+                                        "name": "Emily Reinhold",
+                                        "url": "https://eng.uber.com/author/emilyruber-com/"
+                                    }
+                                ],
+                                "datePublished": "2016-04-20 06:03:03",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1NzIwNjI3M18qXzE0NjIwMzE5MTQ=",
+                        "node": {
+                            "url": "http://tech.shutterstock.com/2016/04/11/how-to-build-quality-into-your-software-development-workflow/",
+                            "_createdAt": 1461587278,
+                            "_updatedAt": 1462034725,
+                            "id": "1257206273",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462031914,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Oops—the page you're looking for isn't here... (404)",
+                                "itemId": "2376603987",
+                                "resolvedId": "2376603987",
+                                "resolvedUrl": "https://tech.shutterstock.com/404",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "tech.shutterstock.com"
+                                },
+                                "excerpt": "Oops&mdash;the page you're looking for isn't here... (404)",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://tech.shutterstock.com/assets/img/404.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://tech.shutterstock.com/assets/img/avatar.png",
+                                "timeToRead": null,
+                                "givenUrl": "http://tech.shutterstock.com/2016/04/11/how-to-build-quality-into-your-software-development-workflow/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTI0Mjg0NDI5MV8qXzE0NjEzMjY3OTc=",
+                    "endCursor": "MTI1NzIwNjI3M18qXzE0NjIwMzE5MTQ="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

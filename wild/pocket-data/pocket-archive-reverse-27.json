@@ -1,0 +1,1852 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTg1ODUwODE1MV8qXzE1Nzk1NjY4Mjk=",
+                        "node": {
+                            "url": "https://bostonreview.net/science-nature/tom-rutledge-man-who-invented-information-theory",
+                            "_createdAt": 1548781895,
+                            "_updatedAt": 1579566844,
+                            "id": "1858508151",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566829,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3518621820",
+                                "resolvedId": "3518621820",
+                                "resolvedUrl": "https://www.bostonreview.net/articles/just-add-meaning-claude-shannons-information-theory-rubric-good-communication/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Boston Review"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://bostonreview.net/science-nature/tom-rutledge-man-who-invented-information-theory",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE0NjYyNTM3M18qXzE1Nzk1NjY4MzA=",
+                        "node": {
+                            "url": "http://blog.samaltman.com/productivity",
+                            "_createdAt": 1548942096,
+                            "_updatedAt": 1579566844,
+                            "id": "2146625373",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566830,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Productivity",
+                                "itemId": "2146625373",
+                                "resolvedId": "2146625373",
+                                "resolvedUrl": "http://blog.samaltman.com/productivity",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.samaltman.com"
+                                },
+                                "excerpt": "I think I am at least somewhat more productive than average, and people sometimes ask me for productivity tips.  So I decided to just write them all down in one place. Compound growth gets discussed as a financial concept, but it works in careers as well, and it is magic.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 10,
+                                "givenUrl": "http://blog.samaltman.com/productivity",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ3MzQ2MTE4MF8qXzE1Nzk1NjY4Njc=",
+                        "node": {
+                            "url": "https://mwi.usma.edu/stealing-enemys-urban-advantage-battle-sadr-city/",
+                            "_createdAt": 1548970648,
+                            "_updatedAt": 1579566867,
+                            "id": "2473461180",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566867,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Stealing the Enemy’s Urban Advantage: The Battle of Sadr City",
+                                "itemId": "2473461180",
+                                "resolvedId": "2473461180",
+                                "resolvedUrl": "https://mwi.usma.edu/stealing-enemys-urban-advantage-battle-sadr-city/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "mwi.usma.edu"
+                                },
+                                "excerpt": "From March 23 to May 12, 2008, US Army and Iraqi security forces engaged in an intense urban battle in and around Baghdad’s Shiite neighborhood of Sadr City.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 55,
+                                        "imageId": 1,
+                                        "src": "https://mwi.usma.edu/wp-content/uploads/2017/07/MWI-shield-50x55.png",
+                                        "width": 50
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://mwi.usma.edu/wp-content/uploads/2019/01/97393.jpg",
+                                "timeToRead": 36,
+                                "givenUrl": "https://mwi.usma.edu/stealing-enemys-urban-advantage-battle-sadr-city/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-01-31 02:30:01",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0NzMxMDM5OF8qXzE1Nzk1NjY4Njk=",
+                        "node": {
+                            "url": "https://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html",
+                            "_createdAt": 1550117275,
+                            "_updatedAt": 1579566869,
+                            "id": "1347310398",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566869,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Conjoined Triangles of Senior-Level Development",
+                                "itemId": "3031396441",
+                                "resolvedId": "3031396441",
+                                "resolvedUrl": "https://frontside.com/blog/2016-07-07-the-conjoined-triangles-of-senior-level-development/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "frontside.com"
+                                },
+                                "excerpt": "At Frontside, we gather every Tuesday afternoon for our company meeting, where we talk through our accomplishments and plans for the coming week. In a recent meeting, we talked about our search for a senior developer to join the team, and you could see passions flare.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://frontside.com/img/2016-07-07-the-conjoined-triangles-of-senior-level-development_sv-conjoined.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://frontside.com/img/2016-07-07-the-conjoined-triangles-of-senior-level-development_conjoined.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://frontside.com/img/2016-07-07-the-conjoined-triangles-of-senior-level-development_venn.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://frontside.com/img/frontside-800.png",
+                                "timeToRead": 12,
+                                "givenUrl": "https://frontside.io/blog/2016/07/07/the-conjoined-triangles-of-senior-level-development.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-07-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ4ODgwMzY1OV8qXzE1Nzk1NjY4NzE=",
+                        "node": {
+                            "url": "https://hackaday.com/2019/02/13/the-impossible-tech-behind-spacexs-new-engine/",
+                            "_createdAt": 1550117666,
+                            "_updatedAt": 1579566871,
+                            "id": "2488803659",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566871,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The “Impossible” Tech Behind SpaceX’s New Engine",
+                                "itemId": "2488803659",
+                                "resolvedId": "2488803659",
+                                "resolvedUrl": "https://hackaday.com/2019/02/13/the-impossible-tech-behind-spacexs-new-engine/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Hackaday"
+                                },
+                                "excerpt": "Followers of the Church of Elon will no doubt already be aware of SpaceX’s latest technical triumph: the test firing of the first full-scale Raptor engine. Of course, it was hardly a secret.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hackaday.com/wp-content/uploads/2019/02/raptor_feat.jpg?w=800",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 475,
+                                        "imageId": 2,
+                                        "src": "https://hackaday.com/wp-content/uploads/2019/02/raptor_tweet-1.png",
+                                        "width": 420
+                                    },
+                                    {
+                                        "caption": "Merlin engine with black preburner exhaust",
+                                        "credit": "",
+                                        "height": 507,
+                                        "imageId": 3,
+                                        "src": "https://hackaday.com/wp-content/uploads/2019/02/raptor_plume.jpg",
+                                        "width": 308
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 487,
+                                        "imageId": 4,
+                                        "src": "https://hackaday.com/wp-content/uploads/2019/02/raptor_fullflow-themed.jpg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "SpaceX Starship Prototype",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 5,
+                                        "src": "https://hackaday.com/wp-content/uploads/2019/02/raptor_starship.jpg",
+                                        "width": 301
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hackaday.com/wp-content/uploads/2019/02/raptor_feat.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://hackaday.com/2019/02/13/the-impossible-tech-behind-spacexs-new-engine/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "76993363",
+                                        "name": "Tom Nardi",
+                                        "url": "https://hackaday.com/author/tomnardi/"
+                                    }
+                                ],
+                                "datePublished": "2019-02-13 09:01:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ5MTI4MTc2NF8qXzE1Nzk1NjY4NzQ=",
+                        "node": {
+                            "url": "http://bostonreview.net/class-inequality/suresh-naidu-dani-rodrik-gabriel-zucman-economics-after-neoliberalism",
+                            "_createdAt": 1550547543,
+                            "_updatedAt": 1579566874,
+                            "id": "2491281764",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566874,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2506509853",
+                                "resolvedId": "2506509853",
+                                "resolvedUrl": "http://bostonreview.net/forum/suresh-naidu-dani-rodrik-gabriel-zucman-economics-after-neoliberalism",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Boston Review"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://bostonreview.net/class-inequality/suresh-naidu-dani-rodrik-gabriel-zucman-economics-after-neoliberalism",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUwNTQwNzczOF8qXzE1Nzk1NjY4NzY=",
+                        "node": {
+                            "url": "https://data.world/blog/what-the-chief-data-officer-needs-from-a-data-catalog-investment/?utm_campaign=data_digest&utm_source=email&utm_medium=email&utm_content=190222&_hsenc=p2ANqtz-__OMX-JjiC1NFxM7Aa7z5Cy1D6DXBtNKzNZikbk-GNQf3FYB0ZPXhKEXPnPud1Ia7toj8Dm_62wf4SG80JMhIQ1Q861xK5KbToqcFh07tvQ2zG-jU&_hsmi=70166068",
+                            "_createdAt": 1551290886,
+                            "_updatedAt": 1579566877,
+                            "id": "2505407738",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566876,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What the Chief Data Officer needs from a data catalog investment",
+                                "itemId": "2488874430",
+                                "resolvedId": "2488874430",
+                                "resolvedUrl": "https://data.world/blog/what-the-chief-data-officer-needs-from-a-data-catalog-investment/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "data.world"
+                                },
+                                "excerpt": "The stakes keep getting higher for the Chief Data Officer (CDO), and the clock is ticking. While nearly a third of them consider themselves successful at building a data-driven culture, the majority can’t do the same.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://data.world/wp-content/uploads/2019/02/what-the-chief-data-officer-needs-from-a-data-catalog-3.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://data.world/blog/what-the-chief-data-officer-needs-from-a-data-catalog-investment/?utm_campaign=data_digest&utm_source=email&utm_medium=email&utm_content=190222&_hsenc=p2ANqtz-__OMX-JjiC1NFxM7Aa7z5Cy1D6DXBtNKzNZikbk-GNQf3FYB0ZPXhKEXPnPud1Ia7toj8Dm_62wf4SG80JMhIQ1Q861xK5KbToqcFh07tvQ2zG-jU&_hsmi=70166068",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "105322849",
+                                        "name": "Tyler Durman",
+                                        "url": "https://data.world/blog/author/tyler-durman/"
+                                    }
+                                ],
+                                "datePublished": "2019-02-13 09:59:21",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ5NzEyMjQ1NV8qXzE1Nzk1NjY4Nzg=",
+                        "node": {
+                            "url": "https://www.nature.com/articles/d41586-019-00577-0",
+                            "_createdAt": 1551308749,
+                            "_updatedAt": 1579566878,
+                            "id": "2497122455",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566878,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why neutrons and protons are modified inside nuclei",
+                                "itemId": "2497122455",
+                                "resolvedId": "2497122455",
+                                "resolvedUrl": "https://www.nature.com/articles/d41586-019-00577-0",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nature Publishing Group"
+                                },
+                                "excerpt": "You have full access to this article via your institution. In 1983, it was discovered that the internal structure of a nucleon — a proton or a neutron — depends on its environment1.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Read the paper: Modified structure of protons and neutrons in correlated pairs --",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.nature.com/w400/magazine-assets/d41586-019-00577-0/d41586-019-00577-0_16488002.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Figure 1 | Modified protons and neutrons in nuclei. a, Nucleons — neutrons and protons — are composed of elementary particles called quarks. Neutrons contain one ‘up’ quark and two ‘down’ quarks, whereas protons contain two up quarks and one down quark. b, In atomic nuclei, nucleons can briefly interact in what are known as short-range correlated",
+                                        "credit": "SRC",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.nature.com/lw800/magazine-assets/d41586-019-00577-0/d41586-019-00577-0_16487366.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-021-03333-5/MediaObjects/41586_2021_3333_Fig1_HTML.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.nature.com/w140h79/springer-static/image/art%3A10.1038%2Fs41586-021-03334-4/MediaObjects/41586_2021_3334_Fig1_HTML.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://images.nature.com/w140h79/magazine-assets/d41586-021-01332-0/d41586-021-01332-0_19168496.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily. --",
+                                        "credit": "",
+                                        "height": 40,
+                                        "imageId": 6,
+                                        "src": "https://www.nature.com/static/images/logos/nature-briefing-logo-n150-white.d81c9da3ec.svg",
+                                        "width": 250
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.nature.com/lw1024/magazine-assets/d41586-019-00577-0/d41586-019-00577-0_16487364.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.nature.com/articles/d41586-019-00577-0",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "154244611",
+                                        "name": "Gerald Feldman",
+                                        "url": "https://www.nature.com/articles/d41586-019-00577-0?error=cookies_not_supported&code=6b1a0b0b-fedf-4f9f-92d7-4d698fa4345c#author-0"
+                                    }
+                                ],
+                                "datePublished": "2019-02-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE2NTEyODc1NF8qXzE1Nzk1NjY4ODM=",
+                        "node": {
+                            "url": "https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/",
+                            "_createdAt": 1560176866,
+                            "_updatedAt": 1579566883,
+                            "id": "2165128754",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566883,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The data modeling layer in startup analytics – DBT vs Matillion vs LookML and more",
+                                "itemId": "2165128754",
+                                "resolvedId": "2165128754",
+                                "resolvedUrl": "https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "stephenlevin.co"
+                                },
+                                "excerpt": "Hey data team – why does the revenue in my dashboard not match the revenue in this other view? -Every Executive Ever If you’ve been in data analytics for any amount of time, I’m sure you can relate to a question like this.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 439,
+                                        "imageId": 1,
+                                        "src": "https://www.stephenlevin.co/wp-content/uploads/2018/04/dbt-graph-1024x439.png",
+                                        "width": 1024
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 474,
+                                        "imageId": 2,
+                                        "src": "https://www.stephenlevin.co/wp-content/uploads/2018/04/matillion-graph.jpg",
+                                        "width": 900
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.stephenlevin.co/wp-content/uploads/2018/04/Data-Modeling-Layer-1.png",
+                                "timeToRead": 11,
+                                "givenUrl": "https://www.stephenlevin.co/data-modeling-layer-startup-analytics-dbt-vs-matillion-vs-lookml/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2486329",
+                                        "name": "Stephen",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2018-04-24 04:42:45",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyNTQ1OTE1OV8qXzE1Nzk1NjY4ODc=",
+                        "node": {
+                            "url": "https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449",
+                            "_createdAt": 1560544662,
+                            "_updatedAt": 1579566887,
+                            "id": "2625459159",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566887,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Evolving to Enterprise-Grade Permissions",
+                                "itemId": "2625459159",
+                                "resolvedId": "2625459159",
+                                "resolvedUrl": "https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "benchling.engineering"
+                                },
+                                "excerpt": "Benchling is a data platform to help scientists do research. Hundreds of thousands of scientists across academic labs and enterprise companies use Benchling to store and analyze scientific data, record notes, and share findings with each other.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/96/96/2*LIqaqtIGb7-79hEiMGNmYw.jpeg",
+                                        "width": 48
+                                    },
+                                    {
+                                        "caption": "A DNA sequence in Benchling",
+                                        "credit": "",
+                                        "height": 385,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1400/1*B9tVgbU4P8RzkG4iE_1DFw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "A notebook entry in Benchling",
+                                        "credit": "",
+                                        "height": 360,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1400/1*j86gPJG09IHctqdetSMicw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Configuring project permissions by assigning permission levels to collaborators",
+                                        "credit": "",
+                                        "height": 414,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1400/1*vFuHuFSLnkOMzvsWllffBQ.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Configuring project permissions by assigning data policies to collaborators",
+                                        "credit": "",
+                                        "height": 414,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/1400/1*5US8-mtGKDLEm0ee0EcnJA.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Granularizing the WRITE action for DNA sequences to EDIT_BASES and WRITE",
+                                        "credit": "edit metadata",
+                                        "height": 284,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1400/1*HlxEQWUHz6LmixnvwrxZbA.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 81,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1400/1*xP9_a9OtD3-f_oBsk1GTnA.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "The UI for configuring a data policy",
+                                        "credit": "",
+                                        "height": 915,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/1400/1*-Tosb6poFZI-u7f65QsRSQ.png",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*HlxEQWUHz6LmixnvwrxZbA.png",
+                                "timeToRead": 14,
+                                "givenUrl": "https://benchling.engineering/evolving-to-enterprise-grade-permissions-493eac166449",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "153973857",
+                                        "name": "Rachel Wang",
+                                        "url": "https://medium.com/@rachelwang"
+                                    }
+                                ],
+                                "datePublished": "2019-06-13 15:08:16",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwNjc5MDAyOF8qXzE1Nzk1NjY4ODk=",
+                        "node": {
+                            "url": "https://hackernoon.com/store-fetch-from-dynamodb-with-aws-lambda-342d1785a5d0",
+                            "_createdAt": 1560613715,
+                            "_updatedAt": 1579566889,
+                            "id": "2606790028",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566889,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3646208139",
+                                "resolvedId": "3646208139",
+                                "resolvedUrl": "https://hackernoon.com/store-fetch-from-dynamodb-with-aws-lambda-342d1785a5d0?_branch_match_id=1068546699234679306&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9bLTU3JLM3VS87P1c%2BIsvTPSMoIcooAAIlT65QiAAAA",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Hacker Noon"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://hackernoon.com/store-fetch-from-dynamodb-with-aws-lambda-342d1785a5d0",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyNzA5OTIxNF8qXzE1Nzk1NjY4OTc=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/ideas/archive/2019/06/the-publicly-shamed-sue-oberlin-college-verdict/591379/",
+                            "_createdAt": 1560629039,
+                            "_updatedAt": 1579566897,
+                            "id": "2627099214",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566897,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "From Public Shame to the Courtroom",
+                                "itemId": "2627099214",
+                                "resolvedId": "2627099214",
+                                "resolvedUrl": "https://www.theatlantic.com/ideas/archive/2019/06/the-publicly-shamed-sue-oberlin-college-verdict/591379/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Gibson’s Bakery, a family-owned business near Oberlin College accused of racism, just won a big payout. About the author: Conor Friedersdorf is a California-based staff writer at The Atlantic, where he focuses on politics and national affairs.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Chip East / Reuters",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/iUnXvfR2LOGrIg902spHEnaiFiU=/5x118:3500x2084/960x540/media/img/mt/2019/06/jury/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/TQb3gA-jrap2kufbNPGsCnaSPzY=/0x190:3495x2010/960x500/media/img/mt/2019/06/jury/original.jpg",
+                                "timeToRead": 13,
+                                "givenUrl": "https://www.theatlantic.com/ideas/archive/2019/06/the-publicly-shamed-sue-oberlin-college-verdict/591379/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62512348",
+                                        "name": "Conor Friedersdorf",
+                                        "url": "https://www.theatlantic.com/author/conor-friedersdorf/"
+                                    }
+                                ],
+                                "datePublished": "2019-06-15 05:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMzA0NTU3N18qXzE1Nzk1NjY5MDc=",
+                        "node": {
+                            "url": "https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/",
+                            "_createdAt": 1560876527,
+                            "_updatedAt": 1579566907,
+                            "id": "2623045577",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566907,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2623045577",
+                                "resolvedId": "2623045577",
+                                "resolvedUrl": "https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.juliobiason.net"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTc1NTY5OTQ1NV8qXzE1Nzk1NjY5MDk=",
+                        "node": {
+                            "url": "https://samzdat.com/2017/05/22/man-as-a-rationalist-animal/",
+                            "_createdAt": 1560882090,
+                            "_updatedAt": 1579566909,
+                            "id": "1755699455",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566909,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Man as a Rationalist Animal",
+                                "itemId": "1755699455",
+                                "resolvedId": "1755699455",
+                                "resolvedUrl": "https://samzdat.com/2017/05/22/man-as-a-rationalist-animal/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "samzdat.com"
+                                },
+                                "excerpt": "Subconsciously or not, most of us presuppose malice behind failure. This goes doubly for historical failures, and quadruply for political failures. The daily form of this hisses about “corrupt politicians” (past and present), perhaps about “businessmen and special interests”.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Seeing Like a State",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://samzdat.files.wordpress.com/2017/05/seeing-like-a-state.png?w=840",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://samzdat.files.wordpress.com/2017/05/seeing-like-a-state.png",
+                                "timeToRead": 34,
+                                "givenUrl": "https://samzdat.com/2017/05/22/man-as-a-rationalist-animal/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "64391888",
+                                        "name": "Lou Keep",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-05-22 17:01:15",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYzMDI0MTMyOF8qXzE1Nzk1NjY5MjQ=",
+                        "node": {
+                            "url": "https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters",
+                            "_createdAt": 1561073028,
+                            "_updatedAt": 1579566924,
+                            "id": "2630241328",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566924,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Forget monoliths vs. microservices. Cognitive load is what matters.",
+                                "itemId": "2630241328",
+                                "resolvedId": "2630241328",
+                                "resolvedUrl": "https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "techbeacon.com"
+                                },
+                                "excerpt": "The \"monoliths versus microservices\" debate often focuses on technological aspects, ignoring strategy and team dynamics.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://techbeacon.com/sites/default/files/styles/social/public/field/image/cognitive-load-devops.jpg?itok=xAxniOpz",
+                                "timeToRead": 9,
+                                "givenUrl": "https://techbeacon.com/app-dev-testing/forget-monoliths-vs-microservices-cognitive-load-what-matters",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "71933305",
+                                        "name": "Our Contributors",
+                                        "url": "https://techbeacon.com/contributors"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxNjk4NTcxMl8qXzE1Nzk1NjY5NzQ=",
+                        "node": {
+                            "url": "https://medium.com/management-matters/leaders-are-you-ready-to-manage-remote-teams-2cbb2a25970a",
+                            "_createdAt": 1561119008,
+                            "_updatedAt": 1579566975,
+                            "id": "2616985712",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566974,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Leaders, Are You Ready to Manage Remote Teams?",
+                                "itemId": "2616985712",
+                                "resolvedId": "2616985712",
+                                "resolvedUrl": "https://medium.com/management-matters/leaders-are-you-ready-to-manage-remote-teams-2cbb2a25970a",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "We struggle to attract and keep talented people. A gathering of technical leaders and city counselors convened recently to talk about our workplaces. We spoke on the increased challenge of finding qualified people.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/0*fB_L6Vhf0ZpMDN-5",
+                                "timeToRead": null,
+                                "givenUrl": "https://medium.com/management-matters/leaders-are-you-ready-to-manage-remote-teams-2cbb2a25970a",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "112144206",
+                                        "name": "Vy Luu",
+                                        "url": "https://medium.com/@vyluu"
+                                    }
+                                ],
+                                "datePublished": "2019-08-10 12:36:02",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYzMzcyNjAxMl8qXzE1Nzk1NjY5Nzg=",
+                        "node": {
+                            "url": "https://link.medium.com/q91GLFKuHX",
+                            "_createdAt": 1561120527,
+                            "_updatedAt": 1579566978,
+                            "id": "2633726012",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566978,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "BigQuery: level up your queries with these advanced tricks",
+                                "itemId": "2320844877",
+                                "resolvedId": "2320844877",
+                                "resolvedUrl": "https://hackernoon.com/bigquery-level-up-your-queries-with-these-advanced-tricks-c87de1fde235",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Hacker Noon"
+                                },
+                                "excerpt": "BigQuery is a data warehousing solution provided by Google Cloud. Organisations use data warehouses to gather several sources of data into a single entity, as well as to reshape them into SQL databases with business-oriented schemas. Thus, cross-source data analysis is easily enabled.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.hackernoon.com/hn-images/0*3jgwjZR289bED2lB",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn.hackernoon.com/avatars/pwtNTVrD7BPYArwg776n1wGXP193.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://hackernoon.com/hn-images/0*3jgwjZR289bED2lB",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://hackernoon.com/hn-images/0*feRCJDMr-3f6sWYp",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Logo Detection request to Cloud Vision with The Death of Socrates, David ",
+                                        "credit": "1787",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://hackernoon.com/hn-images/1*C1NE5kNOr64VCMEyvAfoJg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Samples of objects with their number, FARM_FINGERPRINT hash, corresponding group and title",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://hackernoon.com/hn-images/1*2qqGVHlLtoeOUHl_W8E9mg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Schema for `face_annotations` in `the_met.vision_api_data`",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://hackernoon.com/hn-images/1*T30KXhvd1D_dCDLIou7sqw.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "To one line",
+                                        "credit": "=one `object_id`",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://hackernoon.com/hn-images/1*uhG7sPyVjAUY3oyXX5Uymw.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Above: `faceAnnotations` before `WHERE` filtering",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://hackernoon.com/hn-images/1*PZXLdS_KWIrXcwdDVS44QA.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Above: `faceAnnotations` after `WHERE` filtering",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://hackernoon.com/hn-images/1*Fv2o_i9C7ZQSHsVSFqo4qQ.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "`webDetection` schema",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://hackernoon.com/hn-images/1*wd1_pQBXoPh1Gu-FYGu84g.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Target enriched `webDetection` schema",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://hackernoon.com/hn-images/1*JWHeabGNXEEDgI1nNkms7g.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Samples of the `webDetection` schema enrichment. The output schema has been simplified for readability.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://hackernoon.com/hn-images/1*uP6N1Nn5F61HGFwZrn6C-A.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "We prepended the table schema with the argument of the UDF for convenience.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 14,
+                                        "src": "https://hackernoon.com/hn-images/1*NTZ59XkQkT8M602JpuI-Ag.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Logistic Regression task: predict whether or not an art piece has a face representation",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 15,
+                                        "src": "https://hackernoon.com/hn-images/1*9cicZuVB7raskYOWN-8Frw.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 16,
+                                        "src": "https://hackernoon.com/avatars/pwtNTVrD7BPYArwg776n1wGXP193.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.hackernoon.com/hn-images/0*3jgwjZR289bED2lB",
+                                "timeToRead": 7,
+                                "givenUrl": "https://link.medium.com/q91GLFKuHX",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "115859830",
+                                        "name": "Sylvain Truong",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2018-09-05 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYzMTkxNzQ1OV8qXzE1Nzk1NjY5ODI=",
+                        "node": {
+                            "url": "http://newsroom.haas.berkeley.edu/how-information-is-like-snacks-money-and-drugs-to-your-brain/",
+                            "_createdAt": 1561130358,
+                            "_updatedAt": 1579566982,
+                            "id": "2631917459",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566982,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How information is like snacks, money, and drugs—to your brain",
+                                "itemId": "2631917459",
+                                "resolvedId": "2631917459",
+                                "resolvedUrl": "https://newsroom.haas.berkeley.edu/how-information-is-like-snacks-money-and-drugs-to-your-brain/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "newsroom.haas.berkeley.edu"
+                                },
+                                "excerpt": "Can’t stop checking your phone, even when you’re not expecting any important messages? Blame your brain. “To the brain, information is its own reward, above and beyond whether it’s useful,” says Assoc. Prof.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Assoc. Prof. Ming Hsu of the Haas Marketing Group",
+                                        "credit": "",
+                                        "height": 282,
+                                        "imageId": 1,
+                                        "src": "https://newsroom.haas.berkeley.edu/wp-content/uploads/2019/06/Berkeley-Haas-Assoc.-Prof.-Ming-Hsu-1.jpg",
+                                        "width": 225
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://newsroom.haas.berkeley.edu/wp-content/uploads/2019/06/Ming-Hsu_information-is-like-likes-1.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://newsroom.haas.berkeley.edu/how-information-is-like-snacks-money-and-drugs-to-your-brain/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "225702",
+                                        "name": "Laura Counts",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-06-19 14:02:22",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY0MDEyMTg4OF8qXzE1Nzk1NjY5ODQ=",
+                        "node": {
+                            "url": "https://blog.nuclino.com/the-simple-genius-of-checklists-from-b-17-to-the-apollo-missions",
+                            "_createdAt": 1561677284,
+                            "_updatedAt": 1579566984,
+                            "id": "2640121888",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566984,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Simple Genius of Checklists, from B-17 to the Apollo Missions",
+                                "itemId": "2640121888",
+                                "resolvedId": "2640121888",
+                                "resolvedUrl": "https://blog.nuclino.com/the-simple-genius-of-checklists-from-b-17-to-the-apollo-missions",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.nuclino.com"
+                                },
+                                "excerpt": "“Why do I love checklists? Because rather than letting my imagination run amok to my detriment, effective use of checklists allows me to direct my imagination to more productive purposes.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://blog.nuclino.com/files/1c01a2ee-059f-45d5-be06-e7bd13032aa6/nuclino-desktop-app-release-checklist.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://blog.nuclino.com/files/e3c6f35a-6bb5-4f91-be53-dd523e842d45/nuclino-employee-onboarding-checklist.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 7,
+                                "givenUrl": "https://blog.nuclino.com/the-simple-genius-of-checklists-from-b-17-to-the-apollo-missions",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-06-27 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjMyODUzMTk1MF8qXzE1Nzk1NjY5ODY=",
+                        "node": {
+                            "url": "http://cognitivemedium.com/vme",
+                            "_createdAt": 1561746712,
+                            "_updatedAt": 1579566986,
+                            "id": "2328531950",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566986,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The varieties of material existence",
+                                "itemId": "2328531950",
+                                "resolvedId": "2328531950",
+                                "resolvedUrl": "http://cognitivemedium.com/vme",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "cognitivemedium.com"
+                                },
+                                "excerpt": "Status: Rough and speculative working notes, very quickly written – basically, a little raw thinking and exploration. Knowledgeable corrections welcome! William James wrote a book with the marvellous title “The Varieties of Religious Experience”.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 16,
+                                "givenUrl": "http://cognitivemedium.com/vme",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2018-09-19 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY0NTUyOTQxMl8qXzE1Nzk1NjY5OTI=",
+                        "node": {
+                            "url": "https://mattturck.com/2019trends/",
+                            "_createdAt": 1562965498,
+                            "_updatedAt": 1579566992,
+                            "id": "2645529412",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566992,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Part II: Major Trends in the 2019 Data & AI Landscape",
+                                "itemId": "2645529412",
+                                "resolvedId": "2645529412",
+                                "resolvedUrl": "https://mattturck.com/2019trends/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "mattturck.com"
+                                },
+                                "excerpt": "Part I of the 2019 Data & AI Landscape covered issues around the societal impact of data and AI, and included the landscape chart itself. In this Part II, we’re going to dive into some of the main industry trends in data and AI.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "http://mattturck.com/wp-content/uploads/2019/06/2019_Matt_Turck_Big_Data_Landscape_2019_Thumb.png",
+                                "timeToRead": 18,
+                                "givenUrl": "https://mattturck.com/2019trends/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-07-02 07:44:31",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY0NjkxNTAyNl8qXzE1Nzk1NjY5OTQ=",
+                        "node": {
+                            "url": "https://getpocket.com/explore/item/is-the-world-s-best-butter-worth-50-dollars-a-pound",
+                            "_createdAt": 1563061751,
+                            "_updatedAt": 1579566994,
+                            "id": "2646915026",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566994,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is the World’s Best Butter Worth 50 Dollars a Pound?",
+                                "itemId": "1651999766",
+                                "resolvedId": "1651999766",
+                                "resolvedUrl": "https://www.saveur.com/worlds-best-fancy-butter/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "saveur.com"
+                                },
+                                "excerpt": "If you've never been in the presence of a day-old calf, they happen to be disconcertingly large. Recently I followed one—the color and size of a golden retriever—as it stumbled around Diane St. Clair's barn, bleating loudly.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.saveur.com/uploads/2019/03/18/ZVPB5MDE27FQHK4DNCEK2XQC7Q.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=1440",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.saveur.com/uploads/2019/03/18/RTPPNJYWDJBOQDAHKSHHNNT4HE.jpg?auto=webp&optimize=high&quality=70&width=1440",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.saveur.com/uploads/2019/03/18/ZVPB5MDE27FQHK4DNCEK2XQC7Q.jpg?auto=webp&width=2000&height=1500",
+                                "timeToRead": 9,
+                                "givenUrl": "https://getpocket.com/explore/item/is-the-world-s-best-butter-worth-50-dollars-a-pound",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1692549",
+                                        "name": "Alex Halberstadt",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-03-14 15:00:00",
+                                "syndicatedArticle": {
+                                    "slug": "is-the-world-s-best-butter-worth-50-dollars-a-pound",
+                                    "publisher": {
+                                        "name": "Saveur",
+                                        "url": "https://www.saveur.com/?utm_source=pocket"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY2NTAwMDcxN18qXzE1Nzk1NjY5OTY=",
+                        "node": {
+                            "url": "https://link.medium.com/KtAKZO2JtY",
+                            "_createdAt": 1563632071,
+                            "_updatedAt": 1579566996,
+                            "id": "2665000717",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566996,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4016578648",
+                                "resolvedId": "4016578648",
+                                "resolvedUrl": "https://rsci.app.link/KtAKZO2JtY?_p=c31029c09a047af6e4038d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rsci.app.link"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://link.medium.com/KtAKZO2JtY",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY3MDY1OTU4OF8qXzE1Nzk1NjY5OTk=",
+                        "node": {
+                            "url": "http://getpocket.com/explore/item/my-life-with-the-physics-dream-team",
+                            "_createdAt": 1565180215,
+                            "_updatedAt": 1579566999,
+                            "id": "2670659588",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579566999,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "My Life With the Physics Dream Team",
+                                "itemId": "2670659588",
+                                "resolvedId": "2670659588",
+                                "resolvedUrl": "https://getpocket.com/explore/item/my-life-with-the-physics-dream-team",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "Freeman Dyson on working with the greatest physicists of the 20th century.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Illustrations by Julia Breckenreid. --",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pocket-image-cache.com/direct?resize=w2000&url=http%3A%2F%2Fstatic.nautil.us%2F11067_4fe068d05b9b1470b7ffba0732b4446f.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "--",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://pocket-image-cache.com/direct?resize=w2000&url=http%3A%2F%2Fstatic.nautil.us%2F11071_7e2674f6f4343ce9f635b86d124851ce.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "--",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://pocket-image-cache.com/direct?resize=w2000&url=http%3A%2F%2Fstatic.nautil.us%2F11072_f51338d736f95dd42427296047067694.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "--",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://pocket-image-cache.com/direct?resize=w2000&url=http%3A%2F%2Fstatic.nautil.us%2F11053_0d2f28fbfb3c845930a1cba0672950b1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "This post originally appeared on Nautilus and was published December 8, 2016. This article is republished here with permission.Did you enjoy this story?Subscribe to Nautilus",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://pocket-syndicated-publisher-logos.s3.amazonaws.com/5cba00f3b7a1e.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pocket-image-cache.com/1200x/filters:format(jpg):extract_focal()/http%3A%2F%2Fstatic.nautil.us%2F11067_4fe068d05b9b1470b7ffba0732b4446f.jpg",
+                                "timeToRead": 19,
+                                "givenUrl": "http://getpocket.com/explore/item/my-life-with-the-physics-dream-team",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "3399890",
+                                        "name": "Steve Paulson",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": {
+                                    "slug": "my-life-with-the-physics-dream-team",
+                                    "publisher": {
+                                        "name": "Nautilus",
+                                        "url": "http://nautil.us/?utm_source=pocket"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY3NDIxMzE5N18qXzE1Nzk1NjcwMDA=",
+                        "node": {
+                            "url": "https://www.newyorker.com/magazine/2019/08/05/the-invention-of-money",
+                            "_createdAt": 1565820994,
+                            "_updatedAt": 1579567000,
+                            "id": "2674213197",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567000,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Invention of Money",
+                                "itemId": "2674213197",
+                                "resolvedId": "2674213197",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2019/08/05/the-invention-of-money",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "When the Venetian merchant Marco Polo got to China, in the latter part of the thirteenth century, he saw many wonders—gunpowder and coal and eyeglasses and porcelain.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“I guess you’re right—we have met before.”",
+                                        "credit": "Cartoon  Lisa Rothstein",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/cartoons/5d38c9d859ecd90008fc279d/master/w_1600%2Cc_limit/190805_a23021.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "When the system buckles, how do we know what money is really worth?Illustration by Mark Long",
+                                        "credit": "Illustration  Mark Long",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/photos/5d38cd863212860009902607/master/w_2560%2Cc_limit/190805_r34727.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/59097a791c7a8e33fb38ffe8/4:3/w_480%2Cc_limit/161010_r28824.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/590968322179605b11ad6673/4:3/w_480%2Cc_limit/111010_r21356_g2048.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1549319090/thenewyorker_tk-tsa-atlanta.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5d3b37b40c57a600091ddb1f/16:9/w_1280,c_limit/190805_r34727-tout.jpg",
+                                "timeToRead": 17,
+                                "givenUrl": "https://www.newyorker.com/magazine/2019/08/05/the-invention-of-money",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "74255726",
+                                        "name": "John Lanchester",
+                                        "url": "https://www.newyorker.com/contributors/john-lanchester"
+                                    }
+                                ],
+                                "datePublished": "2019-07-29 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY1NTExNDAxNl8qXzE1Nzk1NjcwMDk=",
+                        "node": {
+                            "url": "http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life",
+                            "_createdAt": 1566860092,
+                            "_updatedAt": 1579567009,
+                            "id": "2655114016",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567009,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Computer Maverick Who Modeled the Evolution of Life",
+                                "itemId": "2655114016",
+                                "resolvedId": "2655114016",
+                                "resolvedUrl": "http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "Nils Aall Barricelli showed that organisms evolved by symbiosis and cooperation. In 1953, at the dawn of modern computing, Nils Aall Barricelli played God.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/3583_69eba34671b3ef1ef38ee85caae6b2a1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "From the Shelby White and Leon Levy Archives Center, Institute for Advanced Study, Princeton.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://static.nautil.us/3599_e7e69cdf28f8ce6b69b4e1853ee21bab.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "Psychedelic Barricelli: In this recreation of a Barricelli experiment, NYU associate professor Alexander Galloway has added color to show the gene groups more clearly. Each swatch of color signals a different organism. Borders between the color fields represent turbulence as genes bounce off and meld with others, symbolizing Barricelli’s symbiogenesis.",
+                                        "credit": "Courtesy Alexander Galloway",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://static.nautil.us/3552_7c220a2091c26a7f5e9f1cfb099511e3.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "http://static.nautil.us/3551_abdeb6f575ac5c6676b747bca8d09cc2.png",
+                                        "width": 733
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static.nautil.us/3583_69eba34671b3ef1ef38ee85caae6b2a1.png",
+                                "timeToRead": 12,
+                                "givenUrl": "http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "3069989",
+                                        "name": "Robert Hackett",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-07-11 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcwNzAyODM1NV8qXzE1Nzk1NjcwMTU=",
+                        "node": {
+                            "url": "https://www.the-american-interest.com/2019/08/28/ten-ways-to-defuse-political-arrogance/",
+                            "_createdAt": 1567301115,
+                            "_updatedAt": 1579567015,
+                            "id": "2707028355",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567015,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Ten Ways to Defuse Political Arrogance",
+                                "itemId": "2707028355",
+                                "resolvedId": "2707028355",
+                                "resolvedUrl": "https://www.the-american-interest.com/2019/08/28/ten-ways-to-defuse-political-arrogance/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "the-american-interest.com"
+                                },
+                                "excerpt": "Intellectual humility is a time-honored virtue we can learn to cultivate—and one that’s also vital to a healthy democratic politics. The warm glow of being certain that my political views are correct. The thrill of the perfectly formulated gotcha question.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Jacob Peter Gowy, “The Flight of Icarus”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.the-american-interest.com/wp-content/themes/aiwp-2.0/images/x-out.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i1.wp.com/www.the-american-interest.com/wp-content/uploads/2019/08/Gowy-icaro-prado.jpg?fit=1000%2C675&ssl=1",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.the-american-interest.com/2019/08/28/ten-ways-to-defuse-political-arrogance/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "77856144",
+                                        "name": "David Blankenhorn",
+                                        "url": "https://www.the-american-interest.com/v/david-blankenhorn/"
+                                    }
+                                ],
+                                "datePublished": "2019-08-28 14:40:02",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTg5MzEwODkxNF8qXzE1Nzk1NjcwMTc=",
+                        "node": {
+                            "url": "https://lareviewofbooks.org/article/the-secret-history-of-dune/",
+                            "_createdAt": 1567461007,
+                            "_updatedAt": 1579567017,
+                            "id": "1893108914",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567017,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Secret History of Dune",
+                                "itemId": "1893108914",
+                                "resolvedId": "1893108914",
+                                "resolvedUrl": "https://lareviewofbooks.org/article/the-secret-history-of-dune/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Los Angeles Review of Books"
+                                },
+                                "excerpt": "FRANK HERBERT’S Dune (1965) is a science-fiction classic in part because it’s such brilliant pastiche.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://dev.lareviewofbooks.org/wp-content/uploads/2017/09/thesabresofparadise.jpeg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://lareviewofbooks.org/article/the-secret-history-of-dune/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "75655461",
+                                        "name": "Will Collins",
+                                        "url": "https://lareviewofbooks.org/contributor/will-collins"
+                                    }
+                                ],
+                                "datePublished": "2017-09-16 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcxNTY3MjA3NF8qXzE1Nzk1NjcwMjA=",
+                        "node": {
+                            "url": "https://blog.getdbt.com/how-to-review-an-analytics-pull-request/",
+                            "_createdAt": 1567707729,
+                            "_updatedAt": 1579567020,
+                            "id": "2715672074",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567020,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to review an analytics pull request",
+                                "itemId": "2715672074",
+                                "resolvedId": "2715672074",
+                                "resolvedUrl": "https://blog.getdbt.com/how-to-review-an-analytics-pull-request/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.getdbt.com"
+                                },
+                                "excerpt": "Version control is a critical part of the software engineering workflow—it’s impossible to produce high quality code by an even moderately-sized team without a strong code review processes in place.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://lh3.googleusercontent.com/APRaqj2PsgF4mC5FIKQX8zyE18lqHv5hbmurQ5At_JYv8pl0gqwTaJECeNUtYrGL3bV0FqCLq2YbdAdKGIGZU-Cdew7SNhCELY4K9p8uMTK4guhxwZ6Lu-4lq_VRy_uf1YpH1GIA",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://lh3.googleusercontent.com/QFFIwqs6V08Fo_MwAOHK_H6vQgtCKhRurUC1SgZDpWXzG5sLAPtH7UzdiJJy8cz0hi0w23NPKSOggO2bZD2xIg-8lJ0jtsnZ7wGgpA59T_g8hYaqBWyAKia7IPO_8uuEohZg0WZx",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://lh3.googleusercontent.com/8r6DFJPNe9iWVc62dZjzY12nFnUSA5r-W30lPrTwliSvf0G4x2Fu1yJNui9sYQ4yETPOKNdO7wEjWmO1rv1-99_ECVS1SaxOW_KuVBH0LXT8SFciPHVaWFtE3O-MBfkH9BHK-4N7",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://blog.getdbt.com/content/images/2019/09/Screen-Shot-2019-09-04-at-2.14.32-PM-1.png",
+                                "timeToRead": 8,
+                                "givenUrl": "https://blog.getdbt.com/how-to-review-an-analytics-pull-request/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "131008850",
+                                        "name": "Erin Vaughan.",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-09-05 07:46:01",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcxNDM4OTE3OV8qXzE1Nzk1NjcwMzI=",
+                        "node": {
+                            "url": "https://bostonreview.net/science-nature/tim-maudlin-why-world",
+                            "_createdAt": 1567713000,
+                            "_updatedAt": 1579567032,
+                            "id": "2714389179",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567032,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Why of the World",
+                                "itemId": "2714389179",
+                                "resolvedId": "2714389179",
+                                "resolvedUrl": "https://bostonreview.net/science-nature/tim-maudlin-why-world",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Boston Review"
+                                },
+                                "excerpt": "Allured by the promise of Big Data, science has shortchanged causal explanation in favor of data-driven prediction. But ultimately we must ask why. Allured by the promise of Big Data, science has shortchanged causal explanation in favor of data-driven prediction. But ultimately we must ask why.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://bostonreview.net/sites/default/files/6986632026_654cf71865_o.jpg",
+                                "timeToRead": 22,
+                                "givenUrl": "https://bostonreview.net/science-nature/tim-maudlin-why-world",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "89874975",
+                                        "name": "Tim Maudlin",
+                                        "url": "https://bostonreview.net/author/tim-maudlin"
+                                    }
+                                ],
+                                "datePublished": "2019-09-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTg1ODUwODE1MV8qXzE1Nzk1NjY4Mjk=",
+                    "endCursor": "MjcxNDM4OTE3OV8qXzE1Nzk1NjcwMzI="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

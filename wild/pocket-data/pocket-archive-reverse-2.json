@@ -1,0 +1,1786 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTI0NzM4MTc2NV8qXzE0NjIwMzIxMzc=",
+                        "node": {
+                            "url": "http://www.fastcodesign.com/3058589/how-an-mit-data-viz-guru-is-cracking-open-cryptic-government-data",
+                            "_createdAt": 1461587143,
+                            "_updatedAt": 1462034725,
+                            "id": "1247381765",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032137,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2251312149",
+                                "resolvedId": "2251312149",
+                                "resolvedUrl": "https://www.fastcompany.com/co-design",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Fast Company"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.fastcodesign.com/3058589/how-an-mit-data-viz-guru-is-cracking-open-cryptic-government-data",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MTE2Mzc4MF8qXzE0NjIwMzIxNDQ=",
+                        "node": {
+                            "url": "http://arstechnica.com/information-technology/2016/03/to-sql-or-nosql-thats-the-database-question/",
+                            "_createdAt": 1461066569,
+                            "_updatedAt": 1462034725,
+                            "id": "1241163780",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032144,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "To SQL or NoSQL? That’s the database question",
+                                "itemId": "1241163780",
+                                "resolvedId": "1241163780",
+                                "resolvedUrl": "https://arstechnica.com/information-technology/2016/03/to-sql-or-nosql-thats-the-database-question/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Ars Technica"
+                                },
+                                "excerpt": "Poke around the infrastructure of any startup website or mobile app these days, and you're bound to find something other than a relational database doing much of the heavy lifting. Take, for example, the Boston-based startup Wanderu.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "We're talking a slightly higher level of entanglement, here.",
+                                        "credit": "Getty Images",
+                                        "height": 385,
+                                        "imageId": 1,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/Screen-Shot-2016-03-29-at-3.19.56-PM-640x385.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 360,
+                                        "imageId": 2,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/sqlvnosql.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Recognize this elephant?",
+                                        "credit": "Hadoop",
+                                        "height": 262,
+                                        "imageId": 3,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/hadoop.png",
+                                        "width": 540
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 360,
+                                        "imageId": 4,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/hadoop-1.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / When you search for \"database,\" expect similar results.",
+                                        "credit": "Getty Images",
+                                        "height": 365,
+                                        "imageId": 5,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/Screen-Shot-2016-03-29-at-3.19.43-PM.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / Bob Wiederhold of Couchbase.",
+                                        "credit": "Couchbase",
+                                        "height": 455,
+                                        "imageId": 6,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/Couchbase-CEO-Bob-Wiederhold.jpeg",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/03/Screen-Shot-2016-03-29-at-3.19.56-PM-640x385.png",
+                                "timeToRead": 27,
+                                "givenUrl": "http://arstechnica.com/information-technology/2016/03/to-sql-or-nosql-thats-the-database-question/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152183820",
+                                        "name": "Lisa Vaas",
+                                        "url": "https://arstechnica.com/author/ars-staff/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-30 07:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1NTE0NDg2OF8qXzE0NjIwMzIxNDg=",
+                        "node": {
+                            "url": "https://medium.com/@novakkm/the-purpose-of-platforms-in-data-science-965e2124edf8",
+                            "_createdAt": 1461066535,
+                            "_updatedAt": 1462034725,
+                            "id": "1255144868",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032148,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Purpose of Platforms in Data Science",
+                                "itemId": "1255144868",
+                                "resolvedId": "1255144868",
+                                "resolvedUrl": "https://medium.com/@novakkm/the-purpose-of-platforms-in-data-science-965e2124edf8",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Much has been written and discussed about the field of data science and its role in industry; what it is specifically, how to become a practitioner, and the relative attractiveness of the field.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/0*WdWMebDPB7rNTM1f.jpg",
+                                        "width": 28
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "https://medium.com/@novakkm/the-purpose-of-platforms-in-data-science-965e2124edf8",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "48571711",
+                                        "name": "kevin novak",
+                                        "url": "https://medium.com/@novakkm"
+                                    }
+                                ],
+                                "datePublished": "2016-04-12 13:15:21",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MDI1MDk3NV8qXzE0NjIwMzIxNDk=",
+                        "node": {
+                            "url": "https://medium.com/@robinalperstein/on-becoming-anti-bernie-ee87943ae699#.7fjf6jw45",
+                            "_createdAt": 1461066467,
+                            "_updatedAt": 1462034725,
+                            "id": "1260250975",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032149,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "On Becoming Anti-Bernie",
+                                "itemId": "1496360499",
+                                "resolvedId": "1496360499",
+                                "resolvedUrl": "https://medium.com/voluble/on-becoming-anti-bernie-ee87943ae699",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "I started out liking Bernie Sanders, though I leaned slightly toward Hillary Clinton. Yet I’ve come to the point where I can barely stand his face, and I just want him to stop jabbing his finger as he brays the same slogans in every single venue, over and over.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 49,
+                                "givenUrl": "https://medium.com/@robinalperstein/on-becoming-anti-bernie-ee87943ae699#.7fjf6jw45",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "48797125",
+                                        "name": "Robin Alperstein",
+                                        "url": "https://medium.com/@robinalperstein"
+                                    }
+                                ],
+                                "datePublished": "2016-11-27 14:43:37",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NjM3MTIyN18qXzE0NjIwMzIxOTc=",
+                        "node": {
+                            "url": "http://jacquesmattheij.com/the-problem-with-evs",
+                            "_createdAt": 1459789036,
+                            "_updatedAt": 1462034725,
+                            "id": "1246371227",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032197,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Problem With Electric Vehicles · Jacques Mattheij",
+                                "itemId": "1246371227",
+                                "resolvedId": "1246371227",
+                                "resolvedUrl": "http://jacquesmattheij.com/the-problem-with-evs/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "jacquesmattheij.com"
+                                },
+                                "excerpt": "Electric Vehicles (EVs) are all the rage these days. They’re wicked fast off the mark, they are nearly silent at low speeds and they are perceived as ‘green’, what better way to make yourself feel good than to get an Electric Vehicle as your next car.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 13,
+                                "givenUrl": "http://jacquesmattheij.com/the-problem-with-evs",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1415071",
+                                        "name": "Jacques Mattheij",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIzMzU1Nzg4M18qXzE0NjIwMzIxOTg=",
+                        "node": {
+                            "url": "http://www.jamalmoir.com/2016/03/learn-to-mock-in-python.html",
+                            "_createdAt": 1460116526,
+                            "_updatedAt": 1462034725,
+                            "id": "1233557883",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032198,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1233557883",
+                                "resolvedId": "1233557883",
+                                "resolvedUrl": "http://www.jamalmoir.com/2016/03/learn-to-mock-in-python.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "jamalmoir.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.jamalmoir.com/2016/03/learn-to-mock-in-python.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyOTQwMTc2OV8qXzE0NjIwMzIyMTE=",
+                        "node": {
+                            "url": "http://www.talaikis.com/recurrent-learning-rl-artificial-neural-networks-ann-for-trading/",
+                            "_createdAt": 1459770045,
+                            "_updatedAt": 1462034726,
+                            "id": "1229401769",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032211,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3421870769",
+                                "resolvedId": "3421870769",
+                                "resolvedUrl": "https://talaikis.com/404",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "talaikis.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.talaikis.com/recurrent-learning-rl-artificial-neural-networks-ann-for-trading/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MTY3ODE4NF8qXzE0NjIwMzIyMzQ=",
+                        "node": {
+                            "url": "https://charliehebdo.fr/en/edito/how-did-we-end-up-here/",
+                            "_createdAt": 1460325086,
+                            "_updatedAt": 1462034726,
+                            "id": "1241678184",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032234,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1241678184",
+                                "resolvedId": "1241678184",
+                                "resolvedUrl": "https://charliehebdo.fr/en/edito/how-did-we-end-up-here/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "charliehebdo.fr"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://charliehebdo.fr/en/edito/how-did-we-end-up-here/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NzAwMzA5NV8qXzE0NjIwMzIyMzk=",
+                        "node": {
+                            "url": "http://erikbern.com/2016/04/04/nyc-subway-math.html",
+                            "_createdAt": 1460137436,
+                            "_updatedAt": 1462034726,
+                            "id": "1247003095",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032239,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "NYC subway math",
+                                "itemId": "1247003095",
+                                "resolvedId": "1247003095",
+                                "resolvedUrl": "https://erikbern.com/2016/04/04/nyc-subway-math.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "erikbern.com"
+                                },
+                                "excerpt": "Apparently MTA (the company running the NYC subway) has a real-time API. My fascination for the subway takes autistic proportions and so obviously I had to analyze some of the data. The documentation is somewhat terrible, but here's some relevant code for how to use the API:",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://erikbern.com/assets/1_trips.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://erikbern.com/assets/time_between_arrivals.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://erikbern.com/assets/time_to_next_arrival.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://erikbern.com/assets/time_to_arrival_by_line.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://erikbern.com/assets/time_to_arrival_by_time_of_day.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://erikbern.com/assets/time_to_arrival_percentiles.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://erikbern.com/assets/1_trips.png",
+                                "timeToRead": 6,
+                                "givenUrl": "http://erikbern.com/2016/04/04/nyc-subway-math.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "11479298",
+                                        "name": "Erik Bernhardsson",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIzNDMwMjk2Ml8qXzE0NjIwMzIyNDM=",
+                        "node": {
+                            "url": "http://stackoverflow.com/questions/20209415/init-takes-from-1-to-3-positional-arguments-but-4-were-given",
+                            "_createdAt": 1458755483,
+                            "_updatedAt": 1462034726,
+                            "id": "1234302962",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032243,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "__init__() takes from 1 to 3 positional arguments but 4 were given",
+                                "itemId": "1234302962",
+                                "resolvedId": "1234302962",
+                                "resolvedUrl": "https://stackoverflow.com/questions/20209415/init-takes-from-1-to-3-positional-arguments-but-4-were-given",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Stack Overflow"
+                                },
+                                "excerpt": "The error is occuring when I create the triangle object t1 in the main function: init() takes from 1 to 3 positional arguments but 4 were given... You need to change __int__ to __init__, and only pass super() self.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 32,
+                                        "imageId": 1,
+                                        "src": "https://i.stack.imgur.com/DbYlx.jpg?s=64&g=1",
+                                        "width": 32
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 32,
+                                        "imageId": 2,
+                                        "src": "https://i.stack.imgur.com/9hvXN.jpg?s=64&g=1",
+                                        "width": 32
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+                                "timeToRead": 3,
+                                "givenUrl": "http://stackoverflow.com/questions/20209415/init-takes-from-1-to-3-positional-arguments-but-4-were-given",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "85383894",
+                                        "name": "Hugh Craig",
+                                        "url": "https://stackoverflow.com/users/2918229/hugh-craig"
+                                    },
+                                    {
+                                        "id": "99812496",
+                                        "name": "tyteen4a03",
+                                        "url": "https://stackoverflow.com/users/1049833/tyteen4a03"
+                                    }
+                                ],
+                                "datePublished": "2013-11-26 07:16:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwNjg0OTUzM18qXzE0NjIwMzIyNDY=",
+                        "node": {
+                            "url": "http://www.theatlantic.com/business/archive/2016/02/barter-society-myth/471051/",
+                            "_createdAt": 1458525976,
+                            "_updatedAt": 1462034726,
+                            "id": "1206849533",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032246,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Myth of the Barter Economy",
+                                "itemId": "1206849533",
+                                "resolvedId": "1206849533",
+                                "resolvedUrl": "https://www.theatlantic.com/business/archive/2016/02/barter-society-myth/471051/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Adam Smith said that quid-pro-quo exchange systems preceded economies based on currency, but there’s no evidence that he was right. Imagine life before money. Say, you made bread but you needed meat.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Wikicommons / Imbre / Shutterstock / Paul Spella / The Atlantic",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/9ByA3GRgkZ0kI4haeZ3iYX8wB4s=/0x104:2000x1229/960x540/media/img/mt/2016/11/EconomicMyth1/original.jpg",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 4,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/mRv1KkBXjh6s9pYc7qXrhkFrGhI=/0x141:1999x1182/1200x625/media/img/mt/2016/11/EconomicMyth1/original.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://www.theatlantic.com/business/archive/2016/02/barter-society-myth/471051/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "61197881",
+                                        "name": "Ilana E. Strauss",
+                                        "url": "https://www.theatlantic.com/author/ilana-e-strauss/"
+                                    }
+                                ],
+                                "datePublished": "2016-02-26 05:53:13",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIxMzU3MjA5OV8qXzE0NjIwMzIyNDg=",
+                        "node": {
+                            "url": "https://medium.com/@kvnwbbr/diving-into-akka-streams-2770b3aeabb0",
+                            "_createdAt": 1458525724,
+                            "_updatedAt": 1462034726,
+                            "id": "1213572099",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032248,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Diving into Akka Streams",
+                                "itemId": "1535112943",
+                                "resolvedId": "1535112943",
+                                "resolvedUrl": "https://blog.redelastic.com/diving-into-akka-streams-2770b3aeabb0",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.redelastic.com"
+                                },
+                                "excerpt": "Streaming is the ultimate game changer for data-intensive systems. In a world where every second counts, the batch jobs of yesteryear with overnight processing times measured in hours are nothing but an expense. Per-event streaming puts the emphasis on recent data that can be actioned right now.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/96/96/1*IbtQcY2KXDpqm3iBoC50gw.jpeg",
+                                        "width": 48
+                                    },
+                                    {
+                                        "caption": "A fast data architecture with the Lightbend Reactive Platform, Spark, and Kafka.",
+                                        "credit": "",
+                                        "height": 900,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/2400/1*-WZph-9a-_xT3OQGSMud5Q.png",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 471,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/3198/1*Fq_2-ykACYd7-Z6cE1WcMw.png",
+                                        "width": 1599
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 705,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/4584/1*oQdipvntGFkQLnAypQzx2Q.png",
+                                        "width": 2292
+                                    },
+                                    {
+                                        "caption": "A basic linear flow.",
+                                        "credit": "",
+                                        "height": 198,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/2190/1*HJRZjHOSZvKZY5mHW5-4LQ.png",
+                                        "width": 1095
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 939,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/2400/1*T1X3SDiwL8nUtPh_OLb0Tw.png",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1095,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/2442/1*u3j1bwwpfAVHuiyH8onx8Q.png",
+                                        "width": 1221
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1563,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/4668/1*W9vfU9Su8NkHVz2QFHMozg.png",
+                                        "width": 2334
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*-WZph-9a-_xT3OQGSMud5Q.png",
+                                "timeToRead": 10,
+                                "givenUrl": "https://medium.com/@kvnwbbr/diving-into-akka-streams-2770b3aeabb0",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "18117610",
+                                        "name": "Kevin Webber",
+                                        "url": "https://medium.com/@kvnwbbr"
+                                    }
+                                ],
+                                "datePublished": "2016-12-25 15:58:31",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyNTMxNjUwNV8qXzE0NjIwMzIyNjM=",
+                        "node": {
+                            "url": "http://softwareengineeringdaily.com/2016/03/14/state-programming-jeff-atwood/",
+                            "_createdAt": 1458172401,
+                            "_updatedAt": 1462034726,
+                            "id": "1225316505",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032263,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "State of Programming with Jeff Atwood",
+                                "itemId": "1225316505",
+                                "resolvedId": "1225316505",
+                                "resolvedUrl": "https://softwareengineeringdaily.com/2016/03/14/state-programming-jeff-atwood/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "softwareengineeringdaily.com"
+                                },
+                                "excerpt": "Stack Overflow is used by developers to find out how to build software. Stack Overflow is both a tool and a community, and today’s guest Jeff Atwood has made a career out of building tools and communities. As the co-founder of Stack Exchange and Discourse.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 175,
+                                        "imageId": 1,
+                                        "src": "https://i0.wp.com/softwaredaily.wpengine.com/wp-content/uploads/2016/03/jeff-atwood.jpg?resize=175%2C175",
+                                        "width": 175
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 130,
+                                        "imageId": 2,
+                                        "src": "https://i0.wp.com/softwaredaily.wpengine.com/wp-content/uploads/2016/03/algolia-logo.jpg?resize=260%2C130",
+                                        "width": 260
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 130,
+                                        "imageId": 3,
+                                        "src": "https://i2.wp.com/softwaredaily.wpengine.com/wp-content/uploads/2016/03/toptal-logo.png?resize=260%2C130",
+                                        "width": 260
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i1.wp.com/softwareengineeringdaily.com/wp-content/uploads/2016/03/coding-horror.png?fit=720%2C200&ssl=1",
+                                "timeToRead": null,
+                                "givenUrl": "http://softwareengineeringdaily.com/2016/03/14/state-programming-jeff-atwood/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "58986474",
+                                        "name": "Pranay",
+                                        "url": "https://softwareengineeringdaily.com/author/pranay/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-14 19:37:16",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwNTgzNzAyM18qXzE0NjIwMzIyNjg=",
+                        "node": {
+                            "url": "https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.7duh8jxzf",
+                            "_createdAt": 1457615079,
+                            "_updatedAt": 1462034726,
+                            "id": "1205837023",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032268,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Scaling Knowledge at Airbnb",
+                                "itemId": "1205837023",
+                                "resolvedId": "1205837023",
+                                "resolvedUrl": "https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "A responsibility for the Data team at Airbnb is to scale the ability to make decisions using data.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*Nst9mLu02tSxQCvkAo3L0A.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1600/1*cNc7N42Fbt5YHcZIxD96zg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Figure 1 — A screenshot of the knowledge feed showing the summary cards for two posts.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/1*MPdpSg36RzBeinrL0wIGwQ.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Figure 2 — An example of a post examining gap days in host acceptance decision making.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1600/1*oib1FYv2tb3vFBsbdKIMKg.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*Nst9mLu02tSxQCvkAo3L0A.png",
+                                "timeToRead": 7,
+                                "givenUrl": "https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091#.7duh8jxzf",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "47940528",
+                                        "name": "AirbnbEng",
+                                        "url": "https://medium.com/@airbnbeng"
+                                    }
+                                ],
+                                "datePublished": "2016-04-04 12:33:17",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwMzUxNTI4Ml8qXzE0NjIwMzIyNzA=",
+                        "node": {
+                            "url": "https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.eyr9ie2c8",
+                            "_createdAt": 1456327719,
+                            "_updatedAt": 1462034726,
+                            "id": "1203515282",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032270,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Data Infrastructure at Airbnb",
+                                "itemId": "1203515282",
+                                "resolvedId": "1203515282",
+                                "resolvedUrl": "https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "At Airbnb we promote a data informed culture and use data as a key input for making decisions. Tracking metrics, validating hypotheses through experimentation, building machine learning models, and mining for deep business insights are all critical to our moving fast and moving smart.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/96/96/1*PrgppbVAePgtuFs2XZa8Ig.jpeg",
+                                        "width": 48
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 467,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1600/1*bGP9dJvrz0cAUvePplbpbQ.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 513,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/2000/1*-sBaf7m2TR4qEqVoicIbSA.png",
+                                        "width": 1000
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1080/1*bGP9dJvrz0cAUvePplbpbQ.png",
+                                "timeToRead": 11,
+                                "givenUrl": "https://medium.com/airbnb-engineering/data-infrastructure-at-airbnb-8adfb34f169c#.eyr9ie2c8",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "47940528",
+                                        "name": "AirbnbEng",
+                                        "url": "https://medium.com/@airbnbeng"
+                                    }
+                                ],
+                                "datePublished": "2016-04-04 12:33:29",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwOTU1NjI0Ml8qXzE0NjIwMzIyNzY=",
+                        "node": {
+                            "url": "https://medium.com/@cameronp/functional-programming-is-not-weird-you-just-need-some-new-patterns-7a9bf9dc2f77",
+                            "_createdAt": 1458525518,
+                            "_updatedAt": 1462034726,
+                            "id": "1209556242",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032276,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Functional Programming is not weird: you just need some new patterns",
+                                "itemId": "1209556242",
+                                "resolvedId": "1209556242",
+                                "resolvedUrl": "https://medium.com/@cameronp/functional-programming-is-not-weird-you-just-need-some-new-patterns-7a9bf9dc2f77",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Writing functional code is often backwards and can feel more like solving puzzles than like explaining a process to the computer. In functional languages I often know what I want to say, but it feels like I have to solve a puzzle in order to express it to the language.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/0*-zj6RDHrdxrh5uYQ.png",
+                                        "width": 28
+                                    },
+                                    {
+                                        "caption": "This was me a year ago",
+                                        "credit": "xkcd.com",
+                                        "height": 305,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1600/1*FqUSf96rhnS-38hDNvKxZQ.png",
+                                        "width": 256
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/256/1*FqUSf96rhnS-38hDNvKxZQ.png",
+                                "timeToRead": 10,
+                                "givenUrl": "https://medium.com/@cameronp/functional-programming-is-not-weird-you-just-need-some-new-patterns-7a9bf9dc2f77",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "45232925",
+                                        "name": "Cameron Price",
+                                        "url": "https://medium.com/@cameronp"
+                                    }
+                                ],
+                                "datePublished": "2016-06-30 13:49:36",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyNTM5MjAzMl8qXzE0NjIwMzIyODM=",
+                        "node": {
+                            "url": "http://www.fastcoexist.com/3056483/welcome-to-the-post-work-economy",
+                            "_createdAt": 1458525576,
+                            "_updatedAt": 1462034726,
+                            "id": "1225392032",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032283,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3921743961",
+                                "resolvedId": "3921743961",
+                                "resolvedUrl": "https://getpocket.com:443/soWxLX?cta=1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.fastcoexist.com/3056483/welcome-to-the-post-work-economy",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyMTY1NjQ5N18qXzE0NjIwMzIyOTA=",
+                        "node": {
+                            "url": "http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html",
+                            "_createdAt": 1460325255,
+                            "_updatedAt": 1462034726,
+                            "id": "1221656497",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462032290,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "10 Lessons from 10 Years of Amazon Web Services",
+                                "itemId": "1221656497",
+                                "resolvedId": "1221656497",
+                                "resolvedUrl": "https://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "allthingsdistributed.com"
+                                },
+                                "excerpt": "The epoch of AWS is the launch of Amazon S3 on March 14, 2006, now almost 10 years ago.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.allthingsdistributed.com/images/10yrsseed.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "4661375",
+                                        "name": "Dr. Werner Vogels",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-03-11 08:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0NjMzNzU1MV8qXzE0NjIxNTc0NzQ=",
+                        "node": {
+                            "url": "http://thenextweb.com/us/2016/04/04/mits-new-visualization-tool-is-a-goldmine-for-data-nerds/",
+                            "_createdAt": 1461204228,
+                            "_updatedAt": 1462158801,
+                            "id": "1246337551",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462157474,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "MIT’s new visualization tool is a goldmine for data nerds",
+                                "itemId": "3368423267",
+                                "resolvedId": "3368423267",
+                                "resolvedUrl": "https://thenextweb.com/news/mits-new-visualization-tool-is-a-goldmine-for-data-nerds",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Next Web"
+                                },
+                                "excerpt": "Love impressing your pals with all there is to know about computer science? Or perhaps state geography is more your thing?",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 523,
+                                        "imageId": 1,
+                                        "src": "https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/Screen-Shot-2016-04-04-at-14.19.33.png",
+                                        "width": 1291
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 140,
+                                        "imageId": 2,
+                                        "src": "https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/04/Screen-Shot-2016-04-04-at-14.21.53.png",
+                                        "width": 261
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F04%2FScreen-Shot-2016-04-04-at-14.05.30.png&signature=eee45534961d15ad9d2ab1285400d265",
+                                "timeToRead": null,
+                                "givenUrl": "http://thenextweb.com/us/2016/04/04/mits-new-visualization-tool-is-a-goldmine-for-data-nerds/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1049647",
+                                        "name": "Kirsty Styles",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-04 10:52:54",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2MjA5ODkyOF8qXzE0NjIxOTQ5ODA=",
+                        "node": {
+                            "url": "https://www.playboy.com/articles/playboy-interview-ray-kurzweil",
+                            "_createdAt": 1461813782,
+                            "_updatedAt": 1462195226,
+                            "id": "1262098928",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462194980,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1262098928",
+                                "resolvedId": "1262098928",
+                                "resolvedUrl": "http://www.playboy.com/articles/playboy-interview-ray-kurzweil",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "playboy.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.playboy.com/articles/playboy-interview-ray-kurzweil",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MDA4ODY3MV8qXzE0NjIyMjg5NzI=",
+                        "node": {
+                            "url": "http://ryanbigg.com/2016/04/hiring-juniors/",
+                            "_createdAt": 1462193437,
+                            "_updatedAt": 1462228973,
+                            "id": "1270088671",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462228972,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1270088671",
+                                "resolvedId": "1270088671",
+                                "resolvedUrl": "http://ryanbigg.com/2016/04/hiring-juniors/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ryanbigg.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://ryanbigg.com/2016/04/hiring-juniors/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MDM2NjIxNF8qXzE0NjIzMTU3MTA=",
+                        "node": {
+                            "url": "http://highscalability.com/blog/2016/4/27/the-platform-advantage-of-amazon-facebook-and-google.html",
+                            "_createdAt": 1462278680,
+                            "_updatedAt": 1462315711,
+                            "id": "1270366214",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462315710,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Platform Advantage of Amazon, Facebook, and Google",
+                                "itemId": "1270366214",
+                                "resolvedId": "1270366214",
+                                "resolvedUrl": "http://highscalability.com/blog/2016/4/27/the-platform-advantage-of-amazon-facebook-and-google.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "highscalability"
+                                },
+                                "excerpt": "Where’s the mag­ic? [Amazon] The databas­ing and stream­ing and sync­ing in­fras­truc­ture we build on is pret­ty slick, but that’s not the se­cret. The man­age­ment tools are nifty, too; but that’s not it ei­ther.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://c2.staticflickr.com/2/1581/26677754305_32384b3d09_o.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://c2.staticflickr.com/2/1454/26610059561_4829b839ed_o.png?__SQUARESPACE_CACHEVERSION=1461769786475",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://c2.staticflickr.com/2/1581/26677754305_32384b3d09_o.png",
+                                "timeToRead": 4,
+                                "givenUrl": "http://highscalability.com/blog/2016/4/27/the-platform-advantage-of-amazon-facebook-and-google.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "5143776",
+                                        "name": "Todd Hoff",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-27 08:56:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MzA0NjAzN18qXzE0NjIzMTYyMjA=",
+                        "node": {
+                            "url": "http://www.newyorker.com/tech/elements/claude-shannon-the-father-of-the-information-age-turns-1100100",
+                            "_createdAt": 1462278661,
+                            "_updatedAt": 1462316222,
+                            "id": "1273046037",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462316220,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Claude Shannon, the Father of the Information Age, Turns 1100100",
+                                "itemId": "1273046037",
+                                "resolvedId": "1273046037",
+                                "resolvedUrl": "http://www.newyorker.com/tech/elements/claude-shannon-the-father-of-the-information-age-turns-1100100",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "Twelve years ago, Robert McEliece, a mathematician and engineer at Caltech, won the Claude E. Shannon Award, the highest honor in the field of information theory. During his acceptance lecture, at an international symposium in Chicago, he discussed the prize’s namesake, who died in 2001.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.f1893bac6dafe13d6d5bad671a5bee2345efa44d.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "A hundred years after his birth, Claude Shannon’s fingerprints are on every electronic device we own.",
+                                        "credit": "Photograph  Alfred Eisenstaedt / The LIFE Picture Collection / Getty",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/photos/5909765cc14b3c606c1089f4/master/w_2560%2Cc_limit/Roberts-Claude-Shannon.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.6e34c81346bc43475ffd572e6c2eb3e125927148.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/photos/590972211c7a8e33fb38eebb/4:3/w_480%2Cc_limit/Munroe-space-doctor.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/5909764e8b51cf59fc4231c9/4:3/w_480%2Cc_limit/Roberts-Hundred-Twenty-Sided-Die.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/590969821c7a8e33fb38dbce/4:3/w_480%2Cc_limit/Lin-C%2525C3%2525A9dric-Villani.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1447454342/thenewyorker_annals-of-ideas-the-doomsday-invention.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.f915b516b6ca9c0c2a9bdf9b749519365b2b2e4a.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5909765cc14b3c606c1089f4/16:9/w_1280,c_limit/Roberts-Claude-Shannon.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "http://www.newyorker.com/tech/elements/claude-shannon-the-father-of-the-information-age-turns-1100100",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "72409726",
+                                        "name": "Siobhan Roberts",
+                                        "url": "https://www.newyorker.com/contributors/siobhan-roberts"
+                                    }
+                                ],
+                                "datePublished": "2016-04-30 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2OTMzMzYzOV8qXzE0NjIzMTY0MzY=",
+                        "node": {
+                            "url": "http://www.businessinsider.com/how-to-be-more-productive-throughout-the-day-2016-4",
+                            "_createdAt": 1462278627,
+                            "_updatedAt": 1462316437,
+                            "id": "1269333639",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462316436,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "The ultimate guide to maximizing your productivity throughout the day",
+                                "itemId": "1269333639",
+                                "resolvedId": "1269333639",
+                                "resolvedUrl": "http://www.businessinsider.com/how-to-be-more-productive-throughout-the-day-2016-4",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Business Insider"
+                                },
+                                "excerpt": "Read in app",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i.insider.com/571a689752bcd05b008be6d0?width=1200&format=jpeg",
+                                "timeToRead": null,
+                                "givenUrl": "http://www.businessinsider.com/how-to-be-more-productive-throughout-the-day-2016-4",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "19627",
+                                        "name": "Jacquelyn Smith",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-04-27 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI0MTk4ODY5MV8qXzE0NjIzNTQxNTM=",
+                        "node": {
+                            "url": "http://ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface",
+                            "_createdAt": 1462278527,
+                            "_updatedAt": 1462359600,
+                            "id": "1241988691",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1462354153,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Chat bots, conversation and AI as an interface",
+                                "itemId": "1241988691",
+                                "resolvedId": "1241988691",
+                                "resolvedUrl": "https://www.ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Benedict Evans"
+                                },
+                                "excerpt": "Chat bots tap into two very current preoccupations. On one hand, the hope that they can actually work is a reflection of the ongoing explosion of AI, and on the other, they offer a way to reach users without having to get them to install an app.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.squarespace-cdn.com/content/v1/50363cf324ac8e905e7df861/1459386338934-R0AQXPNSUSQUFTK03S5H/ke17ZwdGBToddI8pDm48kI14nnGlDQI6yDzUXFbC_Q4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcEQQUxZGjh9qqABArUelG8pi845ZDXN896XHpLI7YMDY4u-s40tNldtY9X0mKb66Y/image-asset.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/56fc77e21d07c0c07dec5016/1459386365255/?format=1500w",
+                                "timeToRead": 8,
+                                "givenUrl": "http://ben-evans.com/benedictevans/2016/3/30/chat-bots-conversation-and-ai-as-an-interface",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "116009647",
+                                        "name": "Benedict Evans",
+                                        "url": "https://www.ben-evans.com/benedictevans?author=50363cf324ac8e905e7df863"
+                                    }
+                                ],
+                                "datePublished": "2016-03-31 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI1OTg5MTI0NF8qXzE0NjMwNjk0Njc=",
+                        "node": {
+                            "url": "http://henrikwarne.com/2016/04/17/more-good-programming-quotes/",
+                            "_createdAt": 1462278582,
+                            "_updatedAt": 1463071537,
+                            "id": "1259891244",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1463069467,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "More Good Programming Quotes",
+                                "itemId": "1259891244",
+                                "resolvedId": "1259891244",
+                                "resolvedUrl": "https://henrikwarne.com/2016/04/17/more-good-programming-quotes/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "henrikwarne.com"
+                                },
+                                "excerpt": "In my previous post, The Wisdom of Programming Quotes, I called out some quotes that look good on the surface, but turn out to promote the wrong ideas about software development. I have also posted some of my favorite programming qoutes in the past. But I thought I would list a few more good ones.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://s0.wp.com/i/blank.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "http://henrikwarne.com/2016/04/17/more-good-programming-quotes/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-04-17 06:47:57",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2ODM3OTk2MV8qXzE0NjMwNjk2Mjg=",
+                        "node": {
+                            "url": "https://m.signalvnoise.com/feature-flags-e09fd463183f?gi=e09106155e6d",
+                            "_createdAt": 1462278284,
+                            "_updatedAt": 1463071537,
+                            "id": "1268379961",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1463069628,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1268379961",
+                                "resolvedId": "1268379961",
+                                "resolvedUrl": "https://m.signalvnoise.com/feature-flags-e09fd463183f?gi=e09106155e6d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Basecamp"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://m.signalvnoise.com/feature-flags-e09fd463183f?gi=e09106155e6d",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI2NDE0OTc3OV8qXzE0NjMwNjk3MzU=",
+                        "node": {
+                            "url": "http://101.datascience.community/2016/04/21/tips-for-future-data-scientists/",
+                            "_createdAt": 1462278247,
+                            "_updatedAt": 1463071537,
+                            "id": "1264149779",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1463069735,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Tips for Future Data Scientists",
+                                "itemId": "3328256341",
+                                "resolvedId": "3328256341",
+                                "resolvedUrl": "https://ryanswanstrom.com/2016/04/21/tips-for-future-data-scientists/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ryanswanstrom.com"
+                                },
+                                "excerpt": "While preparing a for a recent talk I gave to an undergraduate audience, I started compiling some tips for future data scientists. The tips are intended for students (undergraduate and graduate) or anyone else planning to enter the field of data science. What follows is a summary of the many tips.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://ryanswanstrom.com/wp-content/uploads/2020/12/RyanSwanstrom-bigBlue.png",
+                                "timeToRead": 2,
+                                "givenUrl": "http://101.datascience.community/2016/04/21/tips-for-future-data-scientists/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "143462591",
+                                        "name": "Ryan Swanstrom",
+                                        "url": "https://ryanswanstrom.com/author/rswanstrom/"
+                                    }
+                                ],
+                                "datePublished": "2020-11-29 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI3MDEzNjg3Nl8qXzE0NjMyNDUzOTI=",
+                        "node": {
+                            "url": "https://platform.sh/2016/04/what-if-git-manage-infrastructure/",
+                            "_createdAt": 1463187549,
+                            "_updatedAt": 1463247742,
+                            "id": "1270136876",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1463245392,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What if you could use Git to manage your whole infrastructure?",
+                                "itemId": "1270136876",
+                                "resolvedId": "1270136876",
+                                "resolvedUrl": "https://platform.sh/2016/04/what-if-git-manage-infrastructure/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "platform.sh"
+                                },
+                                "excerpt": "You’re a cool kid who uses Git to manage the codebase of your applications because it’s convenient! You regularly create exact copies of your entire codebase by running git branch , pull requests to manage code review, use tags or branches to deploy to production.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://platform.sh/2016/04/what-if-git-manage-infrastructure/images/post-cool-kid.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://platform.sh/2016/04/what-if-git-manage-infrastructure/images/post-deployment-jpg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://platform.sh/2016/04/what-if-git-manage-infrastructure/images/post-whaaat.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://platform.sh/2016/04/what-if-git-manage-infrastructure/images/post-shut-up-gif.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://platform.sh/images/meta/facebook_2021.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "https://platform.sh/2016/04/what-if-git-manage-infrastructure/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-05-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI4Mzk1MjY1OF8qXzE0NjMyNDU2ODM=",
+                        "node": {
+                            "url": "http://techcrunch.com/2016/05/10/please-dont-learn-to-code/",
+                            "_createdAt": 1463187529,
+                            "_updatedAt": 1463247742,
+                            "id": "1283952658",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1463245683,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Please don’t learn to code",
+                                "itemId": "1283952658",
+                                "resolvedId": "1283952658",
+                                "resolvedUrl": "https://techcrunch.com/2016/05/10/please-dont-learn-to-code/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "TechCrunch"
+                                },
+                                "excerpt": "There’s an idea that’s been gaining ground in the tech community lately: Everyone should learn to code. But here’s the problem with that idea: Coding is not the new literacy.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=600",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://techcrunch.com/2016/05/10/please-dont-learn-to-code/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "141038088",
+                                        "name": "Basel Farag",
+                                        "url": "https://techcrunch.com/author/"
+                                    }
+                                ],
+                                "datePublished": "2016-05-10 19:00:51",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTI0NzM4MTc2NV8qXzE0NjIwMzIxMzc=",
+                    "endCursor": "MTI4Mzk1MjY1OF8qXzE0NjMyNDU2ODM="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

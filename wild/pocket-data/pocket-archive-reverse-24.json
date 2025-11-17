@@ -1,0 +1,1593 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjQ4MDQwMzEyOV8qXzE1NTk5MDc0OTM=",
+                        "node": {
+                            "url": "https://www.nationalreview.com/2019/02/blackface-controversy-zero-tolerance-retroactive-repudiation/",
+                            "_createdAt": 1549523168,
+                            "_updatedAt": 1559907493,
+                            "id": "2480403129",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907493,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Blackface and the Fine Art of Retroactive Repudiation",
+                                "itemId": "2480403129",
+                                "resolvedId": "2480403129",
+                                "resolvedUrl": "https://www.nationalreview.com/2019/02/blackface-controversy-zero-tolerance-retroactive-repudiation/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "National Review"
+                                },
+                                "excerpt": "The past few months have seen a wave of scandals involving blackface. First there was Megyn Kelly, the news anchor who observed that in her youth it was considered okay to paint your face black so long as it was for a costume. The comment prompted NBC to cancel her show.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 1,
+                                        "src": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/07/Tracey-Lambrechs.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 2,
+                                        "src": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/07/lonely-man-ocean.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 3,
+                                        "src": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/07/Antony-Blinken.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 4,
+                                        "src": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/07/Kristi-Noem.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2019/02/jimmy-kimmel-oscar-host.jpg?fit=1200%2C700&ssl=1",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.nationalreview.com/2019/02/blackface-controversy-zero-tolerance-retroactive-repudiation/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "104816014",
+                                        "name": "Coleman Hughes",
+                                        "url": "https://www.nationalreview.com/author/coleman-hughes/"
+                                    }
+                                ],
+                                "datePublished": "2019-02-06 06:30:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ4MTMyNTc5Nl8qXzE1NTk5MDc0OTY=",
+                        "node": {
+                            "url": "https://www.bloomberg.com/opinion/articles/2019-02-07/eternal-market-patience-offers-eternal-rewards",
+                            "_createdAt": 1549576553,
+                            "_updatedAt": 1559907496,
+                            "id": "2481325796",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907496,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Eternal Market Patience Offers Eternal Rewards",
+                                "itemId": "2481325796",
+                                "resolvedId": "2481325796",
+                                "resolvedUrl": "https://www.bloomberg.com/opinion/articles/2019-02-07/eternal-market-patience-offers-eternal-rewards",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Bloomberg"
+                                },
+                                "excerpt": "To get John Authers’s newsletter delivered directly to your inbox, sign up here. “Genius is eternal patience.” So said Michelangelo, and his comment continues to resonate so strongly that it greeted Bloomberg users Wednesday morning when they signed on to the terminal.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "A saying attributed to Michelangelo holds relevance to markets today.",
+                                        "credit": "Photographer: Pierpaolo Cito/AFP",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Z6fF7qODlA/v1/-1x-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUkbpqY_5bFY/v1/-1x-1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iF9Bhc70WovE/v1/-1x-1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4NWCp4oaMDk/v1/-1x-1.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Z6fF7qODlA/v1/1200x778.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "https://www.bloomberg.com/opinion/articles/2019-02-07/eternal-market-patience-offers-eternal-rewards",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "97527713",
+                                        "name": "John Authers",
+                                        "url": "https://www.bloomberg.com/opinion/authors/AT2bBytfUHQ/john-authers"
+                                    }
+                                ],
+                                "datePublished": "2019-02-06 23:01:18",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ4NTE2NzE0OV8qXzE1NTk5MDc1MDE=",
+                        "node": {
+                            "url": "https://link.medium.com/DJZrihtecU",
+                            "_createdAt": 1549810632,
+                            "_updatedAt": 1559907501,
+                            "id": "2485167149",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907501,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Running Apache Airflow At Lyft",
+                                "itemId": "2427890112",
+                                "resolvedId": "2427890112",
+                                "resolvedUrl": "https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "eng.lyft.com"
+                                },
+                                "excerpt": "ETL is a process to extract data from various raw events, transform them for analysis and load the derived data into a queryable data store.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/96/96/1*6rWvker9exEx1aQP5m9mUw.png",
+                                        "width": 48
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 841,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/2280/1*u6duhZD2J_i1zZ0Txq26Cg.png",
+                                        "width": 1140
+                                    },
+                                    {
+                                        "caption": "the overall system health dashboard for Airflow",
+                                        "credit": "",
+                                        "height": 309,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/3200/0*bn7yiWPNgSeHA_1g",
+                                        "width": 1600
+                                    },
+                                    {
+                                        "caption": "various metrics for the system",
+                                        "credit": "",
+                                        "height": 331,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/3200/0*C3m2PUhlSrSJOAhB",
+                                        "width": 1600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 35,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/2286/0*N2blcqXFnCQRdGRh",
+                                        "width": 1143
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 322,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/962/0*ZfkGpjlYWP7c-mCw",
+                                        "width": 481
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 778,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/2526/0*19td6lxzGgqTN2Il",
+                                        "width": 1263
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1140/1*u6duhZD2J_i1zZ0Txq26Cg.png",
+                                "timeToRead": 10,
+                                "givenUrl": "https://link.medium.com/DJZrihtecU",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "142795676",
+                                        "name": "Tao Feng",
+                                        "url": "https://medium.com/@photoft"
+                                    }
+                                ],
+                                "datePublished": "2020-05-27 12:53:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ4NTAzMDk1Ml8qXzE1NTk5MDc1MDU=",
+                        "node": {
+                            "url": "https://www.wired.com/story/journalism-isnt-dying-its-returning-its-roots/",
+                            "_createdAt": 1549847078,
+                            "_updatedAt": 1559907506,
+                            "id": "2485030952",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907505,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Journalism Isn't Dying. It's Returning to Its Roots",
+                                "itemId": "2485030952",
+                                "resolvedId": "2485030952",
+                                "resolvedUrl": "https://www.wired.com/story/journalism-isnt-dying-its-returning-its-roots/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "The past few weeks have brought bad news to the hardworking scribes of the news business. Three leading digital outlets—BuzzFeed, the Huffington Post, and Vice—announced layoffs that left many accomplished journalists unemployed.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/5c5e2108d218c84d558b47be/master/w_2560%2Cc_limit/Ideas_Journalism-Ben-Franklin-2673262-TA.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.wired.com/photos/5a724120f18bfc2055197090/master/w_1600%2Cc_limit/Antonio%2520Garcia%2520Martinez_color_padded.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/5c5e20937fbcb1518e43e2d6/191:100/w_1280,c_limit/Ideas_Journalism-Ben-Franklin-2673262-FA.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://www.wired.com/story/journalism-isnt-dying-its-returning-its-roots/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "76013786",
+                                        "name": "Antonio García Martínez",
+                                        "url": "https://www.wired.com/author/antonio-garcia-martinez"
+                                    }
+                                ],
+                                "datePublished": "2019-02-10 07:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2NzQ5MjcyOV8qXzE1NTk5MDc1MjA=",
+                        "node": {
+                            "url": "https://www.peakprosperity.com/blog/114741/collapse-already-here",
+                            "_createdAt": 1549947232,
+                            "_updatedAt": 1559907520,
+                            "id": "2467492729",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907520,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2467492729",
+                                "resolvedId": "2467492729",
+                                "resolvedUrl": "https://www.peakprosperity.com/blog/114741/collapse-already-here",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "peakprosperity.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.peakprosperity.com/blog/114741/collapse-already-here",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTE5MzA2NTg1NV8qXzE1NTk5MDc3MjI=",
+                        "node": {
+                            "url": "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to",
+                            "_createdAt": 1550070653,
+                            "_updatedAt": 1559907722,
+                            "id": "1193065855",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907722,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Write code that is easy to delete, not easy to extend.",
+                                "itemId": "1193065855",
+                                "resolvedId": "1193065855",
+                                "resolvedUrl": "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "programmingisterrible.com"
+                                },
+                                "excerpt": "“Every line of code is written without reason, maintained out of weakness, and deleted by chance” Jean-Paul Sartre’s Programming in ANSI C. Every line of code written comes at a price: maintenance. To avoid paying for a lot of code, we build reusable software.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 16,
+                                "givenUrl": "https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ5NTc3NjY0OV8qXzE1NTk5MDc3MzA=",
+                        "node": {
+                            "url": "https://marginalrevolution.com/marginalrevolution/2019/02/amazon-and-taxes.html",
+                            "_createdAt": 1550628732,
+                            "_updatedAt": 1559907730,
+                            "id": "2495776649",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907730,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Amazon and taxes: a simple primer",
+                                "itemId": "2495776649",
+                                "resolvedId": "2495776649",
+                                "resolvedUrl": "https://marginalrevolution.com/marginalrevolution/2019/02/amazon-and-taxes.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Marginal Revolution"
+                                },
+                                "excerpt": "The main reason Amazon as a corporate entity does not pay much in taxes is because the company so vigorously reinvests its profit.  The resulting expensing provisions lower their tax liabilities, in some cases down to zero or near-zero.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://marginalrevolution.com/marginalrevolution/2019/02/amazon-and-taxes.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "87004756",
+                                        "name": "Tyler Cowen",
+                                        "url": "https://marginalrevolution.com/about"
+                                    }
+                                ],
+                                "datePublished": "2019-02-19 11:26:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ5OTMxMTM2MF8qXzE1NTk5MDg2ODA=",
+                        "node": {
+                            "url": "https://archive.li/TUsfD",
+                            "_createdAt": 1550860023,
+                            "_updatedAt": 1559908680,
+                            "id": "2499311360",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908680,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "RIP Culture War Thread | Slate Star Codex",
+                                "itemId": "2499311360",
+                                "resolvedId": "2499311360",
+                                "resolvedUrl": "https://archive.li/TUsfD",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "archive.li"
+                                },
+                                "excerpt": "I. I Come To Praise Caesar, Not To Bury Him Several years ago, an SSC reader made an r/slatestarcodex subreddit for discussion of blog posts here and related topics.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://archive.li/TUsfD/4a277fac1dbe2e7b143060f44c58c254211d3081.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://archive.li/TUsfD/26eb12daa59c261dc4496cbd5bf048b3d2726f0b.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://archive.li/TUsfD/cf157f0afff9d6949129ea3b3efc37043f254590/scr.png",
+                                "timeToRead": 25,
+                                "givenUrl": "https://archive.li/TUsfD",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "158851454",
+                                        "name": "Scott Alexander",
+                                        "url": "https://archive.li/o/TUsfD/https://web.archive.org/web/20190222094427/https://slatestarcodex.com/author/admin/"
+                                    }
+                                ],
+                                "datePublished": "2019-02-22 03:44:27",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE0NzAxMzQxMV8qXzE1NTk5MDg2ODk=",
+                        "node": {
+                            "url": "https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d",
+                            "_createdAt": 1550860086,
+                            "_updatedAt": 1559908689,
+                            "id": "2147013411",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908689,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3956649571",
+                                "resolvedId": "3956649571",
+                                "resolvedUrl": "https://rsci.app.link/8ggD4ukQXU?_p=c31029c09a047af6e4038d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rsci.app.link"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NzA2NjgzNTk1XypfMTU1OTkwODcwMw==",
+                        "node": {
+                            "url": "https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+                            "_createdAt": 1551555096,
+                            "_updatedAt": 1559908703,
+                            "id": "706683595",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908703,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently",
+                                "itemId": "3464341629",
+                                "resolvedId": "3464341629",
+                                "resolvedUrl": "https://www.themarginalian.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "themarginalian.org"
+                                },
+                                "excerpt": "“In disputes upon moral or scientific points,” Arthur Martine counseled in his magnificent 1866 guide to the art of conversation, “let your aim be to come at truth, not to conquer your opponent. So you never shall be at a loss in losing the argument, and gaining a new discovery.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 427,
+                                        "imageId": 1,
+                                        "src": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2018/11/avelocityofbeing_cover-1.jpg?fit=320%2C427&ssl=1",
+                                        "width": 320
+                                    },
+                                    {
+                                        "caption": "Daniel Dennett",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2014/03/dennett.jpg?w=680&ssl=1",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.themarginalian.org/wp-content/uploads/2014/03/dennett2.jpg?fit=600%2C315&ssl=1",
+                                "timeToRead": 2,
+                                "givenUrl": "https://www.brainpickings.org/2014/03/28/daniel-dennett-rapoport-rules-criticism/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2475265",
+                                        "name": "Maria Popova",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2014-03-28 03:00:45",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5OTIyNzE5OV8qXzE1NTk5MDg3MDY=",
+                        "node": {
+                            "url": "http://tdan.com/data-warehouse-design-inmon-versus-kimball/20300",
+                            "_createdAt": 1552333401,
+                            "_updatedAt": 1559908706,
+                            "id": "1399227199",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908706,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Data Warehouse Design – Inmon versus Kimball",
+                                "itemId": "1399227199",
+                                "resolvedId": "1399227199",
+                                "resolvedUrl": "https://tdan.com/data-warehouse-design-inmon-versus-kimball/20300",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "tdan.com"
+                                },
+                                "excerpt": "We are living in the age of a data revolution, and more corporations are realizing that to lead—or in some cases, to survive—they need to harness their data wealth effectively.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 1,
+                                        "src": "http://tdan.com/wp-content/uploads/2016/08/FEA02x-image-ed.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Figure 1.2, Source: Stanford. 2003. “Data Warehousing Concepts” https://web.stanford.edu/dept/itss/docs/oracle/10g/server.101/b10736/concept.htm#i1006297",
+                                        "credit": "accessed 5/26/2016",
+                                        "height": 303,
+                                        "imageId": 2,
+                                        "src": "http://tdan.com/wp-content/uploads/2016/08/rangarajan01.png",
+                                        "width": 478
+                                    },
+                                    {
+                                        "caption": "Figure 1.3, Source: Zentut. 2016. “Ralph Kimball Data Warehouse Architecture” http://www.zentut.com/data-warehouse/ralph-kimball-data-warehouse-architecture",
+                                        "credit": "accessed 5/25/2016",
+                                        "height": 349,
+                                        "imageId": 3,
+                                        "src": "http://tdan.com/wp-content/uploads/2016/08/rangarajan02.png",
+                                        "width": 551
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://tdan.com/wp-content/uploads/2016/08/FEA02x-image-ed.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://tdan.com/data-warehouse-design-inmon-versus-kimball/20300",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152241747",
+                                        "name": "Sakthi Rangarajan",
+                                        "url": "https://tdan.com/author/srangarajan"
+                                    }
+                                ],
+                                "datePublished": "2016-09-01 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE2MzY4Njc4OF8qXzE1NTk5MDg3MTE=",
+                        "node": {
+                            "url": "https://www.lesswrong.com/posts/QkX2bAkwG2EpGvNug/the-second-law-of-thermodynamics-and-engines-of-cognition",
+                            "_createdAt": 1553018327,
+                            "_updatedAt": 1559908711,
+                            "id": "2163686788",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908711,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Second Law of Thermodynamics, and Engines of Cognition",
+                                "itemId": "2163686788",
+                                "resolvedId": "2163686788",
+                                "resolvedUrl": "https://www.lesswrong.com/posts/QkX2bAkwG2EpGvNug/the-second-law-of-thermodynamics-and-engines-of-cognition",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "LessWrong"
+                                },
+                                "excerpt": "The first law of thermodynamics, better known as Conservation of Energy, says that you can't create energy from nothing: it prohibits perpetual motion machines of the first type, which run and run indefinitely without consuming fuel or any other resource.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1503704344/sequencesgrid/h6vrwdypijqgsop7xwa0.jpg",
+                                "timeToRead": 12,
+                                "givenUrl": "https://www.lesswrong.com/posts/QkX2bAkwG2EpGvNug/the-second-law-of-thermodynamics-and-engines-of-cognition",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "101196783",
+                                        "name": "Eliezer Yudkowsky",
+                                        "url": "https://www.lesswrong.com/users/eliezer_yudkowsky"
+                                    }
+                                ],
+                                "datePublished": "2008-02-27 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU1NjYwMTUxNV8qXzE1NTk5MDg3Mjk=",
+                        "node": {
+                            "url": "https://blog.nuclino.com/slack-is-not-where-deep-work-happens",
+                            "_createdAt": 1555337146,
+                            "_updatedAt": 1559908729,
+                            "id": "2556601515",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908729,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Slack is not where 'deep work' happens",
+                                "itemId": "2556601515",
+                                "resolvedId": "2556601515",
+                                "resolvedUrl": "https://blog.nuclino.com/slack-is-not-where-deep-work-happens",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.nuclino.com"
+                                },
+                                "excerpt": "How did you start your day today? Probably reached for the phone. Turned off the alarm. Glanced at the time. Scrolled through the Slack notifications. Went through the emails. You will likely continue doing it throughout the day, approximately 2,617 more times, according to some studies.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 7,
+                                "givenUrl": "https://blog.nuclino.com/slack-is-not-where-deep-work-happens",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "103379307",
+                                        "name": "Jason Fried",
+                                        "url": "https://m.signalvnoise.com/author/jason-fried/"
+                                    }
+                                ],
+                                "datePublished": "2019-04-11 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU1NzAyNjExNF8qXzE1NTk5MDg3Mzk=",
+                        "node": {
+                            "url": "https://lareviewofbooks.org/article/the-singular-power-of-writing-a-conversation-with-thomas-chatterton-williams/#!",
+                            "_createdAt": 1555988717,
+                            "_updatedAt": 1559908740,
+                            "id": "2557026114",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908739,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Los Angeles Review of Books",
+                                "itemId": "2556787134",
+                                "resolvedId": "2556787134",
+                                "resolvedUrl": "https://lareviewofbooks.org/article/the-singular-power-of-writing-a-conversation-with-thomas-chatterton-williams/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Los Angeles Review of Books"
+                                },
+                                "excerpt": "THOMAS CHATTERTON WILLIAMS is the author of Losing My Cool, a memoir chronicling his experiences growing up in New Jersey as the son of a black father and a white mother and constructing an identity in the space between his love for hip-hop and for literature.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://dev.lareviewofbooks.org/wp-content/uploads/2019/04/Thomas-Chatteron-Williams.jpg",
+                                "timeToRead": 40,
+                                "givenUrl": "https://lareviewofbooks.org/article/the-singular-power-of-writing-a-conversation-with-thomas-chatterton-williams/#!",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "109369483",
+                                        "name": "Otis Houston",
+                                        "url": "https://lareviewofbooks.org/contributor/otis-houston"
+                                    }
+                                ],
+                                "datePublished": "2019-04-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NTg1Njc2NzAyXypfMTU1OTkwODc0Mg==",
+                        "node": {
+                            "url": "https://www.iafrikan.com/2014/04/03/agony-of-an-african-programmer/",
+                            "_createdAt": 1555988975,
+                            "_updatedAt": 1559908742,
+                            "id": "585676702",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908742,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Agony of an African Programmer",
+                                "itemId": "585676702",
+                                "resolvedId": "585676702",
+                                "resolvedUrl": "https://iafrikan.com/2014/04/03/agony-of-an-african-programmer/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "iafrikan.com"
+                                },
+                                "excerpt": "Working as an independent mobile, web and software developer in Africa can be a trying experience.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "http://www.iafrikan.com/content/images/2014/Aug/African-Programmer-1.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.iafrikan.com/2014/04/03/agony-of-an-african-programmer/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "154217976",
+                                        "name": "Raindolf Owusu",
+                                        "url": "https://iafrikan.com/author/raindolfowusu/"
+                                    }
+                                ],
+                                "datePublished": "2014-04-03 14:24:07",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU4MjUyMDIwOF8qXzE1NTk5MDg3NTQ=",
+                        "node": {
+                            "url": "https://link.medium.com/cbsIviYArW",
+                            "_createdAt": 1557065355,
+                            "_updatedAt": 1559908754,
+                            "id": "2582520208",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908754,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4016578667",
+                                "resolvedId": "4016578667",
+                                "resolvedUrl": "https://rsci.app.link/cbsIviYArW?_p=c31029c09a047af6e4038d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rsci.app.link"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://link.medium.com/cbsIviYArW",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MzcxNjMzMTNfKl8xNTU5OTA4ODA0",
+                        "node": {
+                            "url": "https://www.ibm.com/developerworks/rational/library/10/howandwhytocreatevaluestreammapsforswengineerprojects/index.html",
+                            "_createdAt": 1544118420,
+                            "_updatedAt": 1559908804,
+                            "id": "37163313",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908804,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "DevOps",
+                                "itemId": "37163313",
+                                "resolvedId": "37163313",
+                                "resolvedUrl": "https://www.ibm.com/developerworks/rational/library/10/howandwhytocreatevaluestreammapsforswengineerprojects/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "IBM"
+                                },
+                                "excerpt": "DevOps Adopt DevOps approaches to develop and deliver software quickly and reliably.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://s3.us.cloud-object-storage.appdomain.cloud/ibmdevwp/icons/social/social.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.ibm.com/developerworks/rational/library/10/howandwhytocreatevaluestreammapsforswengineerprojects/index.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2020-12-18 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQxMTg0NDA1NF8qXzE1NTk5MDg4MDg=",
+                        "node": {
+                            "url": "https://www.quantamagazine.org/why-black-hole-interiors-grow-forever-20181206/",
+                            "_createdAt": 1544372990,
+                            "_updatedAt": 1559908808,
+                            "id": "2411844054",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559908808,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why Black Hole Interiors Grow (Almost) Forever",
+                                "itemId": "2411844054",
+                                "resolvedId": "2411844054",
+                                "resolvedUrl": "https://www.quantamagazine.org/why-black-hole-interiors-grow-forever-20181206/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quanta Magazine"
+                                },
+                                "excerpt": "The renowned physicist Leonard Susskind has identified a possible quantum origin for the ever-growing volume of black holes.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "wavegrower",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/BH_1300lede.gif",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/BH_520x2922.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.quantamagazine.org/why-black-hole-interiors-grow-forever-20181206/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67852995",
+                                        "name": "Natalie Wolchover",
+                                        "url": "https://www.quantamagazine.org/authors/natalie/"
+                                    }
+                                ],
+                                "datePublished": "2018-12-06 09:15:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxODg0MzAwMV8qXzE1NjAwMDA5OTQ=",
+                        "node": {
+                            "url": "http://nymag.com/intelligencer/2019/06/andrew-sullivan-what-democrats-can-learn-from-steve-bannon.html",
+                            "_createdAt": 1559953459,
+                            "_updatedAt": 1560000994,
+                            "id": "2618843001",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1560000994,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Democrats Can Learn From Steve Bannon",
+                                "itemId": "2618843001",
+                                "resolvedId": "2618843001",
+                                "resolvedUrl": "https://nymag.com/intelligencer/2019/06/andrew-sullivan-what-democrats-can-learn-from-steve-bannon.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "Bannon knows that Trump has been a colossal failure on immigration — but also that Democrats can’t call him out on it without getting serious on the issue.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "intelligencer is a Vox Media Network.\n     © 2021 Vox Media, LLC. All rights reserved.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/a76/77c/a90b4e83bec7f236bbea28b03e213712fe-27-the-brink.rsquare.w700.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pyxis.nymag.com/v1/imgs/a76/77c/a90b4e83bec7f236bbea28b03e213712fe-27-the-brink.1x.rsocial.w1200.jpg",
+                                "timeToRead": 16,
+                                "givenUrl": "http://nymag.com/intelligencer/2019/06/andrew-sullivan-what-democrats-can-learn-from-steve-bannon.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "109965024",
+                                        "name": "Andrew Sullivan",
+                                        "url": "https://nymag.com/author/andrew-sullivan/"
+                                    }
+                                ],
+                                "datePublished": "2019-06-07 11:33:30",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY0MDQyOTgxOF8qXzE1NjIwNDA2MjQ=",
+                        "node": {
+                            "url": "https://blog.twitter.com/en_us/topics/company/2019/publicinterest.html",
+                            "_createdAt": 1561677300,
+                            "_updatedAt": 1562040624,
+                            "id": "2640429818",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1562040624,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Defining public interest on Twitter",
+                                "itemId": "3367234262",
+                                "resolvedId": "3367234262",
+                                "resolvedUrl": "https://blog.twitter.com/en_us/topics/company/2019/publicinterest",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.twitter.com"
+                                },
+                                "excerpt": "Our highest priority is to protect the health of the public conversation on Twitter, and an important part of that is ensuring our rules and how we enforce them are easy to understand.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://blog.twitter.com/content/dam/blog-twitter/official/universal-assets/Generic_BlogShare.jpg.twimg.768.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://blog.twitter.com/en_us/topics/company/2019/publicinterest.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152452105",
+                                        "name": "Twitter Safety",
+                                        "url": "https://blog.twitter.com/en_us/authors.TwitterSafety"
+                                    }
+                                ],
+                                "datePublished": "2019-06-27 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyNzIwMDE5MF8qXzE1NjI0OTk4MTU=",
+                        "node": {
+                            "url": "https://medium.com/ro-data-team-blog/ros-looker-code-generation-system-11160dbb982f",
+                            "_createdAt": 1561070322,
+                            "_updatedAt": 1562499815,
+                            "id": "2627200190",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1562499815,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Ro’s Looker Code Generation System: Motivation and Key Features",
+                                "itemId": "3824502017",
+                                "resolvedId": "3824502017",
+                                "resolvedUrl": "https://medium.com/ro-codes/ros-looker-code-generation-system-11160dbb982f",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Ro uses Looker as its BI tool. Looker is based on the idea of analysts building Looker “models” written in its LookML language; these models describe a graphical point-and-click interface that a business-side individual can use to query the specified data sets without needing to write code.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/v2/resize:fit:809/0*3NVbBirKaBfvxfJH",
+                                "timeToRead": 3,
+                                "givenUrl": "https://medium.com/ro-data-team-blog/ros-looker-code-generation-system-11160dbb982f",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "109113970",
+                                        "name": "Sami Yabroudi",
+                                        "url": "https://medium.com/@samiyabroudi"
+                                    }
+                                ],
+                                "datePublished": "2019-04-05 13:02:43",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY0NTU3NTI1NV8qXzE1NjI1MDAzNDQ=",
+                        "node": {
+                            "url": "https://link.medium.com/CLiQ3XLOZX",
+                            "_createdAt": 1562074351,
+                            "_updatedAt": 1562500344,
+                            "id": "2645575255",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1562500344,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4016578658",
+                                "resolvedId": "4016578658",
+                                "resolvedUrl": "https://rsci.app.link/CLiQ3XLOZX?_p=c31029c09a047af6e4038d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rsci.app.link"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://link.medium.com/CLiQ3XLOZX",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMjU0OTIxOV8qXzE1NjI1MDA1OTk=",
+                        "node": {
+                            "url": "https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html",
+                            "_createdAt": 1560356888,
+                            "_updatedAt": 1562500600,
+                            "id": "2622549219",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1562500599,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Letter of Recommendation: Bug Fixes",
+                                "itemId": "2622549219",
+                                "resolvedId": "2622549219",
+                                "resolvedUrl": "https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "I work in the software business, which means that I live in a world ruled by computer code. A lot of that code is proprietary and secret. You can see what it does, but you can’t see how it works unless you work at the company that makes it. We can, however, see some of it.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 437,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2019/06/16/magazine/16Mag-LOR-1/ae6c8a27661f4bbda9fa249eb30269d6-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2019/06/16/magazine/16Mag-LOR-1/16Mag-LOR-1-facebookJumbo.jpg?year=2019&h=550&w=1050&s=00024b63f98e7fb60bf73a6c5ba971e8988c3711ed06b5e035fd90d4e322cacb&k=ZQJBKqZ0VN",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.nytimes.com/2019/06/11/magazine/letter-of-recommendation-bug-fixes-git.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2528048",
+                                        "name": "Paul Ford",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-06-11 04:00:04",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTA1MDI3NDkyNV8qXzE1NjI1MDA2NDA=",
+                        "node": {
+                            "url": "https://slatestarcodex.com/2015/09/23/vegetarianism-for-meat-eaters/",
+                            "_createdAt": 1559997819,
+                            "_updatedAt": 1562500640,
+                            "id": "1050274925",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1562500640,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Vegetarianism for Meat-Eaters",
+                                "itemId": "1050274925",
+                                "resolvedId": "1050274925",
+                                "resolvedUrl": "https://slatestarcodex.com/2015/09/23/vegetarianism-for-meat-eaters/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Scott Alexander"
+                                },
+                                "excerpt": "[Content warning: discussion of animal suffering. If you don’t care about animal suffering, this post is probably not for you. There is no reason to read it anyway and loudly complain in the comments.] Brian Kateman on QZ.com writes that We Need More Meat-Eating Animal Rights Activists.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://slatestarcodex.com/wp-content/themes/two_column_pujugama/images/codex_spotlight.png",
+                                "timeToRead": 9,
+                                "givenUrl": "https://slatestarcodex.com/2015/09/23/vegetarianism-for-meat-eaters/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "52711708",
+                                        "name": "Scott Alexander",
+                                        "url": "https://slatestarcodex.com/author/admin/"
+                                    }
+                                ],
+                                "datePublished": "2015-09-23 03:09:44",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY1NDI4ODcyMV8qXzE1NjI5NjE4NDU=",
+                        "node": {
+                            "url": "https://blog.fishtownanalytics.com/dbt-v0-14-0-better-serving-our-users-bf7cdbbcd5d2",
+                            "_createdAt": 1562794504,
+                            "_updatedAt": 1562961845,
+                            "id": "2654288721",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1562961845,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "dbt v0.14.0: Better serving our users",
+                                "itemId": "3703321628",
+                                "resolvedId": "3703321628",
+                                "resolvedUrl": "https://www.getdbt.com/blog/dbt-v0-14-0-better-serving-our-users/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "getdbt.com"
+                                },
+                                "excerpt": "Last week, Fishtown Analytics turned three years old. This is an exciting milestone for us, and our journey to-date is best summarized by a graph that you may have seen before:",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-v0-14-0-better-serving-our-users/0_BgUA6LRSXoEMLAv2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-v0-14-0-better-serving-our-users/1_tfCkN7A6UWI7YOMh_VIGQg.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-v0-14-0-better-serving-our-users/0_fRKaUZpBOyqM5msD.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.getdbt.com/ui/img/blog/dbt-v0-14-0-better-serving-our-users/joanna-kosinska-78uNJt1kPw8-unsplash.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://blog.fishtownanalytics.com/dbt-v0-14-0-better-serving-our-users-bf7cdbbcd5d2",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "167666538",
+                                        "name": "Drew Banin",
+                                        "url": "https://www.getdbt.com/author/drew-banin/"
+                                    }
+                                ],
+                                "datePublished": "2019-07-10 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYzOTI4NjE2M18qXzE1NjMyMDUyMjQ=",
+                        "node": {
+                            "url": "http://getpocket.com/explore/item/why-you-need-an-untouchable-day-every-week",
+                            "_createdAt": 1563069761,
+                            "_updatedAt": 1563205224,
+                            "id": "2639286163",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563205224,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why You Need an Untouchable Day Every Week",
+                                "itemId": "2116263158",
+                                "resolvedId": "2116263158",
+                                "resolvedUrl": "https://hbr.org/2018/03/why-you-need-an-untouchable-day-every-week",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harvard Business Review"
+                                },
+                                "excerpt": "I hate meetings. They sit subconsciously in my brain, taking up space. I prepare for them in my notebooks. I travel to them, and then back again, in the middle of my work days. And what do most meetings usually result in? You guessed it — more meetings.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Hayon Thapaliya/DUCEPT Pascal/ hemis.fr/Getty Images",
+                                        "credit": "Hayon Thapaliya/DUCEPT Pascal/ hemis.fr/Getty Images",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hbr.org/resources/images/article_assets/2018/02/mar18_14_470636293.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hbr.org/resources/images/article_assets/2018/02/mar18_14_470636293.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://getpocket.com/explore/item/why-you-need-an-untouchable-day-every-week",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "97720447",
+                                        "name": "Neil Pasricha",
+                                        "url": "https://hbr.org/search?term=neil%20pasricha"
+                                    }
+                                ],
+                                "datePublished": "2018-03-16 07:05:08",
+                                "syndicatedArticle": {
+                                    "slug": "why-you-need-an-untouchable-day-every-week",
+                                    "publisher": {
+                                        "name": "Harvard Business Review",
+                                        "url": "http://hbr.org/?utm_source=pocket"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUzMTQ2NTc2NF8qXzE1NjMyMDYzOTE=",
+                        "node": {
+                            "url": "https://www.cgdev.org/blog/africas-unsung-industrial-revolution",
+                            "_createdAt": 1562760320,
+                            "_updatedAt": 1563206391,
+                            "id": "2531465764",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563206391,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Africa’s Unsung “Industrial Revolution”",
+                                "itemId": "2531465764",
+                                "resolvedId": "2531465764",
+                                "resolvedUrl": "https://www.cgdev.org/blog/africas-unsung-industrial-revolution",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "cgdev.org"
+                                },
+                                "excerpt": "There is an industrial revolution underway in sub-Saharan Africa’s most entrepreneurial economies—places such as Ghana, Uganda, Senegal, and Côte d’Ivoire.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.cgdev.org/sites/default/files/African_Factory.jpg?itok=gCW2Zu9f",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.cgdev.org/blog/africas-unsung-industrial-revolution",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-03-21 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYzOTg4ODc1N18qXzE1NjMyNTI2OTI=",
+                        "node": {
+                            "url": "https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3",
+                            "_createdAt": 1563208243,
+                            "_updatedAt": 1563252692,
+                            "id": "2639888757",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563252692,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Don’t ask forgiveness, radiate intent",
+                                "itemId": "2639888757",
+                                "resolvedId": "2639888757",
+                                "resolvedUrl": "https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Although is pains me to reject advice from the late great Grace Hopper… this advice I do hereby reject. I understand the sentiment behind it: we are often held back by “rules” that don’t even exist.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Images from Hand Signals on Wikipedia",
+                                        "credit": "",
+                                        "height": 387,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*T_kxjWDIKoVw85psPFopDQ.jpeg",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*T_kxjWDIKoVw85psPFopDQ.jpeg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "92342290",
+                                        "name": "Elizabeth Ayer",
+                                        "url": "https://medium.com/@ElizAyer"
+                                    }
+                                ],
+                                "datePublished": "2019-06-27 19:07:45",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY1MTgzNTg2MV8qXzE1NjMyNTI3NDY=",
+                        "node": {
+                            "url": "https://getpocket.com/explore/item/21-rhetorical-devices-explained",
+                            "_createdAt": 1563023364,
+                            "_updatedAt": 1563252746,
+                            "id": "2651835861",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563252746,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "21 Rhetorical Devices Explained",
+                                "itemId": "2651835861",
+                                "resolvedId": "2651835861",
+                                "resolvedUrl": "https://getpocket.com/explore/item/21-rhetorical-devices-explained",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "From the ones you know to a few new tricks. Pleonasm, anyone?",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pocket-syndicated-images.s3.amazonaws.com/5d2336edf385b.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "This post originally appeared on Mental Floss and was published November 11, 2016. This article is republished here with permission.Want more fun facts and fascinating stories?Visit Mental Floss",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://pocket-syndicated-publisher-logos.s3.amazonaws.com/5d001cdc87f29.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pocket-image-cache.com/1200x/filters:format(jpg):extract_focal()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-syndicated-images%2Farticles%2F99%2F1566572787_5d2336edf385b.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://getpocket.com/explore/item/21-rhetorical-devices-explained",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "17145660",
+                                        "name": "Paul Anthony Jones",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": {
+                                    "slug": "21-rhetorical-devices-explained",
+                                    "publisher": {
+                                        "name": "Mental Floss",
+                                        "url": "http://mentalfloss.com/?utm_source=pocket"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYyMzIzNTI3MF8qXzE1NjMyNTMxMzE=",
+                        "node": {
+                            "url": "https://www.washingtonpost.com/opinions/2019/06/11/defense-chattering-classes/",
+                            "_createdAt": 1560339919,
+                            "_updatedAt": 1563253132,
+                            "id": "2623235270",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1563253131,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "In defense of the ‘chattering classes’",
+                                "itemId": "2623235270",
+                                "resolvedId": "2623235270",
+                                "resolvedUrl": "https://www.washingtonpost.com/opinions/2019/06/11/defense-chattering-classes/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "In reality, virtue is not the monopoly of any social class.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YWQ2YKBOZAI6TB4BOY3BT4JMWQ.jpg&w=1440",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.washingtonpost.com/opinions/2019/06/11/defense-chattering-classes/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "83365352",
+                                        "name": "Max Boot",
+                                        "url": "https://www.washingtonpost.com/people/max-boot/"
+                                    }
+                                ],
+                                "datePublished": "2019-06-11 16:45:32",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjQ4MDQwMzEyOV8qXzE1NTk5MDc0OTM=",
+                    "endCursor": "MjYyMzIzNTI3MF8qXzE1NjMyNTMxMzE="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

@@ -1,0 +1,1960 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjAyMjAxMDkyM18qXzE1NTk5MDcxNDE=",
+                        "node": {
+                            "url": "https://cobaltai.in/a-guide-to-tensorflow-part-1/",
+                            "_createdAt": 1515524929,
+                            "_updatedAt": 1559907142,
+                            "id": "2022010923",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907141,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2022010923",
+                                "resolvedId": "2022010923",
+                                "resolvedUrl": "https://cobaltai.in/a-guide-to-tensorflow-part-1/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "cobaltai.in"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://cobaltai.in/a-guide-to-tensorflow-part-1/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAyNDM4MDg2OV8qXzE1NTk5MDcxNDM=",
+                        "node": {
+                            "url": "https://www.thenation.com/article/the-death-cult-of-trumpism/",
+                            "_createdAt": 1515803704,
+                            "_updatedAt": 1559907143,
+                            "id": "2024380869",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907143,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2024380869",
+                                "resolvedId": "2024380869",
+                                "resolvedUrl": "https://www.thenation.com/article/the-death-cult-of-trumpism/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Nation"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.thenation.com/article/the-death-cult-of-trumpism/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NTA3MzE4NTgzXypfMTU1OTkwNzE0NQ==",
+                        "node": {
+                            "url": "http://www.feynmanlectures.caltech.edu/II_19.html",
+                            "_createdAt": 1516281884,
+                            "_updatedAt": 1559907145,
+                            "id": "507318583",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907145,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Feynman Lectures on Physics Vol. II Ch. 19 : The Principle of Least Action",
+                                "itemId": "507318583",
+                                "resolvedId": "507318583",
+                                "resolvedUrl": "https://www.feynmanlectures.caltech.edu/II_19.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "feynmanlectures.caltech.edu"
+                                },
+                                "excerpt": "“When I was in high school, my physics teacher—whose name was Mr. Bader—called me down one day after physics class and said, ‘You look bored; I want to tell you something interesting.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/camera.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-01a_mg_new.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–1.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-01b_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–2.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-01c_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–3.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-02a_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–4.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-02b_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–5.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-02c_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–6.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-02d_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–7.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-03a_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–8.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-03b_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–9.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-04_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–10.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-06_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–11.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-08_mg.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Fig. 19–12.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 14,
+                                        "src": "https://www.feynmanlectures.caltech.edu/img/FLP_II/f19-plates/f19-11_mg.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 42,
+                                "givenUrl": "http://www.feynmanlectures.caltech.edu/II_19.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAzMzA3NjQ3NF8qXzE1NTk5MDcxNDc=",
+                        "node": {
+                            "url": "https://www.politico.com/amp/story/2018/01/17/full-text-jeff-flake-on-trump-speech-transcript-343246",
+                            "_createdAt": 1516284232,
+                            "_updatedAt": 1559907147,
+                            "id": "2033076474",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907147,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Full text: Jeff Flake on Trump speech transcript",
+                                "itemId": "2032857127",
+                                "resolvedId": "2032857127",
+                                "resolvedUrl": "https://www.politico.com/story/2018/01/17/full-text-jeff-flake-on-trump-speech-transcript-343246",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "POLITICO"
+                                },
+                                "excerpt": "Prepared remarks for Sen. Jeff Flake, who delivered a speech to the Senate on Jan. 17, 2018. Mr. President, near the beginning of the document that made us free, our Declaration of Independence, Thomas Jefferson wrote: “We hold these truths to be self-evident...",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/0401f2a6-fff7-42ce-80d1-fc0b1c213a1d/1fc3f693-a423-44b9-9224-16740a951ad0/1280x720/match/image.jpg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://www.politico.com/amp/story/2018/01/17/full-text-jeff-flake-on-trump-speech-transcript-343246",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2018-01-17 09:50:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAzODExMTQ4OF8qXzE1NTk5MDcxNTI=",
+                        "node": {
+                            "url": "http://nymag.com/daily/intelligencer/2018/01/glenn-greenwald-russia-investigation.html",
+                            "_createdAt": 1516581655,
+                            "_updatedAt": 1559907152,
+                            "id": "2038111488",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907152,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Does Glenn Greenwald Know More Than Robert Mueller?",
+                                "itemId": "2358101585",
+                                "resolvedId": "2358101585",
+                                "resolvedUrl": "https://nymag.com/intelligencer/2018/01/glenn-greenwald-russia-investigation.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "It’s 10:45 p.m. Rio de Janeiro time. Glenn Greenwald and I are finishing dinner at a deserted bistro in Ipanema.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "intelligencer is a Vox Media Network.\n     © 2022 Vox Media, LLC. All rights reserved.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/a76/46d/724b5c7ebd9dcd6f57da8f3ec15c36eb58-19-greenwald-feature-lede.2x.h600.w512.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Greenwald in Rio de Janeiro\n        Photo: Sebastian Palmer",
+                                        "credit": "Photo: Sebastian Palmer",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/642/bcb/274c20634a9bf4b45ff50dced84fb6548b-19-greenwald-6.w710.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Greenwald with Edward Snowden in the documentary Citizenfour",
+                                        "credit": "Photo: Courtesy Everett Collection",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/240/d31/4c2ff2cd9e562bf0570e0d1e8370acc9c7-19-greenwald-2.h473.w710.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "With Laura Poitras at the 2015 Oscars.\n        Photo: Kevin Winter/Getty Images",
+                                        "credit": "Photo: Kevin Winter/Getty Images",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/cbf/426/317bdf3e35410b36680a4e39cccc18edc8-19-greenwald-3.w710.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Accepting the 2014 George Polk Award.\n        Photo: Stan Honda/AFP/Getty Images",
+                                        "credit": "Photo: Stan Honda/AFP/Getty Images",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/f94/eec/d091b2521ccd6949d2a8014502c947d173-19-greenwald-4.h473.w710.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "With Tucker Carlson on Fox News in October 2017.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/84a/f5b/a54ede4ca82ee610af3dc51d1cf2b27a6a-19-greenwald-5.w710.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pyxis.nymag.com/v1/imgs/642/bcb/274c20634a9bf4b45ff50dced84fb6548b-19-greenwald-6.1x.rsocial.w1200.jpg",
+                                "timeToRead": 22,
+                                "givenUrl": "http://nymag.com/daily/intelligencer/2018/01/glenn-greenwald-russia-investigation.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "126195790",
+                                        "name": "Simon van Zuylen-Wood",
+                                        "url": "https://nymag.com/author/simon-van-zuylen-wood/"
+                                    }
+                                ],
+                                "datePublished": "2018-01-21 08:06:57",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjAzNDU4MjY1MF8qXzE1NTk5MDcxNTc=",
+                        "node": {
+                            "url": "http://conatusnews.com/rise-intellectual-dark-web/",
+                            "_createdAt": 1516586198,
+                            "_updatedAt": 1559907157,
+                            "id": "2034582650",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907157,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4012351640",
+                                "resolvedId": "4012351640",
+                                "resolvedUrl": "https://twitter.com/safety/unsafe_link_warning?unsafe_link=http://conatusnews.com/rise-intellectual-dark-web/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Twitter"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://conatusnews.com/rise-intellectual-dark-web/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjA0MDc0MzcxOV8qXzE1NTk5MDcxNTg=",
+                        "node": {
+                            "url": "https://www.nytimes.com/2018/01/23/opinion/david-frum-trumpcocracy.html",
+                            "_createdAt": 1516889419,
+                            "_updatedAt": 1559907158,
+                            "id": "2040743719",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907158,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Has the U.S. Become a ‘Trumpocracy’?",
+                                "itemId": "2040743719",
+                                "resolvedId": "2040743719",
+                                "resolvedUrl": "https://www.nytimes.com/2018/01/23/opinion/david-frum-trumpcocracy.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "Has America become a “Trumpocracy,” and is what we’re watching a tragedy or a farce? Ross Douthat, a Times Op-Ed columnist, and David Frum, a senior editor at The Atlantic and the author of “Trumpocracy: The Corruption of the American Republic,” debated these questions in an online discuss",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 531,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2018/01/23/opinion/23douthatWeb/23douthatWeb-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2018/01/23/opinion/23douthatWeb/23douthatWeb-facebookJumbo.jpg?year=2018&h=550&w=1050&s=5fc9b1d86664aa63a29ef471d9d70a6bf552ddbb38bea313438a6248b9671570&k=ZQJBKqZ0VN",
+                                "timeToRead": 11,
+                                "givenUrl": "https://www.nytimes.com/2018/01/23/opinion/david-frum-trumpcocracy.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "11159",
+                                        "name": "David Frum",
+                                        "url": ""
+                                    },
+                                    {
+                                        "id": "62805967",
+                                        "name": "ROSS DOUTHAT",
+                                        "url": "https://www.nytimes.com/by/ross-douthat"
+                                    }
+                                ],
+                                "datePublished": "2018-01-23 04:45:25",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjA0MjI2MzExNl8qXzE1NTk5MDcxNjI=",
+                        "node": {
+                            "url": "https://devblogs.nvidia.com/jet-gpu-powered-fulfillment/",
+                            "_createdAt": 1517501144,
+                            "_updatedAt": 1559907162,
+                            "id": "2042263116",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907162,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Jet Built a GPU-Powered Fulfillment Engine with F# and CUDA",
+                                "itemId": "3365124179",
+                                "resolvedId": "3365124179",
+                                "resolvedUrl": "https://developer.nvidia.com/blog/jet-gpu-powered-fulfillment/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "developer.nvidia.com"
+                                },
+                                "excerpt": "Have you ever looked at your shopping list and tried to optimize your trip based on things like distance to store, price, and number of items you can buy at each store? The quest for a smarter shopping cart is never-ending, and the complexity of finding even a sub-optimal solution to this problem ca",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Figure 1: Initial cart of four items with a total of 3*3*2*4=72 combinations.",
+                                        "credit": "",
+                                        "height": 155,
+                                        "imageId": 1,
+                                        "src": "https://developer.nvidia.com/blog/parallelforall/wp-content/uploads/2017/11/O5lXChloNXvpV49ci3IM65eja-BB1TSmP9XGvN5gxBte5hsqCNzYcCyuknSPnXGM6S_pRQs2048-300x155.png",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Figure 5: Example of a cart that required 70,442,237,952,000",
+                                        "credit": "70 trillion!",
+                                        "height": 376,
+                                        "imageId": 2,
+                                        "src": "https://developer.nvidia.com/blog/parallelforall/wp-content/uploads/2017/11/merchantSelection6.png",
+                                        "width": 562
+                                    },
+                                    {
+                                        "caption": "Figure 6: An example local market supply for a cart of three items.",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 3,
+                                        "src": "https://developer.nvidia.com/blog/parallelforall/wp-content/uploads/2017/11/localMarket1-231x300.png",
+                                        "width": 231
+                                    },
+                                    {
+                                        "caption": "Figure 7: The full search space for the hypothetical local market supply shown in Figure 6.",
+                                        "credit": "",
+                                        "height": 254,
+                                        "imageId": 4,
+                                        "src": "https://developer.nvidia.com/blog/parallelforall/wp-content/uploads/2017/11/allocations.png",
+                                        "width": 267
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 345,
+                                        "imageId": 5,
+                                        "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2017/11/Jet_Logo_Color-547x345.png",
+                                        "width": 547
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2017/11/Jet_Logo_Color-547x345.png",
+                                "timeToRead": 14,
+                                "givenUrl": "https://devblogs.nvidia.com/jet-gpu-powered-fulfillment/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152608355",
+                                        "name": "Aaron Brewbaker",
+                                        "url": "https://developer.nvidia.com/blog/author/abrewbaker/"
+                                    }
+                                ],
+                                "datePublished": "2017-11-30 18:31:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjA2MTY0MDk1Ml8qXzE1NTk5MDcxNjU=",
+                        "node": {
+                            "url": "http://www.pewresearch.org/fact-tank/2018/02/06/use-of-election-forecasts-in-campaign-coverage-can-confuse-voters-and-may-lower-turnout/",
+                            "_createdAt": 1518201524,
+                            "_updatedAt": 1559907165,
+                            "id": "2061640952",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907165,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Use of election forecasts in campaign coverage can confuse voters and may lower turnout",
+                                "itemId": "2061640952",
+                                "resolvedId": "2061640952",
+                                "resolvedUrl": "https://www.pewresearch.org/fact-tank/2018/02/06/use-of-election-forecasts-in-campaign-coverage-can-confuse-voters-and-may-lower-turnout/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "pewresearch.org"
+                                },
+                                "excerpt": "Americans have long been familiar with “horse race” polls that accompany elections in the United States.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Early morning voters wait to cast their ballots on Election Day.",
+                                        "credit": "Jessica McGowan/Getty Images",
+                                        "height": 320,
+                                        "imageId": 1,
+                                        "src": "https://www.pewresearch.org/wp-content/uploads/2018/02/FT_18.01.03_prob_photo.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 754,
+                                        "imageId": 2,
+                                        "src": "https://www.pewresearch.org/wp-content/uploads/2018/02/FT_18.01.03_prob_outcomes.png",
+                                        "width": 420
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 438,
+                                        "imageId": 3,
+                                        "src": "https://www.pewresearch.org/wp-content/uploads/2018/02/FT_18.01.03_prob_vote.png",
+                                        "width": 420
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.pewresearch.org/wp-content/uploads/2018/02/FT_18.01.03_prob_photo.jpg?w=640&h=320&crop=1",
+                                "timeToRead": 5,
+                                "givenUrl": "http://www.pewresearch.org/fact-tank/2018/02/06/use-of-election-forecasts-in-campaign-coverage-can-confuse-voters-and-may-lower-turnout/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "158949630",
+                                        "name": "Solomon Messing",
+                                        "url": "https://www.pewresearch.org/staff/solomon-messing"
+                                    }
+                                ],
+                                "datePublished": "2020-07-27 16:37:16",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjA4Mzk2NTM2Nl8qXzE1NTk5MDcxNzA=",
+                        "node": {
+                            "url": "https://medium.com/@vardanator/i-dont-understand-graph-theory-1c96572a1401",
+                            "_createdAt": 1519325065,
+                            "_updatedAt": 1559907170,
+                            "id": "2083965366",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907170,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to think in graphs: An illustrative introduction to Graph Theory and its applications",
+                                "itemId": "2611027588",
+                                "resolvedId": "2611027588",
+                                "resolvedUrl": "https://medium.com/free-code-camp/i-dont-understand-graph-theory-1c96572a1401",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Graph theory represents one of the most important and interesting areas in computer science. But at the same time it’s one of the most misunderstood (at least it was to me). Understanding, using and thinking in graphs makes us better programmers. At least that’s how we’re supposed to think.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*Z6qfDmoZcZheiTxEcPOQJQ.png",
+                                "timeToRead": 52,
+                                "givenUrl": "https://medium.com/@vardanator/i-dont-understand-graph-theory-1c96572a1401",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "83798125",
+                                        "name": "Vardan Grigoryan (vardanator)",
+                                        "url": "https://medium.com/@vardanator"
+                                    }
+                                ],
+                                "datePublished": "2022-04-01 01:38:44",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjEzOTUzMjYxMV8qXzE1NTk5MDcxNzM=",
+                        "node": {
+                            "url": "https://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta",
+                            "_createdAt": 1523239336,
+                            "_updatedAt": 1559907173,
+                            "id": "2139532611",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907173,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The demise of the nation state",
+                                "itemId": "2139532611",
+                                "resolvedId": "2139532611",
+                                "resolvedUrl": "https://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Guardian"
+                                },
+                                "excerpt": "What is happening to national politics? Every day in the US, events further exceed the imaginations of absurdist novelists and comedians; politics in the UK still shows few signs of recovery after the “national nervous breakdown” of Brexit.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 288,
+                                        "imageId": 1,
+                                        "src": "https://i.guim.co.uk/img/media/8bdb0aba2450c06bc2d7053f7bff2fc6f47cfb5b/0_0_3543_2125/master/3543.jpg?width=480&dpr=1&s=none",
+                                        "width": 480
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 2,
+                                        "src": "https://i.guim.co.uk/img/media/f7b750490bca6ce0ab74c6acca89e22ca511c604/0_35_3500_2101/master/3500.jpg?width=445&dpr=1&s=none",
+                                        "width": 445
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 3,
+                                        "src": "https://i.guim.co.uk/img/media/e4d94b2d9ea35436a4fc816ecf6c7655faae3a18/0_95_3988_2393/master/3988.jpg?width=445&dpr=1&s=none",
+                                        "width": 445
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 4,
+                                        "src": "https://i.guim.co.uk/img/media/107cd2781a286f0a15b7e24e129d91e42d7ea236/0_663_4500_2700/master/4500.jpg?width=445&dpr=1&s=none",
+                                        "width": 445
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 5,
+                                        "src": "https://i.guim.co.uk/img/media/008148184684c1cd2f3ef8fad2ac937a81cedc53/29_29_1959_1175/master/1959.jpg?width=445&dpr=1&s=none",
+                                        "width": 445
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i.guim.co.uk/img/media/9f06136e42a8a9afc1bbadfd1634a55d829e499c/174_0_3090_1853/master/3090.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=30f7659f133588a8c5ffc04edf7ca285",
+                                "timeToRead": 26,
+                                "givenUrl": "https://www.theguardian.com/news/2018/apr/05/demise-of-the-nation-state-rana-dasgupta",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "52297727",
+                                        "name": "Rana Dasgupta",
+                                        "url": "https://www.theguardian.com/profile/rana-dasgupta"
+                                    }
+                                ],
+                                "datePublished": "2018-04-05 00:00:40",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjA2OTA5NDg2NF8qXzE1NTk5MDcxNzU=",
+                        "node": {
+                            "url": "https://www.bloomberg.com/view/articles/2018-02-12/zero-sum-thinking-makes-our-fights-much-nastier",
+                            "_createdAt": 1523241125,
+                            "_updatedAt": 1559907175,
+                            "id": "2069094864",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907175,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Zero-Sum Thinking Makes Our Fights Much Nastier",
+                                "itemId": "2368102425",
+                                "resolvedId": "2368102425",
+                                "resolvedUrl": "https://www.bloomberg.com/opinion/articles/2018-02-12/zero-sum-thinking-makes-our-fights-much-nastier",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Bloomberg"
+                                },
+                                "excerpt": "Remember “war”? That thing where countries (or kings, or religions) would gather up a bunch of people, give them weapons, and have them slaughter each other and pillage the countryside? For most of the past 3,000 years, war was a more-or-less constant feature of human life.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Hard to find a winner here.",
+                                        "credit": "Photograph: Topical Press Agency/Getty Images",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixYt9WhDQ0W8/v0/-1x-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL4ZJ5w8re8w/v1/-1x-1.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irc_aaDyGDSc/v0/1200x1005.png",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.bloomberg.com/view/articles/2018-02-12/zero-sum-thinking-makes-our-fights-much-nastier",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "95070823",
+                                        "name": "Noah Smith",
+                                        "url": "https://www.bloomberg.com/opinion/authors/AR3OYuAmvcU/noah-smith"
+                                    }
+                                ],
+                                "datePublished": "2018-02-12 04:00:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE2NzU4MjIzM18qXzE1NTk5MDcxNzc=",
+                        "node": {
+                            "url": "https://everythingstudies.com/2018/04/26/a-deep-dive-into-the-harris-klein-controversy/",
+                            "_createdAt": 1524853073,
+                            "_updatedAt": 1559907177,
+                            "id": "2167582233",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907177,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Deep Dive into the Harris-Klein Controversy",
+                                "itemId": "2167582233",
+                                "resolvedId": "2167582233",
+                                "resolvedUrl": "https://everythingstudies.com/2018/04/26/a-deep-dive-into-the-harris-klein-controversy/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "everythingstudies.com"
+                                },
+                                "excerpt": "Some weeks ago I stumbled upon a link to a collection of emails between Sam Harris and Ezra Klein. The two argued about an article that Klein’s site Vox had published in response to Harris’s podcast with controversial political scientist Charles Murray.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://everythingstudies.files.wordpress.com/2018/04/harris-klein.png",
+                                "timeToRead": 41,
+                                "givenUrl": "https://everythingstudies.com/2018/04/26/a-deep-dive-into-the-harris-klein-controversy/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "76592134",
+                                        "name": "John Nerst",
+                                        "url": "https://everythingstudies.com/author/jnerst/"
+                                    }
+                                ],
+                                "datePublished": "2022-04-26 20:18:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE1NTI5NjYyMF8qXzE1NTk5MDcxODI=",
+                        "node": {
+                            "url": "http://nymag.com/selectall/2018/04/jaron-lanier-interview-on-what-went-wrong-with-the-internet.html",
+                            "_createdAt": 1525120397,
+                            "_updatedAt": 1559907183,
+                            "id": "2155296620",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907182,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4003043089",
+                                "resolvedId": "4003043089",
+                                "resolvedUrl": "https://getpocket.com:443/sQ_NL6?cta=1&src=ph",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://nymag.com/selectall/2018/04/jaron-lanier-interview-on-what-went-wrong-with-the-internet.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE1NDAxNzE4MF8qXzE1NTk5MDcxODU=",
+                        "node": {
+                            "url": "https://www.nytimes.com/guides/smarterliving/how-to-tell-a-good-story",
+                            "_createdAt": 1525729862,
+                            "_updatedAt": 1559907185,
+                            "id": "2154017180",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907185,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Log Into Facebook",
+                                "itemId": "3903159285",
+                                "resolvedId": "3903159285",
+                                "resolvedUrl": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3Dhttps%253A%252F%252Fad.doubleclick.net%252Fddm%252Ftrackclk%252FN296811.1960500FACEBOOKAD%252FB22191336.238392717%253Bdc_trk_aid%253D435395392%253Bdc_trk_cid%253D111046890%253Bdc_lat%253D%253Bdc_rdid%253D%253Btag_for_child_directed_treatment%253D%253Btfua%253D%253Bv%253Fhttps%253A%252F%252Fwww.nytimes.com%252F2019%252F08%252F15%252Fsmarter-living%252Fwhat-makes-people-charismatic-and-how-you-can-be-too.html%253Fmc%253Dadintl%26h%3DAT0ynHW6Z9f3fie7TYoJXQetxvwx1W7HBbXS-GdgTHf65_J5s3HPg6-kadxIEuxHzvYe9l0XsfM2Xg7RREJbItLfmDDRmMfKxnf78lrJjDWeQ5ulEjGqIf9SAd6hFzXTFIDwMgoKV2zCr4MjjIyeP2EPiKjqwBanQGGDAAJQ_ddrfLBDtXGXPAh5Gvb_6oMsKhboG8qBfh31ZZIc2JluQxjPZe5BOZySpJK8ZJbukEWcr4cYVL3lEjOQSozV4yKyNoLR4XE7vcFqsU6Dzw98PdFCyvQ_p6NLMUNFQ7fBvHcOgsrafi1NwH023_hMpK3H1fiXag57kdKXx3NQU5xBDd2lIp8IwNMowptlozHzWGdFH2mv1SdXXIGfhHKWLyGRjTGSpUXeZ-M-uyoCaf4HIPDW27pOCBEMqXz8orDsELlChDo-fLzDXZdcYM-7nxgUH1vpOHvp-GweOMuzlw5YdSzr0d-pOIfzQjCd8qKOL1UfPG0RiS63AB5lZwAvVA6VN3HccNherZXzMgnKq5H9j9ZtSu9lb8aBbpVxnpgV3n2zbBq4Cil5w1mAeHZWKq8o4OvTAUFoWee1wZYaE79xLAMGGSB5NbITg-9f-g7R8g0mPVKOxi8ET7CHu4ujaI_Kg4c-b5K7Q-P9Wb14jJS2dDXW9ys0UJr67ZI1jxzyZoJeT9YHD84vZAuTcauqa0RtA9ZBNTNL7U9OhBBKsK7vr25el-xOqIGarS_q4dwGBLhT0zdYfsueIRdLeB5O7cPS-EEDNuUGeS9kOqxcQdinXN6g1g67vWBHWfL-zJ9lGsZ-GipL7CRjP5k3XPN0ofzrN4gUEUyCbcDdna5MxFLHQIAGDD7RVw9Ye74t1CU_ogWnezAADGYjzlmn-TmHc_WaqtCsGJ_yO-ejrHwpkisUk1OvJ7U3l2x0Si-k6buA-OiRxd-kds5m--iC4i86im4jMrBG7y5pwZFrI2gHQSPk51YwJaiazvoBypinoC6b3fTCO-o-Mm7ib97CTw6cvy5yH9R0DlgzrDKRfnElI7XPLda_ztt7XDyP3C9T-zBmFJdeMwg8Kz1dj4wWCuCjpKk2P0h1s4xsU_F4IB23K_9VpFgKV7TDRSwY214tF6SRJW2_zRVs6dlXYHk5jnGVvPDdjRHMQGFw0q0EcQedDZS26uqssVi5OT0-ftAeCPZVGElMmWwNs5GaOL0xiilAvdKctdC0ygayu555xANT-_jKhSVeBXoTk9rFBfV246ouU5ctALtdTieZKDKDbtE4_Li79ME_JLlJL8yPYzHBIXjaczC5W93ydKAxq3TO0g",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Facebook"
+                                },
+                                "excerpt": "NoticeYou must log in to continue.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.nytimes.com/guides/smarterliving/how-to-tell-a-good-story",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE3ODU4MTcxMl8qXzE1NTk5MDcxODY=",
+                        "node": {
+                            "url": "https://www.newyorker.com/magazine/2018/05/14/is-capitalism-a-threat-to-democracy",
+                            "_createdAt": 1526052497,
+                            "_updatedAt": 1559907186,
+                            "id": "2178581712",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907186,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is Capitalism a Threat to Democracy?",
+                                "itemId": "2178581712",
+                                "resolvedId": "2178581712",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2018/05/14/is-capitalism-a-threat-to-democracy",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "In London, in the nineteen-thirties, the émigré Hungarian intellectual Karl Polanyi was known among his friends as “the apocalyptic chap.” His gloom was understandable.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/cartoons/5aec7d195194e335e3fa4226/master/w_1600%2Cc_limit/180514_a21830_rd.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“Let me just charge it for ten more seconds.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/cartoons/5aea36b1a16da3131f322f96/master/w_1600%2Cc_limit/180514_a21768.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "A new book blames authoritarianism on politicians entranced by the free market.Illustration by Alvaro Dominguez; photograph from iStock / Getty",
+                                        "credit": "Illustration  Alvaro Dominguez; photograph from iStock / Getty",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/5aea36b10d84e8426b1b2607/master/w_2560%2Cc_limit/180514_r32053_rd.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1524510992/thenewyorker_the-new-yorker-interview-james-comey-on-the-clinton-emails-and-guilt.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/5909666f1c7a8e33fb38d5e8/4:3/w_480%2Cc_limit/121029_r22744_g2048.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.newyorker.com/photos/59093145c14b3c606c1028f2/4:3/w_480%2Cc_limit/070709_r16400_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://media.newyorker.com/photos/59097b4c2179605b11ad8eb5/4:3/w_480%2Cc_limit/161107_r28960.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5aea36b10d84e8426b1b2607/16:9/w_1280,c_limit/180514_r32053_rd.jpg",
+                                "timeToRead": 24,
+                                "givenUrl": "https://www.newyorker.com/magazine/2018/05/14/is-capitalism-a-threat-to-democracy",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "75929766",
+                                        "name": "Caleb Crain",
+                                        "url": "https://www.newyorker.com/contributors/caleb-crain"
+                                    }
+                                ],
+                                "datePublished": "2018-05-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjE4NTU4MDQ1OF8qXzE1NTk5MDcxODg=",
+                        "node": {
+                            "url": "https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b",
+                            "_createdAt": 1526248229,
+                            "_updatedAt": 1559907188,
+                            "id": "2185580458",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907188,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The State of Cryptocurrency Mining",
+                                "itemId": "2185580458",
+                                "resolvedId": "2185580458",
+                                "resolvedUrl": "https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.sia.tech"
+                                },
+                                "excerpt": "For those new to the blog, I am the lead developer of Sia, a blockchain based cloud storage platform. About a year ago, myself and some members of the Sia team started Obelisk, a cryptocurrency ASIC manufacturing company.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 415,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1400/1*zS5JJg6O8ui-YPmg1YyUlg.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 475,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1400/1*d4kRJqBZptSRllsZxi3x2g.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 519,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1400/1*ObAVve152J8ZgsYfmurFhA.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 580,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1400/1*fa95pGGJW7IwNmJ9i-trAw.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 384,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/1280/1*vCavJbynuPz6vN2-kBlgAQ.jpeg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 395,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1400/1*Z181JtkbMxFz5cWbhGOO6w.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 467,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1400/1*8tpjrEKivwUC_cP1tWYjpw.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 934,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/1400/1*loX6xVHnIJ4ni0wMrYrJVw.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 394,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1400/1*L0QW-szREoN9hr5-pi6P2A.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 865,
+                                        "imageId": 10,
+                                        "src": "https://miro.medium.com/max/1400/1*PMKmuPxAEE7Nd7iCmCGX1g.jpeg",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*zS5JJg6O8ui-YPmg1YyUlg.jpeg",
+                                "timeToRead": 24,
+                                "givenUrl": "https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "89543741",
+                                        "name": "David Vorick",
+                                        "url": "https://medium.com/@davidvorick"
+                                    }
+                                ],
+                                "datePublished": "2018-05-13 22:31:22",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjIxOTAyMDUyNl8qXzE1NTk5MDcxOTA=",
+                        "node": {
+                            "url": "https://www.nytimes.com/2018/06/09/technology/elon-musk-mark-zuckerberg-artificial-intelligence.html",
+                            "_createdAt": 1528668903,
+                            "_updatedAt": 1559907190,
+                            "id": "2219020526",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907190,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Mark Zuckerberg, Elon Musk and the Feud Over Killer Robots",
+                                "itemId": "2219020526",
+                                "resolvedId": "2219020526",
+                                "resolvedUrl": "https://www.nytimes.com/2018/06/09/technology/elon-musk-mark-zuckerberg-artificial-intelligence.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "SAN FRANCISCO — Mark Zuckerberg thought his fellow Silicon Valley billionaire Elon Musk was behaving like an alarmist. Mr.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 787,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2018/06/10/business/10MUSK/10MUSK-articleLarge.gif?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 750,
+                                        "imageId": 2,
+                                        "src": "https://static01.nyt.com/images/2018/06/10/business/10musk-2/merlin_127132523_6272d5e0-102f-48f9-b158-fb662a63de92-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2018/06/10/business/10MUSK/10MUSK-facebookJumbo.gif?year=2018&h=550&w=1050&s=266aff0459ab3e234c646fbe8fd53880b40fb3bd4e11e7a60006b638a6c8646c&k=ZQJBKqZ0VN",
+                                "timeToRead": 10,
+                                "givenUrl": "https://www.nytimes.com/2018/06/09/technology/elon-musk-mark-zuckerberg-artificial-intelligence.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "82689593",
+                                        "name": "Cade Metz",
+                                        "url": "https://www.nytimes.com/by/cade-metz"
+                                    }
+                                ],
+                                "datePublished": "2018-06-09 04:00:05",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NzUyNjIzNDc4XypfMTU1OTkwNzE5MQ==",
+                        "node": {
+                            "url": "http://calteches.library.caltech.edu/51/2/CargoCult.htm",
+                            "_createdAt": 1528751250,
+                            "_updatedAt": 1559907191,
+                            "id": "752623478",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907191,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Cargo Cult Science",
+                                "itemId": "752623478",
+                                "resolvedId": "752623478",
+                                "resolvedUrl": "http://calteches.library.caltech.edu/51/2/CargoCult.htm",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "calteches.library.caltech.edu"
+                                },
+                                "excerpt": "Some remarks on science, pseudoscience, and learning how to not fool yourself. Caltech’s 1974 commencement address. During the Middle Ages there were all kinds of crazy ideas, such as that a piece of rhinoceros horn would increase potency.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://calteches.library.caltech.edu/51/2/CargoCult.htm",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjIyMzgzNjczOF8qXzE1NTk5MDcxOTM=",
+                        "node": {
+                            "url": "https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism",
+                            "_createdAt": 1528987513,
+                            "_updatedAt": 1559907193,
+                            "id": "2223836738",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907193,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "AI Nationalism — Ian Hogarth",
+                                "itemId": "2223836738",
+                                "resolvedId": "2223836738",
+                                "resolvedUrl": "https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ianhogarth.com"
+                                },
+                                "excerpt": "This presents issues for the US and China and even bigger issues for other countries when it comes to redistributing the gains from automation and reducing inequality.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "http://static1.squarespace.com/static/59f8abcc017db203f429ac7a/t/5b212e2403ce644903061152/1528901170694/manufacturing+vs+construction.png?format=1500w",
+                                "timeToRead": 14,
+                                "givenUrl": "https://www.ianhogarth.com/blog/2018/6/13/ai-nationalism",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "80766111",
+                                        "name": "Ian Hogarth",
+                                        "url": "https://www.ianhogarth.com/?author=59f8aaea6f935ed5761d215a"
+                                    }
+                                ],
+                                "datePublished": "2018-06-13 10:50:12",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjIyNjcxNzkxN18qXzE1NTk5MDcxOTY=",
+                        "node": {
+                            "url": "https://www.52-insights.com/freeman-dyson-i-kept-quiet-for-30-years-so-maybe-its-time-to-speak-interview-science/",
+                            "_createdAt": 1529381683,
+                            "_updatedAt": 1559907196,
+                            "id": "2226717917",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907196,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Freeman Dyson \"I kept quiet for thirty years, maybe it’s time to speak.\"",
+                                "itemId": "2226717917",
+                                "resolvedId": "2226717917",
+                                "resolvedUrl": "https://www.52-insights.com/freeman-dyson-i-kept-quiet-for-30-years-so-maybe-its-time-to-speak-interview-science/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "52-insights.com"
+                                },
+                                "excerpt": "On closer inspection, it feels as if Dyson has lived a double life. On the one hand, playing the role of philosopher, and on the other, a scientist labouring over some of mathematics’ most complex problems, all without a PhD we might add.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.52-insights.com/wp-content/uploads/2018/06/FM_Cover.jpg",
+                                "timeToRead": 15,
+                                "givenUrl": "https://www.52-insights.com/freeman-dyson-i-kept-quiet-for-30-years-so-maybe-its-time-to-speak-interview-science/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2018-06-15 08:58:27",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjIyNTMyNzAwMF8qXzE1NTk5MDcxOTk=",
+                        "node": {
+                            "url": "https://harpers.org/archive/2018/07/the-death-of-new-york-city-gentrification/",
+                            "_createdAt": 1529381813,
+                            "_updatedAt": 1559907199,
+                            "id": "2225327000",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907199,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Death of a Once Great City, by Kevin Baker",
+                                "itemId": "2225327000",
+                                "resolvedId": "2225327000",
+                                "resolvedUrl": "https://harpers.org/archive/2018/07/the-death-of-new-york-city-gentrification/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harper's Magazine"
+                                },
+                                "excerpt": "New York has been my home for more than forty years, from the year after the city’s supposed nadir in 1975, when it nearly went bankrupt.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Construction on 57th Street, Billionaires’ Row, by Fred R. Conrad",
+                                        "credit": "",
+                                        "height": 419,
+                                        "imageId": 1,
+                                        "src": "https://harpers.org/wp-content/uploads/2018/07/036__HA0718_36-1.png",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "51st St. 6:11 pm, from the series Platforms, by Natan Dvir © The artist",
+                                        "credit": "",
+                                        "height": 211,
+                                        "imageId": 2,
+                                        "src": "https://harpers.org/wp-content/uploads/2018/07/027__HA0718_27-1.png",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "Drawing by Steve Mumford",
+                                        "credit": "",
+                                        "height": 448,
+                                        "imageId": 3,
+                                        "src": "https://harpers.org/wp-content/uploads/2018/07/026__HA0718_26-1.png",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "Photographs of scaffolding on Broadway by Elizabeth Bick",
+                                        "credit": "",
+                                        "height": 472,
+                                        "imageId": 4,
+                                        "src": "https://harpers.org/wp-content/uploads/2018/07/034__HA0718_34-1-1.png",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "Photographs by Isaac Diggs and Edward Hillel. Above: Impromptu Michael Jackson memorial on a barricade next to the Apollo Theater, 2009, from 125th: Time in Harlem. Below: A Red Lobster opening on the same lot, 2014",
+                                        "credit": "",
+                                        "height": 496,
+                                        "imageId": 5,
+                                        "src": "https://harpers.org/wp-content/uploads/2018/07/041__HA0718_41-3.png",
+                                        "width": 390
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 408,
+                                        "imageId": 6,
+                                        "src": "https://harpers.org/wp-content/uploads/2018/06/cover-image.png",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://harpers.org/wp-content/uploads/2018/07/033__HA0718_33-1a.png",
+                                "timeToRead": 59,
+                                "givenUrl": "https://harpers.org/archive/2018/07/the-death-of-new-york-city-gentrification/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67969218",
+                                        "name": "Kevin Baker",
+                                        "url": "https://harpers.org/author/kevinbaker/"
+                                    }
+                                ],
+                                "datePublished": "2021-12-29 14:02:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MzY3ODk1NDU3XypfMTU1OTkwNzIwNg==",
+                        "node": {
+                            "url": "https://about-france.com/tourism/french-phrases.htm",
+                            "_createdAt": 1530872745,
+                            "_updatedAt": 1559907207,
+                            "id": "367895457",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907206,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Vital French for visitors",
+                                "itemId": "367895457",
+                                "resolvedId": "367895457",
+                                "resolvedUrl": "https://about-france.com/tourism/french-phrases.htm",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "about-france.com"
+                                },
+                                "excerpt": "Survive in France... If you don't speak any French, be reassured; here's the good news! Lots of people in France speak English, specially young people, and people working in tourism in Paris and the main holiday regions.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://about-france.com/photos5/paris-night3.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://about-france.com/tourism/french-phrases.htm",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62723569",
+                                        "name": "About-France.com",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTc5NjE5ODcxN18qXzE1NTk5MDcyMDg=",
+                        "node": {
+                            "url": "https://www.fluentu.com/blog/french/useful-french-phrases-for-travelers/",
+                            "_createdAt": 1530872774,
+                            "_updatedAt": 1559907208,
+                            "id": "1796198717",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907208,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "13 French Travel Phrases You Need To Know For Your Trip",
+                                "itemId": "1796198717",
+                                "resolvedId": "1796198717",
+                                "resolvedUrl": "https://www.fluentu.com/blog/french/useful-french-phrases-for-travelers/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "fluentu.com"
+                                },
+                                "excerpt": "Do you really need to learn French travel phrases before your trip? You’ve probably heard the stereotype that French people are super rude.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 360,
+                                        "imageId": 1,
+                                        "src": "http://img.youtube.com/vi/5-RY4AxfrRU/0.jpg",
+                                        "width": 480
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "5-RY4AxfrRU",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/5-RY4AxfrRU?feature=oembed"
+                                    },
+                                    {
+                                        "vid": "LHVkERHXGr0",
+                                        "videoId": 2,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/LHVkERHXGr0?feature=oembed"
+                                    },
+                                    {
+                                        "vid": "7tyAIbedBWE",
+                                        "videoId": 3,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/7tyAIbedBWE?feature=oembed"
+                                    },
+                                    {
+                                        "vid": "IEuh17Uik7k",
+                                        "videoId": 4,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/IEuh17Uik7k"
+                                    }
+                                ],
+                                "topImageUrl": "https://www.fluentu.com/blog/french/wp-content/uploads/sites/3/2014/10/french-travel-phrases-1-1024x683.jpg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://www.fluentu.com/blog/french/useful-french-phrases-for-travelers/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "76653813",
+                                        "name": "Emily Monaco",
+                                        "url": "https://www.fluentu.com/blog/french/author/emilymonaco/"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTgzNDczMjAzMV8qXzE1NTk5MDcyMDk=",
+                        "node": {
+                            "url": "https://www.talkinfrench.com/essential-french-travel-phrases/",
+                            "_createdAt": 1530872826,
+                            "_updatedAt": 1559907209,
+                            "id": "1834732031",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907209,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "40 Essential French Phrases to Master Before You Head Off to France",
+                                "itemId": "1834732031",
+                                "resolvedId": "1834732031",
+                                "resolvedUrl": "https://www.talkinfrench.com/essential-french-travel-phrases/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "talkinfrench.com"
+                                },
+                                "excerpt": "Travelling to France soon? Whether you’ll be staying in France for just a few days or for several weeks, you’ll need to brush up on some essential French travel phrases. Trust me---it makes a huge difference on how much you’re going to enjoy your trip",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://mlluuqeqwsjx.i.optimole.com/QpZWP9g-dBL5VK6h/w:auto/h:auto/q:auto/https://www.talkinfrench.com/wp-content/uploads/2017/07/French-Travel-Phrases-for-Tourists-Twitter-1.png",
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.talkinfrench.com/essential-french-travel-phrases/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "23987839",
+                                        "name": "Frederic Bibard",
+                                        "url": "https://www.talkinfrench.com/author/fredo21/"
+                                    }
+                                ],
+                                "datePublished": "2019-07-19 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjI0ODk4NzcxOV8qXzE1NTk5MDcyMTI=",
+                        "node": {
+                            "url": "https://amp.travelandleisure.com/travel-tips/basic-french-words-phrases?source=dam",
+                            "_createdAt": 1530872855,
+                            "_updatedAt": 1559907212,
+                            "id": "2248987719",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907212,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Basic French Words, Phrases, and Sayings Every Traveler Should Know",
+                                "itemId": "1750474746",
+                                "resolvedId": "1750474746",
+                                "resolvedUrl": "https://www.travelandleisure.com/travel-tips/basic-french-words-phrases",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Travel + Leisure"
+                                },
+                                "excerpt": "These are the basic French words, phrases, and slang to know for your next trip to France.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "Marlene Awaad/Bloomberg via Getty Images",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2017%2F05%2Fparis-cafe-PHRASES0517.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1600&h=800&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2017%2F05%2Fparis-cafe-PHRASES0517.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "https://amp.travelandleisure.com/travel-tips/basic-french-words-phrases?source=dam",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "21268341",
+                                        "name": "Jess McHugh",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2020-09-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTgyODk1NTQwOF8qXzE1NTk5MDcyMTM=",
+                        "node": {
+                            "url": "https://www.theintrepidguide.com/french-travel-phrase-guide-pronunciation/",
+                            "_createdAt": 1530873020,
+                            "_updatedAt": 1559907215,
+                            "id": "1828955408",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907213,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "60+ French Phrases for Travel You Need to Know [PLUS Printable]",
+                                "itemId": "3131369770",
+                                "resolvedId": "3131369770",
+                                "resolvedUrl": "https://www.theintrepidguide.com/top-french-phrases-for-travel/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "theintrepidguide.com"
+                                },
+                                "excerpt": "Learning some French will offer you further insight into the French culture, mentality, and way of life.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 960,
+                                        "imageId": 1,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2017/06/Top-French-Phrases-for-Travel-Lourve-Museum.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1608,
+                                        "imageId": 2,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2017/06/Top-French-Phrases-for-Travel-Arc-de-Triomphe-at-sunset.jpg",
+                                        "width": 1390
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1403,
+                                        "imageId": 3,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2017/06/Top-French-Phrases-for-Travel-Pont-Alexandre-III.jpg",
+                                        "width": 900
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 960,
+                                        "imageId": 4,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2017/06/Top-French-Phrases-for-Travel-Montparnasse-Tower-sunset.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 890,
+                                        "imageId": 5,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2017/06/Top-French-Phrases-for-Travel-Cruise-down-the-seine-river.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 800,
+                                        "imageId": 6,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2017/06/Basic-French-Phrases-for-Travel.jpg",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 541,
+                                        "imageId": 7,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2018/02/How-to-Master-French-for-Travel-FAST.jpg",
+                                        "width": 961
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 150,
+                                        "imageId": 8,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2020/07/Testimonial-How-to-Learn-French-for-Travel-Basil.jpg",
+                                        "width": 150
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 3834,
+                                        "imageId": 9,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2017/06/French-Travel-Phrase-Guide-Infographic-1.jpg",
+                                        "width": 650
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1500,
+                                        "imageId": 10,
+                                        "src": "https://www.theintrepidguide.com/wp-content/uploads/2020/06/Top-French-Phrases-for-Travel-Downloadable-Guide-with-Pronunciation-Tips.jpg",
+                                        "width": 702
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "hD1KyIZBvvQ",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/hD1KyIZBvvQ"
+                                    },
+                                    {
+                                        "vid": "IPLlc-IHkeE",
+                                        "videoId": 2,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/IPLlc-IHkeE"
+                                    },
+                                    {
+                                        "vid": "0qIJ5dQ-LYI",
+                                        "videoId": 3,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/0qIJ5dQ-LYI"
+                                    },
+                                    {
+                                        "vid": "BZvzJ-YRLuo",
+                                        "videoId": 4,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/BZvzJ-YRLuo"
+                                    }
+                                ],
+                                "topImageUrl": "https://www.theintrepidguide.com/wp-content/uploads/2020/06/Top-French-Phrases-for-Travel-and-Printable-Guide.jpg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://www.theintrepidguide.com/french-travel-phrase-guide-pronunciation/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "88466018",
+                                        "name": "Michele",
+                                        "url": "https://www.theintrepidguide.com/author/michele207hotmail-com/"
+                                    }
+                                ],
+                                "datePublished": "2020-07-08 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTg5NDE3NDg3NV8qXzE1NTk5MDcyMTU=",
+                        "node": {
+                            "url": "https://www.fluentu.com/blog/french/french-shopping-vocabulary-words-phrases-list/",
+                            "_createdAt": 1530873294,
+                            "_updatedAt": 1559907215,
+                            "id": "1894174875",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907215,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "French Shopping Vocabulary: All The Essentials for Shopping in France",
+                                "itemId": "1894174875",
+                                "resolvedId": "1894174875",
+                                "resolvedUrl": "https://www.fluentu.com/blog/french/french-shopping-vocabulary-words-phrases-list/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "fluentu.com"
+                                },
+                                "excerpt": "Twice a year, France becomes the ultimate destination for lovers of la mode (fashion). In January and in June, the soldes (sales) arrive! Each one of these bi-annual sales lasts for just over a month, and they are perfect opportunities to upgrade your wardrobe.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.fluentu.com/blog/french/wp-content/uploads/sites/3/2014/08/Paris-shopping.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.fluentu.com/blog/french/french-shopping-vocabulary-words-phrases-list/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "84975276",
+                                        "name": "anaiwataki",
+                                        "url": "https://www.fluentu.com/blog/french/author/anaiwataki/"
+                                    }
+                                ],
+                                "datePublished": "2022-04-09 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTY1OTAzODMyN18qXzE1NTk5MDcyMTY=",
+                        "node": {
+                            "url": "https://www.dummies.com/languages/french/french-vocabulary-for-shopping/",
+                            "_createdAt": 1530873322,
+                            "_updatedAt": 1559907216,
+                            "id": "1659038327",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907216,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "French Vocabulary for Shopping",
+                                "itemId": "3918682531",
+                                "resolvedId": "3918682531",
+                                "resolvedUrl": "https://www.dummies.com/article/academics-the-arts/language-language-arts/learning-languages/french/french-vocabulary-for-shopping-195724/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "dummies.com"
+                                },
+                                "excerpt": "Develop a French shopping vocabulary to gain a new cultural experience when traveling. Whether you're shopping for clothes, food, or souvenirs, you can use the following phrases in any French-speaking country to help you find just the right thing.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.dummies.com/images/logo.png",
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.dummies.com/languages/french/french-vocabulary-for-shopping/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "169913395",
+                                        "name": "Zoe Erotopoulos",
+                                        "url": "https://www.dummies.com/author/zoe-erotopoulos-9680/"
+                                    }
+                                ],
+                                "datePublished": "2016-03-26 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MzIwNTYzNzU4XypfMTU1OTkwNzIxNw==",
+                        "node": {
+                            "url": "http://www.french-linguistics.co.uk/phrase_book/en/shopping.html",
+                            "_createdAt": 1530873371,
+                            "_updatedAt": 1559907218,
+                            "id": "320563758",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907217,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "French Phrases: Shopping in French",
+                                "itemId": "320563758",
+                                "resolvedId": "320563758",
+                                "resolvedUrl": "http://www.french-linguistics.co.uk/phrase_book/en/shopping.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "french-linguistics.co.uk"
+                                },
+                                "excerpt": "Notes: 1. An hypermarché or 'hypermarket' consists of a large supermarket with a series of other small shops attached. They are generally designed for access by road and found on the edges of towns and cities. 2. The chain is called la Fnac.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.french-linguistics.co.uk/phrase_book/en/shopping.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "219640",
+                                        "name": "Neil Coffey. Copyright",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjAyMjAxMDkyM18qXzE1NTk5MDcxNDE=",
+                    "endCursor": "MzIwNTYzNzU4XypfMTU1OTkwNzIxNw=="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

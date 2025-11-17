@@ -1,0 +1,1913 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTM4MDQ2MzkwNF8qXzE0NzU1NDMwNjE=",
+                        "node": {
+                            "url": "http://www.washingtonpost.com/classic-apps/stepping-out-of-steve-jobss-shadow-tim-cook-champions-the-promise-of-apple/2016/08/12/fadb6c26-59cd-11e6-831d-0324760ca856_story.html",
+                            "_createdAt": 1471964177,
+                            "_updatedAt": 1475544052,
+                            "id": "1380463904",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543061,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Tim Cook, the interview: Running Apple ‘is sort of a lonely job’",
+                                "itemId": "1380463904",
+                                "resolvedId": "1380463904",
+                                "resolvedUrl": "https://www.washingtonpost.com/classic-apps/stepping-out-of-steve-jobss-shadow-tim-cook-champions-the-promise-of-apple/2016/08/12/fadb6c26-59cd-11e6-831d-0324760ca856_story.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "Apple’s CEO talks iPhones, AI, privacy, civil rights, missteps, China, taxes, Steve Jobs — and steers right past the car rumors",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/07/28/Others/Images/2016-07-28/Burton_WaPo_TimCook_0201469749513.jpg?t=20170517",
+                                "timeToRead": null,
+                                "givenUrl": "http://www.washingtonpost.com/classic-apps/stepping-out-of-steve-jobss-shadow-tim-cook-champions-the-promise-of-apple/2016/08/12/fadb6c26-59cd-11e6-831d-0324760ca856_story.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "59431516",
+                                        "name": "Jena McGregor",
+                                        "url": "https://www.washingtonpost.com/people/jena-mcgregor/"
+                                    }
+                                ],
+                                "datePublished": "2016-08-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMxMjY1ODQxMF8qXzE0NzU1NDMwNzA=",
+                        "node": {
+                            "url": "http://arstechnica.co.uk/science/2016/06/what-is-open-access-free-sharing-of-all-human-knowledge/",
+                            "_createdAt": 1471964394,
+                            "_updatedAt": 1475544052,
+                            "id": "1312658410",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543070,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Open access: All human knowledge is there—so why can’t everybody access it?",
+                                "itemId": "1323618096",
+                                "resolvedId": "1323618096",
+                                "resolvedUrl": "https://arstechnica.com/science/2016/06/what-is-open-access-free-sharing-of-all-human-knowledge/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Ars Technica"
+                                },
+                                "excerpt": "In 1836, Anthony Panizzi, who later became principal librarian of the British Museum, gave evidence before a parliamentary select committee. At that time, he was only first assistant librarian, but even then he had an ambitious vision for what would one day became the British Library.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Diliff",
+                                        "credit": "Diliff",
+                                        "height": 218,
+                                        "imageId": 1,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/05/British_Museum_Reading_Room_Panorama_Feb_2006-640x218.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / Journal subscriptions are so expensive, even Harvard University can't afford them.",
+                                        "credit": "Joseph Williams",
+                                        "height": 427,
+                                        "imageId": 2,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/ArsHarvard_University_Widener_Library.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "arXiv: Not much to look at, but it's become a great tool.",
+                                        "credit": "",
+                                        "height": 188,
+                                        "imageId": 3,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/arX-640x188.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Liberating research in the US—not an easy task.",
+                                        "credit": "Mr.TinDC",
+                                        "height": 426,
+                                        "imageId": 4,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/02/lawbooks-640x426.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge /  The UK's House of Commons science and technology committee was a pioneer in exploring open access.",
+                                        "credit": "UK Government",
+                                        "height": 425,
+                                        "imageId": 5,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/ArsSci.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "So-called \"hybrid\" journals are much more popular in the UK than elsewhere.",
+                                        "credit": "Monitoring the Transition to Open Access",
+                                        "height": 345,
+                                        "imageId": 6,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/ArsHybrid.png",
+                                        "width": 604
+                                    },
+                                    {
+                                        "caption": "Enlarge / PeerJ is trying a new way to fund its publications.",
+                                        "credit": "PeerJ",
+                                        "height": 241,
+                                        "imageId": 7,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/Screen-Shot-2016-06-17-at-11.10.25-AM.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / The Higher Education Funding Council for England decided to go for green open access.",
+                                        "credit": "HEFCE",
+                                        "height": 163,
+                                        "imageId": 8,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/Screen-Shot-2016-06-17-at-11.09.04-AM.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / Elsevier recently acquired the Social Science Research Network.",
+                                        "credit": "SSRN",
+                                        "height": 339,
+                                        "imageId": 9,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/Screen-Shot-2016-06-17-at-11.07.54-AM.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / Aaron Swartz at the Creative Commons Salon, San Francisco, in 2006.",
+                                        "credit": "Buzz Andersen",
+                                        "height": 426,
+                                        "imageId": 10,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2013/01/110171721_5ed51b124d_o.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / Sci-Hub has over 47,000,000 papers, and counting...",
+                                        "credit": "Sci-Hub",
+                                        "height": 275,
+                                        "imageId": 11,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/06/Screen-Shot-2016-06-17-at-11.03.50-AM.png",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / Sci-Hub users are found everywhere, including in wealthier countries.",
+                                        "credit": "Science magazine",
+                                        "height": 226,
+                                        "imageId": 12,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/05/scihub-science.png",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/05/British_Museum_Reading_Room_Panorama_Feb_2006-640x218.jpg",
+                                "timeToRead": 53,
+                                "givenUrl": "http://arstechnica.co.uk/science/2016/06/what-is-open-access-free-sharing-of-all-human-knowledge/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62416526",
+                                        "name": "Glyn Moody",
+                                        "url": "https://arstechnica.com/author/glyn_moody/"
+                                    }
+                                ],
+                                "datePublished": "2016-06-17 11:30:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM4OTY1NDUxNV8qXzE0NzU1NDMwNzY=",
+                        "node": {
+                            "url": "https://bankunderground.co.uk/2016/08/23/its-time-to-bring-more-realistic-models-of-human-behaviour-into-economic-policy-and-regulation/",
+                            "_createdAt": 1472001907,
+                            "_updatedAt": 1475544052,
+                            "id": "1389654515",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543076,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "It’s time to bring more realistic models of human behaviour into economic policy and regulation",
+                                "itemId": "1389654515",
+                                "resolvedId": "1389654515",
+                                "resolvedUrl": "https://bankunderground.co.uk/2016/08/23/its-time-to-bring-more-realistic-models-of-human-behaviour-into-economic-policy-and-regulation/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "bankunderground.co.uk"
+                                },
+                                "excerpt": "David Halpern. The Centre for Central Banking Studies recently hosted their annual Chief Economists Workshop, whose theme was “What can policymakers learn from other disciplines”.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 75,
+                                        "imageId": 1,
+                                        "src": "https://i2.wp.com/bankunderground.co.uk/wp-content/uploads/2017/06/bu-guest-post2.png?ssl=1",
+                                        "width": 75
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://bankunderground.co.uk/wp-content/uploads/2016/08/figure_1.png",
+                                "timeToRead": 7,
+                                "givenUrl": "https://bankunderground.co.uk/2016/08/23/its-time-to-bring-more-realistic-models-of-human-behaviour-into-economic-policy-and-regulation/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "105372686",
+                                        "name": "BankUnderground",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-08-23 01:30:19",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5MTA0MDYxOV8qXzE0NzU1NDMwNzk=",
+                        "node": {
+                            "url": "https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html",
+                            "_createdAt": 1472082746,
+                            "_updatedAt": 1475544052,
+                            "id": "1391040619",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543079,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Adit Deshpande – Engineering at Forward : UCLA CS '19",
+                                "itemId": "1391040619",
+                                "resolvedId": "1391040619",
+                                "resolvedUrl": "https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "adeshpande3.github.io"
+                                },
+                                "excerpt": "The Last 5 Years In Deep Learning We've come quite a long way Read More",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://adeshpande3.github.io/adeshpande3.github.io/assets/Cover11th.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "53325162",
+                                        "name": "Adit Deshpande",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Nzg1NDc0ODc0XypfMTQ3NTU0MzA4MQ==",
+                        "node": {
+                            "url": "http://www.gwern.net/Complexity%20vs%20AI",
+                            "_createdAt": 1472082864,
+                            "_updatedAt": 1475544052,
+                            "id": "785474874",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543081,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Complexity no Bar to AI · Gwern.net",
+                                "itemId": "1949330650",
+                                "resolvedId": "1949330650",
+                                "resolvedUrl": "https://www.gwern.net/Complexity-vs-AI",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "gwern.net"
+                                },
+                                "excerpt": "Computational complexity theory describes the steep increase in computing power required for many algorithms to solve larger problems; frequently, the increase is large enough to render problems a few times larger totally intractable. Many of these algorithms are used in AI-relevant contexts.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Intelligence growth under Various Difficulty Assumptions: where “intelligence is defined as”ability to do A.I. R&D” and an entity of intelligence = 1 is capable of creating an entity of intelligence = 2, eg. x2 means it is 4 times as hard to develop 2 units of intelligence as it is to develop 1 unit of intelligence because 22⁄12 = 4.”",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 1,
+                                        "src": "https://www.gwern.net/images/ai/2014-02-whyaiswontascend-figure1-intelligencegrowthunderdifficulty.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "Sauron explains to Spider-Man why he is unfriendly.",
+                                        "credit": "",
+                                        "height": 1024,
+                                        "imageId": 2,
+                                        "src": "https://www.gwern.net/images/ai/2015-01-28-spidermanandthexmen-vol1-no2-sauron-cancerdinosaurs.jpg",
+                                        "width": 868
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.gwern.net/static/img/logo/logo-whitebg-large-border.png",
+                                "timeToRead": 39,
+                                "givenUrl": "http://www.gwern.net/Complexity%20vs%20AI",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "42958109",
+                                        "name": "Gwern Branwen",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2014-06-01 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM3ODkyNTcxMl8qXzE0NzU1NDMwODU=",
+                        "node": {
+                            "url": "https://glyph.twistedmatrix.com/2016/08/attrs.html",
+                            "_createdAt": 1472664192,
+                            "_updatedAt": 1475544053,
+                            "id": "1378925712",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543085,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The One Python Library Everyone Needs",
+                                "itemId": "1378925712",
+                                "resolvedId": "1378925712",
+                                "resolvedUrl": "https://glyph.twistedmatrix.com/2016/08/attrs.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "glyph.twistedmatrix.com"
+                                },
+                                "excerpt": "Do you write programs in Python? You should be using attrs. Why, you ask? Don’t ask. Just use it.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://en.gravatar.com/userimage/4935940/3f36deb2aefc09c0bcd985db2458f2b5.png",
+                                "timeToRead": 10,
+                                "givenUrl": "https://glyph.twistedmatrix.com/2016/08/attrs.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "3840184",
+                                        "name": "Glyph Lefkowitz",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-08-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "ODU2MzA0MDFfKl8xNDc1NTQzMDg4",
+                        "node": {
+                            "url": "https://www.edge.org/conversation/the-neurology-of-self-awareness",
+                            "_createdAt": 1472936512,
+                            "_updatedAt": 1475544053,
+                            "id": "85630401",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543088,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Neurology of Self-Awareness",
+                                "itemId": "3345012102",
+                                "resolvedId": "3345012102",
+                                "resolvedUrl": "https://www.edge.org/conversation/vilayanur_ramachandran-the-neurology-of-self-awareness",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Edge"
+                                },
+                                "excerpt": "What is the self? How does the activity of neurons give rise to the sense of being a conscious human being? Even this most ancient of philosophical problems, I believe, will yield to the methods of empirical science.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "https://www.edge.org/conversation/the-neurology-of-self-awareness",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "47140009",
+                                        "name": "Vilayanur Ramachandran",
+                                        "url": "https://www.edge.org/memberbio/vilayanur_ramachandran"
+                                    }
+                                ],
+                                "datePublished": "2021-05-30 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM4NTQyNjkyOV8qXzE0NzU1NDMxMjE=",
+                        "node": {
+                            "url": "https://www.thoughtworks.com/insights/blog/blockchain-under-hood",
+                            "_createdAt": 1473305974,
+                            "_updatedAt": 1475544053,
+                            "id": "1385426929",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543121,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Blockchain: Under the Hood",
+                                "itemId": "1385426929",
+                                "resolvedId": "1385426929",
+                                "resolvedUrl": "https://www.thoughtworks.com/insights/blog/blockchain-under-hood",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "thoughtworks.com"
+                                },
+                                "excerpt": "Blockchain is increasingly mentioned in various business circles, but people often lack a concrete understanding of what it is, particularly when it comes to its underlying technology. This article is the first of two which will focus on blockchain from a technical perspective.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 636,
+                                        "imageId": 1,
+                                        "src": "https://insights-images.thoughtworks.com/Git_Repos_9f04e15e3d2bbaf4d945dfeaa5ba4610.jpg",
+                                        "width": 1600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 499,
+                                        "imageId": 2,
+                                        "src": "https://insights-images.thoughtworks.com/Blockchain_Node_a0974297ecb49f1a4f2f46f9b90090a9.jpg",
+                                        "width": 1600
+                                    },
+                                    {
+                                        "caption": "Basic information within a block",
+                                        "credit": "",
+                                        "height": 549,
+                                        "imageId": 3,
+                                        "src": "https://insights-images.thoughtworks.com/Info_Within_Block_1901e39ae8dcf4801c24d02686a08372.jpg",
+                                        "width": 1600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 899,
+                                        "imageId": 4,
+                                        "src": "https://insights-images.thoughtworks.com/Smart_Contract_ffe0752d497181b8b2879e138aacc549.jpg",
+                                        "width": 1600
+                                    },
+                                    {
+                                        "caption": "Diagram of Everledger’s use of blockchain",
+                                        "credit": "",
+                                        "height": 872,
+                                        "imageId": 5,
+                                        "src": "https://insights-images.thoughtworks.com/Everledger_Diagram_644c52c2277e77189fccde64c54d3e56.jpg",
+                                        "width": 928
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://insights-images.thoughtworks.com/Transaction_e408c9fd8d2864e24254d6ecce43e5b8.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "https://www.thoughtworks.com/insights/blog/blockchain-under-hood",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152354529",
+                                        "name": "Justin Ramos",
+                                        "url": "https://www.thoughtworks.com/profiles/justin-ramos"
+                                    }
+                                ],
+                                "datePublished": "2016-08-18 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5OTM4NzA4Ml8qXzE0NzU1NDMxNjQ=",
+                        "node": {
+                            "url": "http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable",
+                            "_createdAt": 1473306150,
+                            "_updatedAt": 1475544053,
+                            "id": "1399387082",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1475543164,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is Artificial Intelligence Permanently Inscrutable?",
+                                "itemId": "1399387082",
+                                "resolvedId": "1399387082",
+                                "resolvedUrl": "http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "Despite new biology-like tools, some insist interpretation is impossible. Dmitry Malioutov can’t say much about what he built. As a research scientist at IBM, Malioutov spends part of his time building machine learning systems that solve difficult problems faced by IBM’s corporate clients.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/10313_f0e1f0412f36e086dc5f596b84370e86.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Hidden meanings: In neural networks, data is passed from layer to layer, undergoing simple transformations at each step. Between the input and output layers are hidden layers, groups of nodes and connections that often bear no human-interpretable patterns or obvious connections to either input or output. “Deep” networks are those with many hidden layers.",
+                                        "credit": "Michael Nielsen / NeuralNetworksandDeepLearning.com",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://static.nautil.us/10291_ef1890585bae446a0668afed3012daa2.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "What vs. why: Modern learning algorithms show a tradeoff between human interpretability, or explainability, and their accuracy. Deep learning is both the most accurate and the least interpretable.",
+                                        "credit": "Darpa",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://static.nautil.us/10301_b1f130b49d0fcfa2348098ee4467452f.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "Left: Jason Yosinski, et al. Understanding Neural Networks Through Deep Visualization. Deep Learning Workshop, International Conference on Machine Learning",
+                                        "credit": "ICML",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "http://static.nautil.us/10315_059bbd8df7767d3bc7829e3735c221e2.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "Jason Yosinski, et al. Understanding Neural Networks Through Deep Visualization. Deep Learning Workshop, International Conference on Machine Learning",
+                                        "credit": "ICML",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "http://static.nautil.us/10293_37f2fc94430a30d7dba690d94d7e1223.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "http://static.nautil.us/10276_450ad5ed12c018f57a29c8f0ea7008ff.png",
+                                        "width": 733
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static.nautil.us/10313_f0e1f0412f36e086dc5f596b84370e86.png",
+                                "timeToRead": 16,
+                                "givenUrl": "http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "55096565",
+                                        "name": "Aaron M. Bornstein",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-09-01 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQyMDkyNjg4M18qXzE0NzY4NzkyMzM=",
+                        "node": {
+                            "url": "https://rainsoft.io/the-path-of-software-development-craftsmanship/",
+                            "_createdAt": 1476060501,
+                            "_updatedAt": 1476881309,
+                            "id": "1420926883",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1476879233,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1420926883",
+                                "resolvedId": "1420926883",
+                                "resolvedUrl": "https://rainsoft.io/the-path-of-software-development-craftsmanship/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rainsoft.io"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://rainsoft.io/the-path-of-software-development-craftsmanship/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ1ODY5MjAxOV8qXzE0Nzc1MjM0OTg=",
+                        "node": {
+                            "url": "http://www.scottaaronson.com/blog/?p=2943",
+                            "_createdAt": 1477499888,
+                            "_updatedAt": 1477523847,
+                            "id": "1458692019",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1477523498,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "My 5-minute quantum computing talk at the White House",
+                                "itemId": "1458692019",
+                                "resolvedId": "1458692019",
+                                "resolvedUrl": "https://www.scottaaronson.com/blog/?p=2943",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "scottaaronson.com"
+                                },
+                                "excerpt": "(OK, technically it was in the Eisenhower Executive Office Building, which is not exactly the White House itself, but is adjacent to the West Wing in the White House complex.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.scottaaronson.com/blog/?p=2943",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "428247",
+                                        "name": "Scott Aaronson",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-10-18 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MzczMjc1NTg5XypfMTQ3NzU3ODE2OA==",
+                        "node": {
+                            "url": "http://nautil.us/issue/2/uncertainty/a-universe-made-of-tiny-random-chunks",
+                            "_createdAt": 1473122213,
+                            "_updatedAt": 1477578170,
+                            "id": "373275589",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1477578168,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Universe Made of Tiny, Random Chunks",
+                                "itemId": "373275589",
+                                "resolvedId": "373275589",
+                                "resolvedUrl": "http://nautil.us/issue/2/uncertainty/a-universe-made-of-tiny-random-chunks",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "The space-time that makes up our universe is inherently uncertain.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/343_3ad7c2ebb96fcba7cda0cf54a2e802f5.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static.nautil.us/343_3ad7c2ebb96fcba7cda0cf54a2e802f5.png",
+                                "timeToRead": 7,
+                                "givenUrl": "http://nautil.us/issue/2/uncertainty/a-universe-made-of-tiny-random-chunks",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "621103",
+                                        "name": "Carl Frederick",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2013-06-06 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ1MzAxOTEwNl8qXzE0Nzc2OTkxNDE=",
+                        "node": {
+                            "url": "https://medium.com/@bryan_johnson/kernels-quest-to-enhance-human-intelligence-7da5e16fa16c",
+                            "_createdAt": 1477663591,
+                            "_updatedAt": 1477733334,
+                            "id": "1453019106",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1477699141,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Kernel’s Quest to Enhance Human Intelligence",
+                                "itemId": "3360914131",
+                                "resolvedId": "3360914131",
+                                "resolvedUrl": "https://bryan-johnson.medium.com/kernels-quest-to-enhance-human-intelligence-7da5e16fa16c",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "bryan-johnson.medium.com"
+                                },
+                                "excerpt": "Today I’m announcing a $100M commitment to Kernel in an effort to enhance human intelligence and reimagine our future. Unlocking our brain is the most significant and consequential opportunity in history — and it’s time sensitive.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/1*fEqkbgrHpOLjuli1StZpKg.jpeg",
+                                        "width": 28
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 435,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/944/0*OMreZFtWnRA860FI.",
+                                        "width": 472
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 382,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1348/0*CYnRwGbYzPEBHGpb.",
+                                        "width": 674
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/472/0*OMreZFtWnRA860FI.",
+                                "timeToRead": 9,
+                                "givenUrl": "https://medium.com/@bryan_johnson/kernels-quest-to-enhance-human-intelligence-7da5e16fa16c",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "145950536",
+                                        "name": "Bryan Johnson",
+                                        "url": "https://bryan-johnson.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2020-07-13 06:48:27",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQzNzY0MjIyOF8qXzE0Nzc2OTk1MzM=",
+                        "node": {
+                            "url": "http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php",
+                            "_createdAt": 1477663502,
+                            "_updatedAt": 1477733334,
+                            "id": "1437642228",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1477699533,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Reflections of an \"Old\" Programmer",
+                                "itemId": "1437642228",
+                                "resolvedId": "1437642228",
+                                "resolvedUrl": "http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "bennorthrop.com"
+                                },
+                                "excerpt": "I'm a programmer, a few months shy of his 40th birthday. It's Saturday morning, my kids are home with my wonderful wife (who is pulling my weight on the domestic front), and I'm at a tech conference.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://www.bennorthrop.com/Essays/2016/old-programmer.jpg",
+                                        "width": 250
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://www.bennorthrop.com/Essays/2016/career-stages-programmer.png",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "http://www.bennorthrop.com/Essays/2016/reflections-of-an-old-programmer.php",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "17351216",
+                                        "name": "Ben Northrop",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-10-06 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTA4MzIzNDUyMV8qXzE0Nzc2OTk2ODY=",
+                        "node": {
+                            "url": "http://www.paulgraham.com/talk.html",
+                            "_createdAt": 1477663411,
+                            "_updatedAt": 1477733334,
+                            "id": "1083234521",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1477699686,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Write Like You Talk",
+                                "itemId": "1083234521",
+                                "resolvedId": "1083234521",
+                                "resolvedUrl": "https://paulgraham.com/talk.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "paulgraham.com"
+                                },
+                                "excerpt": "Here's a simple trick for getting more people to read what you write: write in spoken language. Something comes over most people when they start writing. They write in a different language than they'd use if they were talking to a friend. The sentence structure and even the words are different.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.paulgraham.com/talk.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTE2NDg2ODA4MV8qXzE0NzgwNDI4MDg=",
+                        "node": {
+                            "url": "http://paulgraham.com/vb.html",
+                            "_createdAt": 1478042435,
+                            "_updatedAt": 1478043371,
+                            "id": "1164868081",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478042808,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Life is Short",
+                                "itemId": "1164868081",
+                                "resolvedId": "1164868081",
+                                "resolvedUrl": "https://www.paulgraham.com/vb.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "paulgraham.com"
+                                },
+                                "excerpt": "Life is short, as everyone knows. When I was a kid I used to wonder about this. Is life actually short, or are we really complaining about its finiteness? Would we be just as likely to feel life was short if we lived 10 times as long?",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "http://paulgraham.com/vb.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2NTMyMjcwNV8qXzE0NzgwODg0NjA=",
+                        "node": {
+                            "url": "http://news.berkeley.edu/2016/10/31/wanderingmind/",
+                            "_createdAt": 1478052844,
+                            "_updatedAt": 1478088768,
+                            "id": "1465322705",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478088460,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Does your mind jump around, stay on task or get stuck?",
+                                "itemId": "1465322705",
+                                "resolvedId": "1465322705",
+                                "resolvedUrl": "https://news.berkeley.edu/2016/10/31/wanderingmind/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "news.berkeley.edu"
+                                },
+                                "excerpt": "During downtime, some of us daydream while others might focus on a to-do list, or get stuck in a negative loop. Psychology has traditionally defined all these thought patterns as variations of “mind-wandering.”",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "A review of brain imaging studies challenges the idea that a wandering mind is an unhappy mind.",
+                                        "credit": "iStockphoto",
+                                        "height": 300,
+                                        "imageId": 1,
+                                        "src": "https://news.berkeley.edu/wp-content/uploads/2016/10/MindWandering300.jpg",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://news.berkeley.edu/wp-content/uploads/2016/10/MindWandering750.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "http://news.berkeley.edu/2016/10/31/wanderingmind/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "58295059",
+                                        "name": "Yasmin Anwar",
+                                        "url": "mailto:yanwar@berkeley.edu?subject=RE:%20Does%20your%20mind%20jump%20around,%20stay%20on%20task%20or%20get%20stuck?"
+                                    }
+                                ],
+                                "datePublished": "2016-10-31 16:00:51",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQzMjI1Nzk4NF8qXzE0NzgwODg1Nzg=",
+                        "node": {
+                            "url": "http://medium.com/@cihadturhan/dont-present-your-work-to-the-ones-who-know-nothing-a8f5bb60beec",
+                            "_createdAt": 1478042317,
+                            "_updatedAt": 1478088768,
+                            "id": "1432257984",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478088578,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Don’t present your work to the ones who know nothing.",
+                                "itemId": "1434885491",
+                                "resolvedId": "1434885491",
+                                "resolvedUrl": "https://medium.com/indian-thoughts/dont-present-your-work-to-the-ones-who-know-nothing-a8f5bb60beec",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Once upon a time, there was a very famous artist in India. Everybody admired him for his paintings because they were perfect. Even if people in India knew him as Ranga Cheleri -in Indian Language, Cheleri means the master of the colors- in short, he was called Ranga Guru.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*_vkwiztW6HvMhhZz3zpYQg.jpeg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*_vkwiztW6HvMhhZz3zpYQg.jpeg",
+                                "timeToRead": 2,
+                                "givenUrl": "http://medium.com/@cihadturhan/dont-present-your-work-to-the-ones-who-know-nothing-a8f5bb60beec",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "26081031",
+                                        "name": "Cihad Turhan",
+                                        "url": "https://medium.com/@cihadturhan"
+                                    }
+                                ],
+                                "datePublished": "2017-05-30 00:56:57",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjcwODIwMTIyXypfMTQ3ODA4ODc2Ng==",
+                        "node": {
+                            "url": "http://lukemuehlhauser.com/pre-socratics-a-painless-introduction/",
+                            "_createdAt": 1477880622,
+                            "_updatedAt": 1478088768,
+                            "id": "670820122",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478088766,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Pre-Socratics: A Painless Introduction",
+                                "itemId": "670820122",
+                                "resolvedId": "670820122",
+                                "resolvedUrl": "http://lukemuehlhauser.com/pre-socratics-a-painless-introduction/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "lukemuehlhauser.com"
+                                },
+                                "excerpt": "This is a short book about pre-Socratic philosophers for people who care more about the central questions of philosophy themselves — What exists? How should we live? How can we know? — than they do about the historical matter of pre-Socratic thought.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://lukemuehlhauser.com/wp-content/uploads/pre-socratics_kindle_cover.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 16,
+                                "givenUrl": "http://lukemuehlhauser.com/pre-socratics-a-painless-introduction/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTE1OTcxMTEwNV8qXzE0NzgxMjY4NTc=",
+                        "node": {
+                            "url": "http://www.newyorker.com/books/page-turner/my-last-day-as-a-surgeon",
+                            "_createdAt": 1477663058,
+                            "_updatedAt": 1478285794,
+                            "id": "1159711105",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478126857,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "My Last Day as a Surgeon",
+                                "itemId": "1159711105",
+                                "resolvedId": "1159711105",
+                                "resolvedUrl": "https://www.newyorker.com/books/page-turner/my-last-day-as-a-surgeon",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "In May of 2013, the Stanford University neurosurgical resident Paul Kalanithi was diagnosed with Stage IV metastatic lung cancer. He was thirty-six years old.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Photograph by Norbert von der Groeben",
+                                        "credit": "Photograph  Norbert von der Groeben",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/5909736debe912338a377603/master/w_2560%2Cc_limit/Kalanithi-excerpt-2.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/photos/59096e5cc14b3c606c1079a8/4:3/w_480%2Cc_limit/100802_r19854_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/59095ab3c14b3c606c1051a0/4:3/w_480%2Cc_limit/ubel-Doctors-Advice.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/59096f23ebe912338a376d08/4:3/w_480%2Cc_limit/Parkin-Dragon-Cancer.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/649f03ae7ac8745598303fb9/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5909736debe912338a377603/16:9/w_1280,c_limit/Kalanithi-excerpt-2.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "http://www.newyorker.com/books/page-turner/my-last-day-as-a-surgeon",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "75533724",
+                                        "name": "Paul Kalanithi",
+                                        "url": "https://www.newyorker.com/contributors/paul-kalanithi"
+                                    }
+                                ],
+                                "datePublished": "2016-01-11 12:58:22",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5NzI5OTcwNV8qXzE0NzgzMTQ3ODY=",
+                        "node": {
+                            "url": "https://zapier.com/blog/mind-mapping-tutorial/",
+                            "_createdAt": 1474510759,
+                            "_updatedAt": 1478314787,
+                            "id": "1397299705",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478314786,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Make Mind Maps: Visualize Your Ideas for Better Brainstorming",
+                                "itemId": "1397299705",
+                                "resolvedId": "1397299705",
+                                "resolvedUrl": "https://zapier.com/blog/mind-mapping-tutorial/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Zapier"
+                                },
+                                "excerpt": "Legend has it that in the summer of 1994, as the production of Toy Story was wrapping up, four Pixar creatives went to lunch to brainstorm ideas for new projects. Sketching on napkins, they teased out ideas for what would become Wall-E; Monsters, Inc.; A Bug’s Life; and Finding Nemo.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Mind maps can help you capture and stimulate ideas, as well as serve as an important reference",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/2neBjodYSjLaC9njpdPZDe/4a23b5e42225faaad726d181f4831384/Mind_Maps?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Mind maps’ free format encourage fresh ideas",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/qZQeNpFr50aRWGfo0C60M/4e91948385457d8399dea2d843787fe7/Mind_Map_example?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/2CoxVC45YCJIspo1oMYnlK/a19b00cfeda4796cf71c67d13058a270/Start_making_a_mind_map?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/6uQtRxY9nVFxdrTT0TdZ12/03ae158d22975f688edd7ac564a57712/Add_branches_to_your_mind_map?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/2Uin0CBt7dRslY9s6lQBEg/282827b430902d1d1dbb453f70af6b91/Add_more_detail_to_your_mind_map?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/5a2j9TbN6y69PczhyHaUxT/c7be120854f32f938a9a682bcc303675/Make_connections_and_more_in_your_mind_map?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/7BXrbyVvFAg910Tiy01MrA/ea5757e26c6aa45e44ffeede2f67a9ee/Mind_Map_example?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/16cERYNi7Joe2sA0hBrsSr/46bed756c4af36b9749fd318e48d3944/Mind_maps_for_presentations?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/30uI2sGSh1caOQ7FgOhJws/90fe52bae28c3fb7aebea5ba6a14c336/Mind_Maps_for_projects?w=700",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://images.ctfassets.net/lzny33ho1g45/4upAMEMFUFpW4bzyJn1vIs/d24af11db45ea46fd7356fadaaba3cc5/Mind_maps_for_ideas?w=700",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://images.ctfassets.net/lzny33ho1g45/mind-mapping-tutorial-p-img/f1fb6ac1a7af50eaee5808594df64c19/file.png",
+                                "timeToRead": 8,
+                                "givenUrl": "https://zapier.com/blog/mind-mapping-tutorial/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "25832961",
+                                        "name": "Rob Stretch",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-08-30 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQwMjQ3MDI2MV8qXzE0NzgzMTUxNDA=",
+                        "node": {
+                            "url": "http://nautil.us/blog/consciousness-is-made-of-atoms-too",
+                            "_createdAt": 1474510527,
+                            "_updatedAt": 1478315534,
+                            "id": "1402470261",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478315140,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Consciousness Is Made of Atoms, Too",
+                                "itemId": "3714802091",
+                                "resolvedId": "3714802091",
+                                "resolvedUrl": "https://nautil.us/consciousness-is-made-of-atoms-too-236097/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "In his first lecture on physics to freshmen and sophomores at the California Institute of Technology, in 1961-62, Richard Feynman said: If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://nautil.us/wp-content/themes/nautilus-block-theme/images/icons/logo-icon.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://assets.nautil.us/10323_ac10ff1941c540cd87c107330996f4f6.jpg?auto=compress&fm=pjpg&ixlib=php-3.3.1",
+                                "timeToRead": 6,
+                                "givenUrl": "http://nautil.us/blog/consciousness-is-made-of-atoms-too",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1231574",
+                                        "name": "Mark Titus",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-09-02 21:24:57",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ0NTI2ODA5OV8qXzE0Nzg1MjYxNTU=",
+                        "node": {
+                            "url": "https://medium.com/the-mission/how-to-read-100-books-in-a-year-d7b35660ebd1",
+                            "_createdAt": 1478398119,
+                            "_updatedAt": 1478527647,
+                            "id": "1445268099",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478526155,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Read 100 Books in a Year",
+                                "itemId": "1445268099",
+                                "resolvedId": "1445268099",
+                                "resolvedUrl": "https://medium.com/the-mission/how-to-read-100-books-in-a-year-d7b35660ebd1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "If you’re an ambitious, goal oriented person, it’s possible that one of your New Year’s resolutions was to read more books. Books are the gateway to imagination, to worlds we may not be able to access physically, but can emotionally.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Photo Credit: <a href=”https://www.flickr.com/photos/123982963@N04/28729278970/\">Boris Thaser</a> Flickr via <a href=”http://compfight.com\">Compfight</a> <a href=”https://creativecommons.org/licenses/by/2.0/\">cc</a>",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*m2Ho0B9KNMdVD49tdNWrqw.jpeg",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1024/1*m2Ho0B9KNMdVD49tdNWrqw.jpeg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://medium.com/the-mission/how-to-read-100-books-in-a-year-d7b35660ebd1",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "142021506",
+                                        "name": "Srinivas Rao",
+                                        "url": "https://skooloflife.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2018-05-02 21:16:01",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ0Mzc0ODMzOF8qXzE0Nzg1NjIwODk=",
+                        "node": {
+                            "url": "http://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html",
+                            "_createdAt": 1478397720,
+                            "_updatedAt": 1478562193,
+                            "id": "1443748338",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478562089,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3910749040",
+                                "resolvedId": "3910749040",
+                                "resolvedUrl": "https://getpocket.com:443/sMrG3l?cta=1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.nytimes.com/2016/10/16/magazine/generation-adderall-addiction.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ1ODUyMTYzMF8qXzE0Nzg1NjIyMDA=",
+                        "node": {
+                            "url": "https://medium.freecodecamp.com/data-structures-stacks-on-stacks-c25f2633c529?gi=ee82bf48287a",
+                            "_createdAt": 1478397992,
+                            "_updatedAt": 1478562201,
+                            "id": "1458521630",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478562200,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Gentle Introduction to Data Structures: How Stacks Work",
+                                "itemId": "2675764615",
+                                "resolvedId": "2675764615",
+                                "resolvedUrl": "https://www.freecodecamp.org/news/data-structures-stacks-on-stacks-c25f2633c529/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "freecodecamp.org"
+                                },
+                                "excerpt": "What are data structures? And why are they so important? Wikipedia provides a succinct and accurate answer: The key word here is efficiently, a word you’ll hear early and often as you analyze different data structures.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn-media-1.freecodecamp.org/images/1*3kenGRftkBau3t6MozALpw.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn-media-1.freecodecamp.org/images/EoD5kmPRLMglQYAWtsfvT0f9S0Vf0wGoyuBJ",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://cdn-media-1.freecodecamp.org/images/KSnmVKZl319rnXSgpeRfH277mozUpleR-wzi",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn-media-1.freecodecamp.org/images/1*3kenGRftkBau3t6MozALpw.jpeg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://medium.freecodecamp.com/data-structures-stacks-on-stacks-c25f2633c529?gi=ee82bf48287a",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "56818796",
+                                        "name": "Michael Olorunnisola",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-10-25 14:25:15",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2MjI0Nzg3MV8qXzE0Nzg1NjIzMzc=",
+                        "node": {
+                            "url": "http://fortune.com/2016/10/28/economists-artificial-intelligence/",
+                            "_createdAt": 1478397557,
+                            "_updatedAt": 1478563453,
+                            "id": "1462247871",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478562337,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "How Economists View The Rise Of Artificial Intelligence",
+                                "itemId": "1462247871",
+                                "resolvedId": "1462247871",
+                                "resolvedUrl": "https://fortune.com/2016/10/28/economists-artificial-intelligence/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Fortune"
+                                },
+                                "excerpt": "Professor Ajay Agrawal of the University of Toronto explained how some economists view the rise of artificial intelligence.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://content.fortune.com/wp-content/uploads/2015/12/gettyimages-128592487.jpg?resize=1200,600",
+                                "timeToRead": null,
+                                "givenUrl": "http://fortune.com/2016/10/28/economists-artificial-intelligence/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ1MDQ2MTg5OV8qXzE0Nzg2MTI5MDk=",
+                        "node": {
+                            "url": "http://motherboard.vice.com/read/what-is-neurocapitalism-and-why-are-we-living-in-it",
+                            "_createdAt": 1478397467,
+                            "_updatedAt": 1478614073,
+                            "id": "1450461899",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478612909,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Is Neurocapitalism and Why Are We Living In It?",
+                                "itemId": "3294320764",
+                                "resolvedId": "3294320764",
+                                "resolvedUrl": "https://www.vice.com/en/article/qkjxaq/what-is-neurocapitalism-and-why-are-we-living-in-it",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "VICE"
+                                },
+                                "excerpt": "It's a fact: we are bang in the middle of the Anthropocene. We have changed the destiny of our planet and its ecosystems, to the point that human actions have become as powerful as that of plate tectonics or ice ages. All this we owe to two essential elements: human stupidity, and technology.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "Image: Psyberartist/Flickr",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.vice.com/motherboard/content-images/article/38589/1476742901242387.jpg?crop=0.8294881994166003xw:1xh;center,center&resize=20:*",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Image: Flickr/Ubé",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://motherboard-images.vice.com/content-images/contentimage/no-id/1476740782404753.jpg?resize=20:*",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://images.vice.com/motherboard/content-images/article/38589/1476742901242387.jpg?image-resize-opts=Y3JvcD0wLjgyOTQ4ODE5OTQxNjYwMDN4dzoxeGg7Y2VudGVyLGNlbnRlciZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+                                "timeToRead": 7,
+                                "givenUrl": "http://motherboard.vice.com/read/what-is-neurocapitalism-and-why-are-we-living-in-it",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "144180243",
+                                        "name": "Antonella Di Biase",
+                                        "url": "https://www.vice.com/en/contributor/antonella-di-biase"
+                                    }
+                                ],
+                                "datePublished": "2016-10-18 13:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQzNDU2MzAyOV8qXzE0Nzg2MTI5NjY=",
+                        "node": {
+                            "url": "https://medium.com/conquering-corporate-america/9-tricks-to-appear-smart-in-brainstorming-meetings-5371dd1a1628",
+                            "_createdAt": 1478397284,
+                            "_updatedAt": 1478614073,
+                            "id": "1434563029",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478612966,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "9 Tricks to Appear Smart in Brainstorming Meetings",
+                                "itemId": "1434563029",
+                                "resolvedId": "1434563029",
+                                "resolvedUrl": "https://medium.com/conquering-corporate-america/9-tricks-to-appear-smart-in-brainstorming-meetings-5371dd1a1628",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "The following is an excerpt from my new book, 100 Tricks to Appear Smart in Meetings — out now! Get it here. In a brainstorming meeting, the pressure of coming up with incredible new ideas can be debilitating. Luckily, the last thing most corporations want is new ideas.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 44,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/v2/resize:fill:88:88/1*UsY571LrhJ8LspFazw3xJA.jpeg",
+                                        "width": 44
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 24,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/v2/resize:fill:48:48/1*7okov4N4d7lAqaUp3sd-WA.png",
+                                        "width": 24
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/v2/resize:fit:800/1*z1CeW16sa6TLlLiOdqcbSQ.jpeg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://medium.com/conquering-corporate-america/9-tricks-to-appear-smart-in-brainstorming-meetings-5371dd1a1628",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "24068319",
+                                        "name": "Sarah Cooper",
+                                        "url": "https://medium.com/@sarahcpr"
+                                    }
+                                ],
+                                "datePublished": "2016-11-04 10:38:31",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2NzA2MDE2MV8qXzE0Nzg2MTM2MDU=",
+                        "node": {
+                            "url": "http://www.theatlantic.com/business/archive/2016/11/sociopathic-capitalism/506240/",
+                            "_createdAt": 1478397144,
+                            "_updatedAt": 1478614073,
+                            "id": "1467060161",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478613605,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Sociopathic Capitalism Came to Rule the World",
+                                "itemId": "1467060161",
+                                "resolvedId": "1467060161",
+                                "resolvedUrl": "https://www.theatlantic.com/business/archive/2016/11/sociopathic-capitalism/506240/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Corporate executives haven’t always believed that transactions must have winners and losers. But that’s not Donald J. Trump’s view. The stories we tell ourselves, far more than the evidence of scientific analysis, determine how we interpret the world around us.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "A remote-controlled plane resembling Donald Trump releases fake money as it flies over a beach in Southern California. ",
+                                        "credit": "Mike Blake / Reuters",
+                                        "height": 540,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/lRCBvqtT3290vizg4LhY2qxlUtQ=/0x157:3036x1865/960x540/media/img/mt/2016/11/RTSNY01/original.jpg",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/k7UH3GuL7UVPrVB1hJUCesg2n98=/1104x0:3771x2667/72x72/media/img/mt/2019/06/survival_school_1/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/thumbor/4w8j-hKwUed_71ni0HniYIeURVs=/438x0:1563x1125/72x72/media/img/mt/2021/10/CareerExploreHP-5/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/thumbor/ovvgtd8Rwl3Qtsrs39MBXSLCGmE=/202x439:1403x1640/72x72/media/img/2019/05/0619_BOB_Shakespeare_Web/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 7,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 9,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 11,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/k_KwzbraYkPV5reNyEzYOOTzhzA=/0x69:3035x1650/1200x625/media/img/mt/2016/11/RTSNY01/original.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://www.theatlantic.com/business/archive/2016/11/sociopathic-capitalism/506240/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "91527649",
+                                        "name": "John Paul Rollert",
+                                        "url": "https://www.theatlantic.com/author/john-paul-rollert/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-02 09:47:48",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2NDY2NDA1M18qXzE0Nzg2NTc2NDA=",
+                        "node": {
+                            "url": "http://qz.com/709921/how-to-write-a-good-to-do-list/",
+                            "_createdAt": 1478396854,
+                            "_updatedAt": 1478659104,
+                            "id": "1464664053",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1478657640,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "There’s a better way to write your to-do lists",
+                                "itemId": "1464664053",
+                                "resolvedId": "1464664053",
+                                "resolvedUrl": "https://qz.com/709921/how-to-write-a-good-to-do-list",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quartz"
+                                },
+                                "excerpt": "A well-crafted to-do list acts as a guiding light for your day. It helps you overcome feelings of being overwhelmed, and reduces anxiety around whether you’re being productive throughout the day.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/192d89ea114c691a8a7b4795974db953.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://qz.com/709921/how-to-write-a-good-to-do-list/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "105114538",
+                                        "name": "Kara Benz",
+                                        "url": "https://qz.com/author/karabenz"
+                                    }
+                                ],
+                                "datePublished": "2016-10-31 08:54:45",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTM4MDQ2MzkwNF8qXzE0NzU1NDMwNjE=",
+                    "endCursor": "MTQ2NDY2NDA1M18qXzE0Nzg2NTc2NDA="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

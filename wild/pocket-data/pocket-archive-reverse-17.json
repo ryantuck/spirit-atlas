@@ -1,0 +1,1809 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjMyODIxNjQzOV8qXzE1Mzg5NjYyNjc=",
+                        "node": {
+                            "url": "https://www.washingtonpost.com/opinions/the-symptoms-of-americas-fall-into-unfocused-furiousness/2018/09/19/e01159e0-bb65-11e8-9812-a389be6690af_story.html",
+                            "_createdAt": 1538567493,
+                            "_updatedAt": 1538966268,
+                            "id": "2328216439",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1538966267,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "The symptoms of America’s fall into unfocused furiousness",
+                                "itemId": "2328216439",
+                                "resolvedId": "2328216439",
+                                "resolvedUrl": "https://www.washingtonpost.com/opinions/the-symptoms-of-americas-fall-into-unfocused-furiousness/2018/09/19/e01159e0-bb65-11e8-9812-a389be6690af_story.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "Contemporary America is a bubbling cauldron of acidic judgmentalism.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YV3VVZWZMYI6LCI2J3IE6QQT5A.jpg&w=1440",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.washingtonpost.com/opinions/the-symptoms-of-americas-fall-into-unfocused-furiousness/2018/09/19/e01159e0-bb65-11e8-9812-a389be6690af_story.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2018-09-19 15:54:38",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjMzMjkwNjcxN18qXzE1Mzg5NjY0ODI=",
+                        "node": {
+                            "url": "https://www.techrepublic.com/article/google-deepmind-founder-demis-hassabis-three-truths-about-ai/",
+                            "_createdAt": 1538567575,
+                            "_updatedAt": 1538966483,
+                            "id": "2332906717",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1538966482,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Google DeepMind founder Demis Hassabis: Three truths about AI",
+                                "itemId": "2332906717",
+                                "resolvedId": "2332906717",
+                                "resolvedUrl": "https://www.techrepublic.com/article/google-deepmind-founder-demis-hassabis-three-truths-about-ai/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "TechRepublic"
+                                },
+                                "excerpt": "One of the creators of the AI research company famed for building the pioneering AlphaGo AI spells out the technology's impact and future development. The 2016 victory by a Google-built AI at the notoriously complex game of Go was a bold demonstration of the power of modern machine learning.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 50,
+                                        "imageId": 1,
+                                        "src": "https://www.techrepublic.com/a/fly/bundles/techrepubliccss/images/icon-user-default.png",
+                                        "width": 50
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.techrepublic.com/a/hub/i/r/2016/09/08/dab5537c-3628-464b-8e5e-7bf18de91146/thumbnail/768x432/690e555ebad73664fa91ceb0b2ac6935/deepmind.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Google Deepmind co-founder Demis Hassabis.",
+                                        "credit": "Image: Google",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.techrepublic.com/a/hub/i/r/2016/02/05/9c48501a-f8a9-4d81-8859-87b19b6cdc43/resize/370x/be14284dd2591b146e7bc18ffb20bddd/deepmind-demishassabis.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 70,
+                                        "imageId": 4,
+                                        "src": "https://www.techrepublic.com/a/fly/bundles/techrepubliccss/images/article-NLSthumb.jpg",
+                                        "width": 70
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.techrepublic.com/a/hub/i/r/2016/02/05/9c48501a-f8a9-4d81-8859-87b19b6cdc43/thumbnail/770x578/1e995aa3d352339734c385f359eb8965/deepmind-demishassabis.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.techrepublic.com/article/google-deepmind-founder-demis-hassabis-three-truths-about-ai/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "78266522",
+                                        "name": "Nick Heath",
+                                        "url": "https://www.techrepublic.com/meet-the-team/uk/nick-heath/"
+                                    }
+                                ],
+                                "datePublished": "2018-09-24 09:51:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM0Nzk3NTI2NF8qXzE1MzkzMTEzMTQ=",
+                        "node": {
+                            "url": "https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46",
+                            "_createdAt": 1539105449,
+                            "_updatedAt": 1539311315,
+                            "id": "2347975264",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1539311314,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "12 Factor CLI Apps",
+                                "itemId": "2347975264",
+                                "resolvedId": "2347975264",
+                                "resolvedUrl": "https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "CLIs are a fantastic way to build products. Unlike web applications, they take a small fraction of the time to build and are much more powerful. With the web, you can do whatever the developer programmed. With CLIs, you can easily mash-up multiple tools together yourself to perform advanced tasks.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 579,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*8SyyBBoiuj1Rc95X6ZBF5w.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 696,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1600/1*UdKDss6k-v36qrbcF4oBNw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Example oclif readme auto-documentation",
+                                        "credit": "",
+                                        "height": 286,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/1*Wbwo-r2HRHTzGSlykqn0SQ.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 102,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1600/1*4kwxuIP4XyM6TGQAd_td9g.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 252,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/1600/1*Q6FL70WgULj4-tLOvx7otg.gif",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "spinner example",
+                                        "credit": "",
+                                        "height": 271,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1600/1*ruLBiz3x3Fg7XN2pVUC31g.gif",
+                                        "width": 563
+                                    },
+                                    {
+                                        "caption": "Prompt example",
+                                        "credit": "",
+                                        "height": 450,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1600/1*X-PnBs4mM7BI2vTAjDXS6A.gif",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 332,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/1600/1*w_OYC5FXnBub9QPJQGJuQg.gif",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "transferring multiple apps to a new user with the Heroku CLI",
+                                        "credit": "",
+                                        "height": 374,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1600/1*ODEhiWAn3qoZ2SSIw4yINw.gif",
+                                        "width": 554
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 10,
+                                        "src": "https://miro.medium.com/max/1600/1*AybS19Drx08ihW4KsrNhpw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "listing files, piping to wc to count number of files, then doing the same of files with “.js” in the name. Note that wc has 3 counts: lines, words, and characters. You may also notice ls follows factor #6 where it behaves differently when piped vs when it is outputting to the screen",
+                                        "credit": "tty",
+                                        "height": 401,
+                                        "imageId": 11,
+                                        "src": "https://miro.medium.com/max/1600/1*0mJtpvzUtursztCIrZoKrA.png",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*8SyyBBoiuj1Rc95X6ZBF5w.png",
+                                "timeToRead": 12,
+                                "givenUrl": "https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "165425867",
+                                        "name": "contribution guideline doc",
+                                        "url": "https://help.github.com/articles/setting-guidelines-for-repository-contributors/"
+                                    }
+                                ],
+                                "datePublished": "2018-10-09 22:46:01",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjMzNDI5NzA3NV8qXzE1MzkzMTE1OTA=",
+                        "node": {
+                            "url": "https://www.citusdata.com/blog/2018/09/25/history-on-joins-in-postgres/",
+                            "_createdAt": 1539178027,
+                            "_updatedAt": 1539311591,
+                            "id": "2334297075",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1539311590,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A history lesson on SQL joins (in Postgres)",
+                                "itemId": "2334297075",
+                                "resolvedId": "2334297075",
+                                "resolvedUrl": "https://www.citusdata.com/blog/2018/09/25/history-on-joins-in-postgres/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "citusdata.com"
+                                },
+                                "excerpt": "Our beloved Structured Query Language may be the lingua franca for relational databases—but like many languages, SQL is in a state of constant evolution. The first releases of SQL didn’t even have a notation for joins. At the time, SQL only supported inner joins.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.citusdata.com/assets/images/twitter/connect-20333_1200.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.citusdata.com/blog/2018/09/25/history-on-joins-in-postgres/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "146745145",
+                                        "name": "Dimitri Fontaine",
+                                        "url": "https://www.citusdata.com/blog/authors/dimitri-fontaine/"
+                                    }
+                                ],
+                                "datePublished": "2018-09-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM1NjM4ODk0Nl8qXzE1NDE3MjI1Njg=",
+                        "node": {
+                            "url": "https://medium.com/the-mission/5-things-to-do-when-you-have-too-many-ideas-and-never-finish-anything-5682064b5750",
+                            "_createdAt": 1541618516,
+                            "_updatedAt": 1541723032,
+                            "id": "2356388946",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1541722568,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "5 Things to Do When You Have Too Many Ideas and Never Finish Anything.",
+                                "itemId": "2356388946",
+                                "resolvedId": "2356388946",
+                                "resolvedUrl": "https://medium.com/the-mission/5-things-to-do-when-you-have-too-many-ideas-and-never-finish-anything-5682064b5750",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "What do you do when you’re overwhelmed with too many ideas? Do you abandon them, or do you finish what you start?",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*i9C8Sl2Etn4EikGKxmEQeQ.jpeg",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1600/0*SIyyo84DSarqUDbZ.png",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/710/1*i9C8Sl2Etn4EikGKxmEQeQ.jpeg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://medium.com/the-mission/5-things-to-do-when-you-have-too-many-ideas-and-never-finish-anything-5682064b5750",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "72523076",
+                                        "name": "Mayo Oshin",
+                                        "url": "https://medium.com/@mayo_38288"
+                                    }
+                                ],
+                                "datePublished": "2020-11-02 14:33:51",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM3Njk0MDc4NV8qXzE1NDE3MjU4NTA=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/ideas/archive/2018/11/bannon-frum-munk-debate-what-really-happened/574867/",
+                            "_createdAt": 1541387515,
+                            "_updatedAt": 1541725851,
+                            "id": "2376940785",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1541725850,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Real Lesson of My Debate With Steve Bannon",
+                                "itemId": "2376940785",
+                                "resolvedId": "2376940785",
+                                "resolvedUrl": "https://www.theatlantic.com/ideas/archive/2018/11/bannon-frum-munk-debate-what-really-happened/574867/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Tickets sold out within 15 minutes after Toronto’s Munk Debates announced that I would debate Steve Bannon on its platform. The negative reaction arrived more slowly, but it was just as emphatic.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Alessandro Bianchi / Reuters",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/9PKPPXnQZmtAunNBgfN6Ue0ibcc=/0x190:5472x3268/960x540/media/img/mt/2018/11/RTS22F5T/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/QD5Q_zLFQBIq4CophT0Z7x7eH2E=/0x306:5463x3151/1200x625/media/img/mt/2018/11/RTS22F5T/original.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "https://www.theatlantic.com/ideas/archive/2018/11/bannon-frum-munk-debate-what-really-happened/574867/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "43557299",
+                                        "name": "David Frum",
+                                        "url": "https://www.theatlantic.com/author/david-frum/"
+                                    }
+                                ],
+                                "datePublished": "2018-11-04 17:00:16",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM2NzAyOTAyMF8qXzE1NDE4MDI0OTU=",
+                        "node": {
+                            "url": "https://www.bloomberg.com/view/articles/2018-10-26/maybe-we-should-take-socialism-seriously",
+                            "_createdAt": 1540740834,
+                            "_updatedAt": 1541802519,
+                            "id": "2367029020",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1541802495,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Maybe We Should Take Socialism Seriously",
+                                "itemId": "2367046438",
+                                "resolvedId": "2367046438",
+                                "resolvedUrl": "https://www.bloomberg.com/opinion/articles/2018-10-26/maybe-we-should-take-socialism-seriously",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Bloomberg"
+                                },
+                                "excerpt": "When President Donald Trump’s Council of Economic Advisers released a 55-page report called “The Opportunity Costs of Socialism,” many economists scoffed. But the report is important, because it shows that big, systemic economic issues are again being considered.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "That was then.",
+                                        "credit": "Source: Sovfoto/Universal Images Group Editorial/Getty Imges",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itIzHVHbqUr0/v1/-1x-1.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itIzHVHbqUr0/v1/1200x735.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.bloomberg.com/view/articles/2018-10-26/maybe-we-should-take-socialism-seriously",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "95070823",
+                                        "name": "Noah Smith",
+                                        "url": "https://www.bloomberg.com/opinion/authors/AR3OYuAmvcU/noah-smith"
+                                    }
+                                ],
+                                "datePublished": "2018-10-26 07:00:29",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyMjg2MDA4MV8qXzE1NDQ3MjQ3OTk=",
+                        "node": {
+                            "url": "https://www.gregbryant.com/grogbrat/aspen97/index.html",
+                            "_createdAt": 1544469863,
+                            "_updatedAt": 1544724800,
+                            "id": "1222860081",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1544724799,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Aspen : early 1997",
+                                "itemId": "1222860081",
+                                "resolvedId": "1222860081",
+                                "resolvedUrl": "https://www.gregbryant.com/grogbrat/aspen97/index.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "gregbryant.com"
+                                },
+                                "excerpt": "Arguably, the resulting computer tool has more feeling than any other program, ever written. I say it without much qualification, only because we intentionally pursued that property. Feeling. In a program. I'm not aware of anyone else even trying to do this.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.gregbryant.com/grogbrat/aspen97/pgsession.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 277,
+                                        "imageId": 2,
+                                        "src": "https://www.gregbryant.com/grogbrat/aspen97/originals/Scan501.jpg",
+                                        "width": 415
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.gregbryant.com/grogbrat/aspen97/originals/Scan503.jpg",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 11,
+                                "givenUrl": "https://www.gregbryant.com/grogbrat/aspen97/index.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM3NzQyNTQ2N18qXzE1NDQ3MjUyNTE=",
+                        "node": {
+                            "url": "https://aeon.co/ideas/believing-without-evidence-is-always-morally-wrong",
+                            "_createdAt": 1542832859,
+                            "_updatedAt": 1544725252,
+                            "id": "2377425467",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1544725251,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Believing without evidence is always morally wrong",
+                                "itemId": "2377425467",
+                                "resolvedId": "2377425467",
+                                "resolvedUrl": "https://aeon.co/ideas/believing-without-evidence-is-always-morally-wrong",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "If I believe it is raining outside… The Umbrella (1883) by Marie Bashkirtseff. Courtesy the State Russian Museum/Wikipedia You have probably never heard of William Kingdon Clifford.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://aeon.co/_next/image?url=https%3A%2F%2Fomicron.aeon.co%2Fimages%2F77e60a06-1fc5-4a58-8103-65657a3eb7a9%2Fidea_sized-_-.jpg&w=3840&q=75",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://omicron.aeon.co/images/77e60a06-1fc5-4a58-8103-65657a3eb7a9/idea_sized-_-.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://aeon.co/ideas/believing-without-evidence-is-always-morally-wrong",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "6455195",
+                                        "name": "Francisco Mejia Uribe",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2018-11-05 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQxNzQ2MjU2NV8qXzE1NDQ4ODIzMTA=",
+                        "node": {
+                            "url": "https://www.firstthings.com/article/2019/01/shame-storm",
+                            "_createdAt": 1544817824,
+                            "_updatedAt": 1544882310,
+                            "id": "2417462565",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1544882310,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Shame Storm",
+                                "itemId": "2417462565",
+                                "resolvedId": "2417462565",
+                                "resolvedUrl": "https://www.firstthings.com/article/2019/01/shame-storm",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "First Things"
+                                },
+                                "excerpt": "After a lifetime of impeccably correct opinions, Ian Buruma found himself on the wrong side of the liberal consensus in September 2018, when he was forced to resign as editor of the New York Review of Books for having commissioned a piece called “Reflections from a Hashtag” from the disgraced Ca",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "sure2talk via Creative Commons. Image cropped",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://d25wp47b6tla3u.cloudfront.net/img/print/logo.png",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://d2ipgh48lxx565.cloudfront.net/uploads/article_5c0dda309e193.jpg?Expires=1643086874&Signature=fqktgeRJmoKWZ~L3Z3USm3RB5U7K6tioABsaPGJlGJYgyBAbckWZmf2cz7XRbR7msxlquwjMlaK9zbBjXdZWLnqw9c5dTlEah9DVsXVDzB1sAeRFi~uKg6YHn013vOmGI3YuCvAWeaRIjOw8dsbUisJYJ96hTWSqDtapT0o2g~r63bB-my82CY7JKKgSkvQ-nuE5lt-2H2Bd~ZFx-tUUfAOAzL0FdxOz1MewF5qPfLc5nukB-2j-FCjOjkZnHM3vjqpcNq653Yknun-ljqBNDJu72RjiQr-4bFTomrsUmmYo46AbYc64Vviw2FFNMr3oMoDW9Oqn8hEof0zLDVP5Cw__&Key-Pair-Id=APKAIN7SVXNLPAOVDKZQ",
+                                "timeToRead": 21,
+                                "givenUrl": "https://www.firstthings.com/article/2019/01/shame-storm",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "83048581",
+                                        "name": "Helen Andrews",
+                                        "url": "https://www.firstthings.com/author/helen-rittelmeyer"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQxMDU4NTQ5MV8qXzE1NDQ4ODI0MzE=",
+                        "node": {
+                            "url": "https://www.theverge.com/2018/12/5/18055980/better-worlds-science-fiction-short-stories-video",
+                            "_createdAt": 1544156792,
+                            "_updatedAt": 1544882431,
+                            "id": "2410585491",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1544882431,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Better Worlds: a science fiction project about hope",
+                                "itemId": "2410585491",
+                                "resolvedId": "2410585491",
+                                "resolvedUrl": "https://www.theverge.com/2018/12/5/18055980/better-worlds-science-fiction-short-stories-video",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Verge"
+                                },
+                                "excerpt": "Contemporary science fiction often feels fixated on a sort of pessimism that peers into the world of tomorrow and sees the apocalypse looming more often than not.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.vox-cdn.com/uploads/chorus_image/image/62625957/BW.0.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "",
+                                        "videoId": 1,
+                                        "type": "HTML5",
+                                        "src": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/13603284/BetterWorlds_Lede_MP4.0.mp4"
+                                    }
+                                ],
+                                "topImageUrl": "https://cdn.vox-cdn.com/thumbor/YP8l6rdtR9npvRNEAxApJtXehHw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13601412/VRG_BW_Social.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "https://www.theverge.com/2018/12/5/18055980/better-worlds-science-fiction-short-stories-video",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67613578",
+                                        "name": "Verge Staff",
+                                        "url": "https://www.theverge.com/users/The%20Verge"
+                                    }
+                                ],
+                                "datePublished": "2019-02-13 09:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM4NjE1NzE3Ml8qXzE1NDQ4ODMyMDQ=",
+                        "node": {
+                            "url": "https://aeon.co/ideas/can-relationship-anarchy-create-a-world-without-heartbreak",
+                            "_createdAt": 1542832583,
+                            "_updatedAt": 1544883205,
+                            "id": "2386157172",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1544883204,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Can relationship anarchy create a world without heartbreak?",
+                                "itemId": "2386157172",
+                                "resolvedId": "2386157172",
+                                "resolvedUrl": "https://aeon.co/ideas/can-relationship-anarchy-create-a-world-without-heartbreak",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "Can you imagine a world without heartbreak? Not without sadness, disappointment or regret – but a world without the sinking, searing, all-consuming ache of lost love.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Courtesy: Reddit",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://d2e1bqvws99ptg.cloudfront.net/user_image_upload/744/v2-smorgasbord-b8wpopb56r4y.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://omicron.aeon.co/images/6bdc6dc8-98f7-4935-b64f-6e3353335f65/idea_sized-the_clemenceau_case_1918_reissue_movieposter.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://aeon.co/ideas/can-relationship-anarchy-create-a-world-without-heartbreak",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "144246514",
+                                        "name": "Sophie K Rosa",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2018-11-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQxOTg4Mzk3Ml8qXzE1NDUwNDczMDI=",
+                        "node": {
+                            "url": "https://medium.com/unlock-protocol/the-end-of-the-ad-supported-web-d4d093fb462f",
+                            "_createdAt": 1545000676,
+                            "_updatedAt": 1545047302,
+                            "id": "2419883972",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1545047302,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The End of the Ad-Supported Web",
+                                "itemId": "2419883972",
+                                "resolvedId": "2419883972",
+                                "resolvedUrl": "https://medium.com/unlock-protocol/the-end-of-the-ad-supported-web-d4d093fb462f",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "For the last 20 years, every consumer-oriented application, service or content platform used “ads” as its default business model.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/96/96/0*CTdm31cHgcmqRAi9.jpeg",
+                                        "width": 48
+                                    },
+                                    {
+                                        "caption": "About 30% of web users in the US browse with an ad-blocker.",
+                                        "credit": "",
+                                        "height": 336,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/3720/1*OqynUmwFIzvN67EHvRaCqg.png",
+                                        "width": 1860
+                                    },
+                                    {
+                                        "caption": "Illustration: 1984 by Lesley Barnes",
+                                        "credit": "",
+                                        "height": 801,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/2520/1*2HrgIQBGhjjoK8yx4Dl9DA.jpeg",
+                                        "width": 1260
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*2HrgIQBGhjjoK8yx4Dl9DA.jpeg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://medium.com/unlock-protocol/the-end-of-the-ad-supported-web-d4d093fb462f",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "11977810",
+                                        "name": "Julien Genestoux",
+                                        "url": "https://medium.com/@julien51"
+                                    }
+                                ],
+                                "datePublished": "2019-07-05 16:16:09",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjI5Njk2OTEwM18qXzE1NDUwNDc3ODA=",
+                        "node": {
+                            "url": "https://hbr.org/2018/09/why-design-thinking-works",
+                            "_createdAt": 1545018480,
+                            "_updatedAt": 1545047781,
+                            "id": "2296969103",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1545047780,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why Design Thinking Works",
+                                "itemId": "2296969103",
+                                "resolvedId": "2296969103",
+                                "resolvedUrl": "https://hbr.org/2018/09/why-design-thinking-works",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harvard Business Review"
+                                },
+                                "excerpt": "Occasionally, a new way of organizing work leads to extraordinary improvements.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Marcos Chin",
+                                        "credit": "Marcos Chin",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hbr.org/resources/images/article_assets/2018/08/R1805D_CHIN.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hbr.org/resources/images/article_assets/2018/08/R1805D_CHIN.jpg",
+                                "timeToRead": 16,
+                                "givenUrl": "https://hbr.org/2018/09/why-design-thinking-works",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "97733382",
+                                        "name": "Jeanne Liedtka",
+                                        "url": "https://hbr.org/search?term=jeanne%20liedtka"
+                                    }
+                                ],
+                                "datePublished": "2018-08-31 23:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM4MDA4NjEyN18qXzE1NDUwNTA3Njk=",
+                        "node": {
+                            "url": "https://www.newstatesman.com/2018/11/power-pleasure-profit-david-wootton-review-john-gray",
+                            "_createdAt": 1542832704,
+                            "_updatedAt": 1545050770,
+                            "id": "2380086127",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1545050769,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Enlightenment without end",
+                                "itemId": "2380086127",
+                                "resolvedId": "2380086127",
+                                "resolvedUrl": "https://www.newstatesman.com/2018/11/power-pleasure-profit-david-wootton-review-john-gray",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New Statesman"
+                                },
+                                "excerpt": "According to David Wootton, we are living in a world created by an intellectual revolution initiated by three thinkers in the 16th to 18th centuries.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Perils of power: The Sword of Damocles reminds us that wealth and happiness are not forever. Credit: Christie’s images",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.newstatesman.com/sites/default/files/styles/lead_image/public/Longreads_2018/11/2018_45_john_gray.jpg?itok=OynNsYl9&c=190f65ba3ecf617e8806834a8d239be2",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.newstatesman.com/sites/default/files/styles/lead_image/public/Longreads_2018/11/2018_45_john_gray.jpg?itok=OynNsYl9",
+                                "timeToRead": 10,
+                                "givenUrl": "https://www.newstatesman.com/2018/11/power-pleasure-profit-david-wootton-review-john-gray",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "76101277",
+                                        "name": "John Gray",
+                                        "url": "https://www.newstatesman.com/writers/john_gray"
+                                    }
+                                ],
+                                "datePublished": "2018-11-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NTQ1MzM0NTgzXypfMTU0NTA1MDc4Ng==",
+                        "node": {
+                            "url": "https://www.theatlantic.com/education/archive/2014/02/the-first-lesson-of-marriage-101-there-are-no-soul-mates/283712/",
+                            "_createdAt": 1542372973,
+                            "_updatedAt": 1545050786,
+                            "id": "545334583",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1545050786,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The First Lesson of Marriage 101: There Are No Soul Mates",
+                                "itemId": "545334583",
+                                "resolvedId": "545334583",
+                                "resolvedUrl": "https://www.theatlantic.com/education/archive/2014/02/the-first-lesson-of-marriage-101-there-are-no-soul-mates/283712/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Research shows that practically every dimension of life happiness is influenced by the quality of one’s marriage, while divorce is the second most stressful life event one can ever experience.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Ellen / Flickr",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/LyMuX1Nt4OZLGqLlNpz34jV-NrA=/0x96:1024x672/960x540/media/img/mt/2014/02/239868138_e8005a2e88_b-1/original.jpg",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 90,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/RXm_ELrhRedjW90Q7IhfsIKp_yw=/283x0:923x640/90x90/media/img/mt/2021/04/A2AC5404_0A74_45C3_8957_A7501D0018F6/original.jpg",
+                                        "width": 90
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 90,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/UP1tZI6YH_fTULH_z0xL4d_bzUE=/1572x1260:2916x2604/90x90/media/img/mt/2019/01/GettyImages_460537796/original.jpg",
+                                        "width": 90
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 90,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/thumbor/EZKIR0F1Y9vpFmt8YQwoePjnzYU=/764x0:4300x3536/90x90/media/img/mt/2020/06/cr6.1.20_12/original.jpg",
+                                        "width": 90
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-crossword-promo-71e9c22fbca07267d82afb8cca81ec00.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 7,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 9,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 11,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/Rl_9j_WW7RQTiEZE_j7xBXL9z8I=/2x116:1022x651/960x504/media/img/mt/2014/02/239868138_e8005a2e88_b-1/original.jpg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://www.theatlantic.com/education/archive/2014/02/the-first-lesson-of-marriage-101-there-are-no-soul-mates/283712/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "92085002",
+                                        "name": "Christine Gross-Loh",
+                                        "url": "https://www.theatlantic.com/author/christine-gross-loh/"
+                                    }
+                                ],
+                                "datePublished": "2014-02-12 06:42:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ0MDAyMjYzOF8qXzE1NDY1NzcwNDQ=",
+                        "node": {
+                            "url": "https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39",
+                            "_createdAt": 1546398186,
+                            "_updatedAt": 1546577044,
+                            "id": "2440022638",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1546577044,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "IQ is largely a pseudoscientific swindle",
+                                "itemId": "2440022638",
+                                "resolvedId": "2440022638",
+                                "resolvedUrl": "https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "For some technical backbone to this piece,see here. (Revised draft: added comments on sinister country profiling. Also 1) Used the same data as researchers to find that R² for IQ-wealth and IQ-income is effectively 0 in spite of the circularity.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 44,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/v2/resize:fill:88:88/1*dvvBFludHXwlKf1vs-BhtQ.jpeg",
+                                        "width": 44
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 24,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/v2/resize:fill:48:48/1*6CI44x_h7zvq902z9_Lt4Q.jpeg",
+                                        "width": 24
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/v2/resize:fit:1102/1*8zyuXXda__DjFa9dyWaS2Q.png",
+                                "timeToRead": 16,
+                                "givenUrl": "https://medium.com/incerto/iq-is-largely-a-pseudoscientific-swindle-f131c101ba39",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "142956691",
+                                        "name": "Nassim Nicholas Taleb",
+                                        "url": "https://nntaleb.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2023-08-15 07:36:50",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQyODA4NDczMF8qXzE1NDg2ODA5MjI=",
+                        "node": {
+                            "url": "https://quillette.com/2018/12/20/pewdiepies-battle-for-the-soul-of-the-internet/",
+                            "_createdAt": 1548645499,
+                            "_updatedAt": 1548680925,
+                            "id": "2428084730",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1548680922,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "PewDiePie’s Battle for the Soul of the Internet",
+                                "itemId": "2428084730",
+                                "resolvedId": "2428084730",
+                                "resolvedUrl": "https://quillette.com/2018/12/20/pewdiepies-battle-for-the-soul-of-the-internet/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quillette"
+                                },
+                                "excerpt": "This is a story about the question of who holds power over what we can say, hear, watch and read on the internet—an increasingly urgent issue that many ordinary people have cause to think about every day.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 470,
+                                        "imageId": 1,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/12/20235215/PewDiePie.jpg",
+                                        "width": 940
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "6Dh-RL__uN4",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/6Dh-RL__uN4"
+                                    }
+                                ],
+                                "topImageUrl": "https://i0.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/12/20235215/PewDiePie.jpg?fit=940%2C470&ssl=1",
+                                "timeToRead": 9,
+                                "givenUrl": "https://quillette.com/2018/12/20/pewdiepies-battle-for-the-soul-of-the-internet/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "101778959",
+                                        "name": "Allen Farrington",
+                                        "url": "https://quillette.com/author/allen-farrington/"
+                                    }
+                                ],
+                                "datePublished": "2018-12-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2MjE0ODEzNF8qXzE1NDk4NTE4NDA=",
+                        "node": {
+                            "url": "https://www.newstatesman.com/2019/01/judith-butler-backlash-against-gender-ideology-must-stop",
+                            "_createdAt": 1548527415,
+                            "_updatedAt": 1549858672,
+                            "id": "2462148134",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1549851840,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Judith Butler: the backlash against “gender ideology” must stop",
+                                "itemId": "3444820826",
+                                "resolvedId": "3444820826",
+                                "resolvedUrl": "https://www.newstatesman.com/culture/2019/01/judith-butler-backlash-against-gender-ideology-must-stop",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New Statesman"
+                                },
+                                "excerpt": "In the last few years, protests in Europe, Latin America, and elsewhere have objected to an “ideology of gender”. Elections in France, Colombia, Costa Rica, and Brazil have pivoted on a candidate’s account of gender roles.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 692,
+                                        "imageId": 1,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2021/06/gettyimages-450681411-scaled.jpg",
+                                        "width": 1038
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 2,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2021/11/Music-streaming-web-464x348.jpg",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "TV\nTrainwreck: Woodstock ’99 overlooks the festival’s most disturbing problem – sexual assault",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 3,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/08/Trainwreck_Woodstock99_Season1_Episode3_00_42_51_126478-464x348.png",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "TV\nThe deep realism of Better Call Saul",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 4,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/08/BCS_305_MS_1117_0949-RT-464x348.jpg",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "How to create a responsible form of “buy now, pay later”\n Spotlight",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 5,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/07/shutterstock_1661573395-1-464x348.jpg",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "“Unions are helping improve conditions for drivers like me”\n Spotlight",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 6,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/07/Ali-Haydor-10-464x348.jpg",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 7,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/07/Pendolino-390130-Rugby-Station-Credit-Brad-Joyce-464x348.jpg",
+                                        "width": 464
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.newstatesman.com/wp-content/uploads/sites/2/2021/06/gettyimages-450681411-scaled.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://www.newstatesman.com/2019/01/judith-butler-backlash-against-gender-ideology-must-stop",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "171301423",
+                                        "name": "Judith Butler",
+                                        "url": "https://www.newstatesman.com/author/judith-butler"
+                                    }
+                                ],
+                                "datePublished": "2019-01-21 09:58:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2NjA0NjU1N18qXzE1NDk4NTI1NTE=",
+                        "node": {
+                            "url": "http://blog.samaltman.com/how-to-be-successful",
+                            "_createdAt": 1548511344,
+                            "_updatedAt": 1549858672,
+                            "id": "2466046557",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1549852551,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How To Be Successful",
+                                "itemId": "2466046557",
+                                "resolvedId": "2466046557",
+                                "resolvedUrl": "https://blog.samaltman.com/how-to-be-successful",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.samaltman.com"
+                                },
+                                "excerpt": "I’ve observed thousands of founders and thought a lot about what it takes to make a huge amount of money or to create something important. Usually, people start off wanting the former and end up wanting the latter. Here are 13 thoughts about how to achieve such outlier success.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://blog.samaltman.com/how-to-be-successful",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2NDY0MjAzNl8qXzE1NDk4NTM5MDU=",
+                        "node": {
+                            "url": "https://www.gq.com/story/cal-newport-digital-minimalism",
+                            "_createdAt": 1548948307,
+                            "_updatedAt": 1549858673,
+                            "id": "2464642036",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1549853905,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Cal Newport on Why We'll Look Back at Our Smartphones Like Cigarettes",
+                                "itemId": "2464642036",
+                                "resolvedId": "2464642036",
+                                "resolvedUrl": "https://www.gq.com/story/cal-newport-digital-minimalism",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "GQ"
+                                },
+                                "excerpt": "In 2004, when Cal Newport was still an undergrad at Dartmouth, all his friends were making accounts on a new website called Facebook. Newport opted out. This was not the moral or political objection it might be today. “There was very little scary about 2004 Facebook,” he says.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://media.gq.com/photos/5c48a189c6e40853b4876343/16:9/w_1280,c_limit/Cal-Newport-on-Why-We'll-Look-Back-at-Our-Smartphones-Like-Cigarettes-GQ-1.jpg",
+                                "timeToRead": 19,
+                                "givenUrl": "https://www.gq.com/story/cal-newport-digital-minimalism",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "40496160",
+                                        "name": "Clay Skipper",
+                                        "url": "https://www.gq.com/contributor/clay-skipper"
+                                    }
+                                ],
+                                "datePublished": "2019-01-23 11:24:48",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2NzYwNzYzN18qXzE1NDk4NTcxMTc=",
+                        "node": {
+                            "url": "https://medium.com/@Vlad_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827",
+                            "_createdAt": 1548511040,
+                            "_updatedAt": 1549858673,
+                            "id": "2467607637",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1549857117,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3970880288",
+                                "resolvedId": "3970880288",
+                                "resolvedUrl": "https://rsci.app.link/caf1GPVBNT?_p=c31029c09a047af6e4038d",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rsci.app.link"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://medium.com/@Vlad_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ1ODQ3MjIwMV8qXzE1NDk4NTg4Mzg=",
+                        "node": {
+                            "url": "https://www.theguardian.com/news/2019/jan/18/death-on-demand-has-euthanasia-gone-too-far-netherlands-assisted-dying",
+                            "_createdAt": 1548203355,
+                            "_updatedAt": 1549858839,
+                            "id": "2458472201",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1549858838,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Death on demand: has euthanasia gone too far?",
+                                "itemId": "2458472201",
+                                "resolvedId": "2458472201",
+                                "resolvedUrl": "https://www.theguardian.com/news/2019/jan/18/death-on-demand-has-euthanasia-gone-too-far-netherlands-assisted-dying",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Guardian"
+                                },
+                                "excerpt": "Last year a Dutch doctor called Bert Keizer was summoned to the house of a man dying of lung cancer, in order to end his life. When Keizer and the nurse who was to assist him arrived, they found around 35 people gathered around the dying man’s bed.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 288,
+                                        "imageId": 1,
+                                        "src": "https://i.guim.co.uk/img/media/b2c6fafea2bbb9e46061d905af1496a1db53f3e4/276_388_4353_2612/master/4353.jpg?width=480&quality=85&dpr=1&s=none",
+                                        "width": 480
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 2,
+                                        "src": "https://i.guim.co.uk/img/media/ea71d1d167819ab68c3900647d653a682f95ef85/0_141_3934_2361/master/3934.jpg?width=445&quality=85&dpr=1&s=none",
+                                        "width": 445
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 267,
+                                        "imageId": 3,
+                                        "src": "https://i.guim.co.uk/img/media/040ac4f3787db0351fe34b33b501d612a96c9adf/0_219_2129_1277/master/2129.jpg?width=445&quality=85&dpr=1&s=none",
+                                        "width": 445
+                                    },
+                                    {
+                                        "caption": "Marijke, who was euthanised at 76, with a letter from her son, written after her death, detailing his upset at her decision. Photograph: Marc Veld",
+                                        "credit": "",
+                                        "height": 556,
+                                        "imageId": 4,
+                                        "src": "https://i.guim.co.uk/img/media/fc63cf7fdb4279344eac3f9c963b99dbc22d3498/3_0_1007_1258/master/1007.jpg?width=445&quality=85&dpr=1&s=none",
+                                        "width": 445
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i.guim.co.uk/img/media/b2c6fafea2bbb9e46061d905af1496a1db53f3e4/576_390_3731_2239/master/3731.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab142d2f781135aa37edb287ac7c0011",
+                                "timeToRead": 24,
+                                "givenUrl": "https://www.theguardian.com/news/2019/jan/18/death-on-demand-has-euthanasia-gone-too-far-netherlands-assisted-dying",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "53100801",
+                                        "name": "Christopher de Bellaigue",
+                                        "url": "https://www.theguardian.com/profile/christopher-de-bellaigue"
+                                    }
+                                ],
+                                "datePublished": "2019-01-18 00:00:11",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2OTM2ODU0M18qXzE1NTE0MTE4Njg=",
+                        "node": {
+                            "url": "https://sivers.org/dj",
+                            "_createdAt": 1550117281,
+                            "_updatedAt": 1551411868,
+                            "id": "2469368543",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1551411868,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Benefits of a daily diary and topic journals",
+                                "itemId": "4011281241",
+                                "resolvedId": "4011281241",
+                                "resolvedUrl": "https://sive.rs/dj?_ke=eyJrbF9lbWFpbCI6ICJpbmZvQGRvbWluaWNwbGF6YS5jb20iLCAia2xfY29tcGFueV9pZCI6ICJuRkVlM1IifQ%3D%3D",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "sive.rs"
+                                },
+                                "excerpt": "You know those people whose lives are transformed by meditation or yoga or something like that? For me, it’s writing in my diary and journals. It’s made all the difference in the world for my learning, reflecting, and peace of mind.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "https://sivers.org/dj",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-01-28 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "OTc0NDcyNjIyXypfMTU1MzkyMDI0Nw==",
+                        "node": {
+                            "url": "https://jamesclear.com/ivy-lee",
+                            "_createdAt": 1553920085,
+                            "_updatedAt": 1553920247,
+                            "id": "974472622",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1553920247,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity",
+                                "itemId": "974472622",
+                                "resolvedId": "974472622",
+                                "resolvedUrl": "https://jamesclear.com/ivy-lee",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "James Clear"
+                                },
+                                "excerpt": "By 1918, Charles M. Schwab was one of the richest men in the world. Schwab was the president of the Bethlehem Steel Corporation, the largest shipbuilder and the second-largest steel producer in America at the time.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://jamesclear.com/wp-content/uploads/2015/07/Untitled-design-19.png",
+                                "timeToRead": 4,
+                                "givenUrl": "https://jamesclear.com/ivy-lee",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "77305585",
+                                        "name": "James Clear",
+                                        "url": "https://jamesclear.com/about"
+                                    }
+                                ],
+                                "datePublished": "2015-07-07 01:36:27",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTc3ODM3NzQxOV8qXzE1NTYyOTg1Nzg=",
+                        "node": {
+                            "url": "https://qz.com/987109/the-purpose-of-life-is-to-be-a-nobody/",
+                            "_createdAt": 1555329757,
+                            "_updatedAt": 1556298579,
+                            "id": "1778377419",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1556298578,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The purpose of life is to be a nobody",
+                                "itemId": "1778377419",
+                                "resolvedId": "1778377419",
+                                "resolvedUrl": "https://qz.com/987109/the-purpose-of-life-is-to-be-a-nobody",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quartz"
+                                },
+                                "excerpt": "We all experience the world like we are at the center of reality. We think and we feel in relation to how our senses absorb information and how this information mingles with our personal memories. The subjective perception created by these interactions provides the illusion of importance.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6b5124e2e5dda5d47a910da563fc29ee.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://qz.com/987109/the-purpose-of-life-is-to-be-a-nobody/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "104983668",
+                                        "name": "Zat Rana",
+                                        "url": "https://qz.com/author/zat-rana"
+                                    }
+                                ],
+                                "datePublished": "2017-06-10 06:45:20",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTEyODU1OTg5MV8qXzE1NTYyOTg4NzI=",
+                        "node": {
+                            "url": "http://www.theatlantic.com/science/archive/2015/12/accessories-for-your-murderous-pet/419601/",
+                            "_createdAt": 1553921044,
+                            "_updatedAt": 1556298920,
+                            "id": "1128559891",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1556298872,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Stop a Bird-Murdering Cat",
+                                "itemId": "1128559891",
+                                "resolvedId": "1128559891",
+                                "resolvedUrl": "https://www.theatlantic.com/science/archive/2015/12/accessories-for-your-murderous-pet/419601/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Here’s an alarming but little-known figure—stray cats and pet cats allowed outdoors kill 3.6 million birds every day on average in the United States, for a total of at least 1.3 billion birds per year. That’s most likely a sizable chunk out of the U.S.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "Adrees Latif / Reuters",
+                                        "height": 405,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/gIoNPq0W-n-eAXU8tgTxmEj1tDM=/0x47:1884x1107/720x405/media/img/mt/2015/12/RTRD62Q/original.jpg",
+                                        "width": 720
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/yhM0ewLO9aww1uVNoTE0mzZLBnM=/133x0:2091x1020/960x500/media/img/mt/2015/12/RTRD62Q/original.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.theatlantic.com/science/archive/2015/12/accessories-for-your-murderous-pet/419601/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "96398338",
+                                        "name": "Conor Gearin",
+                                        "url": "https://www.theatlantic.com/author/conor-gearin/"
+                                    }
+                                ],
+                                "datePublished": "2015-12-09 08:57:27",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU3OTUzNDkzMl8qXzE1NTY5NDMwMjQ=",
+                        "node": {
+                            "url": "https://blog.stephenwolfram.com/2019/05/a-world-run-with-code/",
+                            "_createdAt": 1556913974,
+                            "_updatedAt": 1556943299,
+                            "id": "2579534932",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1556943024,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A World Run with Code—Stephen Wolfram Writings",
+                                "itemId": "2742229408",
+                                "resolvedId": "2742229408",
+                                "resolvedUrl": "https://writings.stephenwolfram.com/2019/05/a-world-run-with-code/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "writings.stephenwolfram.com"
+                                },
+                                "excerpt": "This is an edited transcript of a recent talk I gave at a blockchain conference, where I said I’d talk about “What will the world be like when computational intelligence and computational contracts are ubiquitous?” We live in an interesting time today—a time when we’re just beginning to se",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 329,
+                                        "imageId": 1,
+                                        "src": "https://writings.stephenwolfram.com/data/uploads/2019/05/sw-talk-hero.png",
+                                        "width": 621
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 360,
+                                        "imageId": 2,
+                                        "src": "https://writings.stephenwolfram.com/data/uploads/2019/05/Array.png",
+                                        "width": 615
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 362,
+                                        "imageId": 3,
+                                        "src": "https://writings.stephenwolfram.com/data/uploads/2019/05/Rule30.png",
+                                        "width": 619
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 14,
+                                "givenUrl": "https://blog.stephenwolfram.com/2019/05/a-world-run-with-code/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-05-02 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU5ODE2MTQzNV8qXzE1NTg1MTUxNzc=",
+                        "node": {
+                            "url": "https://briantimar.github.io/notes/mimetic/mimetic",
+                            "_createdAt": 1558441110,
+                            "_updatedAt": 1558515177,
+                            "id": "2598161435",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1558515177,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Mimetic",
+                                "itemId": "2687459817",
+                                "resolvedId": "2687459817",
+                                "resolvedUrl": "https://www.briantimar.com/notes/mimetic/mimetic",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "briantimar.com"
+                                },
+                                "excerpt": "I’ve been a graduate student in physics for almost three years, but I only recently figured out why. I had to tackle a simple question do so: Why does this matter?",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://briantimar.github.io/notes/mimetic/mimetic",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "111843395",
+                                        "name": "list",
+                                        "url": "https://twitter.com/briantimar/lists/people-to-follow/members"
+                                    }
+                                ],
+                                "datePublished": "2019-05-19 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU4NzM2OTE4NF8qXzE1NTg1MTUxOTE=",
+                        "node": {
+                            "url": "https://nadiaeghbal.com/ideas",
+                            "_createdAt": 1557768302,
+                            "_updatedAt": 1558515192,
+                            "id": "2587369184",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1558515191,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2587369184",
+                                "resolvedId": "2587369184",
+                                "resolvedUrl": "https://nadiaeghbal.com/ideas",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "nadiaeghbal.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://nadiaeghbal.com/ideas",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjMyODIxNjQzOV8qXzE1Mzg5NjYyNjc=",
+                    "endCursor": "MjU4NzM2OTE4NF8qXzE1NTg1MTUxOTE="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

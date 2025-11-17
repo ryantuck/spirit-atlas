@@ -1,0 +1,2164 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTM5OTg1MzcyOV8qXzE0OTc0MDM5NTk=",
+                        "node": {
+                            "url": "https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.jhki31oqv",
+                            "_createdAt": 1473899657,
+                            "_updatedAt": 1497403960,
+                            "id": "1399853729",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497403959,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Cognitive bias cheat sheet",
+                                "itemId": "3265436267",
+                                "resolvedId": "3265436267",
+                                "resolvedUrl": "https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "betterhumans.pub"
+                                },
+                                "excerpt": "I’ve spent many years referencing Wikipedia’s list of cognitive biases whenever I have a hunch that a certain type of thinking is an official bias but I can’t recall the name or details. It’s been an invaluable reference for helping me identify the hidden flaws in my own thinking.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 44,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/v2/resize:fill:88:88/1*xA2aK1XdTdm3J3g1BLzVog@2x.jpeg",
+                                        "width": 44
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 24,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/v2/resize:fill:48:48/1*c_2w6a-GqcYDbmJFO8Frgw.png",
+                                        "width": 24
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/v2/resize:fit:800/1*yN2Xhv-M5PPerWzDVNt3sw.jpeg",
+                                "timeToRead": 14,
+                                "givenUrl": "https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.jhki31oqv",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "151643216",
+                                        "name": "Buster Benson",
+                                        "url": "https://buster.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2023-04-30 17:51:09",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5OTQyNTM0MF8qXzE0OTc0MDM5ODk=",
+                        "node": {
+                            "url": "https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should",
+                            "_createdAt": 1474510837,
+                            "_updatedAt": 1497403990,
+                            "id": "1399425340",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497403989,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "20 Python libraries you aren’t using (but should)",
+                                "itemId": "2891009477",
+                                "resolvedId": "2891009477",
+                                "resolvedUrl": "https://www.oreilly.com/content/20-python-libraries-you-arent-using-but-should/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "O'Reilly Media"
+                                },
+                                "excerpt": "The Python ecosystem is vast and far-reaching in both scope and depth. Starting out in this crazy, open-source forest is daunting, and even with years of experience, it still requires continual effort to keep up-to-date with the best libraries and techniques.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0401-5745061af776ae2aa3f1e5c611ef3461.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0501-ce21e17dea3a6a3eed274e6ae3704f2b.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0502-17acd0cb730805eb8d1981df61842d3f.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0601-036a10e3c42287b5cc18232aa1a7e5f2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0602-f14884430cccf682b7943f7d9bff1118.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0603-4f2a720c0d6352022c70575e9280ae13.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0604-4d95f764b8e3d355fefbd921949e4ea6.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0701-2e5794f8344d66449def34ffcafdad4f.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0702-cb66f7709395dfd6a9e5466681ac1b18.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0703-a57ed0d09cd38851e0f9cee13d11f926.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/tply_0704-45bd2b3b29981725d909fe85bcada1d8.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.oreilly.com/content/wp-content/uploads/sites/2/2019/06/soft-eng-20-python-libraries-crop-5c892c1d29e94113e414346f29b282cb.jpg",
+                                "timeToRead": 67,
+                                "givenUrl": "https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "128760298",
+                                        "name": "Caleb Hattingh",
+                                        "url": "https://www.oreilly.com/people/caleb-hattingh/"
+                                    }
+                                ],
+                                "datePublished": "2016-09-01 09:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxMzMyMTY4MF8qXzE0OTc0MDM5OTY=",
+                        "node": {
+                            "url": "http://www.asimovinstitute.org/neural-network-zoo/",
+                            "_createdAt": 1474510926,
+                            "_updatedAt": 1497403997,
+                            "id": "1413321680",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497403996,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Neural Network Zoo",
+                                "itemId": "1413321680",
+                                "resolvedId": "1413321680",
+                                "resolvedUrl": "https://www.asimovinstitute.org/neural-network-zoo/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "asimovinstitute.org"
+                                },
+                                "excerpt": "With new neural network architectures popping up every now and then, it’s hard to keep track of them all. Knowing all the abbreviations being thrown around (DCIGN, BiLSTM, DCGAN, anyone?) can be a bit overwhelming at first.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 3400,
+                                        "imageId": 1,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2019/04/NeuralNetworkZoo20042019.png",
+                                        "width": 2000
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 124,
+                                        "imageId": 2,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/ff.png",
+                                        "width": 427
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 125,
+                                        "imageId": 3,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/rbf.png",
+                                        "width": 196
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 211,
+                                        "imageId": 4,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/rnn.png",
+                                        "width": 272
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 215,
+                                        "imageId": 5,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/lstm.png",
+                                        "width": 271
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 206,
+                                        "imageId": 6,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/gru.png",
+                                        "width": 271
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 274,
+                                        "imageId": 7,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/ae.png",
+                                        "width": 202
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 269,
+                                        "imageId": 8,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/vae.png",
+                                        "width": 203
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 286,
+                                        "imageId": 9,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/dae.png",
+                                        "width": 208
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 294,
+                                        "imageId": 10,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/sae.png",
+                                        "width": 216
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/mc.png",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/hn.png",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 319,
+                                        "imageId": 13,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/bm.png",
+                                        "width": 303
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 297,
+                                        "imageId": 14,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/rbm.png",
+                                        "width": 152
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 284,
+                                        "imageId": 15,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/dbn.png",
+                                        "width": 501
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 324,
+                                        "imageId": 16,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/cnn.png",
+                                        "width": 526
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 313,
+                                        "imageId": 17,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/dn.png",
+                                        "width": 310
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 310,
+                                        "imageId": 18,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/dcign.png",
+                                        "width": 563
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 178,
+                                        "imageId": 19,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/gan.png",
+                                        "width": 436
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 249,
+                                        "imageId": 20,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/lsm.png",
+                                        "width": 309
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 249,
+                                        "imageId": 21,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/elm.png",
+                                        "width": 311
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 248,
+                                        "imageId": 22,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/esn.png",
+                                        "width": 310
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 135,
+                                        "imageId": 23,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/drn.png",
+                                        "width": 530
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 271,
+                                        "imageId": 24,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/ntm.png",
+                                        "width": 376
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 355,
+                                        "imageId": 25,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2019/04/DMC.png",
+                                        "width": 563
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 338,
+                                        "imageId": 26,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2019/04/CN.png",
+                                        "width": 597
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 210,
+                                        "imageId": 27,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/kn.png",
+                                        "width": 275
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 28,
+                                        "src": "https://www.asimovinstitute.org/wp-content/uploads/2019/04/AN.png",
+                                        "width": 597
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.asimovinstitute.org/wp-content/uploads/2016/09/building-922529_1920.jpg",
+                                "timeToRead": 24,
+                                "givenUrl": "http://www.asimovinstitute.org/neural-network-zoo/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "74144342",
+                                        "name": "Fjodor van Veen",
+                                        "url": "https://www.asimovinstitute.org/author/fjodorvanveen/"
+                                    }
+                                ],
+                                "datePublished": "2016-09-14 05:31:14",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjEwNTI0ODc4XypfMTQ5NzQwNDAyMg==",
+                        "node": {
+                            "url": "https://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
+                            "_createdAt": 1474759224,
+                            "_updatedAt": 1497404023,
+                            "id": "610524878",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404022,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Minimum Viable Block Chain",
+                                "itemId": "610524878",
+                                "resolvedId": "610524878",
+                                "resolvedUrl": "https://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "igvita.com"
+                                },
+                                "excerpt": "Cryptocurrencies, and Bitcoin in particular, have been getting a lot of attention from just about every angle: regulation, governance, taxation, technology, product innovation, and the list goes on.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.igvita.com/posts/14/xblockchain.png.pagespeed.ic.3yicsCnMLx.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.igvita.com/posts/14/xtransaction-signatures.png.pagespeed.ic.lrYSyJf1R9.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.igvita.com/posts/14/xtransaction-pki.png.pagespeed.ic.ZSdH_RruFb.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.igvita.com/posts/14/xsigned-ledger.png.pagespeed.ic.YazroWhMZN.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.igvita.com/posts/14/xsigned-ledger-value.png.pagespeed.ic.oxt4qA87hB.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://www.igvita.com/posts/14/xsigned-ledger-transfer.png.pagespeed.ic.snML9IATgu.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.igvita.com/posts/14/xp2p-overlay.png.pagespeed.ic.H89nWIVuzd.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.igvita.com/posts/14/xidentity-spectrum.png.pagespeed.ic.8FtdTPktgK.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://www.igvita.com/posts/14/xhashfunction.png.pagespeed.ic.mIIOeW9rxv.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://www.igvita.com/posts/14/xsybil.png.pagespeed.ic.icoy2WviHA.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.igvita.com/posts/14/xblockchain-full.png.pagespeed.ic.Zm2dN3UJLM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://www.igvita.com/posts/14/xblockchain-race.png.pagespeed.ic.hkvDJrqxzJ.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://www.igvita.com/posts/14/xblockchain-resolve.png.pagespeed.ic.G48z_axyU3.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://www.igvita.com/posts/14/blockchain.png",
+                                "timeToRead": 33,
+                                "givenUrl": "https://www.igvita.com/2014/05/05/minimum-viable-block-chain/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "7524781",
+                                        "name": "Ilya Grigorik",
+                                        "url": "https://www.igvita.com/"
+                                    }
+                                ],
+                                "datePublished": "2014-05-05 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ1NjQzNzg3NV8qXzE0OTc0MDQwMjc=",
+                        "node": {
+                            "url": "https://www.buzzfeed.com/jamesball/heres-what-i-learned-about-julian-assange?utm_term=.raQZkZwro#.wcnxOx1jY",
+                            "_createdAt": 1477363879,
+                            "_updatedAt": 1497404027,
+                            "id": "1456437875",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404027,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1456240567",
+                                "resolvedId": "3953330893",
+                                "resolvedUrl": "https://getpocket.com:443/sMPbx3?cta=1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.buzzfeed.com/jamesball/heres-what-i-learned-about-julian-assange?utm_term=.raQZkZwro#.wcnxOx1jY",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxNzUzMTUxMl8qXzE0OTc0MDQwMzg=",
+                        "node": {
+                            "url": "http://www.techbeamers.com/essential-python-tips-tricks-programmers/",
+                            "_createdAt": 1475104006,
+                            "_updatedAt": 1497404039,
+                            "id": "1417531512",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404038,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "30 Essential Python Tips and Tricks for Programmers",
+                                "itemId": "1417531512",
+                                "resolvedId": "1417531512",
+                                "resolvedUrl": "https://www.techbeamers.com/essential-python-tips-tricks-programmers/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "techbeamers.com"
+                                },
+                                "excerpt": "If you ask any Python programmer to tell about the strengths of Python, he will quote brevity and high readability as the most influencing ones. In this Python tutorial, we’ll cover many essential Python tips and tricks that will authenticate the above two points.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.techbeamers.com/wp-content/uploads/2016/09/30-Essential-Python-Tips-and-Tricks-for-Programmers.png",
+                                "timeToRead": 10,
+                                "givenUrl": "http://www.techbeamers.com/essential-python-tips-tricks-programmers/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "93620618",
+                                        "name": "Meenakshi Agarwal",
+                                        "url": "https://www.techbeamers.com/author/meenakshi/"
+                                    }
+                                ],
+                                "datePublished": "2016-09-18 08:06:19",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2MTY0NzE5NV8qXzE0OTc0MDQwNDE=",
+                        "node": {
+                            "url": "http://www.rationaloptimist.com/blog/batteries/?utm_source=twitterfeed&utm_medium=twitter",
+                            "_createdAt": 1477662866,
+                            "_updatedAt": 1497404042,
+                            "id": "1461647195",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404041,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Batteries won't make renewables into reliables",
+                                "itemId": "1461450218",
+                                "resolvedId": "1461450218",
+                                "resolvedUrl": "http://www.rationaloptimist.com/blog/batteries/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rationaloptimist.com"
+                                },
+                                "excerpt": "Batteries are no longer boring. Whether catching fire in Samsung Note 7s, being hailed as the answer to future electricity grids thanks to breakthrough chemical innovation, or being manufactured on a gigantic scale in Elon Musk’s gigafactory in Nevada, batteries are box office.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "http://www.rationaloptimist.com/images/logo.png",
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.rationaloptimist.com/blog/batteries/?utm_source=twitterfeed&utm_medium=twitter",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "31763",
+                                        "name": "MATT RIDLEY",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2020-09-11 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIwNTY5OTI5M18qXzE0OTc0MDQwNDQ=",
+                        "node": {
+                            "url": "http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html",
+                            "_createdAt": 1477663393,
+                            "_updatedAt": 1497404044,
+                            "id": "1205699293",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404044,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1206018769",
+                                "resolvedId": "1206018769",
+                                "resolvedUrl": "https://nyti.ms/1LfsbFY",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "nyti.ms"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTA0NzY4NjMzNl8qXzE0OTc0MDQwNDc=",
+                        "node": {
+                            "url": "http://waitbutwhy.com/table/why-is-there-something-instead-of-nothing",
+                            "_createdAt": 1477663626,
+                            "_updatedAt": 1497404047,
+                            "id": "1047686336",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404047,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why is There Something Instead of Nothing?",
+                                "itemId": "1047686336",
+                                "resolvedId": "1047686336",
+                                "resolvedUrl": "https://waitbutwhy.com/table/why-is-there-something-instead-of-nothing",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Wait But Why"
+                                },
+                                "excerpt": "No, but seriously. Why is there something instead of nothing? Last night, as I was creeping around the internet at 2:43am while the adults of the world slept, my eyes glanced by the headline, “Why is there something instead of nothing?” on the sidebar of a site I was on.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://wait-but-why-production.mystagingwebsite.com/wp-content/uploads/2015/09/DT39-F.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://wait-but-why-production.mystagingwebsite.com/wp-content/uploads/2015/09/DT39-F.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://waitbutwhy.com/table/why-is-there-something-instead-of-nothing",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "13563762",
+                                        "name": "Tim Urban",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2023-05-23 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcyMDAyNTNfKl8xNDk3NDA0MDUx",
+                        "node": {
+                            "url": "http://stackoverflow.com/questions/1981526/what-should-every-developer-know-about-databases",
+                            "_createdAt": 1477796118,
+                            "_updatedAt": 1497404052,
+                            "id": "27200253",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404051,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What should every developer know about databases? [closed]",
+                                "itemId": "27200253",
+                                "resolvedId": "27200253",
+                                "resolvedUrl": "https://stackoverflow.com/questions/1981526/what-should-every-developer-know-about-databases",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Stack Overflow"
+                                },
+                                "excerpt": "Whether we like it or not, many if not most of us developers either regularly work with databases or may have to work with one someday.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+                                "timeToRead": 21,
+                                "givenUrl": "http://stackoverflow.com/questions/1981526/what-should-every-developer-know-about-databases",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "73422148",
+                                        "name": "Aaronaught",
+                                        "url": "https://stackoverflow.com/users/38360"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5OTc4NjQ3NF8qXzE0OTc0MDQwNTM=",
+                        "node": {
+                            "url": "http://waitbutwhy.com/2016/09/marriage-decision.html",
+                            "_createdAt": 1478042340,
+                            "_updatedAt": 1497404054,
+                            "id": "1399786474",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404053,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Marriage Decision: Everything Forever or Nothing Ever Again",
+                                "itemId": "1399786474",
+                                "resolvedId": "1399786474",
+                                "resolvedUrl": "https://waitbutwhy.com/2016/09/marriage-decision.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Wait But Why"
+                                },
+                                "excerpt": "There’s not really any normal way to start a relationship. Some people go on a date, and then another date, and then another, and one day it’s just clear to both of them that they’re in a relationship.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/MarriageDecision_FB2.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 430,
+                                        "imageId": 2,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R1-girlfriend.png",
+                                        "width": 351
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 460,
+                                        "imageId": 3,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R2-on-a-cloud.jpg",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 333,
+                                        "imageId": 4,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/R3-smiling-1.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 5,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/R4-love-you.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 429,
+                                        "imageId": 6,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R5-Unicorns.jpg",
+                                        "width": 559
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 351,
+                                        "imageId": 7,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R6-angry.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 320,
+                                        "imageId": 8,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R7-Cage.png",
+                                        "width": 418
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 9,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R8-ball-and-chain.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 222,
+                                        "imageId": 10,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R9-best.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 11,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R10-worst.png",
+                                        "width": 310
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 288,
+                                        "imageId": 12,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R11-teammate.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 231,
+                                        "imageId": 13,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R12-rock.png",
+                                        "width": 242
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 14,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R13-beam-1.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 15,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/08/R14-beam-2.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 16,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/R15-beam-3.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 17,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/R16-beam-4.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 422,
+                                        "imageId": 18,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/fear-breakup-2.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 460,
+                                        "imageId": 19,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/fear-marriage-2.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 20,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/gut.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 21,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/house.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 383,
+                                        "imageId": 22,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/road.jpg",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 188,
+                                        "imageId": 23,
+                                        "src": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/R17-beam-5-1.png",
+                                        "width": 500
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://149909199.v2.pressablecdn.com/wp-content/uploads/2016/09/MarriageDecision_FB2.jpg",
+                                "timeToRead": 20,
+                                "givenUrl": "http://waitbutwhy.com/2016/09/marriage-decision.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "13563762",
+                                        "name": "Tim Urban",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-09-01 11:32:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQwMTA5NTI4XypfMTQ5NzQwNDA1OQ==",
+                        "node": {
+                            "url": "http://discovermagazine.com/2012/nov/27-big-idea-bring-back-the-cold-fusion-dream",
+                            "_createdAt": 1478054246,
+                            "_updatedAt": 1497404059,
+                            "id": "240109528",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404059,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Big Idea: Bring Back the \"Cold Fusion\" Dream",
+                                "itemId": "3403046412",
+                                "resolvedId": "3403046412",
+                                "resolvedUrl": "https://www.discovermagazine.com/the-sciences/big-idea-bring-back-the-cold-fusion-dream",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "discovermagazine.com"
+                                },
+                                "excerpt": "In 1989 Stanley Pons and Martin Fleischmann made a sensational claim that would have changed the world—had it been true. They said they had achieved nuclear fusion at room temperature using a simple tabletop device, thus creating a revolutionary clean energy source they called “cold fusion.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 660,
+                                        "imageId": 1,
+                                        "src": "https://images.ctfassets.net/cnu0m8re1exe/1UkLOiJzOqLV87bqmbc8Tb/4147d84011eeb05817a759bd69b6b1a7/coldfusion.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill",
+                                        "width": 433
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://images.ctfassets.net/cnu0m8re1exe/1UkLOiJzOqLV87bqmbc8Tb/4147d84011eeb05817a759bd69b6b1a7/coldfusion.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "http://discovermagazine.com/2012/nov/27-big-idea-bring-back-the-cold-fusion-dream",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "124557729",
+                                        "name": "Mark Anderson",
+                                        "url": "https://www.discovermagazine.com/author/mark-anderson"
+                                    }
+                                ],
+                                "datePublished": "2012-10-23 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQzMTQ5NDU1NV8qXzE0OTc0MDQxOTA=",
+                        "node": {
+                            "url": "http://blockgeeks.com/guides/what-is-blockchain-technology-a-step-by-step-guide-than-anyone-can-understand/",
+                            "_createdAt": 1478102013,
+                            "_updatedAt": 1497404191,
+                            "id": "1431494555",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404190,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Blockchain For Beginners: What Is Blockchain Technology? A Step-by-Step Guide",
+                                "itemId": "1519990959",
+                                "resolvedId": "1519990959",
+                                "resolvedUrl": "https://blockgeeks.com/guides/what-is-blockchain-technology/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blockgeeks.com"
+                                },
+                                "excerpt": "What is blockchain technology? What makes it so important? Imagine a world where you can send money directly to someone without a bank – in seconds instead of days, and you don’t pay exorbitant bank fees.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 731,
+                                        "imageId": 1,
+                                        "src": "https://blockgeeks.com/wp-content/uploads/2016/09/blockchain.png",
+                                        "width": 800
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://alternative.me/crypto/fear-and-greed-index.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://blockgeeks.com/wp-content/uploads/2016/09/blockchaintech.jpg",
+                                "timeToRead": 26,
+                                "givenUrl": "http://blockgeeks.com/guides/what-is-blockchain-technology-a-step-by-step-guide-than-anyone-can-understand/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "9073360",
+                                        "name": "Ameer Rosic",
+                                        "url": ""
+                                    },
+                                    {
+                                        "id": "144111983",
+                                        "name": "Andrew Zapotochny",
+                                        "url": ""
+                                    },
+                                    {
+                                        "id": "160047698",
+                                        "name": "Nick Darlington",
+                                        "url": "https://blockgeeks.com/author/nickdarlington/"
+                                    }
+                                ],
+                                "datePublished": "2022-10-18 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ1OTYxOTQ0NF8qXzE0OTc0MDQxOTc=",
+                        "node": {
+                            "url": "https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/",
+                            "_createdAt": 1478397607,
+                            "_updatedAt": 1497404198,
+                            "id": "1459619444",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404197,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The darker side of machine learning",
+                                "itemId": "1459619444",
+                                "resolvedId": "1459619444",
+                                "resolvedUrl": "https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "TechCrunch"
+                                },
+                                "excerpt": "While machine learning is introducing innovation and change to many sectors, it also is bringing trouble and worries to others. One of the most worrying aspects of emerging machine learning technologies is their invasiveness on user privacy.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://techcrunch.com/wp-content/uploads/2014/11/privacy.jpg?w=667",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://techcrunch.com/wp-content/uploads/2014/11/privacy.jpg?w=667",
+                                "timeToRead": 7,
+                                "givenUrl": "https://techcrunch.com/2016/10/26/the-darker-side-of-machine-learning/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "144870268",
+                                        "name": "Ben Dickson",
+                                        "url": "https://techcrunch.com/author/"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ3OTU2OTI1NV8qXzE0OTc0MDQyMDE=",
+                        "node": {
+                            "url": "http://nymag.com/daily/intelligencer/2016/11/how-the-loyal-opposition-will-work-in-trumps-america.html",
+                            "_createdAt": 1479667923,
+                            "_updatedAt": 1497404202,
+                            "id": "1479569255",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404201,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How the Loyal Opposition Will Work in Trump’s America",
+                                "itemId": "2356455076",
+                                "resolvedId": "2356455076",
+                                "resolvedUrl": "https://nymag.com/intelligencer/2016/11/how-the-loyal-opposition-will-work-in-trumps-america.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "When he took office in 2001, George W. Bush inherited a healthy Republican Party roughly at parity with its opposition.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "intelligencer is a Vox Media Network.\n     © 2022 Vox Media, LLC. All rights reserved.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/986/637/6c8cbb841376b081c245745b119e428917-11-election-chait-design-lede.2x.h600.w512.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "A letter to Trump from a first-grade student at Woodland School, Portola Valley, California.\n        Photo: Bobby Doherty/New York Magazine",
+                                        "credit": "Photo: Bob Doherty/New York Magazine",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/0bb/0e6/28d33aba17d0c03d5d46f6f7738787f01e-11-election-chait-2.w710.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The night after the election.\n        Photo: Andres Kudacki",
+                                        "credit": "Photo: Andres Kudacki",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/3b8/b68/0abd6783e23c00ad8130d8352ff381936f-11-election-chait-3.h473.w710.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pyxis.nymag.com/v1/imgs/986/637/6c8cbb841376b081c245745b119e428917-11-election-chait-design-lede.1x.rsocial.w1200.jpg",
+                                "timeToRead": 12,
+                                "givenUrl": "http://nymag.com/daily/intelligencer/2016/11/how-the-loyal-opposition-will-work-in-trumps-america.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "109183149",
+                                        "name": "Jonathan Chait",
+                                        "url": "https://nymag.com/author/jonathan-chait/"
+                                    },
+                                    {
+                                        "id": "152182712",
+                                        "name": "Bobby Doherty",
+                                        "url": "https://nymag.com/author/bobby-doherty/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-13 20:00:03",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "OTU5MTAwNTQzXypfMTQ5NzQwNDIxMw==",
+                        "node": {
+                            "url": "https://devinhelton.com/2013/04/14/rent-seeking-economy/",
+                            "_createdAt": 1481508770,
+                            "_updatedAt": 1497404214,
+                            "id": "959100543",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404213,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Devin Helton",
+                                "itemId": "959100543",
+                                "resolvedId": "959100543",
+                                "resolvedUrl": "https://devinhelton.com/2013/04/14/rent-seeking-economy/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "devinhelton.com"
+                                },
+                                "excerpt": "In a healthy society, people acquire wealth by making stuff people want. Yeoman farmers till plots to provide for their nutritional wants. Laborers assemble motorcycles for consumers who pay money because they find the motor bikes valuable.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 17,
+                                "givenUrl": "https://devinhelton.com/2013/04/14/rent-seeking-economy/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "31657725",
+                                        "name": "Devin Helton",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2013-04-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NDYzMjI0NTU5XypfMTQ5NzQwNDIyNQ==",
+                        "node": {
+                            "url": "http://qz.com/132738/the-highly-unusual-company-behind-siracha-the-worlds-coolest-hot-sauce/",
+                            "_createdAt": 1483197195,
+                            "_updatedAt": 1497404226,
+                            "id": "463224559",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404225,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The highly unusual company behind Sriracha, the world’s coolest hot sauce",
+                                "itemId": "463224559",
+                                "resolvedId": "463224559",
+                                "resolvedUrl": "https://qz.com/132738/the-highly-unusual-company-behind-siracha-the-worlds-coolest-hot-sauce",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quartz"
+                                },
+                                "excerpt": "If David Tran were a more conventional CEO, he would be a fixture at conferences, a darling of magazine profiles, and a subject of case studies in the Harvard Business Review.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/294f67d2757ba7022aba4209bd7f4bb5.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://qz.com/132738/the-highly-unusual-company-behind-siracha-the-worlds-coolest-hot-sauce/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "8740491",
+                                        "name": "Roberto A. Ferdman",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2013-10-21 08:30:39",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU5Nzg5MzYwM18qXzE0OTc0MDQyNDQ=",
+                        "node": {
+                            "url": "http://www.politico.com/magazine/story/2017/02/steve-bannon-books-reading-list-214745",
+                            "_createdAt": 1486526207,
+                            "_updatedAt": 1497404244,
+                            "id": "1597893603",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404244,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Steve Bannon Wants You to Read",
+                                "itemId": "1597893603",
+                                "resolvedId": "1597893603",
+                                "resolvedUrl": "https://www.politico.com/magazine/story/2017/02/steve-bannon-books-reading-list-214745",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "POLITICO"
+                                },
+                                "excerpt": "The first weeks of the Trump presidency have brought as much focus on the White House’s chief strategist, Steve Bannon, as on the new president himself.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://static.politico.com/dims4/default/3b569c8/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F90%2F8c%2Fe2f86d154795bb5e8a26edc2e434%2F170205-stephen-bannon-gettyimages-632207386.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.politico.com/90/8c/e2f86d154795bb5e8a26edc2e434/170205-stephen-bannon-gettyimages-632207386.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://www.politico.com/magazine/story/2017/02/steve-bannon-books-reading-list-214745",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "78112577",
+                                        "name": "ELIANA JOHNSON",
+                                        "url": "https://www.politico.com/staff/eliana-johnson"
+                                    }
+                                ],
+                                "datePublished": "2017-02-07 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUxODg1MjM0M18qXzE0OTc0MDQyNTM=",
+                        "node": {
+                            "url": "https://getpocket.com/explore/item/mental-models-i-find-repeatedly-useful-1341799552",
+                            "_createdAt": 1484790354,
+                            "_updatedAt": 1497404254,
+                            "id": "1518852343",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404253,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1518852343",
+                                "resolvedId": "1518852343",
+                                "resolvedUrl": "https://getpocket.com/explore/item/mental-models-i-find-repeatedly-useful-1341799552",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://getpocket.com/explore/item/mental-models-i-find-repeatedly-useful-1341799552",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0Nzg3MjE5OV8qXzE0OTc0MDQyNTU=",
+                        "node": {
+                            "url": "http://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth",
+                            "_createdAt": 1486604834,
+                            "_updatedAt": 1497404255,
+                            "id": "1347872199",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404255,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How technology disrupted the truth",
+                                "itemId": "1347872199",
+                                "resolvedId": "1347872199",
+                                "resolvedUrl": "https://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Guardian"
+                                },
+                                "excerpt": "One Monday morning last September, Britain woke to a depraved news story. The prime minister, David Cameron, had committed an “obscene act with a dead pig’s head”, according to the Daily Mail.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1200,
+                                        "imageId": 1,
+                                        "src": "https://i.guim.co.uk/img/media/328e9120d07331a2458e2acdb2ba033fe1b672fe/0_0_5000_3000/master/5000.jpg?width=1900&quality=85&fit=max&s=913d34e9c1211d7fe01d7ff82e59f0b8",
+                                        "width": 2000
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1928,
+                                        "imageId": 2,
+                                        "src": "https://i.guim.co.uk/img/media/5ba5323c407c2059115d49ee1b5498c3e699cede/0_0_3500_1928/master/3500.jpg?width=620&quality=85&fit=max&s=1fbf662e8d97b5e852a1feadf6dfa660",
+                                        "width": 3500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 3000,
+                                        "imageId": 3,
+                                        "src": "https://i.guim.co.uk/img/media/54ba6ca9366d59eae4b299e18ae027d3f1551266/0_0_5000_3000/master/5000.jpg?width=1300&quality=85&fit=max&s=acb1d21bb5465a050670195f8df2adf8",
+                                        "width": 5000
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 4256,
+                                        "imageId": 4,
+                                        "src": "https://i.guim.co.uk/img/media/301445b5a0a81ef2499a99deed909245234a779b/0_0_2832_4256/master/2832.jpg?width=380&quality=85&fit=max&s=a085547c11937e65366f2878ce9e08ea",
+                                        "width": 2832
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 2596,
+                                        "imageId": 5,
+                                        "src": "https://i.guim.co.uk/img/media/81a3551edc11e6c5495d1d748505e7f593f2e7ff/0_116_4326_2596/master/4326.jpg?width=620&quality=85&fit=max&s=444c8213ef110403bb4bae408a39b379",
+                                        "width": 4326
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i.guim.co.uk/img/media/328e9120d07331a2458e2acdb2ba033fe1b672fe/0_0_5000_3000/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b16c37db8b3a5bba18714c193a325ad",
+                                "timeToRead": 25,
+                                "givenUrl": "http://www.theguardian.com/media/2016/jul/12/how-technology-disrupted-the-truth",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "52265293",
+                                        "name": "Katharine Viner",
+                                        "url": "https://www.theguardian.com/profile/katharineviner"
+                                    }
+                                ],
+                                "datePublished": "2016-07-12 00:00:10",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU5NjE5NTE1OV8qXzE0OTc0MDQyNTc=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/politics/archive/2017/02/how-to-beat-trump/515736/",
+                            "_createdAt": 1486604852,
+                            "_updatedAt": 1497404257,
+                            "id": "1596195159",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404257,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Effective Protest Could Look Like",
+                                "itemId": "1596195159",
+                                "resolvedId": "1596195159",
+                                "resolvedUrl": "https://www.theatlantic.com/politics/archive/2017/02/how-to-beat-trump/515736/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Fourteen years ago, I found myself an unexpected micro-target of a left-liberal protest demonstration. I had visited London to watch the debate and subsequent vote in the House of Commons over the Iraq war resolution. A huge demonstration against the war snaked down Whitehall toward Parliament.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Carlos Barria / Reuters",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/hiFNi6wMMIKNC6RH2c5TAQVVPZs=/0x350:6720x4130/960x540/media/img/mt/2017/02/RTX2ZQVB/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/z30C7lhUR42g-xTwK1cWD0f7TQk=/0x10:6704x3502/960x500/media/img/mt/2017/02/RTX2ZQVB/original.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://www.theatlantic.com/politics/archive/2017/02/how-to-beat-trump/515736/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "43557299",
+                                        "name": "David Frum",
+                                        "url": "https://www.theatlantic.com/author/david-frum/"
+                                    }
+                                ],
+                                "datePublished": "2017-02-06 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU4NzAyMzI5OV8qXzE0OTc0MDQyNjA=",
+                        "node": {
+                            "url": "https://www.nytimes.com/2017/01/30/opinion/president-bannon.html",
+                            "_createdAt": 1486604929,
+                            "_updatedAt": 1497404261,
+                            "id": "1587023299",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404260,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "President Bannon?",
+                                "itemId": "1587023299",
+                                "resolvedId": "1587023299",
+                                "resolvedUrl": "https://www.nytimes.com/2017/01/30/opinion/president-bannon.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "Plenty of presidents have had prominent political advisers, and some of those advisers have been suspected of quietly setting policy behind the scenes (recall Karl Rove or, if your memory stretches back far enough, Dick Morris).",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 190,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2017/01/31/opinion/31tue1/31tue1-articleInline.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 190
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2017/01/31/opinion/31tue1/31tue1-facebookJumbo.jpg?year=2017&h=549&w=1050&s=32b4389bf26b2a4e214d8c218efc26642d2134872e34b138a532ce62974182bc&k=ZQJBKqZ0VN",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.nytimes.com/2017/01/30/opinion/president-bannon.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "7979601",
+                                        "name": "THE EDITORIAL BOARD",
+                                        "url": "http://www.nytimes.com/interactive/opinion/editorialboard.html"
+                                    }
+                                ],
+                                "datePublished": "2017-01-30 20:33:36",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTAzMDU4NzQwMF8qXzE0OTc0MDQyNjE=",
+                        "node": {
+                            "url": "http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them",
+                            "_createdAt": 1486604985,
+                            "_updatedAt": 1497404262,
+                            "id": "1030587400",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404261,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Don’t Worry, Smart Machines Will Take Us With Them",
+                                "itemId": "1030587400",
+                                "resolvedId": "1030587400",
+                                "resolvedUrl": "http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nautilus"
+                                },
+                                "excerpt": "Why human intelligence and AI will co-evolve. When it comes to artificial intelligence, we may all be suffering from the fallacy of availability: thinking that creating intelligence is much easier than it is, because we see examples all around us.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "http://static.nautil.us/7032_6af97d7deea1a1d2c76c5c512e66700b.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "A titan at teatime: John Von Neumann talking to graduate students during afternoon tea.",
+                                        "credit": "Alfred Eisenstaedt/The LIFE Picture Collection/Getty Images",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "http://static.nautil.us/7061_6495cf7ca745a9443508b86951b8e33a.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "Minds building minds: Alan Turing",
+                                        "credit": "SSPL/Getty Images",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "http://static.nautil.us/7062_6cf75a28ed72a43ef7ca1b66ff345859.png",
+                                        "width": 733
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "http://static.nautil.us/7047_c4ef9c39b300931b69a36fb3dbb8d60e.png",
+                                        "width": 733
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static.nautil.us/7032_6af97d7deea1a1d2c76c5c512e66700b.png",
+                                "timeToRead": 8,
+                                "givenUrl": "http://nautil.us/issue/28/2050/dont-worry-smart-machines-will-take-us-with-them",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2016589",
+                                        "name": "Stephen Hsu",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2015-09-03 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUxODEzODA5M18qXzE0OTc0MDQyNjM=",
+                        "node": {
+                            "url": "http://forbes.com/sites/howardhyu/2016/12/14/why-google-is-fumbling-while-tesla-is-sprinting-toward-driverless-cars",
+                            "_createdAt": 1486605054,
+                            "_updatedAt": 1497404264,
+                            "id": "1518138093",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404263,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Google Fumbles While Tesla Sprints Toward A Driverless Future",
+                                "itemId": "1518138093",
+                                "resolvedId": "1518138093",
+                                "resolvedUrl": "https://www.forbes.com/sites/howardhyu/2016/12/14/why-google-is-fumbling-while-tesla-is-sprinting-toward-driverless-cars/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Forbes"
+                                },
+                                "excerpt": "On Tuesday, Google’s parent company Alphabet announced that it was shifting its self-driving car project into an independent entity—Waymo, which stands for “a new way forward in mobility.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "A Google self-driving car",
+                                        "credit": "Marlene Awaad/Bloomberg",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://specials-images.forbesimg.com/imageserve/39149845/960x0.jpg?fit=scale",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Tesla Motors CEO Elon Musk.",
+                                        "credit": "AP Photo/Ringo H.W. Chiu",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://specials-images.forbesimg.com/imageserve/a265330277b44ef3a1282de312eb0a4c/960x0.jpg?fit=scale",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "uHbMt6WDhQ8",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/uHbMt6WDhQ8"
+                                    }
+                                ],
+                                "topImageUrl": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39149845%2F0x0.jpg%3Ffit%3Dscale",
+                                "timeToRead": 7,
+                                "givenUrl": "http://forbes.com/sites/howardhyu/2016/12/14/why-google-is-fumbling-while-tesla-is-sprinting-toward-driverless-cars",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "141016118",
+                                        "name": "Editors' Picks",
+                                        "url": "https://www.forbes.com/editors-picks/#15c416d878bf"
+                                    }
+                                ],
+                                "datePublished": "2016-12-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NzA0MDkxMjgzXypfMTQ5NzQwNDI3Mw==",
+                        "node": {
+                            "url": "https://github.com/ethereum/wiki/wiki/White-Paper",
+                            "_createdAt": 1487626127,
+                            "_updatedAt": 1497404274,
+                            "id": "704091283",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404273,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "White Paper",
+                                "itemId": "704091283",
+                                "resolvedId": "704091283",
+                                "resolvedUrl": "https://github.com/ethereum/wiki/wiki/White-Paper",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "GitHub"
+                                },
+                                "excerpt": "As part of an ongoing effort to update and overhaul the Ethereum wiki to make it more useful to our community, the whitepaper has now moved to the following location.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://opengraph.githubassets.com/00ef1b1264204cc5a4465d376d86db3d6f5bf7430de3e876c33aec4e369abd42/ethereum/wiki",
+                                "timeToRead": null,
+                                "givenUrl": "https://github.com/ethereum/wiki/wiki/White-Paper",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTYwNzczNzEyM18qXzE0OTc0MDQyODk=",
+                        "node": {
+                            "url": "http://renesd.blogspot.com/2017/02/is-postgresql-good-enough.html?m=1",
+                            "_createdAt": 1487466305,
+                            "_updatedAt": 1497404290,
+                            "id": "1607737123",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404289,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is PostgreSQL good enough?",
+                                "itemId": "1607600754",
+                                "resolvedId": "1607600754",
+                                "resolvedUrl": "https://renesd.blogspot.com/2017/02/is-postgresql-good-enough.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "renesd.blogspot.com"
+                                },
+                                "excerpt": "tldr; you can do jobs, queues, real time change feeds, time series, object store, document store, full text search with PostgreSQL. How to, pros/cons, rough performance and complexity levels are all discussed. Many sources and relevant documentation is linked to.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "A Tool Chest",
+                                        "credit": "",
+                                        "height": 240,
+                                        "imageId": 1,
+                                        "src": "https://3.bp.blogspot.com/-_J-ydlWVQhU/WKFl8u1aDSI/AAAAAAAAA5M/MTrSVZ4c6UImT4qfHJ8Vwt2h6kgwjfxMgCLcB/s1600/underhill_atc_img_1197.jpg",
+                                        "width": 320
+                                    },
+                                    {
+                                        "caption": "RRDtool from the late 90s.",
+                                        "credit": "",
+                                        "height": 262,
+                                        "imageId": 2,
+                                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Rrddemo.png",
+                                        "width": 320
+                                    },
+                                    {
+                                        "caption": "Implement You've Got Mail functionality.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://images-na.ssl-images-amazon.com/images/I/51JN65AE3YL._SY300_.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "PostgreSQL carries around such a giant Tool Chest.",
+                                        "credit": "",
+                                        "height": 240,
+                                        "imageId": 4,
+                                        "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+                                        "width": 320
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://3.bp.blogspot.com/-_J-ydlWVQhU/WKFl8u1aDSI/AAAAAAAAA5M/MTrSVZ4c6UImT4qfHJ8Vwt2h6kgwjfxMgCLcB/w1200-h630-p-k-no-nu/underhill_atc_img_1197.jpg",
+                                "timeToRead": 23,
+                                "givenUrl": "http://renesd.blogspot.com/2017/02/is-postgresql-good-enough.html?m=1",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2017-02-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTYwODkzMzA0N18qXzE0OTc0MDQyOTI=",
+                        "node": {
+                            "url": "http://www.wired.co.uk/gallery/machine-learning-graphcore-pictures-inside-ai",
+                            "_createdAt": 1487808453,
+                            "_updatedAt": 1497404293,
+                            "id": "1608933047",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404292,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "'AI brain scans' reveal what happens inside machine learning",
+                                "itemId": "1608933047",
+                                "resolvedId": "1608933047",
+                                "resolvedUrl": "https://www.wired.co.uk/gallery/machine-learning-graphcore-pictures-inside-ai",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED UK"
+                                },
+                                "excerpt": "Bristol-based Graphcore has used its AI processing units and software to create maps of what happens during a machine learning process",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.co.uk/photos/606da23f20fc96acca6d3c89/16:9/w_2580,c_limit/resnet34train.png",
+                                "timeToRead": null,
+                                "givenUrl": "http://www.wired.co.uk/gallery/machine-learning-graphcore-pictures-inside-ai",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "59205681",
+                                        "name": "Matt Burgess",
+                                        "url": "https://www.wired.co.uk/profile/matt-burgess"
+                                    }
+                                ],
+                                "datePublished": "2017-02-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTYwMTkzNzg1NV8qXzE0OTc0MDQyOTQ=",
+                        "node": {
+                            "url": "https://www.robinwieruch.de/lessons-learned-deep-work-flow/",
+                            "_createdAt": 1487884861,
+                            "_updatedAt": 1497404295,
+                            "id": "1601937855",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404294,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "(Deep Work) => Flow - A proven Path to Satisfaction",
+                                "itemId": "1601937855",
+                                "resolvedId": "1601937855",
+                                "resolvedUrl": "https://www.robinwieruch.de/lessons-learned-deep-work-flow/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "robinwieruch.de"
+                                },
+                                "excerpt": "\"A state of flow can be achieved by deep work\". The subjects flow and deep work are covered in the books Deep Work by Cal Newport and Flow by Mihaly Csikszentmihalyi.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.robinwieruch.de/static/a94a886973f3d72c51f361516064bed5/9842e/banner.jpg",
+                                "timeToRead": 32,
+                                "givenUrl": "https://www.robinwieruch.de/lessons-learned-deep-work-flow/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "8361234",
+                                        "name": "Cal Newport.",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-02-09 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTYyMTMxMDk0OV8qXzE0OTc0MDQyOTk=",
+                        "node": {
+                            "url": "https://aeon.co/ideas/our-universe-is-too-vast-for-even-the-most-imaginative-sci-fi",
+                            "_createdAt": 1488165262,
+                            "_updatedAt": 1497404300,
+                            "id": "1621310949",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404299,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Our Universe is too vast for even the most imaginative sci-fi",
+                                "itemId": "1621310949",
+                                "resolvedId": "1621310949",
+                                "resolvedUrl": "https://aeon.co/ideas/our-universe-is-too-vast-for-even-the-most-imaginative-sci-fi",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "As an astrophysicist, I am always struck by the fact that even the wildest science-fiction stories tend to be distinctly human in character.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://epsilon.aeon.co/images/e617f8a8-63c1-4bd5-83c2-89c1496d2bfe/idea_v3-distant-540644main_pia14112-full_full.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://aeon.co/ideas/our-universe-is-too-vast-for-even-the-most-imaginative-sci-fi",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "247817",
+                                        "name": "Michael Strauss",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-02-22 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTYwMzI3MTg2MV8qXzE0OTc0MDQzMDE=",
+                        "node": {
+                            "url": "http://blog.yhat.com/posts/ML-to-watch.html",
+                            "_createdAt": 1488165639,
+                            "_updatedAt": 1497404301,
+                            "id": "1603271861",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1497404301,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1603271861",
+                                "resolvedId": "1603271861",
+                                "resolvedUrl": "http://blog.yhat.com/posts/ML-to-watch.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.yhat.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://blog.yhat.com/posts/ML-to-watch.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTM5OTg1MzcyOV8qXzE0OTc0MDM5NTk=",
+                    "endCursor": "MTYwMzI3MTg2MV8qXzE0OTc0MDQzMDE="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

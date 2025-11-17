@@ -1,0 +1,3029 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjM4MDk0MjA1N18qXzE1NTk5MDcyODE=",
+                        "node": {
+                            "url": "https://blogs.scientificamerican.com/observations/how-to-engineer-biology/",
+                            "_createdAt": 1542373071,
+                            "_updatedAt": 1559907281,
+                            "id": "2380942057",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907281,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Engineer Biology",
+                                "itemId": "2380942057",
+                                "resolvedId": "2380942057",
+                                "resolvedUrl": "https://blogs.scientificamerican.com/observations/how-to-engineer-biology/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Scientific American"
+                                },
+                                "excerpt": "Because biology is the result of evolution and not human development, bringing engineering principles to it is guaranteed to fail. Or so goes the argument behind the “Grove fallacy,” first invoked by drug industry observer Derek Lowe in a critique of Intel CEO Andy Grove in 2007.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://static.scientificamerican.com/blogs/cache/file/002ED4FA-5444-4C26-817F0208DCE7C568_source.jpg?w=590&h=800&9C660ADF-72E4-4E1F-97404DA68974938D",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.scientificamerican.com/blogs/cache/file/002ED4FA-5444-4C26-817F0208DCE7C568.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "https://blogs.scientificamerican.com/observations/how-to-engineer-biology/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "99088767",
+                                        "name": "Vijay Pande",
+                                        "url": "https://www.scientificamerican.com/author/vijay-pande/"
+                                    }
+                                ],
+                                "datePublished": "2018-11-08 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM4NTkzMTkxNl8qXzE1NTk5MDcyODQ=",
+                        "node": {
+                            "url": "https://www.bloomberg.com/news/articles/2018-11-13/waymo-to-start-first-driverless-car-service-next-month",
+                            "_createdAt": 1542832596,
+                            "_updatedAt": 1559907284,
+                            "id": "2385931916",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907284,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Waymo to Start First Driverless Car Service Next Month",
+                                "itemId": "2385931916",
+                                "resolvedId": "2385931916",
+                                "resolvedUrl": "https://www.bloomberg.com/news/articles/2018-11-13/waymo-to-start-first-driverless-car-service-next-month",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Bloomberg"
+                                },
+                                "excerpt": "Waymo, the secretive subsidiary of Google’s parent company, Alphabet Inc., is planning to launch the world’s first commercial driverless car service in early December, according to a person familiar with the plans. It will operate under a new brand and compete directly with Uber and Lyft.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Waymo to Launch First Driverless Service",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.oDtYkbhKtA/v5/640x-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipEe_GMTdYoQ/v1/-1x-1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Hop on in.",
+                                        "credit": "Photographer: Caitlin O'Hara/Bloomberg",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.pxDAUjc1Y/v1/-1x-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAbdq8uDI8.4/v1/-1x-1.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBD.bGCp6yXg/v1/1200x800.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.bloomberg.com/news/articles/2018-11-13/waymo-to-start-first-driverless-car-service-next-month",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "87878816",
+                                        "name": "Tom Randall",
+                                        "url": "https://www.bloomberg.com/authors/AG-V6rP5f0g/tom-randall"
+                                    }
+                                ],
+                                "datePublished": "2018-11-13 00:00:16",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM3ODg4NDE5OF8qXzE1NTk5MDcyODc=",
+                        "node": {
+                            "url": "https://www.washingtonpost.com/graphics/2018/lifestyle/led-growing/",
+                            "_createdAt": 1542832716,
+                            "_updatedAt": 1559907287,
+                            "id": "2378884198",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907287,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "High-tech farmers are using LED lights in ways that seem to border on science fiction",
+                                "itemId": "2378884198",
+                                "resolvedId": "2378884198",
+                                "resolvedUrl": "https://www.washingtonpost.com/graphics/2018/lifestyle/led-growing/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "The latest lights can be used to alter how plants grow, how they taste and how nutritious they are. And in some cases, scientists say, they’re better at the job than the sun.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://washingtonpost.com/graphics/2018/lifestyle/led-growing/img/LEDgrowingpromo.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.washingtonpost.com/graphics/2018/lifestyle/led-growing/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "99027804",
+                                        "name": "Adrian Higgins",
+                                        "url": "https://www.washingtonpost.com/people/adrian-higgins/?utm_term=.24798a7b8b37"
+                                    }
+                                ],
+                                "datePublished": "2018-11-06 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM4MTI2NjgzOF8qXzE1NTk5MDcyOTE=",
+                        "node": {
+                            "url": "https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/",
+                            "_createdAt": 1542832901,
+                            "_updatedAt": 1559907291,
+                            "id": "2381266838",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907291,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Want to Become a Data Engineer? Here’s a Comprehensive List of Resources to get Started",
+                                "itemId": "2381266838",
+                                "resolvedId": "2381266838",
+                                "resolvedUrl": "https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Analytics Vidhya"
+                                },
+                                "excerpt": "Before a model is built, before the data is cleaned and made ready for exploration, even before the role of a data scientist begins – this is where data engineers come into the picture.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 342,
+                                        "imageId": 1,
+                                        "src": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/11/data_engg.png",
+                                        "width": 373
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 251,
+                                        "imageId": 2,
+                                        "src": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/11/data-engg.jpg",
+                                        "width": 534
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 327,
+                                        "imageId": 3,
+                                        "src": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/11/OS.png",
+                                        "width": 463
+                                    },
+                                    {
+                                        "caption": "Source: MacWorld UK",
+                                        "credit": "",
+                                        "height": 169,
+                                        "imageId": 4,
+                                        "src": "https://cdn.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb800.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 553,
+                                        "imageId": 5,
+                                        "src": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/10/big-data.png",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 331,
+                                        "imageId": 6,
+                                        "src": "https://c1.staticflickr.com/9/8508/8552968000_9da6bffe9a_b.jpg",
+                                        "width": 1024
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://cdn.analyticsvidhya.com/wp-content/uploads/2017/02/17095224/spark-logo-trademark.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 189,
+                                        "imageId": 8,
+                                        "src": "https://kafka.apache.org/images/logo.png",
+                                        "width": 633
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 276,
+                                        "imageId": 9,
+                                        "src": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/11/ML.png",
+                                        "width": 551
+                                    },
+                                    {
+                                        "caption": "Source: Fourcast.io",
+                                        "credit": "",
+                                        "height": 260,
+                                        "imageId": 10,
+                                        "src": "http://fourcast.io/wp-content/uploads/2018/02/eng.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.ibm.com/blogs/ibm-training/wp-content/uploads/2016/05/big-data-engineer.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 127,
+                                        "imageId": 12,
+                                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cloudera_logo.svg/2000px-Cloudera_logo.svg.png",
+                                        "width": 651
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.analyticsvidhya.com/wp-content/uploads/2018/11/data_engg.png",
+                                "timeToRead": 16,
+                                "givenUrl": "https://www.analyticsvidhya.com/blog/2018/11/data-engineer-comprehensive-list-resources-get-started/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2018-11-08 11:50:37",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjM4NDk5MTg2OF8qXzE1NTk5MDcyOTM=",
+                        "node": {
+                            "url": "https://aeon.co/essays/the-idea-of-intellectual-property-is-nonsensical-and-pernicious",
+                            "_createdAt": 1542832929,
+                            "_updatedAt": 1559907293,
+                            "id": "2384991868",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907293,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Copyrights, patents and trademarks are all important, but the term ‘intellectual property’ is nonsensical and pernicious",
+                                "itemId": "2384991868",
+                                "resolvedId": "2384991868",
+                                "resolvedUrl": "https://aeon.co/essays/the-idea-of-intellectual-property-is-nonsensical-and-pernicious",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "The grand term ‘intellectual property’ covers a lot of ground: the software that runs our lives, the movies we watch, the songs we listen to.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://images.aeonmedia.co/images/2dcd3c97-5213-4939-964c-4d1a1ceecca8/sized-ak-0041.jpg?width=1200&quality=75&format=auto",
+                                "timeToRead": 15,
+                                "givenUrl": "https://aeon.co/essays/the-idea-of-intellectual-property-is-nonsensical-and-pernicious",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2588063",
+                                        "name": "Samir Chopra",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2018-11-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ5NTM3NDZfKl8xNTU5OTA3Mjk0",
+                        "node": {
+                            "url": "http://web.mit.edu/krugman/www/evolute.html",
+                            "_createdAt": 1543897563,
+                            "_updatedAt": 1559907294,
+                            "id": "24953746",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907294,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "",
+                                "itemId": "24953746",
+                                "resolvedId": "24953746",
+                                "resolvedUrl": "http://web.mit.edu/krugman/www/evolute.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "web.mit.edu"
+                                },
+                                "excerpt": "Paul Krugman Nov. 1996 Good morning. I am both honored and a bit nervous to be speaking to a group devoted to the idea of evolutionary political economy. As you probably know, I am not exactly an evolutionary economist.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 23,
+                                "givenUrl": "http://web.mit.edu/krugman/www/evolute.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQwMDQ2NDM3NF8qXzE1NTk5MDcyOTY=",
+                        "node": {
+                            "url": "http://nickchk.com/causalgraphs.html",
+                            "_createdAt": 1543927396,
+                            "_updatedAt": 1559907296,
+                            "id": "2400464374",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907296,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Causal Inference Animated Plots",
+                                "itemId": "2400464374",
+                                "resolvedId": "2400464374",
+                                "resolvedUrl": "https://www.nickchk.com/causalgraphs.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "nickchk.com"
+                                },
+                                "excerpt": "There's a policy treatment called Treatment that we think might have an effect on Y, and we want to see how big that effect is. Ideally, we could just look at the relationship between Treatment and Y in the data and call it a day.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.nickchk.com/anim/dag-rdd-1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.nickchk.com/anim/dag-rdd-2.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 2,
+                                "givenUrl": "http://nickchk.com/causalgraphs.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQwNzg2NjQzMl8qXzE1NTk5MDcyOTg=",
+                        "node": {
+                            "url": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge",
+                            "_createdAt": 1544029546,
+                            "_updatedAt": 1559907298,
+                            "id": "2407866432",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907298,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Friendship That Made Google Huge",
+                                "itemId": "2407866432",
+                                "resolvedId": "2407866432",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "One day in March of 2000, six of Google’s best engineers gathered in a makeshift war room. The company was in the midst of an unprecedented emergency. In October, its core systems, which crawled the Web to build an “index” of it, had stopped working.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“Behold, as I transform this normal woman into a sexualized prop.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/cartoons/5c0041855cc0c92d353cfca0/master/w_1600%2Cc_limit/181210_a22361.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“It’s just that if you lie to me about flossing how can I trust anything else you say?”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/cartoons/5c004185a3db312c42642c3d/master/w_1600%2Cc_limit/181210_a22376.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“I can’t believe I ate all that salad for nothing.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/cartoons/5c0041852107332d5ecc58b2/master/w_1600%2Cc_limit/181210_a22225.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The company’s top coders seem like two halves of a single mind.Illustration by David Plunkert",
+                                        "credit": "Illustration  David Plunkert",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/5c0040d75cc0c92d353cfc9c/master/w_2560%2Cc_limit/181210_r33377.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/5bbe1cbe8688f82d6d668740/4:3/w_480%2Cc_limit/181022_r33046.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.newyorker.com/photos/590973f0019dfc3494ea27c9/4:3/w_480%2Cc_limit/091012_r18900_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://media.newyorker.com/photos/656a294ac0b5f6dec693cd60/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://media.newyorker.com/photos/5d484e3142f3390009092872/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5c0040d75cc0c92d353cfc9c/16:9/w_1280,c_limit/181210_r33377.jpg",
+                                "timeToRead": 30,
+                                "givenUrl": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "100653518",
+                                        "name": "James Somers",
+                                        "url": "https://www.newyorker.com/contributors/james-somers"
+                                    }
+                                ],
+                                "datePublished": "2018-12-03 04:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk4MDg1MTAwNl8qXzE1NTk5MDczMTM=",
+                        "node": {
+                            "url": "http://blog.cleancoder.com/uncle-bob/2017/12/03/BobbyTables.html",
+                            "_createdAt": 1514420072,
+                            "_updatedAt": 1559907313,
+                            "id": "1980851006",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907313,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Bobby Tables",
+                                "itemId": "1980851006",
+                                "resolvedId": "1980851006",
+                                "resolvedUrl": "http://blog.cleancoder.com/uncle-bob/2017/12/03/BobbyTables.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.cleancoder.com"
+                                },
+                                "excerpt": "SQL is demon spawn, and no self-respecting software developer should ever use it. OK, that’s a little hyperbolic. Demons did not create SQL. Indeed, the folks who created it were filled with nothing but good intentions.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 3,
+                                "givenUrl": "http://blog.cleancoder.com/uncle-bob/2017/12/03/BobbyTables.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "32593",
+                                        "name": "Robert C. Martin",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-12-03 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTgyMTM2ODMxNF8qXzE1NTk5MDczMTc=",
+                        "node": {
+                            "url": "http://www.expressionsofchange.org/reification-of-interaction/",
+                            "_createdAt": 1509741183,
+                            "_updatedAt": 1559907317,
+                            "id": "1821368314",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907317,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "CLIs are reified UIs – Expressions of Change",
+                                "itemId": "1821368314",
+                                "resolvedId": "1821368314",
+                                "resolvedUrl": "https://www.expressionsofchange.org/reification-of-interaction/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "expressionsofchange.org"
+                                },
+                                "excerpt": "In this article we’ll shine a new light on the age old debate about the advantages of CLIs vs.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.expressionsofchange.org/reification-of-interaction/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2017-07-02 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQyMzg5MTUzNV8qXzE1NTk5MDczMjI=",
+                        "node": {
+                            "url": "https://www.wired.com/story/used-wisely-internet-can-actually-help-public-discourse/",
+                            "_createdAt": 1545066202,
+                            "_updatedAt": 1559907322,
+                            "id": "2423891535",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907322,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Used Wisely, the Internet Can Actually Help Public Discourse",
+                                "itemId": "2423891535",
+                                "resolvedId": "2423891535",
+                                "resolvedUrl": "https://www.wired.com/story/used-wisely-internet-can-actually-help-public-discourse/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "Antonio García Martínez (@antoniogm) is an Ideas contributor for WIRED. Previously he worked on Facebook’s early monetization team, where he headed its targeting efforts. His 2016 memoir, Chaos Monkeys, was a New York Times best seller and NPR Best Book of the Year.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Getty Images",
+                                        "credit": "Getty Images",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/5c144ee400ef8063f2d4f0e6/master/w_2560%2Cc_limit/Ideas_Art_TV-Radio.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.wired.com/photos/5a724120f18bfc2055197090/master/w_1600%2Cc_limit/Antonio%252520Garcia%252520Martinez_color_padded.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/5c144ee400ef8063f2d4f0e6/191:100/w_1280,c_limit/Ideas_Art_TV-Radio.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://www.wired.com/story/used-wisely-internet-can-actually-help-public-discourse/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "76013786",
+                                        "name": "Antonio García Martínez",
+                                        "url": "https://www.wired.com/author/antonio-garcia-martinez"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTA3MDIwMTQ1M18qXzE1NTk5MDczMjc=",
+                        "node": {
+                            "url": "https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility",
+                            "_createdAt": 1546212815,
+                            "_updatedAt": 1559907327,
+                            "id": "1070201453",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907327,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "UNDERSTANDING IS A POOR SUBSTITUTE FOR CONVEXITY (ANTIFRAGILITY)",
+                                "itemId": "1070201453",
+                                "resolvedId": "1070201453",
+                                "resolvedUrl": "https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Edge"
+                                },
+                                "excerpt": "The point we will be making here is that logically, neither trial and error nor \"chance\" and serendipity can be behind the gains in technology and empirical science attributed to them.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 1,
+                                        "src": "https://www.edge.org/sites/default/files/conversation/leadimage/bk_877_taleb630.jpg",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.edge.org/3rd_culture/taleb12/taleb1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.edge.org/3rd_culture/taleb12/taleb2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.edge.org/3rd_culture/taleb12/taleb3.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 11,
+                                "givenUrl": "https://www.edge.org/conversation/nassim_nicholas_taleb-understanding-is-a-poor-substitute-for-convexity-antifragility",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "51366021",
+                                        "name": "Nassim Nicholas Taleb",
+                                        "url": "https://www.edge.org/memberbio/nassim_nicholas_taleb"
+                                    }
+                                ],
+                                "datePublished": "2023-07-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ0MDk2NzIxN18qXzE1NTk5MDczMzM=",
+                        "node": {
+                            "url": "http://blog.christianperone.com/2019/01/a-sane-introduction-to-maximum-likelihood-estimation-mle-and-maximum-a-posteriori-map/",
+                            "_createdAt": 1546471061,
+                            "_updatedAt": 1559907333,
+                            "id": "2440967217",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907333,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A sane introduction to maximum likelihood estimation (MLE) and maximum a posteriori (MAP)",
+                                "itemId": "2577978877",
+                                "resolvedId": "2577978877",
+                                "resolvedUrl": "https://blog.christianperone.com/2019/01/mle/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.christianperone.com"
+                                },
+                                "excerpt": "It is frustrating to learn about principles such as maximum likelihood estimation (MLE), maximum a posteriori (MAP) and Bayesian inference in general.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "A selection of Normal Distribution Probability Density Functions",
+                                        "credit": "PDFs",
+                                        "height": 445,
+                                        "imageId": 1,
+                                        "src": "https://blog.christianperone.com/wp-content/uploads/2019/01/standard_normal.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Probability density function for the Beta distribution. Source: Wikimedia Commons.",
+                                        "credit": "",
+                                        "height": 553,
+                                        "imageId": 2,
+                                        "src": "https://blog.christianperone.com/wp-content/uploads/2019/01/beta_distribution_pdf.png",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://blog.christianperone.com/2019/01/a-sane-introduction-to-maximum-likelihood-estimation-mle-and-maximum-a-posteriori-map/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "139925129",
+                                        "name": "Christian S. Perone",
+                                        "url": "https://blog.christianperone.com/author/admin/"
+                                    }
+                                ],
+                                "datePublished": "2019-02-01 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ0MzE1NzUyMF8qXzE1NTk5MDczNDA=",
+                        "node": {
+                            "url": "http://www.socialisteconomist.com/2019/01/marx-for-me-and-hopefully-for-others-too.html",
+                            "_createdAt": 1546695715,
+                            "_updatedAt": 1559907340,
+                            "id": "2443157520",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907340,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Marx For Me (And Hopefully For Others Too)",
+                                "itemId": "2443157520",
+                                "resolvedId": "2443157520",
+                                "resolvedUrl": "http://www.socialisteconomist.com/2019/01/marx-for-me-and-hopefully-for-others-too.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "socialisteconomist.com"
+                                },
+                                "excerpt": "Yesterday I had a conversation about my work, about how and why I started studying inequality more than 30 years ago, what was my motivation, how it was to work on income inequality in an officially classless (and non-democratic) society, did the World Bank care about inequality etc.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://2.bp.blogspot.com/-z5e0Uf5dXuU/XC5b-Ytz6DI/AAAAAAAAERI/sO3KDVJlezwZ99II4VOeHpHvbf5xDoc8ACLcBGAs/w1200-h630-p-k-no-nu/4902456478_590f59c138_o.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://www.socialisteconomist.com/2019/01/marx-for-me-and-hopefully-for-others-too.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-01-03 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQzNTUzMzc1N18qXzE1NTk5MDczNDU=",
+                        "node": {
+                            "url": "https://link.medium.com/HLSmaVHX0S",
+                            "_createdAt": 1545996445,
+                            "_updatedAt": 1559907345,
+                            "id": "2435533757",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907345,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Understanding Window Functions",
+                                "itemId": "2244382456",
+                                "resolvedId": "2244382456",
+                                "resolvedUrl": "https://medium.com/@dim_19302/understanding-window-functions-76d521b7529f",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "There was SQL before window functions and SQL after window functions: that’s how powerful this tool is. Being that of a deal breaker unfortunately means that it can be quite hard to grasp the feature.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Mastering PostgreSQL in Application Development teaches advanced SQL techniques to application developers, replacing thousands of lines of code with simple queries!",
+                                        "credit": "",
+                                        "height": 509,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*9aeUkKup5KTq0QsrSea8iA.png",
+                                        "width": 444
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/444/1*9aeUkKup5KTq0QsrSea8iA.png",
+                                "timeToRead": 7,
+                                "givenUrl": "https://link.medium.com/HLSmaVHX0S",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "91556195",
+                                        "name": "Dimitri Fontaine",
+                                        "url": "https://medium.com/@dim_19302"
+                                    }
+                                ],
+                                "datePublished": "2018-07-02 03:13:07",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ1MDkxODk0NV8qXzE1NTk5MDczNDg=",
+                        "node": {
+                            "url": "https://quillette.com/2019/01/11/is-western-civilization-a-thing/",
+                            "_createdAt": 1547313659,
+                            "_updatedAt": 1559907349,
+                            "id": "2450918945",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907348,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is Western Civilization a Thing?",
+                                "itemId": "2450918945",
+                                "resolvedId": "2450918945",
+                                "resolvedUrl": "https://quillette.com/2019/01/11/is-western-civilization-a-thing/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quillette"
+                                },
+                                "excerpt": "This is part two of a four-part series on the classics. Part three will be published tomorrow. ",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 4519,
+                                        "imageId": 1,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/12/05042930/AdobeStock_85500995.jpeg",
+                                        "width": 6893
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i2.wp.com/d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2018/12/05042930/AdobeStock_85500995.jpeg?fit=1200%2C787&ssl=1",
+                                "timeToRead": 8,
+                                "givenUrl": "https://quillette.com/2019/01/11/is-western-civilization-a-thing/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "103047533",
+                                        "name": "James Kierstead",
+                                        "url": "https://quillette.com/author/james-kierstead/"
+                                    }
+                                ],
+                                "datePublished": "2019-01-11 02:34:22",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQzNzA0NjY2NV8qXzE1NTk5MDczNTE=",
+                        "node": {
+                            "url": "https://opaque.link/post/dropgang/",
+                            "_createdAt": 1547433539,
+                            "_updatedAt": 1559907351,
+                            "id": "2437046665",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907351,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2437046665",
+                                "resolvedId": "2437046665",
+                                "resolvedUrl": "https://opaque.link/post/dropgang/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "opaque.link"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://opaque.link/post/dropgang/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "ODE5MzgwMDk1XypfMTU1OTkwNzM1NQ==",
+                        "node": {
+                            "url": "https://a16z.com/2015/01/18/12-things-learned-from-chris-dixon-about-startups/",
+                            "_createdAt": 1547433696,
+                            "_updatedAt": 1559907356,
+                            "id": "819380095",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907355,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "12 Things I Learned from Chris Dixon about Startups",
+                                "itemId": "819380095",
+                                "resolvedId": "819380095",
+                                "resolvedUrl": "https://a16z.com/2015/01/18/12-things-learned-from-chris-dixon-about-startups/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Andreessen Horowitz"
+                                },
+                                "excerpt": "Anyone thinking about starting a business should be searching for mispriced opportunities.  While markets are mostly efficient in eliminating opportunities for extraordinary profit, there are always areas of an economy in which there are significant uncertainty.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 20,
+                                "givenUrl": "https://a16z.com/2015/01/18/12-things-learned-from-chris-dixon-about-startups/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "43808898",
+                                        "name": "Chris Dixon",
+                                        "url": "https://a16z.com/author/chris-dixon/"
+                                    },
+                                    {
+                                        "id": "65846631",
+                                        "name": "Tren Griffin",
+                                        "url": "https://a16z.com/author/tren-griffin/"
+                                    }
+                                ],
+                                "datePublished": "2015-01-19 00:34:18",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ1MzQ3NzM3NF8qXzE1NTk5MDczNjM=",
+                        "node": {
+                            "url": "https://washingtonmonthly.com/magazine/january-february-march-2019/to-take-back-the-map-democrats-need-a-plan-to-revive-heartland-cities/",
+                            "_createdAt": 1547526616,
+                            "_updatedAt": 1559907363,
+                            "id": "2453477374",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907363,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "To Take Back the Map, Democrats Need a Plan to Revive Heartland Cities",
+                                "itemId": "3540201452",
+                                "resolvedId": "3540201452",
+                                "resolvedUrl": "https://washingtonmonthly.com/2019/01/13/to-take-back-the-map-democrats-need-a-plan-to-revive-heartland-cities/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Washington Monthly"
+                                },
+                                "excerpt": "It had the trappings of a reality television show: 238 competitors from across the country, twenty finalists, but only one victor. (Or, as it turned out, two.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 771,
+                                        "imageId": 1,
+                                        "src": "https://washingtonmonthly.com/wp-content/uploads/2019/01/Jan-19-Block-3dMap-1.jpg",
+                                        "width": 1200
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 289,
+                                        "imageId": 2,
+                                        "src": "https://washingtonmonthly.com/wp-content/uploads/2021/12/809x289_Liberty_ArticleBottom.jpg",
+                                        "width": 809
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://washingtonmonthly.com/wp-content/uploads/2019/01/Jan-19-Block-3dMap-1.jpg",
+                                "timeToRead": 25,
+                                "givenUrl": "https://washingtonmonthly.com/magazine/january-february-march-2019/to-take-back-the-map-democrats-need-a-plan-to-revive-heartland-cities/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "162837743",
+                                        "name": "Daniel Block",
+                                        "url": "https://washingtonmonthly.com/author/daniel-block/"
+                                    }
+                                ],
+                                "datePublished": "2019-01-13 20:03:03",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ1NDEyODYzN18qXzE1NTk5MDczNjc=",
+                        "node": {
+                            "url": "https://quillette.com/2019/01/14/enlightenment-wars-some-reflections-on-enlightenment-now-one-year-later/",
+                            "_createdAt": 1547528618,
+                            "_updatedAt": 1559907367,
+                            "id": "2454128637",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907367,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Enlightenment Wars: Some Reflections on 'Enlightenment Now,' One Year Later",
+                                "itemId": "2454128637",
+                                "resolvedId": "2454128637",
+                                "resolvedUrl": "https://quillette.com/2019/01/14/enlightenment-wars-some-reflections-on-enlightenment-now-one-year-later/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quillette"
+                                },
+                                "excerpt": "You wouldn’t think that a defense of reason, science, and humanism would be particularly controversial in an era in which those ideals would seem to need all the help they can get.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/11062206/Screen-Shot-2019-01-10-at-10.21.29-PM.png?resize=759%2C457&ssl=1",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/14204540/share-of-people-who-say-they-are-happy.png?resize=840%2C593&ssl=1",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/14204621/share-with-mental-and-substance-disorders.png?resize=840%2C593&ssl=1",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/14204647/suicide-death-rates.png?resize=840%2C593&ssl=1",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/11063658/Screen-Shot-2019-01-10-at-10.36.40-PM.png?resize=763%2C480&ssl=1",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/11064031/Screen-Shot-2019-01-10-at-10.40.03-PM.png?resize=704%2C254&ssl=1",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/11065052/1552px-Oer-Weimarer_Musenhof.jpg",
+                                "timeToRead": 56,
+                                "givenUrl": "https://quillette.com/2019/01/14/enlightenment-wars-some-reflections-on-enlightenment-now-one-year-later/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "103304576",
+                                        "name": "Steven Pinker",
+                                        "url": "https://quillette.com/author/steven-pinker/"
+                                    }
+                                ],
+                                "datePublished": "2019-01-14 00:54:07",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ1MjY0MDY2MV8qXzE1NTk5MDczNjk=",
+                        "node": {
+                            "url": "http://cognitivemedium.com/srs-mathematics",
+                            "_createdAt": 1547439480,
+                            "_updatedAt": 1559907370,
+                            "id": "2452640661",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907369,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Using spaced repetition systems to see through a piece of mathematics",
+                                "itemId": "2452640661",
+                                "resolvedId": "2452640661",
+                                "resolvedUrl": "https://cognitivemedium.com/srs-mathematics",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "cognitivemedium.com"
+                                },
+                                "excerpt": "By Michael Nielsen, January 2019 What does it mean to understand a piece of mathematics? Naively, we perhaps think of this in relatively black and white terms: initially you don’t understand a piece of mathematics, then you go through a brief grey period where you’re learning it, and with some l",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 29,
+                                "givenUrl": "http://cognitivemedium.com/srs-mathematics",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-01-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ1NTQ3OTUwMV8qXzE1NTk5MDczNzI=",
+                        "node": {
+                            "url": "https://nadiaeghbal.com/animal-god",
+                            "_createdAt": 1547609506,
+                            "_updatedAt": 1559907372,
+                            "id": "2455479501",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907372,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Between animal and God",
+                                "itemId": "2455479501",
+                                "resolvedId": "2455479501",
+                                "resolvedUrl": "https://nadiaeghbal.com/animal-god",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "nadiaeghbal.com"
+                                },
+                                "excerpt": "We sleep, we watch Netflix, we smoke, we have sex, we laugh at cat memes and lie tangled in the sheets on a Saturday morning.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "https://nadiaeghbal.com/animal-god",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "13258546",
+                                        "name": "Nadia Eghbal",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-01-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ0MjA3OTcwMF8qXzE1NTk5MDczNzg=",
+                        "node": {
+                            "url": "https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9",
+                            "_createdAt": 1548269096,
+                            "_updatedAt": 1559907378,
+                            "id": "2442079700",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907378,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Company Blog | dbt Labs",
+                                "itemId": "3991931235",
+                                "resolvedId": "3991931235",
+                                "resolvedUrl": "https://www.getdbt.com/blog?mkt_tok=eyJpIjoiTlRWak1URTNPR1UyT0dRMyIsInQiOiJhbkE0bStMSktYd016SWY5c1pLelIraFVwK3R6d21ta2ZKZ2JLSkdPOFArM1lcL28zeUl4V1FWNTZHQlQ4d1pSZXpvV3RpdlQrY1pMQVRIdktlVitick9jY2g2WFp5ZllmRlNPd0lnV2h4YWNMV3d0R1FsRDFIeW1JUDVoS3UycnAifQ%3D%3D",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "getdbt.com"
+                                },
+                                "excerpt": "As organizations—and organizational data—grow in complexity, it becomes increasingly difficult for data teams to remain agile, maintain quality across a wide assortment of data products, and keep spend under control. This is how dbt Cloud is evolving to help you solve those problems.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.getdbt.com/ui/img/blog/mesh-visualization.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.getdbt.com/ui/img/blog/blog_semantic-layer-2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.getdbt.com/ui/img/blog/img_8578.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.getdbt.com/ui/img/blog/screenshot-2023-11-27-at-9.47.58-pm.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-cloud-is-now-available-for-microsoft-fabric.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-mesh-self-serve-data-platform.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-mesh-federated-computational-governance.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-mesh-creating-and-managing-data-products.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-mesh-data-domains.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://www.getdbt.com/ui/img/blog/20231017_091646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.getdbt.com/ui/img/blog/hex-dbt-labs-partnership-1-.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 12,
+                                        "src": "https://www.getdbt.com/ui/img/blog/ordered-mesh.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 13,
+                                        "src": "https://www.getdbt.com/ui/img/blog/c23_blog-post-header-and-preview_v01.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 14,
+                                        "src": "https://www.getdbt.com/ui/img/blog/ordered-mesh.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 15,
+                                        "src": "https://www.getdbt.com/ui/img/blog/coalesce-blog-small-1-.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 16,
+                                        "src": "https://www.getdbt.com/ui/img/blog/blog-forrester-infographic.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 17,
+                                        "src": "https://www.getdbt.com/ui/img/blog/2_dbt-labs-booth-image_min.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 18,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-democracy-dbt-labs.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 19,
+                                        "src": "https://www.getdbt.com/ui/img/blog/emea-roadshow-sk1-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 20,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dag_mag-1-.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 21,
+                                        "src": "https://www.getdbt.com/ui/img/blog/starburst-partnership-announcement.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 22,
+                                        "src": "https://www.getdbt.com/ui/img/blog/next-step-forwards-analytics-engineering.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 23,
+                                        "src": "https://www.getdbt.com/ui/img/blog/consulting-partner-awards-image-copy.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 24,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data_transformation.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 25,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-quality-dimensions-orange.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 26,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-labs-transform-pr-header.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 27,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-labs-transform-blog-header.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 28,
+                                        "src": "https://www.getdbt.com/ui/img/blog/hex-dbt-labs-partnership.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 29,
+                                        "src": "https://www.getdbt.com/ui/img/blog/coalesce_2022_groupphoto-2-resized.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 30,
+                                        "src": "https://www.getdbt.com/ui/img/blog/group-21.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 31,
+                                        "src": "https://www.getdbt.com/ui/img/blog/group-174.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 32,
+                                        "src": "https://www.getdbt.com/ui/img/blog/group-173.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 33,
+                                        "src": "https://www.getdbt.com/ui/img/blog/group-171-4-.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 34,
+                                        "src": "https://www.getdbt.com/ui/img/blog/group-172-2-.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 35,
+                                        "src": "https://www.getdbt.com/ui/img/blog/europe-dbt-cloud-instance-3-.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 36,
+                                        "src": "https://www.getdbt.com/ui/img/blog/image3.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 37,
+                                        "src": "https://www.getdbt.com/ui/img/blog/blog-image2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 38,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live-ernesto.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 39,
+                                        "src": "https://www.getdbt.com/ui/img/blog/monte-carlo-dbt-labs-partnership.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 40,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_randy_august.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 41,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_afzal.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 42,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_doug_guthrie.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 43,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_presenter.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 44,
+                                        "src": "https://www.getdbt.com/ui/img/blog/downtown-las-vegas-at-night-usa-577577051-50511f3dfce94a5e847ea448b7351ca2.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 45,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live-mike.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 46,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_lee_bond_kennedy.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 47,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_sung.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 48,
+                                        "src": "https://www.getdbt.com/ui/img/blog/20211110135334.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 49,
+                                        "src": "https://www.getdbt.com/ui/img/blog/blog-announcement.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 50,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_isabella.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 51,
+                                        "src": "https://www.getdbt.com/ui/img/blog/foundry-program.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 52,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_sean.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 53,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-live_blog-recap_randy.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 54,
+                                        "src": "https://www.getdbt.com/ui/img/blog/photo-1507880572231-f85401ce76e6.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 55,
+                                        "src": "https://www.getdbt.com/ui/img/blog/series-d-announcement.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 56,
+                                        "src": "https://www.getdbt.com/ui/img/blog/blog-post.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 57,
+                                        "src": "https://www.getdbt.com/ui/img/blog/coalesce-replay-tracks-scaling-teams/Screen-Shot-2021-12-21-at-4.43.41-PM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 58,
+                                        "src": "https://www.getdbt.com/ui/img/blog/coalesce-replay-tracks-emerging-analytics-engineers/Screen-Shot-2021-12-21-at-4.47.24-PM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 59,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-labs-iso-certifications/Screen-Shot-2021-12-16-at-8.56.51-AM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 60,
+                                        "src": "https://www.getdbt.com/ui/img/blog/licensing-dbt/Screen-Shot-2021-12-10-at-12.12.47-PM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 61,
+                                        "src": "https://www.getdbt.com/ui/img/blog/2022-dbt-enterprise-product-roadmap/dbt_SocialGraphics_v2_LinkedInTwitter_03.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 62,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-core-v1-is-here/dbt-v1-0-edit.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 63,
+                                        "src": "https://www.getdbt.com/ui/img/blog/new-learn-courses/dbt_SocialGraphics_v2_LinkedInTwitter_01.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 64,
+                                        "src": "https://www.getdbt.com/ui/img/blog/coalesce-returns-for-year-two-this-december/Frame-2-1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 65,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-labs-and-snowflake-are-building-on-a-thriving-partnership/Snowflake-dbtLabs-1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 66,
+                                        "src": "https://www.getdbt.com/ui/img/blog/introducing-environment-variables-in-dbt-cloud/photo-1568214380289-8bcf84b1cd29.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 67,
+                                        "src": "https://www.getdbt.com/ui/img/blog/sql-refactoring-course/photo-1614359835514-92f8ba196357.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 68,
+                                        "src": "https://www.getdbt.com/ui/img/blog/adopting-ci-cd-with-dbt-cloud/photo-1519557926475-c33573d9f52c.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 69,
+                                        "src": "https://www.getdbt.com/ui/img/blog/getting-ready-for-v1-0/photo-1516118158399-02198bc6c9a1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 70,
+                                        "src": "https://www.getdbt.com/ui/img/blog/well-gather-inperson-again-just-not-in-2021/photo-1535696588143-945e1379f1b0.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 71,
+                                        "src": "https://www.getdbt.com/ui/img/blog/on-dags-hierarchies-and-ides/Screen-Shot-2021-08-19-at-12.24.13-PM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 72,
+                                        "src": "https://www.getdbt.com/ui/img/blog/we-the-purple-people/purplepeople.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 73,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-and-hightouch-are-putting-transformed-data-to-work/reversed-2.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 74,
+                                        "src": "https://www.getdbt.com/ui/img/blog/announcing-the-foundry-program/foundry-program.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 75,
+                                        "src": "https://www.getdbt.com/ui/img/blog/of-the-community-by-the-community-for-the-community/introducing-dbt-labs.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 76,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-materialize-streaming-to-a-dbt-project-near-you/photo-1464037866556-6812c9d1c72e.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 77,
+                                        "src": "https://www.getdbt.com/ui/img/blog/analytics-engineering-for-everyone-databricks-in-dbt-cloud/photo-1614537786952-42160d15da78.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 78,
+                                        "src": "https://www.getdbt.com/ui/img/blog/announcing-staging-dbt-demo-days/photo-1453806839674-d1a9087ca1ed.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 79,
+                                        "src": "https://www.getdbt.com/ui/img/blog/future-of-the-modern-data-stack/photo-1458682625221-3a45f8a844c7.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 80,
+                                        "src": "https://www.getdbt.com/ui/img/blog/fishtown-analytics-announces-29-5m-fundraise/photo-1543599000-f9c09d6163b5.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 81,
+                                        "src": "https://www.getdbt.com/ui/img/blog/there-is-no-such-thing-as-a-non-technical-data-analyst/photo-1587654780291-39c9404d746b.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 82,
+                                        "src": "https://www.getdbt.com/ui/img/blog/conference-pitches-in-review/photo-1553268635-707d0996520b.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 83,
+                                        "src": "https://www.getdbt.com/ui/img/blog/welcome-youre-now-a-software-developer/photo-1558494949-ef010cbdcc31.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 84,
+                                        "src": "https://www.getdbt.com/ui/img/blog/fivetran-integration-with-dbt/slack.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 85,
+                                        "src": "https://www.getdbt.com/ui/img/blog/a-note-to-dbt-service-providers/photo-1522583663783-db76d8b6f876.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 86,
+                                        "src": "https://www.getdbt.com/ui/img/blog/the-dbt-ecosystem/photo-1566146991569-696da38bb775.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 87,
+                                        "src": "https://www.getdbt.com/ui/img/blog/conformed-dimensional-models/photo-1461567797193-e5b489ac026a.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 88,
+                                        "src": "https://www.getdbt.com/ui/img/blog/are-dashboards-dead/photo-1460925895917-afdab827c52f.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 89,
+                                        "src": "https://www.getdbt.com/ui/img/blog/four-years-in-from-misfits-to-mainstream/photo-1576417102247-a72edabd16b7.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 90,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-to-find-a-role-in-analytics-engineering/photo-1532378400420-7a50f653c88a.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 91,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-testing-framework/photo-1545300329-e785e923ed45.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 92,
+                                        "src": "https://www.getdbt.com/ui/img/blog/fishtown-analytics-announces-12-9m-fundraise/photo-1490750967868-88aa4486c946.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 93,
+                                        "src": "https://www.getdbt.com/ui/img/blog/were-cancelling-coalesce-and-what-to-expect-instead/photo-1453227588063-bb302b62f50b.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 94,
+                                        "src": "https://www.getdbt.com/ui/img/blog/four-years-in-and-its-a-strange-time-celebrate/photo-1498931299472-f7a63a5a1cfa.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 95,
+                                        "src": "https://www.getdbt.com/ui/img/blog/modeling-marketing-attribution/photo-1538474705339-e87de81450e8.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 96,
+                                        "src": "https://www.getdbt.com/ui/img/blog/coalesce-2020/7-Coalesce_Ticket_Header.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 97,
+                                        "src": "https://www.getdbt.com/ui/img/blog/modeling-subscription-revenue/photo-1569844514393-4e409050d5d7.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 98,
+                                        "src": "https://www.getdbt.com/ui/img/blog/analytics-engineering-for-everyone/photo-1533378890784-b2a5b0a59d40.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 99,
+                                        "src": "https://www.getdbt.com/ui/img/blog/announcing-the-dbt-ide/Screen-Shot-2020-01-13-at-7.14.58-PM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 100,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-great-data-teams-test-their-data-models/Screen-Shot-2020-01-07-at-9.21.52-AM.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 101,
+                                        "src": "https://www.getdbt.com/ui/img/blog/the-four-priorities-of-an-analytics-team-of-one-lessons-from-lola-com/photo-1525103504173-8dc1582c7430.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 102,
+                                        "src": "https://www.getdbt.com/ui/img/blog/write-better-sql-a-defense-of-group-by-1/Screen-Shot-2019-10-02-at-3.41.14-PM.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 103,
+                                        "src": "https://www.getdbt.com/ui/img/blog/analytics-engineers-operate-with-leverage/photo-1509420316987-d27b02f81864.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 104,
+                                        "src": "https://www.getdbt.com/ui/img/blog/4-questions-to-help-you-more-accurately-scope-analytics-engineering-projects/scope-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 105,
+                                        "src": "https://www.getdbt.com/ui/img/blog/track-data-changes-with-dbt-snapshots/josh-hild-JYQkVLOPy8U-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 106,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-to-review-an-analytics-pull-request/yleidis-maldonado-VqTM2Zmlys4-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 107,
+                                        "src": "https://www.getdbt.com/ui/img/blog/hiring-analytics-engineer/room-4uY9123rRzI-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 108,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-monzo-the-uks-favorite-mobile-only-bank-is-rolling-out-dbt/oliur-Z8I-BhVtzn0-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 109,
+                                        "src": "https://www.getdbt.com/ui/img/blog/five-principles-that-will-keep-your-data-warehouse-organized/chuttersnap-kyCNGGKCvyw-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 110,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-v0-14-0-better-serving-our-users/joanna-kosinska-78uNJt1kPw8-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 111,
+                                        "src": "https://www.getdbt.com/ui/img/blog/three-years-in-things-are-heating-up/sagar-patil-8UcNYpynFLU-unsplash-2.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 112,
+                                        "src": "https://www.getdbt.com/ui/img/blog/a-wave-of-acquisitions-in-business-intelligence/jeremy-bishop-uBHSWYWZT7A-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 113,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-to-unnest-arrays-in-redshift/crawford-jolly-DV1WYAu8fHQ-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 114,
+                                        "src": "https://www.getdbt.com/ui/img/blog/pricing-vision-fit/henry-co-SDR3oDS4mOc-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 115,
+                                        "src": "https://www.getdbt.com/ui/img/blog/dbt-learn-analytics-engineering-for-data-analysts/1_ZDJphL4ZEIrAnu5K4baDSg.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 116,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-we-configure-snowflake/aaron-burden-5AiWn2U10cw-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 117,
+                                        "src": "https://www.getdbt.com/ui/img/blog/is-dbt-the-right-tool-for-my-data-transformations/erol-ahmed-FTy5VSGIfiQ-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 118,
+                                        "src": "https://www.getdbt.com/ui/img/blog/introducing-dbt-cloud/rodion-kutsaev-8P-uQaTd8rw-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 119,
+                                        "src": "https://www.getdbt.com/ui/img/blog/whats-in-a-name/tiffany-chan-ptgjRj9-lD8-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 120,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-we-made-dbt-runs-30-faster/julia-raasch-EyTS92S8lPs-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 121,
+                                        "src": "https://www.getdbt.com/ui/img/blog/scaling-knowledge/garden.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 122,
+                                        "src": "https://www.getdbt.com/ui/img/blog/using-dbt-docs/aleksi-tappura-cJCQKSP2WC4-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 123,
+                                        "src": "https://www.getdbt.com/ui/img/blog/data-warehouse-design-with-dbt-0-10-2/joel-filipe-RFDP7_80v5A-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 124,
+                                        "src": "https://www.getdbt.com/ui/img/blog/sinter-release-notes-august-2018-pull-request-builder-fine-grained-github-permissions-and-more/david-travis-5bYxXawHOQg-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 125,
+                                        "src": "https://www.getdbt.com/ui/img/blog/two-years-in-and-it-s-just-getting-good/sagar-patil-8UcNYpynFLU-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 126,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-compatible-are-redshift-and-snowflakes-sql-syntaxes/photo-1547754980-3df97fed72a8.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 127,
+                                        "src": "https://www.getdbt.com/ui/img/blog/one-analysts-guide-for-going-from-good-to-great/hello-i-m-nik-YiRQIglwYig-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 128,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-to-safely-convert-strings-to-integers-in-redshift/roberta-sorge-PN_c3RKCVlA-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 129,
+                                        "src": "https://www.getdbt.com/ui/img/blog/on-two-years-of-dbt/vincent-van-zalinge-4Mu2bXIsn5Y-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 130,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-do-you-decide-what-to-model-in-dbt-vs-lookml/adam-sherez-PtgLGdMzi-Y-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 131,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-to-integrate-dbt-and-looker-with-user-attributes/roman-kraft-HNtcFpXeq4c-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 132,
+                                        "src": "https://www.getdbt.com/ui/img/blog/using-redshift-s-late-binding-views-with-dbt/krissana-porto-p6gQCmySSO4-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 133,
+                                        "src": "https://www.getdbt.com/ui/img/blog/how-to-design-your-looker-explores/mike-petrucci-k9DHPwtRb80-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 134,
+                                        "src": "https://www.getdbt.com/ui/img/blog/the-missing-layers-of-the-analytics-stack/1-uOlxCoXq1faNmKA-3ie2Bg.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 135,
+                                        "src": "https://www.getdbt.com/ui/img/blog/installing-dbt-packages/nynne-schroder-4iOcciwDzRw-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 136,
+                                        "src": "https://www.getdbt.com/ui/img/blog/what-s-new-in-dbt-0-9-0/david-travis-5bYxXawHOQg-unsplash-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 137,
+                                        "src": "https://www.getdbt.com/ui/img/blog/what-exactly-is-dbt/barn-images-t5YUoHW6zRo-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 138,
+                                        "src": "https://www.getdbt.com/ui/img/blog/welcome-to-fishtown-analytics/russ-martin-Rec1f6XewdY-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 139,
+                                        "src": "https://www.getdbt.com/ui/img/blog/analytics-playbook-log-tables/jesse-orrico-h6xNSDlgciU-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 140,
+                                        "src": "https://www.getdbt.com/ui/img/blog/why-doesn-t-dbt-support-python/camylla-battani-AoqgGAqrLpU-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 141,
+                                        "src": "https://www.getdbt.com/ui/img/blog/one-year-in-we-re-still-in-business/sagar-patil-8UcNYpynFLU-unsplash-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 142,
+                                        "src": "https://www.getdbt.com/ui/img/blog/the-startup-founder-s-guide-to-analytics/1_i6csc8dHWx13JzVRCjwGFA.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 143,
+                                        "src": "https://www.getdbt.com/ui/img/blog/the-most-underutilized-function-in-sql/jeshoots-com-VdOO4_HFTWM-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 144,
+                                        "src": "https://www.getdbt.com/ui/img/blog/is-looker-the-right-business-intelligence-tool-for-my-company/luca-colapinto-I378DhssWqU-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 145,
+                                        "src": "https://www.getdbt.com/ui/img/blog/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure/infra.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 146,
+                                        "src": "https://www.getdbt.com/ui/img/blog/welcome-to-fishtown/1_fiLp9gQmyfMDxjwULVC6Zg.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 147,
+                                        "src": "https://www.getdbt.com/ui/img/blog/analytics-is-a-trade/chris-ralston-AGhXDA_l8KI-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 148,
+                                        "src": "https://www.getdbt.com/ui/img/blog/goodbye-rjmetrics-hello-fishtown-analytics/1_1eI33VVi94rfEN8F-4eZTQ.jpeg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 149,
+                                        "src": "https://www.getdbt.com/ui/img/blog/it-s-time-for-open-source-analytics/freestocks-org-vcPtHBqHnKk-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 150,
+                                        "src": "https://www.getdbt.com/ui/img/blog/building-a-mature-analytics-workflow/barn-images-t5YUoHW6zRo-unsplash--1-.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.getdbt.com/ui/img/blog/avatar.jpg",
+                                "timeToRead": 20,
+                                "givenUrl": "https://blog.fishtownanalytics.com/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2024-01-09 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTIyNjkzMjQ1N18qXzE1NTk5MDczODQ=",
+                        "node": {
+                            "url": "https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/",
+                            "_createdAt": 1548375290,
+                            "_updatedAt": 1559907384,
+                            "id": "1226932457",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907384,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department",
+                                "itemId": "1226932457",
+                                "resolvedId": "1226932457",
+                                "resolvedUrl": "https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "multithreaded.stitchfix.com"
+                                },
+                                "excerpt": "“What is the relationship like between your team and the data scientists?” This is, without a doubt, the question I’m most frequently asked when conducting interviews for data platform engineers.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://multithreaded.stitchfix.com/assets/images/logomark-linkedin.jpg",
+                                "timeToRead": 15,
+                                "givenUrl": "https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-03-16 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2NjQ0OTQ0OF8qXzE1NTk5MDc0Mzg=",
+                        "node": {
+                            "url": "https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/",
+                            "_createdAt": 1548427694,
+                            "_updatedAt": 1559907438,
+                            "id": "2466449448",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907438,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Programming paradigms for dummies: what every programmer should know",
+                                "itemId": "2466449448",
+                                "resolvedId": "2466449448",
+                                "resolvedUrl": "https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.acolyer.org"
+                                },
+                                "excerpt": "We’ll get back to CIDR’19 next week, but chasing the thread starting with the Data Continuum paper led me to this book chapter by Peter Van Roy mapping out the space of programming language designs. (Thanks to TuringTest for posting a reference to it in a HN thread).",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://blog.acolyer.org/wp-content/uploads/2019/01/Programming-paradigms-Fig-2.png?w=640",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://blog.acolyer.org/wp-content/uploads/2019/01/Programming-paradigms-Fig-5.jpeg?w=640",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://blog.acolyer.org/wp-content/uploads/2019/01/Programming-paradigms-Fig-3.jpeg?w=640",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://blog.acolyer.org/wp-content/uploads/2019/01/Programming-paradigms-Fig-14.jpeg?w=480",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://blog.acolyer.org/wp-content/uploads/2019/01/Programming-paradigms-Table-2.jpeg?w=640",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 8,
+                                "givenUrl": "https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "136059453",
+                                        "name": "Adrian Colyer",
+                                        "url": "https://blog.acolyer.org/author/adriancolyer/"
+                                    }
+                                ],
+                                "datePublished": "2019-01-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2MTgyNzMwMV8qXzE1NTk5MDc0NDI=",
+                        "node": {
+                            "url": "https://www.newyorker.com/magazine/2019/01/28/does-journalism-have-a-future",
+                            "_createdAt": 1548461198,
+                            "_updatedAt": 1559907442,
+                            "id": "2461827301",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907442,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Does Journalism Have a Future?",
+                                "itemId": "2461827301",
+                                "resolvedId": "2461827301",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2019/01/28/does-journalism-have-a-future",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "The wood-panelled tailgate of the 1972 Oldsmobile station wagon dangled open like a broken jaw, making a wobbly bench on which four kids could sit, eight legs swinging.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/5e34a3b5b5c810000827e8fc/1:1/w_270%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“It was weird. He got on his knees and put this rock on my finger and asked me to spend the rest of my life with just him!”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/cartoons/5c40aaa7e6a3a35067b042af/master/w_1600%2Cc_limit/190128_a22254.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“O.K., toss and turn and sigh so loud that I have to wake up and ask you what’s wrong.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/cartoons/5c412fd7085b9c33f9cf33ea/master/w_1600%2Cc_limit/190128_a21921.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The more desperately the press chases readers, the more it resembles our politics.Illustration by Erik Carter",
+                                        "credit": "Illustration  Erik Carter",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/5c3f8d83b50ffe2e4787ef82/master/w_2560%2Cc_limit/190128_r33628.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/590968266552fa0be682f30f/4:3/w_480%2Cc_limit/111024_r21386_g2048.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.newyorker.com/photos/590976412179605b11ad847f/4:3/w_480%2Cc_limit/090413_r18325_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1548091185/thenewyorker_how-to-write-a-new-yorker-cartoon-caption-how-to-write-a-new-yorker-cartoon-caption-adam-conover-edition.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://media.newyorker.com/photos/64b9738cef09d4a0e04cac5a/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5c3f8d83b50ffe2e4787ef82/16:9/w_1280,c_limit/190128_r33628.jpg",
+                                "timeToRead": 30,
+                                "givenUrl": "https://www.newyorker.com/magazine/2019/01/28/does-journalism-have-a-future",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "74504912",
+                                        "name": "Jill Lepore",
+                                        "url": "https://www.newyorker.com/contributors/jill-lepore"
+                                    }
+                                ],
+                                "datePublished": "2019-01-21 04:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2Njk1NDgyM18qXzE1NTk5MDc0NDY=",
+                        "node": {
+                            "url": "http://nymag.com/intelligencer/2019/01/andrew-sullivan-the-abyss-of-hate-versus-hate.html",
+                            "_createdAt": 1548526905,
+                            "_updatedAt": 1559907446,
+                            "id": "2466954823",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907446,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Abyss of Hate Versus Hate",
+                                "itemId": "2466954823",
+                                "resolvedId": "2466954823",
+                                "resolvedUrl": "https://nymag.com/intelligencer/2019/01/andrew-sullivan-the-abyss-of-hate-versus-hate.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "One of the advantages of taking Saturdays off the web entirely is that I wasn’t aware of L’Affaire Covington until it was almost over. It’s one of those occasions I’m deeply glad I quit blogging 24/7 four years ago and disengaged from Twitter last month.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "intelligencer is a Vox Media Network.\n     © 2022 Vox Media, LLC. All rights reserved.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/b15/d18/d0cb03ae82b490652fa3ce9e991780b316-25-covington-3.rsquare.w700.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The Black Hebrew Israelites on the National Mall.\n      Photo: Chief Ephraim Ahmath Pagai via YouTube",
+                                        "credit": "Photo: Chief Ephraim Ahmath Pagai via YouTube",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/27a/3d3/5c032986a82f00decd56ff6cdee729dea6-25-covington-black-israelites-01.rhorizontal.w700.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pyxis.nymag.com/v1/imgs/b15/d18/d0cb03ae82b490652fa3ce9e991780b316-25-covington-3.1x.rsocial.w1200.jpg",
+                                "timeToRead": 17,
+                                "givenUrl": "http://nymag.com/intelligencer/2019/01/andrew-sullivan-the-abyss-of-hate-versus-hate.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "109965024",
+                                        "name": "Andrew Sullivan",
+                                        "url": "https://nymag.com/author/andrew-sullivan/"
+                                    }
+                                ],
+                                "datePublished": "2019-01-25 09:54:41",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ3MzE3OTU5NF8qXzE1NTk5MDc0NzA=",
+                        "node": {
+                            "url": "https://link.medium.com/9qun2GJKUT",
+                            "_createdAt": 1548900708,
+                            "_updatedAt": 1559907470,
+                            "id": "2473179594",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907470,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2042389793",
+                                "resolvedId": "2042389793",
+                                "resolvedUrl": "https://medium.com/personal-growth/mental-models-898f70438075",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://link.medium.com/9qun2GJKUT",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ1Nzk1MTIzOV8qXzE1NTk5MDc0ODA=",
+                        "node": {
+                            "url": "https://quillette.com/2019/01/17/francis-fukuyamas-master-concept/",
+                            "_createdAt": 1548942184,
+                            "_updatedAt": 1559907480,
+                            "id": "2457951239",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907480,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Francis Fukuyama’s Master Concept",
+                                "itemId": "2457951239",
+                                "resolvedId": "2457951239",
+                                "resolvedUrl": "https://quillette.com/2019/01/17/francis-fukuyamas-master-concept/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Quillette"
+                                },
+                                "excerpt": "Dignity, recognition, esteem, respect, and the resentment that arises when they are not accorded—these are the themes of Francis Fukuyama’s new book. Like many political commentators, he was surprised by the results of two elections in 2016: the victories for Brexit and Donald Trump.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 1,
+                                        "src": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/17185022/Identity-196x300.jpg?resize=196%2C300&ssl=1",
+                                        "width": 196
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://d24fkeqntp1r7r.cloudfront.net/wp-content/uploads/2019/01/11052019/Nagy_Ge%CC%81za-Nemes_Miha%CC%81ly_A_magyar_viseletek_to%CC%88rte%CC%81nete_1900.jpg",
+                                "timeToRead": 14,
+                                "givenUrl": "https://quillette.com/2019/01/17/francis-fukuyamas-master-concept/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-01-17 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjQ2MzMxNzAxM18qXzE1NTk5MDc0ODk=",
+                        "node": {
+                            "url": "https://foreignpolicy.com/gt-essay/the-end-of-economics-fareed-zakaria/",
+                            "_createdAt": 1549170580,
+                            "_updatedAt": 1559907490,
+                            "id": "2463317013",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559907489,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The End of Economics?",
+                                "itemId": "2463317013",
+                                "resolvedId": "2463317013",
+                                "resolvedUrl": "https://foreignpolicy.com/gt-essay/the-end-of-economics-fareed-zakaria/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Foreign Policy"
+                                },
+                                "excerpt": "In 1998, as the Asian financial crisis was ravaging what had been some of the fastest-growing economies in the world, the New Yorker ran an article describing the international rescue efforts.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://foreignpolicy.com/wp-content/uploads/2019/01/zakaria_essaysocial_gettyimages-660180004.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "https://foreignpolicy.com/gt-essay/the-end-of-economics-fareed-zakaria/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1142",
+                                        "name": "Fareed Zakaria",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2023-03-22 12:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjM4MDk0MjA1N18qXzE1NTk5MDcyODE=",
+                    "endCursor": "MjQ2MzMxNzAxM18qXzE1NTk5MDc0ODk="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

@@ -1,0 +1,1776 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjU3NTc0MjcwNV8qXzE1NTg1MTU3NjU=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/ideas/archive/2019/04/political-leaders-should-stop-caring-about-twitter/588004/",
+                            "_createdAt": 1557193493,
+                            "_updatedAt": 1558515765,
+                            "id": "2575742705",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1558515765,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Problem Isn’t Twitter. It’s That You Care About Twitter.",
+                                "itemId": "2575742705",
+                                "resolvedId": "2575742705",
+                                "resolvedUrl": "https://www.theatlantic.com/ideas/archive/2019/04/political-leaders-should-stop-caring-about-twitter/588004/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Ever since Donald Trump made Twitter his preferred medium for communicating with the country, the platform has taken an outsize hold on the American imagination. Once a forum on which users could discuss the day’s news, Twitter now just as often sets the day’s agenda.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "J. David Ake / Reuters",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/oOEg6srNXeRD6tifSVf7vE72Jso=/0x27:3616x2061/960x540/media/img/mt/2019/04/AP_18299600493461/original.jpg",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-crossword-promo-71e9c22fbca07267d82afb8cca81ec00.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 4,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/vjh2fpp7Ts9XyGjTa7tYOeZ5aas=/0x102:3617x1986/1200x625/media/img/mt/2019/04/AP_18299600493461/original.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "https://www.theatlantic.com/ideas/archive/2019/04/political-leaders-should-stop-caring-about-twitter/588004/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "84334219",
+                                        "name": "Yascha Mounk",
+                                        "url": "https://www.theatlantic.com/author/yascha-mounk/"
+                                    }
+                                ],
+                                "datePublished": "2019-04-29 05:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQxOTIzMzg5OV8qXzE1NTg1MTU3OTY=",
+                        "node": {
+                            "url": "https://jvns.ca/blog/2016/09/19/getting-things-done/",
+                            "_createdAt": 1557761109,
+                            "_updatedAt": 1558515796,
+                            "id": "1419233899",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1558515796,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Getting things done",
+                                "itemId": "1419233899",
+                                "resolvedId": "1419233899",
+                                "resolvedUrl": "https://jvns.ca/blog/2016/09/19/getting-things-done/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "jvns.ca"
+                                },
+                                "excerpt": "Ok, so this is kind of a feelings-y productivity-y post. So, to be clear – this is not advice, even though it’s phrased that way. This is just some stuff that feels like it’s working for me right now so I wanted to write it down. I will go back to writing about strace again soon.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 5,
+                                "givenUrl": "https://jvns.ca/blog/2016/09/19/getting-things-done/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "5751812",
+                                        "name": "Julia Evans",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwMjE2MTg5NV8qXzE1NTkxMTA4ODk=",
+                        "node": {
+                            "url": "https://www.politico.com/magazine/story/2019/05/23/new-york-city-without-cars-transportation-226927",
+                            "_createdAt": 1559110691,
+                            "_updatedAt": 1559110890,
+                            "id": "2602161895",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559110889,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "New York Experiments with a ‘Holy Grail’ to End Gridlock",
+                                "itemId": "2602161895",
+                                "resolvedId": "2602161895",
+                                "resolvedUrl": "https://www.politico.com/magazine/story/2019/05/23/new-york-city-without-cars-transportation-226927",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "POLITICO"
+                                },
+                                "excerpt": "The first American city is about to try congestion pricing. Will it be a miracle or meh? Sam Schwartz knew that New York’s crippling traffic jams were bad for the city long before he coined the term that would become synonymous with urban automotive nightmare.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://static.politico.com/dims4/default/c074b9f/2147483647/legacy_thumbnail/2320x1258/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F80%2F5a%2Fd9e439d8421589144e563d2c052b%2Ftrickey-nyc-lede.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Traffic around Times Square in New York City on May 7, 2019. | David Scott Holloway for Politico Magazine",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://static.politico.com/dims4/default/4467569/2147483647/resize/1003x%3C/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd4%2F06%2F94f4fd30497782e3493c6ba4dbcf%2Ftrickey-nyc-image1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Traffic on Rivington Street in New York City. | David Scott Holloway for Politico Magazine",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://static.politico.com/9c/3e/c8f67c2548fba14bedcce789c4d7/trickey-nyc-image2.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.politico.com/7b/9f/41b798f642ddbbfd9742e476a275/trickey-nyc-lede.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.politico.com/magazine/story/2019/05/23/new-york-city-without-cars-transportation-226927",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-05-23 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxMzk4OTc5N18qXzE1NTk2MjA3NjI=",
+                        "node": {
+                            "url": "https://link.medium.com/OHwMxiLBdX",
+                            "_createdAt": 1559564722,
+                            "_updatedAt": 1559620762,
+                            "id": "2613989797",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559620762,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2579530726",
+                                "resolvedId": "2579530726",
+                                "resolvedUrl": "https://www.arcdigital.media/the-intellectual-dark-web-is-a-year-old-do-we-know-what-it-is-yet-7a8dd3d6d06a",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "arcdigital.media"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://link.medium.com/OHwMxiLBdX",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwODkwOTM4Nl8qXzE1NTk2MjA5NTA=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/ideas/archive/2019/05/mueller/590467/",
+                            "_createdAt": 1559254042,
+                            "_updatedAt": 1559620951,
+                            "id": "2608909386",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559620950,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What the Mueller Report Actually Said",
+                                "itemId": "2608909386",
+                                "resolvedId": "2608909386",
+                                "resolvedUrl": "https://www.theatlantic.com/ideas/archive/2019/05/mueller/590467/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Robert Mueller has advised Americans to go back and actually read his report if we want to understand what happened in 2016. “We chose those words carefully, and the work speaks for itself,” he said on Wednesday morning, speaking publicly for the first time since his appointment.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Alex Wong / Getty",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/o8sdMY3fMLg4rmO3TC2ei3jYRQ0=/0x68:3000x1755/960x540/media/img/mt/2019/05/GettyImages_170444431/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/gFw--cA_934WFUaRWO0eTlomzd0=/0x88:3000x1650/1200x625/media/img/mt/2019/05/GettyImages_170444431/original.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.theatlantic.com/ideas/archive/2019/05/mueller/590467/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "43557299",
+                                        "name": "David Frum",
+                                        "url": "https://www.theatlantic.com/author/david-frum/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-29 11:11:38",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwMTQzNjk3N18qXzE1NTk2MjEwMDY=",
+                        "node": {
+                            "url": "https://www.popularmechanics.com/technology/infrastructure/a27557804/digital-circuit-breaker/",
+                            "_createdAt": 1559110954,
+                            "_updatedAt": 1559621006,
+                            "id": "2601436977",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621006,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How the World's First Digital Circuit Breaker Could Completely Change Our Powered World",
+                                "itemId": "2601436977",
+                                "resolvedId": "2601436977",
+                                "resolvedUrl": "https://www.popularmechanics.com/technology/infrastructure/a27557804/digital-circuit-breaker/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Popular Mechanics"
+                                },
+                                "excerpt": "This week the world’s first and only digital circuit breaker was certified for commercial use. The technology, invented by Atom Power, has been listed by Underwriters Laboratories (UL), the global standard for consumer safety.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "Atom Power",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/software-control-1558542149.jpg?resize=480:*",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "Atom Power",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/atompower-1558544472.png?crop=1xw:1xh;center,top&resize=480:*",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The Atom Power switch combines new solid state technology with real-time monitoring and networking abilities, the first of its kind to be listed by UL.\n\tAtom Power",
+                                        "credit": "Atom Power",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/switches-closeup-1558544412.jpg?crop=1xw:1xh;center,top&resize=480:*",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Atom Power’s digital circuit breakers are 3000 times faster and 100 percent safer than mechanical circuit breakers.\n\tAtom Power",
+                                        "credit": "Atom Power",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/button-1558544518.jpg?crop=1xw:1xh;center,top&resize=480:*",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/switches-closeup-1558544412.jpg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.popularmechanics.com/technology/infrastructure/a27557804/digital-circuit-breaker/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "99181185",
+                                        "name": "Jill Kiedaisch",
+                                        "url": "https://www.popularmechanics.com/author/221044/jill-kiedaisch/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-22 12:36:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NTE5OTI3XypfMTU1OTYyMTAxMA==",
+                        "node": {
+                            "url": "https://martinfowler.com/bliki/TechnicalDebt.html",
+                            "_createdAt": 1558619463,
+                            "_updatedAt": 1559621010,
+                            "id": "519927",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621010,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "TechnicalDebt",
+                                "itemId": "519927",
+                                "resolvedId": "519927",
+                                "resolvedUrl": "https://martinfowler.com/bliki/TechnicalDebt.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Martin Fowler"
+                                },
+                                "excerpt": "Software systems are prone to the build up of cruft - deficiencies in internal quality that make it harder than it would ideally be to modify and extend the system further.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://martinfowler.com/bliki/images/tech-debt/sketch.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://martinfowler.com/articles/is-quality-worth-cost/card.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://martinfowler.com/bliki/images/tech-debt/sketch.png",
+                                "timeToRead": 5,
+                                "givenUrl": "https://martinfowler.com/bliki/TechnicalDebt.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "61237862",
+                                        "name": "Martin Fowler",
+                                        "url": "https://martinfowler.com/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-21 10:59:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxMTExMzg1Ml8qXzE1NTk2MjEzMTk=",
+                        "node": {
+                            "url": "https://www.nytimes.com/2019/05/31/business/reid-hoffman-linkedin-corner-office.html",
+                            "_createdAt": 1559334057,
+                            "_updatedAt": 1559621319,
+                            "id": "2611113852",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621319,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "4015607379",
+                                "resolvedId": "4015607379",
+                                "resolvedUrl": "https://msft.social/3WGyBi",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "msft.social"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.nytimes.com/2019/05/31/business/reid-hoffman-linkedin-corner-office.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU4NzA4OTk0NV8qXzE1NTk2MjEzNDQ=",
+                        "node": {
+                            "url": "https://necpluribusimpar.net/why-falsificationism-is-false/",
+                            "_createdAt": 1557452670,
+                            "_updatedAt": 1559621344,
+                            "id": "2587089945",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621344,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why falsificationism is false",
+                                "itemId": "2587089945",
+                                "resolvedId": "2587089945",
+                                "resolvedUrl": "https://necpluribusimpar.net/why-falsificationism-is-false/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "necpluribusimpar.net"
+                                },
+                                "excerpt": "Karl Popper famously defended the view, known as falsificationism, that what distinguishes science from non-science is falsifiability. On this view, a theory is scientific if and only if it’s falsifiable, at least in principle.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://necpluribusimpar.net/wp-content/uploads/2019/05/Why-falsificationism-is-false.jpg",
+                                "timeToRead": 15,
+                                "givenUrl": "https://necpluribusimpar.net/why-falsificationism-is-false/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "69912046",
+                                        "name": "Philippe Lemoine",
+                                        "url": "https://necpluribusimpar.net/author/philippe-h-lemoinegmail-com/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-09 09:58:23",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU4Njk3MjcwMl8qXzE1NTk2MjEzNDc=",
+                        "node": {
+                            "url": "https://blog.apaonline.org/2019/05/09/philosophy-in-the-contemporary-world-the-mcdonaldization-of-philosophy/",
+                            "_createdAt": 1557447226,
+                            "_updatedAt": 1559621347,
+                            "id": "2586972702",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621347,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Philosophy in the Contemporary World: The McDonaldization of Philosophy",
+                                "itemId": "2586972702",
+                                "resolvedId": "2586972702",
+                                "resolvedUrl": "https://blog.apaonline.org/2019/05/09/philosophy-in-the-contemporary-world-the-mcdonaldization-of-philosophy/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.apaonline.org"
+                                },
+                                "excerpt": "As societies have evolved beyond the preindustrial era, they have become more and more dominated by bureaucracies. However, the ultimate form of bureaucracy is McDonaldization (Ritzer, 1996).",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 464,
+                                        "imageId": 1,
+                                        "src": "https://i2.wp.com/blog.apaonline.org/wp-content/uploads/2019/05/french-fries-1851143_1920.jpg?resize=696%2C464&ssl=1",
+                                        "width": 696
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i2.wp.com/blog.apaonline.org/wp-content/uploads/2019/05/french-fries-1851143_1920.jpg?fit=1200%2C800&ssl=1",
+                                "timeToRead": 7,
+                                "givenUrl": "https://blog.apaonline.org/2019/05/09/philosophy-in-the-contemporary-world-the-mcdonaldization-of-philosophy/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152858635",
+                                        "name": "Edward Delia",
+                                        "url": "https://blog.apaonline.org/2019/05/09/philosophy-in-the-contemporary-world-the-mcdonaldization-of-philosophy/#molongui-disabled-link"
+                                    }
+                                ],
+                                "datePublished": "2019-05-09 07:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU4NjMzMzYyOF8qXzE1NTk2MjEzNTA=",
+                        "node": {
+                            "url": "https://www.nationalreview.com/2019/05/mass-shootings-citizen-heroes-save-lives/",
+                            "_createdAt": 1557361011,
+                            "_updatedAt": 1559621350,
+                            "id": "2586333628",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621350,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Hero Solution to the Mass-Shooting Contagion",
+                                "itemId": "2586333628",
+                                "resolvedId": "2586333628",
+                                "resolvedUrl": "https://www.nationalreview.com/2019/05/mass-shootings-citizen-heroes-save-lives/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "National Review"
+                                },
+                                "excerpt": "Between April 27 and May 7, there were three prominent attempted massacres in the United States. The first was at a synagogue in Poway, Calif. The shooter used an AR-type rifle and killed one person and wounded three.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 1,
+                                        "src": "https://www.nationalreview.com/wp-content/uploads/2020/10/money-benjamin-franklin.jpg?resize=380%2C220",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 2,
+                                        "src": "https://www.nationalreview.com/wp-content/uploads/2021/07/lonely-man-ocean.jpg?resize=380%2C220",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 3,
+                                        "src": "https://www.nationalreview.com/wp-content/uploads/2021/04/Hunter-Biden-Screengrab.jpg?resize=380%2C220",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 4,
+                                        "src": "https://www.nationalreview.com/wp-content/uploads/2021/03/dating-app.jpg?resize=380%2C220",
+                                        "width": 380
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.nationalreview.com/wp-content/uploads/2019/05/sheriff-poway.jpg?fit=2057%2C1200",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.nationalreview.com/2019/05/mass-shootings-citizen-heroes-save-lives/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "84234641",
+                                        "name": "David French",
+                                        "url": "https://www.nationalreview.com/author/david-french/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-08 18:40:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU3MTc3MTMyOV8qXzE1NTk2MjEzNTk=",
+                        "node": {
+                            "url": "https://www.economist.com/business/2019/04/27/can-uber-ever-make-money",
+                            "_createdAt": 1556855604,
+                            "_updatedAt": 1559621360,
+                            "id": "2571771329",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621359,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Can Uber ever make money?",
+                                "itemId": "2571771329",
+                                "resolvedId": "2571771329",
+                                "resolvedUrl": "https://www.economist.com/business/2019/04/27/can-uber-ever-make-money",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Economist"
+                                },
+                                "excerpt": "LONDON CABBIES enjoy a good moan. But few can match the satirical indignation of a former ferry operator, John Taylor, who used to carry passengers on the Thames.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 720,
+                                        "imageId": 1,
+                                        "src": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/print-edition/20190427_WBD000_0.jpg",
+                                        "width": 1280
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.economist.com/img/b/1280/720/90/sites/default/files/images/print-edition/20190427_WBD000_0.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.economist.com/business/2019/04/27/can-uber-ever-make-money",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-04-27 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NDk4ODk5MTY0XypfMTU1OTYyMTM3MQ==",
+                        "node": {
+                            "url": "http://www.meltingasphalt.com/neurons-gone-wild/",
+                            "_createdAt": 1556720874,
+                            "_updatedAt": 1559621371,
+                            "id": "498899164",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621371,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Neurons Gone Wild",
+                                "itemId": "498899164",
+                                "resolvedId": "498899164",
+                                "resolvedUrl": "https://meltingasphalt.com/neurons-gone-wild/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "meltingasphalt.com"
+                                },
+                                "excerpt": "To reject gods and spirits is easy: just bully them away in the name of science. But to accept them, or at least our experiences of them, and yet give them a scientific explanation: there's a task worthy of our art.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 477,
+                                        "imageId": 1,
+                                        "src": "http://35.161.88.15/wp-content/uploads/2013/12/agency_in_the_brain.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 238,
+                                        "imageId": 2,
+                                        "src": "http://35.161.88.15/wp-content/uploads/2013/12/two_headed_snake-600x397.jpg",
+                                        "width": 360
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 499,
+                                        "imageId": 3,
+                                        "src": "http://35.161.88.15/wp-content/uploads/2013/12/rogue_agent.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 256,
+                                        "imageId": 4,
+                                        "src": "http://35.161.88.15/wp-content/uploads/2013/12/janus_cat-600x427.jpg",
+                                        "width": 360
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 345,
+                                        "imageId": 5,
+                                        "src": "http://35.161.88.15/wp-content/uploads/2013/12/polymelia.jpg",
+                                        "width": 289
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 381,
+                                        "imageId": 6,
+                                        "src": "http://35.161.88.15/wp-content/uploads/2013/12/abigail_and_brittany_hensel.jpg",
+                                        "width": 447
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 21,
+                                "givenUrl": "http://www.meltingasphalt.com/neurons-gone-wild/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "87673679",
+                                        "name": "Kevin Simler",
+                                        "url": "https://meltingasphalt.com/about"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU0NDg3ODgxM18qXzE1NTk2MjEzOTg=",
+                        "node": {
+                            "url": "https://theoutline.com/post/7267/living-with-passive-suicidal-ideation",
+                            "_createdAt": 1554259917,
+                            "_updatedAt": 1559621398,
+                            "id": "2544878813",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621398,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "I am not always very attached to being alive",
+                                "itemId": "2544878813",
+                                "resolvedId": "2544878813",
+                                "resolvedUrl": "https://theoutline.com/post/7267/living-with-passive-suicidal-ideation",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Outline"
+                                },
+                                "excerpt": "I wish there was a nicer way to say this, but I don’t always want to be alive.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://outline-prod.imgix.net/20190401-ZKsLHcfZF9VvzQt07JUT?auto=format&q=60&w=1280&s=5688f9b3f43c747bf6acf55bf94bb7a2",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://outline-prod.imgix.net/20181206-5MaQUstct7APhUPeHB2z?auto=format&q=60&w=1280&s=c2ad0bdc3523928f4a0d0f64bcac1b6c",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://outline-prod.imgix.net/20190401-ZKsLHcfZF9VvzQt07JUT?auto=format&q=60&w=1280&s=5688f9b3f43c747bf6acf55bf94bb7a2",
+                                "timeToRead": 9,
+                                "givenUrl": "https://theoutline.com/post/7267/living-with-passive-suicidal-ideation",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "108657772",
+                                        "name": "Anna Borges",
+                                        "url": "https://theoutline.com/contributor/536/anna-borges"
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUzNzk0NjQwOF8qXzE1NTk2MjE0MDU=",
+                        "node": {
+                            "url": "https://tonic.vice.com/en_us/article/59xe9b/the-power-of-the-nocebo-effect-v26n1",
+                            "_createdAt": 1553920846,
+                            "_updatedAt": 1559621405,
+                            "id": "2537946408",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621405,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Power of the Nocebo Effect",
+                                "itemId": "3209864530",
+                                "resolvedId": "3209864530",
+                                "resolvedUrl": "https://www.vice.com/en/article/59xe9b/the-power-of-the-nocebo-effect-v26n1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "VICE"
+                                },
+                                "excerpt": "Nocebo is the evil twin of the placebo effect—and my constant companion. I set out to find out what it is, and how I could learn to harness the more positive effects of medical mind games. This story appears in VICE Magazine's Truth and Lies Issue. Click HERE to subscribe.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://video-images.vice.com/articles/5c8fc0e99058cf000a5f00f9/lede/1552925602288-PLacebo-Nocebo-Header-XavierLT.jpeg?crop=1xw:1xh;center,center&resize=20:*",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://video-images.vice.com/articles/5c8fc0e99058cf000a5f00f9/lede/1552925602288-PLacebo-Nocebo-Header-XavierLT.jpeg?crop=0.5625xw:1xh;center,center&resize=20:*",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://video-images.vice.com/articles/5c8fc0e99058cf000a5f00f9/social_lede/1553880535677-Stocksy_txp382c531ev6I200_Medium_1381413.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDkzNzAxMTI5NDUyNjV4aDtjZW50ZXIsY2VudGVyJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg",
+                                "timeToRead": 14,
+                                "givenUrl": "https://tonic.vice.com/en_us/article/59xe9b/the-power-of-the-nocebo-effect-v26n1",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "140686961",
+                                        "name": "Shayla Love",
+                                        "url": "https://www.vice.com/en/contributor/shayla-love"
+                                    }
+                                ],
+                                "datePublished": "2019-03-27 12:37:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUzNTY0NDAyNF8qXzE1NTk2MjE0MjY=",
+                        "node": {
+                            "url": "https://zackkanter.com/2019/03/13/what-is-amazon/?=hackernews",
+                            "_createdAt": 1553622983,
+                            "_updatedAt": 1559621426,
+                            "id": "2535644024",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621426,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What is Amazon?",
+                                "itemId": "2522141908",
+                                "resolvedId": "2522141908",
+                                "resolvedUrl": "https://zackkanter.com/2019/03/13/what-is-amazon/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "zackkanter.com"
+                                },
+                                "excerpt": "What exactly is Amazon? This is the question that has consumed me for the last ten years.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://i1.wp.com/zackkanter.com/wp-content/uploads/2019/03/cropped-zack-kanter.jpg?fit=512%2C512&ssl=1",
+                                "timeToRead": 31,
+                                "givenUrl": "https://zackkanter.com/2019/03/13/what-is-amazon/?=hackernews",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "107297652",
+                                        "name": "Zack Kanter",
+                                        "url": "https://zackkanter.com/author/baexpat/"
+                                    }
+                                ],
+                                "datePublished": "2019-03-13 20:34:57",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUzNjc1MjgwM18qXzE1NTk2MjE0MzA=",
+                        "node": {
+                            "url": "https://startups.microsoft.com/en-us/blog/building-product-roadmaps/?utm_source=t.co&utm_medium=referral&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190325+sysops+nl&mkt_tok=eyJpIjoiTlRrd1pETm1ORFpoTVRreCIsInQiOiIrRktuNFRMR051ajNncUUzcGpRbkswUm9rVEpKZEJ2a3doRW1sNXozV29RYk1YWEtQdEtRZnVuRG5kelZXb0h4OEl3TldPNHI2RjR5MGNWZzk5a2FKVDhRclpLWDhXYmpEcWxzVWM4dFwvN0tHWnNIUzd1XC8wMWRcL0F0bUsyNnFYOCJ9",
+                            "_createdAt": 1553613273,
+                            "_updatedAt": 1559621430,
+                            "id": "2536752803",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621430,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2536752803",
+                                "resolvedId": "2536752803",
+                                "resolvedUrl": "https://startups.microsoft.com/en-us/blog/building-product-roadmaps/?utm_source=t.co&utm_medium=referral&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190325+sysops+nl&mkt_tok=eyJpIjoiTlRrd1pETm1ORFpoTVRreCIsInQiOiIrRktuNFRMR051ajNncUUzcGpRbkswUm9rVEpKZEJ2a3doRW1sNXozV29RYk1YWEtQdEtRZnVuRG5kelZXb0h4OEl3TldPNHI2RjR5MGNWZzk5a2FKVDhRclpLWDhXYmpEcWxzVWM4dFwvN0tHWnNIUzd1XC8wMWRcL0F0bUsyNnFYOCJ9",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "startups.microsoft.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://startups.microsoft.com/en-us/blog/building-product-roadmaps/?utm_source=t.co&utm_medium=referral&utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20190325+sysops+nl&mkt_tok=eyJpIjoiTlRrd1pETm1ORFpoTVRreCIsInQiOiIrRktuNFRMR051ajNncUUzcGpRbkswUm9rVEpKZEJ2a3doRW1sNXozV29RYk1YWEtQdEtRZnVuRG5kelZXb0h4OEl3TldPNHI2RjR5MGNWZzk5a2FKVDhRclpLWDhXYmpEcWxzVWM4dFwvN0tHWnNIUzd1XC8wMWRcL0F0bUsyNnFYOCJ9",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUyMjcxNDk4NV8qXzE1NTk2MjE0Mzc=",
+                        "node": {
+                            "url": "https://link.medium.com/HZj6rd1e3U",
+                            "_createdAt": 1552570078,
+                            "_updatedAt": 1559621437,
+                            "id": "2522714985",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621437,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why are you not designing your day-to-day experience?",
+                                "itemId": "2471577387",
+                                "resolvedId": "2471577387",
+                                "resolvedUrl": "https://uxdesign.cc/why-are-you-not-designing-your-day-to-day-experience-269ec91d7d7",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "UX Collective"
+                                },
+                                "excerpt": "The other day a coworker and I were chatting about our phone’s home screens and the way we organize our app icons. We spent a good amount of time describing to one another our implicit rules on how we prioritize homepage icons, how we choose apps that will sit on the edge vs.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 28,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/fit/c/56/56/1*nKrjhQlH1lDTRFMjLUuzHA.jpeg",
+                                        "width": 28
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 866,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/28/1*sExFYQ0Zhib3LqbDqEqe7A.jpeg?q=20",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 866,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/800/1*sExFYQ0Zhib3LqbDqEqe7A.jpeg",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 5298,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/38/1*qZAsfyoAQ-M7ECms0x3sLA.jpeg?q=20",
+                                        "width": 3407
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 5298,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/6814/1*qZAsfyoAQ-M7ECms0x3sLA.jpeg",
+                                        "width": 3407
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 562,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/60/0*8sKWB9CH3khldKjZ.jpg?q=20",
+                                        "width": 750
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 562,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1500/0*8sKWB9CH3khldKjZ.jpg",
+                                        "width": 750
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/400/1*sExFYQ0Zhib3LqbDqEqe7A.jpeg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://link.medium.com/HZj6rd1e3U",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "147108352",
+                                        "name": "Fabricio Teixeira",
+                                        "url": "https://fabricio.uxdesign.cc"
+                                    }
+                                ],
+                                "datePublished": "2019-03-09 09:22:44",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUxMjM5MDk5Ml8qXzE1NTk2MjE0NDE=",
+                        "node": {
+                            "url": "https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/",
+                            "_createdAt": 1552422470,
+                            "_updatedAt": 1559621441,
+                            "id": "2512390992",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621441,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Redirect Notice",
+                                "itemId": "2605461168",
+                                "resolvedId": "2605461168",
+                                "resolvedUrl": "https://www.google.co.uk/amp/s/www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/amp/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Google"
+                                },
+                                "excerpt": "The previous page is sending you to https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/amp/. If you do not want to visit that page, you can return to the previous page.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.technologyreview.com/s/613054/cybersecurity-critical-infrastructure-triton-malware/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjUxOTE0MDM5N18qXzE1NTk2MjE0NDc=",
+                        "node": {
+                            "url": "https://link.medium.com/dVyfvnktYU",
+                            "_createdAt": 1552321810,
+                            "_updatedAt": 1559621447,
+                            "id": "2519140397",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621447,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "This trial claimed to show a 4 and 5-day work week are equally productive. It didn’t.",
+                                "itemId": "2503604211",
+                                "resolvedId": "2503604211",
+                                "resolvedUrl": "https://medium.com/@robertwiblin/a-widely-publicised-trial-claimed-to-show-a-4-and-5-day-work-week-are-equally-productive-655dac3aee94",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "As usual, the media failed miserably at reporting on a social science study. In 2018 a New Zealand financial advising firm trialled switching from a 5 to 4 day work week, over a two month period.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "23,619 shares. ?‍♂️",
+                                        "credit": "",
+                                        "height": 332,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*z1Dj-60fkyKnCNBEpQKaSQ.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 632,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1600/1*RGD2vl0nb4e6Cvy8hMeEQA.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 629,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/1*P5ZYUdsTsJIFPBLJN25n1Q.png",
+                                        "width": 700
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/910/1*z1Dj-60fkyKnCNBEpQKaSQ.png",
+                                "timeToRead": 7,
+                                "givenUrl": "https://link.medium.com/dVyfvnktYU",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "106199993",
+                                        "name": "Robert Wiblin",
+                                        "url": "https://medium.com/@robertwiblin"
+                                    }
+                                ],
+                                "datePublished": "2019-02-26 21:41:48",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTg1NDgyMjkzNl8qXzE1NTk2MjE0NTM=",
+                        "node": {
+                            "url": "https://dothemath.ucsd.edu/2012/06/heat-pumps-work-miracles/",
+                            "_createdAt": 1551379906,
+                            "_updatedAt": 1559621453,
+                            "id": "1854822936",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621453,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Heat Pumps Work Miracles",
+                                "itemId": "1854822936",
+                                "resolvedId": "1854822936",
+                                "resolvedUrl": "https://dothemath.ucsd.edu/2012/06/heat-pumps-work-miracles/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "dothemath.ucsd.edu"
+                                },
+                                "excerpt": "Part of the argument that we cannot expect growth to continue indefinitely is that efficiency gains are capped. Many of our energy applications are within a factor of two of theoretical efficiency limits, so we can’t squeeze too much more out of this orange.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 255,
+                                        "imageId": 1,
+                                        "src": "https://dothemath.ucsd.edu/wp-content/uploads/2012/06/entropy-eff.png",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "A prominent defrost cycle consumed 155 Wh of energy. The energy and average power associated with each cooling cycle is also shown.",
+                                        "credit": "",
+                                        "height": 438,
+                                        "imageId": 2,
+                                        "src": "https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-111020.png",
+                                        "width": 584
+                                    },
+                                    {
+                                        "caption": "Initial location of light in upper left of refrigerator volume",
+                                        "credit": "",
+                                        "height": 640,
+                                        "imageId": 3,
+                                        "src": "https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-pic1.jpg",
+                                        "width": 428
+                                    },
+                                    {
+                                        "caption": "This time, the light is lower in the fridge.",
+                                        "credit": "",
+                                        "height": 640,
+                                        "imageId": 4,
+                                        "src": "https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-pic2.jpg",
+                                        "width": 428
+                                    },
+                                    {
+                                        "caption": "Light pulse demanded more cooling. Note coincidental defrost at end.",
+                                        "credit": "",
+                                        "height": 438,
+                                        "imageId": 5,
+                                        "src": "https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-bulb.png",
+                                        "width": 584
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 15,
+                                "givenUrl": "https://dothemath.ucsd.edu/2012/06/heat-pumps-work-miracles/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "66678328",
+                                        "name": "tmurphy",
+                                        "url": "https://dothemath.ucsd.edu/author/tmurphy/"
+                                    }
+                                ],
+                                "datePublished": "2012-06-12 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTk1ODUwMTQ1MF8qXzE1NTk2MjE0NTY=",
+                        "node": {
+                            "url": "https://www.gwern.net/In-Defense-Of-Inclusionism",
+                            "_createdAt": 1551376650,
+                            "_updatedAt": 1559621457,
+                            "id": "1958501450",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621456,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "In Defense of Inclusionism · Gwern.net",
+                                "itemId": "1958501450",
+                                "resolvedId": "1958501450",
+                                "resolvedUrl": "https://www.gwern.net/In-Defense-Of-Inclusionism",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "gwern.net"
+                                },
+                                "excerpt": "English Wikipedia is in decline. As a long-time editor & former admin, I was deeply dismayed by the process.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "An important editing contribution",
+                                        "credit": "",
+                                        "height": 874,
+                                        "imageId": 1,
+                                        "src": "https://www.gwern.net/images/wikipedia/2017-09-29-wikipedia-humordeletion.jpg",
+                                        "width": 955
+                                    },
+                                    {
+                                        "caption": "Active Wikipedians: Actual versus Strategy",
+                                        "credit": "",
+                                        "height": 470,
+                                        "imageId": 2,
+                                        "src": "https://www.gwern.net/images/wikipedia/2012-henkvd-activewikipedians.png",
+                                        "width": 719
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.gwern.net/static/img/logo/logo-whitebg-large-border.png",
+                                "timeToRead": 122,
+                                "givenUrl": "https://www.gwern.net/In-Defense-Of-Inclusionism",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "42958109",
+                                        "name": "Gwern Branwen",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2009-01-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY2MDgzMDY5XypfMTU1OTYyMTQ1OQ==",
+                        "node": {
+                            "url": "http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html",
+                            "_createdAt": 1551374604,
+                            "_updatedAt": 1559621459,
+                            "id": "266083069",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559621459,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Taco Bell Programming",
+                                "itemId": "266083069",
+                                "resolvedId": "266083069",
+                                "resolvedUrl": "https://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "widgetsandshit.com"
+                                },
+                                "excerpt": "Every item on the menu at Taco Bell is just a different configuration of roughly eight ingredients. With this simple periodic table of meat and produce, the company pulled down $1.9 billion last year.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 2,
+                                "givenUrl": "http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2500101",
+                                        "name": "Ted Dziuba",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2010-10-21 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYxMDM3MDA4MV8qXzE1NTk3MDU5MTU=",
+                        "node": {
+                            "url": "https://www.nationalreview.com/2019/05/david-french-response-sohrab-ahmari/",
+                            "_createdAt": 1559274451,
+                            "_updatedAt": 1559705915,
+                            "id": "2610370081",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559705915,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What Sohrab Ahmari Gets Wrong",
+                                "itemId": "2610370081",
+                                "resolvedId": "2610370081",
+                                "resolvedUrl": "https://www.nationalreview.com/2019/05/david-french-response-sohrab-ahmari/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "National Review"
+                                },
+                                "excerpt": "Yesterday, New York Post op-ed editor Sohrab Ahmari published a lengthy essay with the rather eye-catching title, “Against David French-ism.” While the essay takes rather direct aim at me personally, it also uses me as a kind of proxy for two competing visions of American life.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 1,
+                                        "src": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/08/school-classroom-montebello-california.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 2,
+                                        "src": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/02/coronavirus-022820-19.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 3,
+                                        "src": "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/Joe-Biden-22.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 4,
+                                        "src": "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2021/06/Washington-Post.jpg?resize=380%2C220&ssl=1",
+                                        "width": 380
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2017/12/post-christian-america-polarized-america-1.jpg?fit=1200%2C700&ssl=1",
+                                "timeToRead": 12,
+                                "givenUrl": "https://www.nationalreview.com/2019/05/david-french-response-sohrab-ahmari/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "84234641",
+                                        "name": "David French",
+                                        "url": "https://www.nationalreview.com/author/david-french/"
+                                    }
+                                ],
+                                "datePublished": "2019-05-30 18:22:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjYwMjU0MzA3MF8qXzE1NTk4ODA4MDc=",
+                        "node": {
+                            "url": "https://increment.com/open-source/the-city-guide-to-open-source/",
+                            "_createdAt": 1559407520,
+                            "_updatedAt": 1559880808,
+                            "id": "2602543070",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559880807,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The city guide to open source",
+                                "itemId": "2602543070",
+                                "resolvedId": "2602543070",
+                                "resolvedUrl": "https://increment.com/open-source/the-city-guide-to-open-source/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "increment.com"
+                                },
+                                "excerpt": "Since the publication of Nadia Eghbal’s groundbreaking 2016 report, “Roads and Bridges: The Unseen Labor behind Our Digital Infrastructure,” physical infrastructure has become the favored metaphor for sustainability in OSS. I find this metaphor fascinating.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.ctfassets.net/3njn2qm7rrbs/2b1csP718mbT2Yba2R3BUW/488bce7e3d4ff0a857f5ed6f15ebaf12/diagram-1000-ec6561ac.jpeg?w=500",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "While OSS has little to no distribution or manufacturing costs, its servicing cost—the work of maintenance and support—rise the more it’s used.",
+                                        "credit": "Image courtesy of Devon Zuegel",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://images.ctfassets.net/3njn2qm7rrbs/1PcGqihbx5eDUqGxfv7EG1/038ac7d0907ff645e878f7f855609391/cost-2000-510b46b6.jpeg?w=1000",
+                                        "width": 800
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://images.ctfassets.net/3njn2qm7rrbs/5K3hZph6lYPKAvfDruOHQO/31d1237346c004d41a46cf3abe8554b1/cover-2000-20ec2e1f.jpeg?w=1000",
+                                "timeToRead": 12,
+                                "givenUrl": "https://increment.com/open-source/the-city-guide-to-open-source/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "15437918",
+                                        "name": "Aaron Fernandez",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjMzOTQ5NDQwXypfMTU1OTkwNjkwNw==",
+                        "node": {
+                            "url": "http://nakamotoinstitute.org/formalizing-securing-relationships/",
+                            "_createdAt": 1495512698,
+                            "_updatedAt": 1559906908,
+                            "id": "633949440",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559906907,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Formalizing and Securing Relationships on Public Networks",
+                                "itemId": "633949440",
+                                "resolvedId": "633949440",
+                                "resolvedUrl": "https://nakamotoinstitute.org/formalizing-securing-relationships/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "nakamotoinstitute.org"
+                                },
+                                "excerpt": "History has seen successive revolutions in the costs of doing global business. First transportation, then manufacturing, and recently communications costs have fallen dramatically. Yet there are still major barriers to doing business internationally.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://nakamotoinstitute.org/static/img/docs/formalizing-securing-relationships/virtual.gif",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 56,
+                                "givenUrl": "http://nakamotoinstitute.org/formalizing-securing-relationships/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTc3NDg0MTAxNV8qXzE1NTk5MDY5MDk=",
+                        "node": {
+                            "url": "http://www.trustnodes.com/2017/06/07/singaporean-dollar-tokenized-ethereums-blockchain-monetary-authority-singapore",
+                            "_createdAt": 1497232284,
+                            "_updatedAt": 1559906909,
+                            "id": "1774841015",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559906909,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Singaporean Dollar Tokenized Through Ethereum’s Blockchain by the Monetary Authority of Singapore",
+                                "itemId": "1774841015",
+                                "resolvedId": "1774841015",
+                                "resolvedUrl": "https://www.trustnodes.com/2017/06/07/singaporean-dollar-tokenized-ethereums-blockchain-monetary-authority-singapore",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "trustnodes.com"
+                                },
+                                "excerpt": "The future is here. So say a report by the Monetary Authority of Singapore (MAS), which in collaboration with a number of banks and blockchain technology firms recently announced that phase one of tokenizing Singaporean Dollars through an ethereum blockchain has successfully completed.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.trustnodes.com/wp-content/uploads/2017/06/singapore-300x300.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "http://www.trustnodes.com/2017/06/07/singaporean-dollar-tokenized-ethereums-blockchain-monetary-authority-singapore",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2017-06-07 15:15:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTczNjkyMDQxM18qXzE1NTk5MDY5MTI=",
+                        "node": {
+                            "url": "https://aeon.co/ideas/moral-grandstanding-theres-a-lot-of-it-about-all-of-it-bad",
+                            "_createdAt": 1495021159,
+                            "_updatedAt": 1559906912,
+                            "id": "1736920413",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559906912,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Moral grandstanding: there’s a lot of it about, all of it bad",
+                                "itemId": "1736920413",
+                                "resolvedId": "1736920413",
+                                "resolvedUrl": "https://aeon.co/ideas/moral-grandstanding-theres-a-lot-of-it-about-all-of-it-bad",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "We’ve done it. You probably have, too. No matter what we believe about morality or politics, we’ve all used moral talk to project an impressive and morally respectable image of ourselves.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://epsilon.aeon.co/images/8b648422-4233-4d97-b155-5488444ccf81/idea_sized-jehan-georges_vibert_-_the_committee_on_moral_books.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://aeon.co/ideas/moral-grandstanding-theres-a-lot-of-it-about-all-of-it-bad",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "36578629",
+                                        "name": "Justin Tosi",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-05-10 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjY3MTk0NjVfKl8xNTU5OTA2OTEz",
+                        "node": {
+                            "url": "http://www.benkler.org/CoasesPenguin.html",
+                            "_createdAt": 1495161241,
+                            "_updatedAt": 1559906914,
+                            "id": "26719465",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559906913,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Untitled Document",
+                                "itemId": "26719465",
+                                "resolvedId": "26719465",
+                                "resolvedUrl": "http://www.benkler.org/CoasesPenguin.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "benkler.org"
+                                },
+                                "excerpt": "For decades our understanding of economic production has been that individuals order their productive activities in one of two ways: either as employees in firms, following the directions of managers, or as individuals in markets, following price signals.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 2,
+                                "givenUrl": "http://www.benkler.org/CoasesPenguin.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTY5NTgyODEyMF8qXzE1NTk5MDY5MTY=",
+                        "node": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm",
+                            "_createdAt": 1492185494,
+                            "_updatedAt": 1559906917,
+                            "id": "1695828120",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1559906916,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "EX-99.1",
+                                "itemId": "1695828120",
+                                "resolvedId": "1695828120",
+                                "resolvedUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "U.S. Securities and Exchange Commission Careers"
+                                },
+                                "excerpt": "That’s a question I just got at our most recent all-hands meeting. I’ve been reminding people that it’s Day 1 for a couple of decades. I work in an Amazon building named Day 1, and when I moved buildings, I took the name with me. I spend time thinking about this topic. “Day 2 is stasis.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/g263455g61t65.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/g263455g87e55.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjU3NTc0MjcwNV8qXzE1NTg1MTU3NjU=",
+                    "endCursor": "MTY5NTgyODEyMF8qXzE1NTk5MDY5MTY="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

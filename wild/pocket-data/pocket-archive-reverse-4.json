@@ -1,0 +1,2040 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTMzNDIxNzE4NF8qXzE0Njk2NjgxMzM=",
+                        "node": {
+                            "url": "https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-parking-tickets-london-new-york",
+                            "_createdAt": 1469066171,
+                            "_updatedAt": 1469668134,
+                            "id": "1334217184",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1469668133,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Chatbot lawyer overturns 160,000 parking tickets in London and New York",
+                                "itemId": "1334217184",
+                                "resolvedId": "1334217184",
+                                "resolvedUrl": "https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-parking-tickets-london-new-york",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Guardian"
+                                },
+                                "excerpt": "An artificial-intelligence lawyer chatbot has successfully contested 160,000 parking tickets across London and New York for free, showing that chatbots can actually be useful.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "DoNotPay has been helping Londoners and New Yorkers fight illegal parking fines, like this one from Lambeth in London. Photograph: Alamy",
+                                        "credit": "",
+                                        "height": 279,
+                                        "imageId": 1,
+                                        "src": "https://i.guim.co.uk/img/media/c1d6430a2fe9de95fc6ac92b1a2d8df3dec2f643/0_0_5315_3192/master/5315.jpg?width=465&quality=85&dpr=1&s=none",
+                                        "width": 465
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i.guim.co.uk/img/media/c1d6430a2fe9de95fc6ac92b1a2d8df3dec2f643/0_0_5315_3192/5315.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTYucG5n&enable=upscale&s=a30caa23cba5da2d3b0234494ea52a2e",
+                                "timeToRead": 2,
+                                "givenUrl": "https://www.theguardian.com/technology/2016/jun/28/chatbot-ai-lawyer-donotpay-parking-tickets-london-new-york",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "52603859",
+                                        "name": "Samuel Gibbs",
+                                        "url": "https://www.theguardian.com/profile/samuel-gibbs"
+                                    }
+                                ],
+                                "datePublished": "2016-06-28 05:07:55",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "OTIzOTJfKl8xNDY5OTk1NTYx",
+                        "node": {
+                            "url": "http://www.joelonsoftware.com/articles/Unicode.html",
+                            "_createdAt": 1469727878,
+                            "_updatedAt": 1469995562,
+                            "id": "92392",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1469995561,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)",
+                                "itemId": "1506043209",
+                                "resolvedId": "1506043209",
+                                "resolvedUrl": "https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "joelonsoftware.com"
+                                },
+                                "excerpt": "Ever wonder about that mysterious Content-Type tag? You know, the one you’re supposed to put in HTML and you never quite know what it should be? Did you ever get an email from your friends in Bulgaria with the subject line “???? ?????? ??? ????”?",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 143,
+                                        "imageId": 1,
+                                        "src": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2003/10/ibm.jpg?resize=150%2C143&ssl=1",
+                                        "width": 150
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 146,
+                                        "imageId": 2,
+                                        "src": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2003/10/ascii.png?resize=274%2C146&ssl=1",
+                                        "width": 274
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 209,
+                                        "imageId": 3,
+                                        "src": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2003/10/oem.png?resize=271%2C209&ssl=1",
+                                        "width": 271
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 61,
+                                        "imageId": 4,
+                                        "src": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2003/10/hummers.jpg?resize=390%2C61&ssl=1",
+                                        "width": 390
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 63,
+                                        "imageId": 5,
+                                        "src": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2003/10/utf8.png?resize=400%2C63&ssl=1",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 225,
+                                        "imageId": 6,
+                                        "src": "https://i0.wp.com/www.joelonsoftware.com/wp-content/uploads/2003/10/rose.jpg?resize=300%2C225&ssl=1",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://149366100.v2.pressablecdn.com/wp-content/uploads/2003/10/oem.png",
+                                "timeToRead": 16,
+                                "givenUrl": "http://www.joelonsoftware.com/articles/Unicode.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "59991834",
+                                        "name": "Joel Spolsky",
+                                        "url": "https://www.joelonsoftware.com/author/joelonsoftware/"
+                                    }
+                                ],
+                                "datePublished": "2003-10-08 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2MzgyOTM0OV8qXzE0Njk5OTU1NjU=",
+                        "node": {
+                            "url": "http://www.nextplatform.com/2016/07/27/first-kill-servers/",
+                            "_createdAt": 1469769247,
+                            "_updatedAt": 1469995567,
+                            "id": "1363829349",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1469995565,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "First, Kill All The Servers",
+                                "itemId": "1363829349",
+                                "resolvedId": "1363829349",
+                                "resolvedUrl": "https://www.nextplatform.com/2016/07/27/first-kill-servers/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "nextplatform.com"
+                                },
+                                "excerpt": "Cannibalize your own products or someone else will do it for you, as the old adage goes.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/aws-lambda-logo-bw.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2016/07/aws-lambda-logo-bw.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "http://www.nextplatform.com/2016/07/27/first-kill-servers/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "80709507",
+                                        "name": "Timothy Prickett Morgan",
+                                        "url": "https://www.nextplatform.com/author/tpmn/"
+                                    }
+                                ],
+                                "datePublished": "2016-07-27 18:07:06",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2NzE1NTE1NF8qXzE0NzAyNjY4ODE=",
+                        "node": {
+                            "url": "http://avc.com/2016/07/the-golden-age-of-open-protocols/",
+                            "_createdAt": 1469993128,
+                            "_updatedAt": 1470267618,
+                            "id": "1367155154",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470266881,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Golden Age Of Open Protocols",
+                                "itemId": "1367155154",
+                                "resolvedId": "1367155154",
+                                "resolvedUrl": "https://avc.com/2016/07/the-golden-age-of-open-protocols/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "avc.com"
+                                },
+                                "excerpt": "Protocols are a geeky topic. It’s way more interesting to talk about applications. People will go on and on about why they like gmail or some other email application.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 4,
+                                "givenUrl": "http://avc.com/2016/07/the-golden-age-of-open-protocols/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "132627069",
+                                        "name": "Filecoin",
+                                        "url": "https://t.umblr.com/redirect?z=http%3A%2F%2Ffilecoin.io%2F&t=ODk1NWFiZWI5ZDVjOTg0NWM0ZDZiNjBiODQ2ODg4MmRlM2UzODI0OCxlYzhXWmY3NQ%3D%3D"
+                                    }
+                                ],
+                                "datePublished": "2016-07-31 07:15:33",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMzODQ2MzU0NF8qXzE0NzAzMTQ0MjM=",
+                        "node": {
+                            "url": "http://www.datadependence.com/2016/07/write-pythonic-code-like-a-seasoned-developer/",
+                            "_createdAt": 1469066137,
+                            "_updatedAt": 1470314865,
+                            "id": "1338463544",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470314423,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Write Pythonic Code Like a Seasoned Developer; The Course Everyone New to Python Desperately Needs to Take",
+                                "itemId": "1338463544",
+                                "resolvedId": "1338463544",
+                                "resolvedUrl": "https://datadependence.com/2016/07/write-pythonic-code-like-a-seasoned-developer/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "datadependence.com"
+                                },
+                                "excerpt": "Do you want to cut the time it takes for you to become proficient in Python in half? That was a rhetorical question, of course you do. However becoming skillful in python and being able to writing pythonic code to the point where it is art takes experience, and a lot of it.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 278,
+                                        "imageId": 1,
+                                        "src": "https://datadependence.com/wp-content/uploads/2016/07/pythonic-code-seasoned-developer-course-screenshot-300x196.png",
+                                        "width": 426
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 230,
+                                        "imageId": 2,
+                                        "src": "https://datadependence.com/wp-content/uploads/2016/07/Michael_Kennedy-300x300.jpg",
+                                        "width": 230
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://datadependence.com/wp-content/uploads/2016/07/pythonic-course-review.png",
+                                "timeToRead": 5,
+                                "givenUrl": "http://www.datadependence.com/2016/07/write-pythonic-code-like-a-seasoned-developer/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-07-02 03:34:17",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0MDE3MTk2MF8qXzE0NzAzMTUyODg=",
+                        "node": {
+                            "url": "https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4",
+                            "_createdAt": 1469066232,
+                            "_updatedAt": 1470316518,
+                            "id": "1340171960",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470315288,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Beyond Console Debugging Tricks",
+                                "itemId": "1340171960",
+                                "resolvedId": "1340171960",
+                                "resolvedUrl": "https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "I don’t consider myself a nitpicker. That’s only true, and it’s all fine and dandy… until I find a console.log() that someone forgot to remove from the JavaScript code.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Note from Editor: Daniel was very focused finding stuff to nitpick when Rita Marques Ferreira — editor of People Behind the Keyboard — snatched this picture. Thank you, Rita!",
+                                        "credit": "",
+                                        "height": 840,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/4080/1*YyeqQP4tRudi-F8pQHLUfw.jpeg",
+                                        "width": 2040
+                                    },
+                                    {
+                                        "caption": "In this example, I added a breakpoint to insert console.trace",
+                                        "credit": "",
+                                        "height": 590,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1840/0*0PSJ2CAWdIY3JX_X.",
+                                        "width": 920
+                                    },
+                                    {
+                                        "caption": "In the Console, wrap your object inside console.table",
+                                        "credit": "",
+                                        "height": 238,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/0*pDGjImnAaEAjClxH.",
+                                        "width": 760
+                                    },
+                                    {
+                                        "caption": "In this example, I added a test console.time",
+                                        "credit": "",
+                                        "height": 212,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1600/0*OfbQDW-6YBrdk0ON.",
+                                        "width": 761
+                                    },
+                                    {
+                                        "caption": "In the Console, just add the console.profile",
+                                        "credit": "",
+                                        "height": 559,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/2054/0*el2_MtPfLK2EgmcK.",
+                                        "width": 1027
+                                    },
+                                    {
+                                        "caption": "Once again, it’s all done in the Console, pretty much like the console.trace",
+                                        "credit": "",
+                                        "height": 408,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1600/0*1rrB7UMr3iTwKMKm.",
+                                        "width": 664
+                                    },
+                                    {
+                                        "caption": "In this example, I wrapped the buttonGroup function with the debug method in the Console. The code stopped when it was triggered — in this case, by calling the function in the Console.",
+                                        "credit": "",
+                                        "height": 831,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1876/0*9mQVh6O8Vn50EULH.",
+                                        "width": 938
+                                    },
+                                    {
+                                        "caption": "In this example, I wrapped RangeSliderObject in monitor",
+                                        "credit": "",
+                                        "height": 384,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/2332/1*9cF1mBWwJhCKtuFvXVsY_Q.png",
+                                        "width": 1166
+                                    },
+                                    {
+                                        "caption": "This selection is also accessible from the Console tab.",
+                                        "credit": "",
+                                        "height": 129,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1600/0*2tssjUn5KRFFYy1n.",
+                                        "width": 290
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*YyeqQP4tRudi-F8pQHLUfw.jpeg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67358362",
+                                        "name": "Daniel Reis",
+                                        "url": "https://medium.com/@daniel.reis"
+                                    }
+                                ],
+                                "datePublished": "2016-09-21 08:34:52",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMzNDQ1MjY1MV8qXzE0NzAzMTYzOTA=",
+                        "node": {
+                            "url": "https://theintercept.com/2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/",
+                            "_createdAt": 1469066225,
+                            "_updatedAt": 1470316518,
+                            "id": "1334452651",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470316390,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "He Was a Hacker for the NSA and He Was Willing to Talk. I Was Willing to Listen.",
+                                "itemId": "1334452651",
+                                "resolvedId": "1334452651",
+                                "resolvedUrl": "https://theintercept.com/2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Intercept"
+                                },
+                                "excerpt": "The sender was a hacker who had written a series of provocative memos at the National Security Agency.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 440,
+                                        "imageId": 1,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/06/hacker_theintercept-440x440.jpg?auto=compress%2Cformat&q=90&fit=crop&w=440&h=440",
+                                        "width": 440
+                                    },
+                                    {
+                                        "caption": "Screenshot from NSA document",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/06/Hacker-Screenshot12-.png?auto=compress%2Cformat&q=90&w=1024&h=212",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://theintercept.imgix.net/wp-uploads/sites/1/2016/06/hacker_theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+                                "timeToRead": 19,
+                                "givenUrl": "https://theintercept.com/2016/06/28/he-was-a-hacker-for-the-nsa-and-he-was-willing-to-talk-i-was-willing-to-listen/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "61690046",
+                                        "name": "Peter Maass",
+                                        "url": "https://theintercept.com/staff/peter-maass/"
+                                    }
+                                ],
+                                "datePublished": "2016-06-28 02:46:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM1MTU0MDg4Ml8qXzE0NzAzNjY5MjU=",
+                        "node": {
+                            "url": "http://lifehacker.com/the-psychological-benefits-of-writing-regularly-1783693547",
+                            "_createdAt": 1469066103,
+                            "_updatedAt": 1470367203,
+                            "id": "1351540882",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470366925,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Psychological Benefits of Writing Regularly",
+                                "itemId": "1351540882",
+                                "resolvedId": "1351540882",
+                                "resolvedUrl": "https://lifehacker.com/the-psychological-benefits-of-writing-regularly-1783693547",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Lifehacker"
+                                },
+                                "excerpt": "When you attempt to envision a writer, I imagine many of you see a quirky recluse, hunched over a desk in some cabin, crumpled paper strewn about as they obsessively work on the next great American novel. But writing is so much more. This post originally appeared on the Help Scout blog.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://x.kinja-static.com/assets/images/logos/placeholders/lifehacker.png",
+                                "timeToRead": 5,
+                                "givenUrl": "http://lifehacker.com/the-psychological-benefits-of-writing-regularly-1783693547",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1554168",
+                                        "name": "Gregory Ciotti",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-07-15 10:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMzNDI1OTM5NF8qXzE0NzAzNjcyMDI=",
+                        "node": {
+                            "url": "http://www.theatlantic.com/business/archive/2016/06/would-a-world-without-work-be-so-bad/488711/",
+                            "_createdAt": 1469066473,
+                            "_updatedAt": 1470367203,
+                            "id": "1334259394",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470367202,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Would a Work-Free World Be So Bad?",
+                                "itemId": "1334259394",
+                                "resolvedId": "1334259394",
+                                "resolvedUrl": "https://www.theatlantic.com/business/archive/2016/06/would-a-world-without-work-be-so-bad/488711/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Fears of civilization-wide idleness are based too much on the downsides of being unemployed in a society premised on the concept of employment.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "A 1567 painting by Pieter Bruegel the Elder depicts a mythical land of plenty, where people grow idle in the absence of work. ",
+                                        "credit": "Wikimedia",
+                                        "height": 540,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/g0XhO7opaFHIgDlHekGe_1YY5NA=/0x140:3200x1940/960x540/media/img/mt/2016/06/Pieter_Bruegel_d._A._037/original.jpg",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-crossword-promo-71e9c22fbca07267d82afb8cca81ec00.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 4,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/ygz-sAugfL2sXUt6T8KNNkA9gF8=/42x408:3105x2003/1200x625/media/img/mt/2016/06/Pieter_Bruegel_d._A._037/original.jpg",
+                                "timeToRead": 9,
+                                "givenUrl": "http://www.theatlantic.com/business/archive/2016/06/would-a-world-without-work-be-so-bad/488711/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "61197881",
+                                        "name": "Ilana E. Strauss",
+                                        "url": "https://www.theatlantic.com/author/ilana-e-strauss/"
+                                    }
+                                ],
+                                "datePublished": "2016-06-28 06:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0ODY2NjcwMF8qXzE0NzAzNjc0ODY=",
+                        "node": {
+                            "url": "http://www.theatlantic.com/politics/archive/2016/07/the-near-certainty-of-anti-police-violence/490541/",
+                            "_createdAt": 1469066280,
+                            "_updatedAt": 1470393995,
+                            "id": "1348666700",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470367486,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Near Certainty of Anti-Police Violence",
+                                "itemId": "1348666700",
+                                "resolvedId": "1348666700",
+                                "resolvedUrl": "https://www.theatlantic.com/politics/archive/2016/07/the-near-certainty-of-anti-police-violence/490541/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "By ignoring illegitimate policing, America has also failed to address the danger this illegitimacy poses to those who must do the policing. Last month, the Obama administration accused Donald Trump of undercutting American legitimacy in the eyes of the world.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Shannon Stapleton / Reuters",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/5eCovcaCFZBNt67uiCd7LVucUyw=/0x184:2256x1453/960x540/media/img/mt/2016/07/RTSHAI9/original.jpg",
+                                        "width": 960
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 4,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/UTaJH23_BUNHGW7v7IVcH8oPrIM=/0x0:2255x1174/1200x625/media/img/mt/2016/07/RTSHAI9/original.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://www.theatlantic.com/politics/archive/2016/07/the-near-certainty-of-anti-police-violence/490541/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "39586612",
+                                        "name": "Ta-Nehisi Coates",
+                                        "url": "https://www.theatlantic.com/author/ta-nehisi-coates/"
+                                    }
+                                ],
+                                "datePublished": "2016-07-12 16:39:08",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2MTE1MTgwMl8qXzE0NzA0MDAzNjU=",
+                        "node": {
+                            "url": "http://www.vox.com/2016/7/25/12256510/republican-party-trump-avik-roy",
+                            "_createdAt": 1469456935,
+                            "_updatedAt": 1470403824,
+                            "id": "1361151802",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470400365,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Republican intellectual explains why the Republican Party is going to die",
+                                "itemId": "1361151802",
+                                "resolvedId": "1361151802",
+                                "resolvedUrl": "https://www.vox.com/2016/7/25/12256510/republican-party-trump-avik-roy",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Vox"
+                                },
+                                "excerpt": "CLEVELAND — Avik Roy is a Republican’s Republican. A health care wonk and editor at Forbes, he has worked for three Republican presidential hopefuls — Mitt Romney, Rick Perry, and Marco Rubio. Much of his adult life has been dedicated to advancing the Republican Party and conservative ideals.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "(Alex Wong/Getty Images)",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/WOZM99AyVPi_CIytimSfloODcyI=/0x0:2598x1710/1200x800/filters:focal(1092x648:1506x1062)/cdn.vox-cdn.com/uploads/chorus_image/image/50183353/578666042.0.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/jYRdoqZZv2XoAM29_l3X24jyoWE=/0x0:5284x3661/1200x0/filters:focal(0x0:5284x3661):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6830081/GettyImages-522879605.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/2e4b-LsEdsO2DwfgWiG-bE8-bww=/0x0:4288x2848/1200x0/filters:focal(0x0:4288x2848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6830115/GettyImages-481532587.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://cdn.vox-cdn.com/thumbor/yHKw06hE9iMon_smmF1dEBzACMY=/0x0:4928x3280/1200x0/filters:focal(0x0:4928x3280):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6830351/GettyImages-578128934.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.vox-cdn.com/thumbor/7xxiWgMmp2Zf9ChZlpUZGFzIWXY=/0x125:2598x1586/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/50183353/578666042.0.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "http://www.vox.com/2016/7/25/12256510/republican-party-trump-avik-roy",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "67771474",
+                                        "name": "Zack Beauchamp",
+                                        "url": "https://www.vox.com/authors/zack-beauchamp"
+                                    }
+                                ],
+                                "datePublished": "2016-07-25 07:50:03",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0MDE1NTIyOV8qXzE0NzA0MDA0NDI=",
+                        "node": {
+                            "url": "http://www.datadependence.com/2016/04/scientific-python-matplotlib/",
+                            "_createdAt": 1469067749,
+                            "_updatedAt": 1470403824,
+                            "id": "1340155229",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470400442,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "An Introduction to Scientific Python – Matplotlib",
+                                "itemId": "1340155229",
+                                "resolvedId": "1340155229",
+                                "resolvedUrl": "https://datadependence.com/2016/04/scientific-python-matplotlib/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "datadependence.com"
+                                },
+                                "excerpt": "One of the most popular uses for Python, especially in recent years is data processing, analysis and visualisation.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 1,
+                                        "src": "https://2.bp.blogspot.com/-VS9khXhPaQ0/Vx8bh6VyJmI/AAAAAAAAC3M/JU7-X7SFYiY7Y4v-SlJQGNRolStNlDfGwCLcB/s1600/basic_plotting.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 2,
+                                        "src": "https://2.bp.blogspot.com/-Dxcwog-mOwY/Vx8f-srDOnI/AAAAAAAAC3k/Fc0bV86B_LIPayQ-liK8vyWBdHnOmYAygCLcB/s1600/plotting_two_datasets.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 3,
+                                        "src": "https://2.bp.blogspot.com/-SyYPwSwE8Wo/Vx8gGT4CFVI/AAAAAAAAC3o/QlbAw5rb2SgKkN6rDKHiuS1YSfYi9LMXwCLcB/s1600/line_customisation.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 4,
+                                        "src": "https://3.bp.blogspot.com/-QJ25uc76pkI/Vx8gYV4GXDI/AAAAAAAAC3s/3UZLSVBigYwkrrojLqeQU1At9xI3K2FKQCLcB/s1600/subplot.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 5,
+                                        "src": "https://1.bp.blogspot.com/-P_lnwSgm0SE/Vx8giEY0AGI/AAAAAAAAC30/cPg3-56N04s-VZh23EXy5cPlAFWKTcV7ACLcB/s1600/scatter_plot.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 6,
+                                        "src": "https://1.bp.blogspot.com/-H5K-UlMP0M8/Vx8gvBZc1fI/AAAAAAAAC38/0kszxuM08FII1yfAAOdRn4ZtXbTaCDhZgCLcB/s1600/colormap_scatter.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 7,
+                                        "src": "https://1.bp.blogspot.com/-MOV5V-3EMBI/Vx8g6clgBDI/AAAAAAAAC4A/42F3uzL36REn1-14STovVpcZBxw_Nz4cQCLcB/s1600/histogram.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 8,
+                                        "src": "https://1.bp.blogspot.com/--zjIQwFCxMg/Vx8hDfO0YTI/AAAAAAAAC4I/ycHxd42hGlMHfCRumwF1DaozQYRJep56ACLcB/s1600/labeling.png",
+                                        "width": 400
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://datadependence.com/wp-content/uploads/2016/04/scientific-python-matplotlib.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "http://www.datadependence.com/2016/04/scientific-python-matplotlib/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-04-26 19:43:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMzNDI0NjUwN18qXzE0NzA0MDA0NjQ=",
+                        "node": {
+                            "url": "http://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/",
+                            "_createdAt": 1469066786,
+                            "_updatedAt": 1470403824,
+                            "id": "1334246507",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470400464,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Writing good code: how to reduce the cognitive load of your code",
+                                "itemId": "1334246507",
+                                "resolvedId": "1334246507",
+                                "resolvedUrl": "https://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "chrismm.com"
+                                },
+                                "excerpt": "Low bug count, good performance, easy modification. Good code is high-impact, and is perhaps the main reason behind the existence of the proverbial 10x developer. And yet, despite it’s importance, it eludes new developers.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Don’t personalize your work in ways that would require explanations.",
+                                        "credit": "",
+                                        "height": 225,
+                                        "imageId": 1,
+                                        "src": "https://imgur.com/lJxlWBW.png",
+                                        "width": 724
+                                    },
+                                    {
+                                        "caption": "I like taking advantage of variables to compartmentalize logic.",
+                                        "credit": "",
+                                        "height": 259,
+                                        "imageId": 2,
+                                        "src": "https://imgur.com/zXwGnO4.png",
+                                        "width": 744
+                                    },
+                                    {
+                                        "caption": "Using ServiceLocator is an example of design that leads to poor integration with most IDEs.",
+                                        "credit": "",
+                                        "height": 194,
+                                        "imageId": 3,
+                                        "src": "https://imgur.com/hyNFKuw.png",
+                                        "width": 720
+                                    },
+                                    {
+                                        "caption": "Actual code from a makefile I wrote. Junior devs can’t handle overuse of new tech.",
+                                        "credit": "",
+                                        "height": 293,
+                                        "imageId": 4,
+                                        "src": "https://imgur.com/1rkblTg.png",
+                                        "width": 747
+                                    },
+                                    {
+                                        "caption": "Fluent interfaces have been abused often in recent times.",
+                                        "credit": "",
+                                        "height": 228,
+                                        "imageId": 5,
+                                        "src": "https://imgur.com/yNBTr4A.png",
+                                        "width": 697
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://chrismm.com/wp-content/uploads/2016/03/solidtips.png",
+                                "timeToRead": 6,
+                                "givenUrl": "http://chrismm.com/blog/writing-good-code-reduce-the-cognitive-load/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "53429668",
+                                        "name": "Christian Maioli Mackeprang",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2017-09-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTI4MzI0MzQ5MF8qXzE0NzA0MzQ4NzU=",
+                        "node": {
+                            "url": "https://www.washingtonpost.com/news/wonk/wp/2016/05/10/the-incredible-impact-of-rich-parents-fighting-to-live-by-the-very-best-schools/",
+                            "_createdAt": 1466661786,
+                            "_updatedAt": 1470435373,
+                            "id": "1283243490",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470434875,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "The one thing rich parents do for their kids that makes all the difference",
+                                "itemId": "1283243490",
+                                "resolvedId": "1283243490",
+                                "resolvedUrl": "https://www.washingtonpost.com/news/wonk/wp/2016/05/10/the-incredible-impact-of-rich-parents-fighting-to-live-by-the-very-best-schools/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "Rich parents are making decisions that have sweeping consequences for America.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/wonkblog/files/2016/05/0509_IncomeSegregation_SS.jpg&w=1440",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.washingtonpost.com/news/wonk/wp/2016/05/10/the-incredible-impact-of-rich-parents-fighting-to-live-by-the-very-best-schools/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "59461364",
+                                        "name": "Emily Badger",
+                                        "url": "https://www.washingtonpost.com/people/emily-badger/"
+                                    }
+                                ],
+                                "datePublished": "2016-05-10 06:30:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMyNDQ3NzcxM18qXzE0NzA0MzUzMDY=",
+                        "node": {
+                            "url": "https://25iq.com/2016/06/18/a-dozen-things-ive-learned-from-elon-musk-about-business-and-investing/",
+                            "_createdAt": 1466301900,
+                            "_updatedAt": 1470435373,
+                            "id": "1324477713",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470435306,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Dozen Things I’ve Learned from Elon Musk About Business and Investing",
+                                "itemId": "1324477713",
+                                "resolvedId": "1324477713",
+                                "resolvedUrl": "https://25iq.com/2016/06/18/a-dozen-things-ive-learned-from-elon-musk-about-business-and-investing/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "25iq.com"
+                                },
+                                "excerpt": "Elon Musk is a classic missionary founder who is more interested in changing the world and creating enduring businesses than just the financial rewards that may flow to him from the product or service.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 344,
+                                        "imageId": 1,
+                                        "src": "https://i0.wp.com/25iq.com/wp-content/uploads/2016/06/bog-bog.png?resize=676%2C344&ssl=1",
+                                        "width": 676
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://25iq.com/wp-content/uploads/2016/06/bog-bog.png",
+                                "timeToRead": 22,
+                                "givenUrl": "https://25iq.com/2016/06/18/a-dozen-things-ive-learned-from-elon-musk-about-business-and-investing/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-06-18 10:32:57",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0MDM1MTc4OF8qXzE0NzA0MzcwOTE=",
+                        "node": {
+                            "url": "https://techcrunch.com/2016/07/04/youre-doing-devops-wrong/",
+                            "_createdAt": 1469066676,
+                            "_updatedAt": 1470437093,
+                            "id": "1340351788",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1470437091,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "You’re doing DevOps wrong",
+                                "itemId": "1340351788",
+                                "resolvedId": "1340351788",
+                                "resolvedUrl": "https://techcrunch.com/2016/07/04/youre-doing-devops-wrong/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "TechCrunch"
+                                },
+                                "excerpt": "Gone are the days of the quarterly product release cycle. To meet the evolving expectations of today’s end user, software must continuously adapt. As a result, hyper-automation of the software development process has become the thing on which companies, regardless of industry, compete.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-528840251.jpg?w=711",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-528840251.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://techcrunch.com/2016/07/04/youre-doing-devops-wrong/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152426253",
+                                        "name": "Andy Vitus",
+                                        "url": "https://techcrunch.com/author/"
+                                    }
+                                ],
+                                "datePublished": "2016-07-04 10:00:18",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MzgwNjg4OTZfKl8xNDcxMDEwNzQ4",
+                        "node": {
+                            "url": "http://zenhabits.net/how-to-accept-criticism-with-grace-and-appreciation/",
+                            "_createdAt": 1470333495,
+                            "_updatedAt": 1471010749,
+                            "id": "38068896",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471010748,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How to Accept Criticism with Grace and Appreciation",
+                                "itemId": "38068896",
+                                "resolvedId": "38068896",
+                                "resolvedUrl": "https://zenhabits.net/how-to-accept-criticism-with-grace-and-appreciation/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Zen Habits"
+                                },
+                                "excerpt": "Every day, I get emails and comments that are amazingly positive and encouraging, and in truth these messages are the very thing that sustains my blogging. However, I also get negative comments now and then: criticism of my writing, and not nice criticism either.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://zenhabits.net/wp-content/uploads/2020/08/clear.jpg",
+                                "timeToRead": 6,
+                                "givenUrl": "http://zenhabits.net/how-to-accept-criticism-with-grace-and-appreciation/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2477623",
+                                        "name": "Leo Babauta",
+                                        "url": "http://leobabauta.com"
+                                    }
+                                ],
+                                "datePublished": "2007-09-27 04:00:59",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM0OTI2MTU5M18qXzE0NzEzODEzNDQ=",
+                        "node": {
+                            "url": "https://www.newscientist.com/article/mg23130820-200-collapse-has-quantum-theorys-greatest-mystery-been-solved/#link_time=1468576838",
+                            "_createdAt": 1471381214,
+                            "_updatedAt": 1471382650,
+                            "id": "1349261593",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471381344,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Collapse: Has quantum theory's greatest mystery been solved?",
+                                "itemId": "1349261593",
+                                "resolvedId": "1349261593",
+                                "resolvedUrl": "https://www.newscientist.com/article/mg23130820-200-collapse-has-quantum-theorys-greatest-mystery-been-solved/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New Scientist"
+                                },
+                                "excerpt": "WHERE, when you aren’t looking at it, is a subatomic particle? A quantum physicist would probably answer: sort of all over the place. An unobserved particle is a wisp of reality, a shimmer of existence – there isn’t a good metaphor for it, because it is vague both by definition and by nature.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://images.newscientist.com/wp-content/uploads/2016/07/13180000/universalcollapse_main.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.newscientist.com/article/mg23130820-200-collapse-has-quantum-theorys-greatest-mystery-been-solved/#link_time=1468576838",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "121048978",
+                                        "name": "Jon Cartwright",
+                                        "url": "https://www.newscientist.com/author/jon-cartwright/"
+                                    }
+                                ],
+                                "datePublished": "2016-07-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM3NDkyMTUxMF8qXzE0NzE2NDI4Nzg=",
+                        "node": {
+                            "url": "https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256",
+                            "_createdAt": 1471527679,
+                            "_updatedAt": 1471643149,
+                            "id": "1374921510",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471642878,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Is this my interface or yours?",
+                                "itemId": "1374921510",
+                                "resolvedId": "1374921510",
+                                "resolvedUrl": "https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "Remember back in the day when Windows had a My Computer icon? It was a glorious little icon that represented all the stuff you had on your computer—all your programs, all your work, all the digital pieces of you.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 118,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/1600/1*FSoH96S_iF4tHvU9sr-VSw.png",
+                                        "width": 500
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 150,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/max/1600/1*7Pe_Es0h36CSnm8mAwiyKg.png",
+                                        "width": 401
+                                    },
+                                    {
+                                        "caption": "YouTube and Google Drive call it “my” stuff. Spotify and Amazon call it “your” stuff.",
+                                        "credit": "",
+                                        "height": 337,
+                                        "imageId": 3,
+                                        "src": "https://miro.medium.com/max/1600/1*6RGScro3MQWfFOKwMcWdfQ.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Mine. All mine.",
+                                        "credit": "",
+                                        "height": 166,
+                                        "imageId": 4,
+                                        "src": "https://miro.medium.com/max/1600/1*CBuJNMWTdjmsAd52_ak-yw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Hey Siri, can you change my baby’s dirty diaper?",
+                                        "credit": "",
+                                        "height": 332,
+                                        "imageId": 5,
+                                        "src": "https://miro.medium.com/max/1600/1*q38gRqcD-97pTrk6La77Jg.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "No mention of “my” or “your” here.",
+                                        "credit": "",
+                                        "height": 457,
+                                        "imageId": 6,
+                                        "src": "https://miro.medium.com/max/1600/1*s-QfnkF03KVaWY4ueufJSw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "Just using “Channel” won’t work in this context.",
+                                        "credit": "",
+                                        "height": 380,
+                                        "imageId": 7,
+                                        "src": "https://miro.medium.com/max/1600/1*8XoJD0AI-3RhRpaOpDnWRw.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 443,
+                                        "imageId": 8,
+                                        "src": "https://miro.medium.com/max/1600/1*vqy--G3cI1dGtSis85bB_Q.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "From Chase Bank’s homepage",
+                                        "credit": "",
+                                        "height": 295,
+                                        "imageId": 9,
+                                        "src": "https://miro.medium.com/max/1600/1*A6IzDFrHX-4OC6mEctAxpg.png",
+                                        "width": 700
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 237,
+                                        "imageId": 10,
+                                        "src": "https://miro.medium.com/max/1600/1*48RiOAD9q4S1LX6Vo1P7Ig.jpeg",
+                                        "width": 425
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*6RGScro3MQWfFOKwMcWdfQ.png",
+                                "timeToRead": 5,
+                                "givenUrl": "https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "53754760",
+                                        "name": "John Saito",
+                                        "url": "https://medium.com/@jsaito"
+                                    }
+                                ],
+                                "datePublished": "2016-08-08 07:51:42",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2NTYzMTE4N18qXzE0NzE2NDI5NDE=",
+                        "node": {
+                            "url": "http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases",
+                            "_createdAt": 1471527631,
+                            "_updatedAt": 1471643149,
+                            "id": "1365631187",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471642941,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "On Uber’s Choice of Databases",
+                                "itemId": "1365631187",
+                                "resolvedId": "1365631187",
+                                "resolvedUrl": "https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "use-the-index-luke.com"
+                                },
+                                "excerpt": "A few days ago Uber published the article “Why Uber Engineering Switched from Postgres to MySQL”. I didn’t read the article right away because my inner nerd told me to do some home improvements instead.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 168,
+                                        "imageId": 1,
+                                        "src": "https://use-the-index-luke.com/static/9783950307825_w220.d9ybRqoS.jpg",
+                                        "width": 110
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://use-the-index-luke.com/static/util_squirrel.og.fMeqdSQq.png",
+                                "timeToRead": 12,
+                                "givenUrl": "http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-07-29 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM3Mzc5MjIyOF8qXzE0NzE2NDMxNDc=",
+                        "node": {
+                            "url": "http://www.nytimes.com/2016/08/08/us/politics/think-tanks-research-and-corporate-lobbying.html",
+                            "_createdAt": 1471527673,
+                            "_updatedAt": 1471643149,
+                            "id": "1373792228",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471643147,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How Think Tanks Amplify Corporate America’s Influence",
+                                "itemId": "1373792228",
+                                "resolvedId": "1373792228",
+                                "resolvedUrl": "https://www.nytimes.com/2016/08/08/us/politics/think-tanks-research-and-corporate-lobbying.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "WASHINGTON — As Lennar Corporation, one of the nation’s largest home builders, pushed ahead with an $8 billion plan to revitalize a barren swath of San Francisco, it found a trusted voice to vouch for its work: the Brookings Institution, the most prestigious think tank in the world.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2016/07/12/us/00thinktank-web6/00thinktank-web6-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://static01.nyt.com/images/2016/07/24/us/24thinktank-brooking-doc/24thinktank-brooking-doc-videoLarge.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://static01.nyt.com/images/2016/07/24/us/24thinktank-ac-doc/24thinktank-ac-doc-videoLarge.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://static01.nyt.com/images/2016/07/24/us/politics/24thinktank-csis/24thinktank-csis-videoLarge.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://static01.nyt.com/images/2016/07/24/us/politics/24thinktank-hudson-doc/24thinktank-hudson-doc-thumbLarge.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2016/07/12/us/00thinktank-web6/00thinktank-web6-facebookJumbo.jpg?year=2016&h=549&w=1050&s=92c0cb449e44b1fc9935e64c0d7ac9cb38c749a7f0e09c9f8ea576a728745350&k=ZQJBKqZ0VN",
+                                "timeToRead": 22,
+                                "givenUrl": "http://www.nytimes.com/2016/08/08/us/politics/think-tanks-research-and-corporate-lobbying.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "1407860",
+                                        "name": "Brooke Williams",
+                                        "url": ""
+                                    },
+                                    {
+                                        "id": "54324883",
+                                        "name": "ERIC LIPTON",
+                                        "url": "http://www.nytimes.com/by/eric-lipton"
+                                    }
+                                ],
+                                "datePublished": "2016-08-07 06:12:40",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM3NzM4ODMyN18qXzE0NzE4NzI0MzA=",
+                        "node": {
+                            "url": "http://ben-evans.com/benedictevans/2016/4/28/winning-and-losing",
+                            "_createdAt": 1471871625,
+                            "_updatedAt": 1471872671,
+                            "id": "1377388327",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471872430,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "In praise of failure",
+                                "itemId": "1377388327",
+                                "resolvedId": "1377388327",
+                                "resolvedUrl": "https://www.ben-evans.com/benedictevans/2016/4/28/winning-and-losing",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Benedict Evans"
+                                },
+                                "excerpt": "In most jobs and most industries, if you do something that doesn't work out, that's a bad thing, and you might get fired. If you write a cover story for a newspaper that turns out to be untrue, you have a problem. If you ship a product that breaks, you have a problem.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.squarespace-cdn.com/content/v1/50363cf324ac8e905e7df861/1461903414598-4AVDMC4X02RIBK64JIP9/image-asset.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://images.squarespace-cdn.com/content/v1/50363cf324ac8e905e7df861/1461903461604-YRDMSRIQQCF5RBZY2G7H/image-asset.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://images.squarespace-cdn.com/content/v1/50363cf324ac8e905e7df861/1461905410490-DGHEV6BJ0K642KJ1SH8G/image-asset.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/5722e034044262921a0fabb9/1461903423332/?format=1500w",
+                                "timeToRead": 5,
+                                "givenUrl": "http://ben-evans.com/benedictevans/2016/4/28/winning-and-losing",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "665200",
+                                        "name": "ITSELF",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-08-10 16:41:33",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM4MTkyNzY1NF8qXzE0NzE4NzI1NTE=",
+                        "node": {
+                            "url": "https://medium.com/@subes01/this-is-your-life-in-silicon-valley-933091235095#.9g2mj3f0n",
+                            "_createdAt": 1471871679,
+                            "_updatedAt": 1471872671,
+                            "id": "1381927654",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471872551,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "This Is Your Life in Silicon Valley",
+                                "itemId": "1404930701",
+                                "resolvedId": "1404930701",
+                                "resolvedUrl": "https://thebolditalic.com/this-is-your-life-in-silicon-valley-933091235095",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "thebolditalic.com"
+                                },
+                                "excerpt": "You wake up at 6:30 a.m. after an Ambien-induced sleep. It’s Friday. Last night at the Rosewood was pretty intense — you had to check out Madera and see if there is any truth to the long-running Silicon Valley rumors.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*epwf0km6r2bkSeuPpH0JDA.jpeg",
+                                "timeToRead": 11,
+                                "givenUrl": "https://medium.com/@subes01/this-is-your-life-in-silicon-valley-933091235095#.9g2mj3f0n",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "10486711",
+                                        "name": "Sunil Rajaraman",
+                                        "url": "https://medium.com/@subes01"
+                                    }
+                                ],
+                                "datePublished": "2020-04-13 16:58:48",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2MTMzNjY3NV8qXzE0NzE5MTk0MTM=",
+                        "node": {
+                            "url": "https://hbr.org/2016/07/using-design-thinking-to-embed-learning-in-our-jobs",
+                            "_createdAt": 1471871739,
+                            "_updatedAt": 1471953222,
+                            "id": "1361336675",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471919413,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Using Design Thinking to Embed Learning in Our Jobs",
+                                "itemId": "1361336675",
+                                "resolvedId": "1361336675",
+                                "resolvedUrl": "https://hbr.org/2016/07/using-design-thinking-to-embed-learning-in-our-jobs",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Harvard Business Review"
+                                },
+                                "excerpt": "Since we now expect learning to be as simple and compelling as watching YouTube, hundreds of video-based content providers and MOOCs offer free bite-sized content for us to consume on our phones while sitting in the coffee shop or standing in the subway.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://hbr.org/resources/images/article_assets/2016/07/jul16-25-450751031.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hbr.org/resources/images/article_assets/2016/07/jul16-25-450751031.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://hbr.org/2016/07/using-design-thinking-to-embed-learning-in-our-jobs",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "100632312",
+                                        "name": "Josh Bersin",
+                                        "url": "https://hbr.org/search?term=josh%20bersin"
+                                    }
+                                ],
+                                "datePublished": "2016-07-25 11:00:31",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM2Nzk0OTg0Nl8qXzE0NzE5MjAxODk=",
+                        "node": {
+                            "url": "https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/",
+                            "_createdAt": 1471871668,
+                            "_updatedAt": 1471953222,
+                            "id": "1367949846",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1471920189,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Google’s QUIC protocol: moving the web from TCP to UDP",
+                                "itemId": "1367949846",
+                                "resolvedId": "1367949846",
+                                "resolvedUrl": "https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ma.ttias.be"
+                                },
+                                "excerpt": "The QUIC protocol (Quick UDP Internet Connections) is an entirely new protocol for the web developed on top of UDP instead of TCP. Some are even (jokingly) calling it TCP/2.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 388,
+                                        "imageId": 1,
+                                        "src": "https://ma.ttias.be/wp-content/uploads/2016/07/tcp_3_way_handshake_with_tls.png",
+                                        "width": 388
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "A QUIC update on Google’s experimental transport (2015)",
+                                        "height": 195,
+                                        "imageId": 2,
+                                        "src": "https://ma.ttias.be/wp-content/uploads/2016/07/quic_connection_statistics-300x195.png",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://ma.ttias.be//wp-content/uploads/2016/07/tcpdump_header_flags.png",
+                                "timeToRead": 12,
+                                "givenUrl": "https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "2481845",
+                                        "name": "Facebook",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-07-30 08:52:12",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5MjA3MDczN18qXzE0NzI1MjE3NDI=",
+                        "node": {
+                            "url": "http://okigiveup.net/arguments-against-json-driven-development/",
+                            "_createdAt": 1472155262,
+                            "_updatedAt": 1472524565,
+                            "id": "1392070737",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1472521742,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Arguments against JSON-driven development",
+                                "itemId": "1392070737",
+                                "resolvedId": "1392070737",
+                                "resolvedUrl": "http://okigiveup.net/arguments-against-json-driven-development/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "okigiveup.net"
+                                },
+                                "excerpt": "I don't have to explain how popular JSON is. There are very few projects that don't need to work with JSON, even when they are not related to network programming. The ubiquity of JSON is causing some developers to rely on it a bit too much, however.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 4,
+                                "givenUrl": "http://okigiveup.net/arguments-against-json-driven-development/",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2016-08-23 02:38:36",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjgzNTYxNzcyXypfMTQ3MjUyMjE3Mw==",
+                        "node": {
+                            "url": "http://www.theatlantic.com/politics/archive/2014/08/why-arent-reformicons-pushing-a-guaranteed-basic-income/375600/",
+                            "_createdAt": 1472076498,
+                            "_updatedAt": 1472524565,
+                            "id": "683561772",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1472522173,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Conservative Case for a Guaranteed Basic Income",
+                                "itemId": "683561772",
+                                "resolvedId": "683561772",
+                                "resolvedUrl": "https://www.theatlantic.com/politics/archive/2014/08/why-arent-reformicons-pushing-a-guaranteed-basic-income/375600/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Creating a wage floor is an effective way to fight poverty—and it would reduce government spending and intrusion. Last week, my colleague David Frum argued that conservative welfare reformers need to focus on simplification.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Swiss backers of a minimum income spread out coins in Bern. ",
+                                        "credit": "Denis Balibouse/Reuters",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/kfKLbDvUfzU-dFb5FeOFdiRBVUM=/0x94:3500x2063/960x540/media/img/mt/2014/08/RTR3FL57/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/9BSCTcU4OehuImG2H7o1rlez2q4=/0x300:3500x2123/960x500/media/img/mt/2014/08/RTR3FL57/original.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://www.theatlantic.com/politics/archive/2014/08/why-arent-reformicons-pushing-a-guaranteed-basic-income/375600/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "92467070",
+                                        "name": "Noah J. Gordon",
+                                        "url": "https://www.theatlantic.com/author/noah-gordon/"
+                                    }
+                                ],
+                                "datePublished": "2014-08-06 06:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5NTEwMjE0OV8qXzE0NzI1MjIyMDc=",
+                        "node": {
+                            "url": "http://waitbutwhy.com/table/designer-babies",
+                            "_createdAt": 1472404722,
+                            "_updatedAt": 1472524565,
+                            "id": "1395102149",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1472522207,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Are designer babies a good thing?",
+                                "itemId": "1395102149",
+                                "resolvedId": "1395102149",
+                                "resolvedUrl": "https://waitbutwhy.com/table/designer-babies",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Wait But Why"
+                                },
+                                "excerpt": "Biotech advances are happening very quickly—which has exciting implications for the future of human health. But some people are also worried.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://mk0waitbutwhy9c3hjku.kinstacdn.com/wp-content/uploads/2016/08/dt63_biotech_fb.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://mk0waitbutwhy9c3hjku.kinstacdn.com/wp-content/uploads/2016/08/dt63_biotech_fb.png",
+                                "timeToRead": null,
+                                "givenUrl": "http://waitbutwhy.com/table/designer-babies",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "13563762",
+                                        "name": "Tim Urban",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2021-04-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTMxODY1NTgyMl8qXzE0NzI1NjYyNzc=",
+                        "node": {
+                            "url": "http://www.newyorker.com/magazine/2016/06/20/why-dont-we-have-universal-basic-income",
+                            "_createdAt": 1472076503,
+                            "_updatedAt": 1472587529,
+                            "id": "1318655822",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1472566277,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Case for Free Money",
+                                "itemId": "1318655822",
+                                "resolvedId": "1318655822",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2016/06/20/why-dont-we-have-universal-basic-income",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "In the mid-nineteen-seventies, the Canadian province of Manitoba ran an unusual experiment: it started just handing out money to some of its citizens. The town of Dauphin, for instance, sent checks to thousands of residents every month, in order to guarantee that all of them received a basic income.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/59097b731c7a8e33fb3901f8/1:1/w_270%2Cc_limit/surowiecki-james.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Illustration by Christoph Niemann",
+                                        "credit": "Illustration  Christoph Niemann",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/photos/59097770ebe912338a377df4/master/w_2560%2Cc_limit/160620_r28303.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.f1893bac6dafe13d6d5bad671a5bee2345efa44d.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.6e34c81346bc43475ffd572e6c2eb3e125927148.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/590966961c7a8e33fb38d634/4:3/w_480%2Cc_limit/150216_r26128.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/5909773ec14b3c606c108bda/4:3/w_480%2Cc_limit/Gimein-TheSwissVoteonGuaranteedIncome.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.f915b516b6ca9c0c2a9bdf9b749519365b2b2e4a.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/59097770ebe912338a377df4/16:9/w_1280,c_limit/160620_r28303.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://www.newyorker.com/magazine/2016/06/20/why-dont-we-have-universal-basic-income",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "74570526",
+                                        "name": "James Surowiecki",
+                                        "url": "https://www.newyorker.com/contributors/james-surowiecki"
+                                    }
+                                ],
+                                "datePublished": "2016-06-13 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5MjM3NTYwNl8qXzE0NzI1NjYyODk=",
+                        "node": {
+                            "url": "http://boto3.readthedocs.io/en/latest/reference/services/kinesis.html#Kinesis.Client.put_records",
+                            "_createdAt": 1472143909,
+                            "_updatedAt": 1472587529,
+                            "id": "1392375606",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1472566289,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Kinesis",
+                                "itemId": "2634027211",
+                                "resolvedId": "2634027211",
+                                "resolvedUrl": "https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/kinesis.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "boto3.amazonaws.com"
+                                },
+                                "excerpt": "Amazon Kinesis Data Streams is a managed service that scales elastically for real-time processing of streaming big data. Paginators are available on a client instance via the get_paginator method. For more detailed instructions and examples on the usage of paginators, see the paginators user guide.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://boto3.readthedocs.io/en/latest/reference/services/kinesis.html#Kinesis.Client.put_records",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTMzNDIxNzE4NF8qXzE0Njk2NjgxMzM=",
+                    "endCursor": "MTM5MjM3NTYwNl8qXzE0NzI1NjYyODk="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}

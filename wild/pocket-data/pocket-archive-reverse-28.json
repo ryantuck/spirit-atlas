@@ -1,0 +1,2237 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MjcyNDI4MDI2Ml8qXzE1Nzk1NjcwNDU=",
+                        "node": {
+                            "url": "https://www.spiegel.de/international/world/interview-with-edward-snowden-about-his-story-a-1286605.html",
+                            "_createdAt": 1568411932,
+                            "_updatedAt": 1579567045,
+                            "id": "2724280262",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567045,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Interview with Edward Snowden 'If I Happen to Fall out of a Window, You Can Be Sure I Was Pushed'",
+                                "itemId": "2724280262",
+                                "resolvedId": "2724280262",
+                                "resolvedUrl": "https://www.spiegel.de/international/world/interview-with-edward-snowden-about-his-story-a-1286605.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "DER SPIEGEL"
+                                },
+                                "excerpt": "In a DER SPIEGEL interview, whistleblower Edward Snowden talks about how he managed to mislead the most powerful intelligence agency in the world, about his life in Russia and about why the internet must be reinvented.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Edward Snowden\n\nFoto: Yuriy Chichkov/ DER SPIEGEL",
+                                        "credit": "Foto: Yuriy Chichkov/ DER SPIEGEL",
+                                        "height": 536,
+                                        "imageId": 1,
+                                        "src": "https://cdn.prod.www.spiegel.de/images/f0fd3e49-0001-0004-0000-000001468775_w948_r1.77_fpx45_fpy30.jpg",
+                                        "width": 948
+                                    },
+                                    {
+                                        "caption": "Foto: DER SPIEGEL",
+                                        "credit": "Foto: DER SPIEGEL",
+                                        "height": 640,
+                                        "imageId": 2,
+                                        "src": "https://cdn.prod.www.spiegel.de/images/843c8627-0001-0004-0000-000001468729_w480_r0.75_fpx45_fpy65.16.jpg",
+                                        "width": 480
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.prod.www.spiegel.de/images/f0fd3e49-0001-0004-0000-000001468775_w1280_r1.77_fpx45_fpy30.jpg",
+                                "timeToRead": 15,
+                                "givenUrl": "https://www.spiegel.de/international/world/interview-with-edward-snowden-about-his-story-a-1286605.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "129047875",
+                                        "name": "Jörg Schindler, Martin Knobbe, DER SPIEGEL",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-09-13 10:50:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcyMzk4MzU4MV8qXzE1Nzk1NjcwNDY=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/magazine/archive/2019/10/when-the-culture-war-comes-for-the-kids/596668/",
+                            "_createdAt": 1568472781,
+                            "_updatedAt": 1579567046,
+                            "id": "2723983581",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567046,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "When the Culture War Comes for the Kids",
+                                "itemId": "2723983581",
+                                "resolvedId": "2723983581",
+                                "resolvedUrl": "https://www.theatlantic.com/magazine/archive/2019/10/when-the-culture-war-comes-for-the-kids/596668/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Caught between a brutal meritocracy and a radical new progressivism, a parent tries to do right by his children while navigating New York City’s schools. To be a parent is to be compromised.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Paul Spella",
+                                        "credit": "",
+                                        "height": 810,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/Md-QbtXprBNoHHOdcNc19N5Ea9o=/0x0:2000x1125/1440x810/media/img/2019/09/12/WEL_Packer_SchoolsOpenerREDO1/original.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 108,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/Rx2Wjk2YN99v9isrfVGPuOPAGDg=/12x0:2345x3150/80x108/media/img/issues/2019/09/10/1019_Cover/original.jpg",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Paul Spella",
+                                        "credit": "",
+                                        "height": 724,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/zZ7yJy-3HO7Mm9xRYCu4mRErB9U=/630x724/media/img/posts/2019/08/PackerOption2_1/original.jpg",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "Paul Spella",
+                                        "credit": "",
+                                        "height": 905,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/thumbor/GwQ_tcbPC-QiCHzhznoQc7IZ9Xc=/0x0:1809x2500/655x905/media/img/posts/2019/08/PackerOption3_1/original.jpg",
+                                        "width": 655
+                                    },
+                                    {
+                                        "caption": "Paul Spella",
+                                        "credit": "",
+                                        "height": 864,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/thumbor/tZjJAA5FQeyKlUS-oOwXz5p4_zM=/0x0:1628x2147/655x864/media/img/posts/2019/08/PackerOption3NEWW/original.jpg",
+                                        "width": 655
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/thumbor/deroznI3cjHC8xRTCOim1VmLDRc=/438x0:1563x1125/72x72/media/img/2018/05/WEL_Stewart_Opener/original.png",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/thumbor/DARltwtpqF2XaCB2Uc8iDBNQe_U=/333x0:1666x1333/72x72/media/img/2017/08/Web/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/thumbor/KivNIfq3Lj6Q3UW_zOmmupMrff0=/320x0:1280x960/72x72/media/img/2019/06/0719_CULT_Packer_Orwell_WEB_OPT2/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 9,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 11,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 12,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 13,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 14,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 15,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 128,
+                                        "imageId": 16,
+                                        "src": "https://cdn.theatlantic.com/thumbor/6Jsm7lo1JEdzxdZQNRvu2dc9Kik=/0x2:2360x3148/96x128/media/img/issues/2019/09/10/1019_Cover/original.jpg",
+                                        "width": 96
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/H-eRxGtZV7Lri3SV-Yc618v_CL0=/0x43:2000x1085/1200x625/media/img/2019/09/WEL_Packer_SchoolsOpenerREDO1/original.jpg",
+                                "timeToRead": 48,
+                                "givenUrl": "https://www.theatlantic.com/magazine/archive/2019/10/when-the-culture-war-comes-for-the-kids/596668/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "75692003",
+                                        "name": "George Packer",
+                                        "url": "https://www.theatlantic.com/author/george-packer/"
+                                    }
+                                ],
+                                "datePublished": "2019-09-13 05:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjcyODUzNjgwNV8qXzE1Nzk1NjcwNDk=",
+                        "node": {
+                            "url": "http://bostonreview.net/philosophy-religion/katrina-forrester-future-political-philosophy",
+                            "_createdAt": 1568764073,
+                            "_updatedAt": 1579567049,
+                            "id": "2728536805",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567049,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2728536805",
+                                "resolvedId": "2728536805",
+                                "resolvedUrl": "https://bostonreview.net/philosophy-religion/katrina-forrester-future-political-philosophy",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Boston Review"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://bostonreview.net/philosophy-religion/katrina-forrester-future-political-philosophy",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjczODUzNzEyNF8qXzE1Nzk1NjcwNjk=",
+                        "node": {
+                            "url": "https://superorganizers.substack.com/p/the-quest-to-be-good-at-everything#",
+                            "_createdAt": 1569800986,
+                            "_updatedAt": 1579567069,
+                            "id": "2738537124",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567069,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Quest to Be Good at Everything",
+                                "itemId": "3278276359",
+                                "resolvedId": "3278276359",
+                                "resolvedUrl": "https://every.to/superorganizers/the-quest-to-be-good-at-everything-131406",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "every.to"
+                                },
+                                "excerpt": "Henrik Werdelin seems like he has it all figured out. He’s a co-founder of Bark, a business with over 650,000 subscribers and hundreds of happy employees. He runs prehype, a venture development firm that has helped start businesses like Roman ($176mm raised) and Managed By Q (acquired by WeWork.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://d24ovhgu8s7341.cloudfront.net/uploads/publication/logo/4/EVERY_SUPERORGANIZERS.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://superorganizers.substack.com/p/the-quest-to-be-good-at-everything#",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-09-26 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjU0MDQxMTgwXypfMTU3OTU2NzA3MA==",
+                        "node": {
+                            "url": "http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign",
+                            "_createdAt": 1569871610,
+                            "_updatedAt": 1579567071,
+                            "id": "254041180",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567070,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "254041180",
+                                "resolvedId": "254041180",
+                                "resolvedUrl": "https://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "worrydream.com"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc0NjkxNDE0OF8qXzE1Nzk1NjcwNzM=",
+                        "node": {
+                            "url": "https://tech.channable.com/posts/2019-10-04-why-we-decided-to-go-for-the-big-rewrite.html",
+                            "_createdAt": 1570198948,
+                            "_updatedAt": 1579567074,
+                            "id": "2746914148",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567073,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why we decided to go for the Big Rewrite",
+                                "itemId": "3369146288",
+                                "resolvedId": "3369146288",
+                                "resolvedUrl": "https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "channable.com"
+                                },
+                                "excerpt": "One of the questions that any software engineer will face at one point in their career is when is the BIG rewrite the right thing to do? And is it ever?",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 15,
+                                "givenUrl": "https://tech.channable.com/posts/2019-10-04-why-we-decided-to-go-for-the-big-rewrite.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-10-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc1MzgwODcxOF8qXzE1Nzk1NjcwNzU=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/magazine/archive/2019/11/what-jeff-bezos-wants/598363/",
+                            "_createdAt": 1570732141,
+                            "_updatedAt": 1579567075,
+                            "id": "2753808718",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567075,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Jeff Bezos’s Master Plan",
+                                "itemId": "2753808718",
+                                "resolvedId": "2753808718",
+                                "resolvedUrl": "https://www.theatlantic.com/magazine/archive/2019/11/what-jeff-bezos-wants/598363/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "What the Amazon founder and CEO wants for his empire and himself, and what that means for the rest of us. Where in the pantheon of American commercial titans does Jeffrey Bezos belong? Andrew Carnegie’s hearths forged the steel that became the skeleton of the railroad and the city. John D.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Rendering by Patrick White; Andrew Harrer / Bloomberg / Getty",
+                                        "credit": "",
+                                        "height": 810,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/tYQXXXBZ07Imadp70VtNUvA7pP0=/0x0:2000x1125/1440x810/media/img/2019/10/10/WEL_Foer_BezosOpenerRedo/original.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "Jeff Bezos in Seattle in 1998. It was hardly obvious that a bookstore would become the dominant firm in the digital economy, but Bezos always believed that the fiction aisle might serve as the trailhead to commanding heights.",
+                                        "credit": "Rex Rystedt / Life Images Collection / Getty",
+                                        "height": 616,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/BFX4vbvEmglfkmtzhjzcjcf7zY0=/630x616/media/img/posts/2019/09/WEL_Foer_BezosOldImage/original.jpg",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "Taylor Hill / Getty",
+                                        "credit": "",
+                                        "height": 892,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/gVmT4x6NPATsRpqnQEH3gdwx250=/0x86:1080x1124/928x892/media/img/posts/2019/09/WEL_Foer_BezosIllustration2/original.jpg",
+                                        "width": 928
+                                    },
+                                    {
+                                        "caption": "Bezos visits the Washington Post newsroom in 2016. The purchase of the paper was a turning point in his reputational history, a chance to stake a legacy for himself as a defender of a civically minded institution.",
+                                        "credit": "Bill O’Leary / The Washington Post / Getty",
+                                        "height": 538,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/thumbor/kJ194FZFlGFjkiLKb3-cTUUTL90=/0x398:2112x2200/630x538/media/img/posts/2019/09/WEL_Foer_BezosWashPo/original.jpg",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "Bezos and his then-wife, MacKenzie, attend the 2017 Vanity Fair Oscars party. Bezos has immersed himself in Hollywood culture.",
+                                        "credit": "Mike Coppola / VF17 / Getty",
+                                        "height": 420,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/thumbor/5v4FxNjh8ocCsN9YE8Ykqe_9-qM=/630x420/media/img/posts/2019/09/WEL_Foer_BezosGoldenGlobes/original.jpg",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "Bezos at a Blue Origin event this spring. He funds that venture—which builds infrastructure for extraterrestrial voyage—by selling about $1 billion of Amazon stock each year. Bezos calls Blue Origin his “most important work.”",
+                                        "credit": "Mark Wilson / Getty",
+                                        "height": 453,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/thumbor/ugqtdhTCYwPSRh4ZVcHKq0Fy8OY=/630x453/media/img/posts/2019/09/WEL_Foer_BezosBlueMoon/original.jpg",
+                                        "width": 630
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/thumbor/pUqQTsidVtGUfCZlGmmhd1YlH6M=/0x496:2042x2538/72x72/media/img/2013/10/11/1113_DIS_Thompson_BizAmazon/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/thumbor/XFYgHa72xokIwSZa2S0qdL56-wM=/445x0:1778x1333/72x72/media/img/2018/01/WEL_Foer_Manafort_convention/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 9,
+                                        "src": "https://cdn.theatlantic.com/thumbor/R_8Z5QoqyoLnUDIN12RIP7XQ7Mc=/657x0:2345x1688/72x72/media/img/mt/2019/06/placenta/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 11,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 12,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 13,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 14,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 15,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 16,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 128,
+                                        "imageId": 17,
+                                        "src": "https://cdn.theatlantic.com/thumbor/K34tIpA4RZw2KMytRFINLWKxBWs=/0x2:2360x3148/96x128/media/img/issues/2019/10/10/1119_Cover/original.jpg",
+                                        "width": 96
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/J69me-Eb_jilkpV4dayzzerrojU=/1x39:1998x1079/1200x625/media/img/2019/10/WEL_Foer_BezosOpenerRedo/original.jpg",
+                                "timeToRead": 49,
+                                "givenUrl": "https://www.theatlantic.com/magazine/archive/2019/11/what-jeff-bezos-wants/598363/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "65571007",
+                                        "name": "Franklin Foer",
+                                        "url": "https://www.theatlantic.com/author/franklin-foer/"
+                                    }
+                                ],
+                                "datePublished": "2019-10-10 12:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc1OTE3MzI1M18qXzE1Nzk1NjcwNzc=",
+                        "node": {
+                            "url": "https://stripe.com/blog/accessible-color-systems",
+                            "_createdAt": 1571269676,
+                            "_updatedAt": 1579567077,
+                            "id": "2759173253",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567077,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Designing accessible color systems",
+                                "itemId": "2759173253",
+                                "resolvedId": "2759173253",
+                                "resolvedUrl": "https://stripe.com/blog/accessible-color-systems",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "stripe.com"
+                                },
+                                "excerpt": "Color contrast is an important aspect of accessibility. Good contrast makes it easier for people with visual impairments to use products, and helps in imperfect conditions like low-light environments or older screens.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 744,
+                                        "imageId": 1,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/7g7H8gPOI5XLvzeW5QE2TF/5c46a4ba82437434b514cbf56be2141c/starting-colors-wide.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 960,
+                                        "imageId": 2,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/43vghEvHpuJ28RKj9CMC6y/1f46656820b0e14a5cf0e87da51f73a7/original-contrast-values.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 960,
+                                        "imageId": 3,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/2laRYgsVcz8WlWIhpolle9/962abc3116d0df406b287e9a1e982c2b/original-contrast-comparison.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 4,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/4Cz8TVlaIiEkx7Fsg560VK/363bccd84ba99c4900ed9f06b037b13b/rgb-mixing.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 5,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/4IdlOX63N8wI35qXY9KYGq/3e85d795abd1bfce1dfa49e1581c76af/hue-saturation-lightness.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 6,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/5KL7DDZCUSvhTM4xjV7S18/4e7910e90000a1c0be1f826805276172/display-color-space.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 7,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/5dAcbhS0qlqMFJdjyxbj6k/4fa90be503e5ae8adb0607491772a0fd/perceptually-uniform-color-space.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/3JjCDd2ur1zcWHjjUSf7LM/b2dd34faa9b409d60c87a5036243da77/color-tool-screenshot-wide.png?w=1620&fm=webp",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 9,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/7bAkvmGTaEhDpPU87hgVuQ/89199ca68d67f1d1b7596e403db7f92c/original-lightness-values.png?w=1080&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 10,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/3JoVkVAKerNpxj31hVIXey/76140c487fab04600298440d56d494a7/lightness-curve-yellow.png?w=1080&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 11,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/3cY3JPJbVezaY6gbZnHGWH/680b8663250c0917281e6c4303fdb0cb/lightness-curve-blue.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 12,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/RdwVlVibTaTskg1iVEVLR/a3c05e4d87f8113599ae550fa7545b8f/lightness-thread-the-needle.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 960,
+                                        "imageId": 13,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/1bR4e17YhONwT9BWyrHllH/5b7813b2dfb9e57011c2b133ee858ec4/uniform-contrast-values-icons.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 960,
+                                        "imageId": 14,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/3ZPP6fI931onmKlwC7w373/c3a945f27ab6743d2fa2ca0563822729/uniform-contrast-values-text.png?w=1082&q=80",
+                                        "width": 1156
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 560,
+                                        "imageId": 15,
+                                        "src": "https://images.ctfassets.net/fzn2n1nzq965/6adtkO2ouMiAMZRjBusR2C/5d6f76d0a5f8dac0a908bff95d7e63bc/badges.png?w=1082&q=80",
+                                        "width": 1156
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "",
+                                        "videoId": 1,
+                                        "type": "HTML5",
+                                        "src": "https://videos.ctfassets.net/fzn2n1nzq965/7GDaCnGLsYrdVIwXIqURwA/630fea9f6c464c7b6ac518cd97e91ba8/colortool-loop.mp4?w=1620&fm=mp4"
+                                    }
+                                ],
+                                "topImageUrl": "https://images.ctfassets.net/fzn2n1nzq965/5jke06jpu3duAMGzkrYNCz/859251e4f5699467afcdc0e2cc93db3c/blog-accessible-color-systems.png?q=80",
+                                "timeToRead": 8,
+                                "givenUrl": "https://stripe.com/blog/accessible-color-systems",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2019-10-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc2Nzk0MDc5OV8qXzE1Nzk1NjcwNzk=",
+                        "node": {
+                            "url": "https://www.scottaaronson.com/blog/?p=4372",
+                            "_createdAt": 1571857140,
+                            "_updatedAt": 1579567079,
+                            "id": "2767940799",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567079,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Quantum supremacy: the gloves are off",
+                                "itemId": "2767940799",
+                                "resolvedId": "2767940799",
+                                "resolvedUrl": "https://www.scottaaronson.com/blog/?p=4372",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "scottaaronson.com"
+                                },
+                                "excerpt": "When Google’s quantum supremacy paper leaked a month ago—not through Google’s error, but through NASA’s—I had a hard time figuring out how to cover the news here.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 16,
+                                "givenUrl": "https://www.scottaaronson.com/blog/?p=4372",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc2OTI0NTcxMl8qXzE1Nzk1NjcwODM=",
+                        "node": {
+                            "url": "https://americanmind.org/features/conservatism-in-the-bronze-age/the-deep-state-vs-the-deep-right/",
+                            "_createdAt": 1572102786,
+                            "_updatedAt": 1579567083,
+                            "id": "2769245712",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567083,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Deep State vs. The Deep Right",
+                                "itemId": "2769245712",
+                                "resolvedId": "2769245712",
+                                "resolvedUrl": "https://americanmind.org/features/conservatism-in-the-bronze-age/the-deep-state-vs-the-deep-right/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "americanmind.org"
+                                },
+                                "excerpt": "Under any stable regime in any time or place, from 19th-century Petersburg to 21st-century D.C., it will be found that the general population has no effective procedure, legal or illegal, by which to either control or replace the central organs of the state. This is normal and not weird.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 293,
+                                        "imageId": 1,
+                                        "src": "https://americanmind.org/wp-content/uploads/2019/10/YarvinBAP.jpg",
+                                        "width": 480
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://americanmind.org/wp-content/uploads/2019/10/YarvinBAP.jpg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://americanmind.org/features/conservatism-in-the-bronze-age/the-deep-state-vs-the-deep-right/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "142410601",
+                                        "name": "From the Editors",
+                                        "url": "https://americanmind.org/from-the-editors/"
+                                    }
+                                ],
+                                "datePublished": "2020-01-24 17:00:13",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc2NTIxMzQ4M18qXzE1Nzk1NjcwODY=",
+                        "node": {
+                            "url": "https://www.newyorker.com/magazine/2019/10/28/the-real-nature-of-thomas-edisons-genius",
+                            "_createdAt": 1572190478,
+                            "_updatedAt": 1579567086,
+                            "id": "2765213483",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567086,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Real Nature of Thomas Edison’s Genius",
+                                "itemId": "2765213483",
+                                "resolvedId": "2765213483",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2019/10/28/the-real-nature-of-thomas-edisons-genius",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "There were ideas long before there were light bulbs. But, of all the ideas that have ever turned into inventions, only the light bulb became a symbol of ideas.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/5db06d4a584dea0008894d58/1:1/w_270%2Cc_limit/casey_cep.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“My so-called inventions already existed in the environment,” Edison once said. “I’ve created nothing. Nobody does.”",
+                                        "credit": "Illustration  Tom Gauld",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/photos/5da8ead8a0b73200081a668f/master/w_2560%2Cc_limit/191028_r35208.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“Why didn’t we ever move out while we lived here?”",
+                                        "credit": "Cartoon  Colin Tom",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/cartoons/5da8ead8969aaf0008b4832e/master/w_1600%2Cc_limit/191028_a22334.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.f1893bac6dafe13d6d5bad671a5bee2345efa44d.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.6e34c81346bc43475ffd572e6c2eb3e125927148.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/59a060a176087002be1e02a3/4:3/w_480%2Cc_limit/020527_r11086_rd.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/59094e46019dfc3494e9d11f/4:3/w_480%2Cc_limit/140519_r25010.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.f915b516b6ca9c0c2a9bdf9b749519365b2b2e4a.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5da8ead8a0b73200081a668f/16:9/w_1280,c_limit/191028_r35208.jpg",
+                                "timeToRead": 18,
+                                "givenUrl": "https://www.newyorker.com/magazine/2019/10/28/the-real-nature-of-thomas-edisons-genius",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "97001817",
+                                        "name": "Casey Cep",
+                                        "url": "https://www.newyorker.com/contributors/casey-cep"
+                                    }
+                                ],
+                                "datePublished": "2019-10-21 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc2OTk0NTU3MF8qXzE1Nzk1NjcwODc=",
+                        "node": {
+                            "url": "https://www.washingtonpost.com/outlook/2019/10/25/what-andrew-yang-means/",
+                            "_createdAt": 1572213498,
+                            "_updatedAt": 1579567088,
+                            "id": "2769945570",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567087,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "What Andrew Yang means",
+                                "itemId": "2769945570",
+                                "resolvedId": "2769945570",
+                                "resolvedUrl": "https://www.washingtonpost.com/outlook/2019/10/25/what-andrew-yang-means/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Washington Post"
+                                },
+                                "excerpt": "How to interpret the staying power of a long-shot presidential candidate.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.washingtonpost.com/resizer/NlkSzwHbzdU9xHPUS785LdMqz3A=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CMSRUQLKIVEYHK7BVHF235VTOE.jpg",
+                                "timeToRead": null,
+                                "givenUrl": "https://www.washingtonpost.com/outlook/2019/10/25/what-andrew-yang-means/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "98311",
+                                        "name": "Wesley Yang",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-10-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc0NzQwNjYyMF8qXzE1Nzk1NjcwOTA=",
+                        "node": {
+                            "url": "https://rhizome.org/editorial/2019/oct/04/salutations-fellow-kids/",
+                            "_createdAt": 1572230710,
+                            "_updatedAt": 1579567090,
+                            "id": "2747406620",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567090,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Salutations, Fellow Kids",
+                                "itemId": "2747406620",
+                                "resolvedId": "2747406620",
+                                "resolvedUrl": "https://rhizome.org/editorial/2019/oct/04/salutations-fellow-kids/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "rhizome.org"
+                                },
+                                "excerpt": "For the October 5 event “After the End of History,” organized with artist Joshua Citarella as part of his forthcoming Rhizome commission, “zoomers” from several online political communities associated with the ”Post-Left” were invited to describe their vision for the next 25 years, and t",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://rhizome.org/static-media/blog/962e65ed-6497-4de8-b97d-0ac048205dec.jpeg",
+                                "timeToRead": 7,
+                                "givenUrl": "https://rhizome.org/editorial/2019/oct/04/salutations-fellow-kids/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "120621820",
+                                        "name": "C. Pyo",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-10-04 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc3NDEyMjc4OF8qXzE1Nzk1NjcwOTE=",
+                        "node": {
+                            "url": "https://newrepublic.com/article/155294/john-rawls-missed-create-just-society",
+                            "_createdAt": 1572442143,
+                            "_updatedAt": 1579567091,
+                            "id": "2774122788",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567091,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "What John Rawls Missed",
+                                "itemId": "2774122788",
+                                "resolvedId": "2774122788",
+                                "resolvedUrl": "https://newrepublic.com/article/155294/john-rawls-missed-create-just-society",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Republic"
+                                },
+                                "excerpt": "John Rawls, who died in 2002, was the most influential American philosopher of the twentieth century. His great work, A Theory of Justice, appeared in 1971 and defined the field of political philosophy for generations. It set out standards for a just society in the form of two principles.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "The Life Picture Collection/Getty; Wikimedia Commons",
+                                        "credit": "X3",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://images.newrepublic.com/3b08418914c1d269f07fd555ee86a417d3be645c.jpeg?auto=compress&h=undefined&ar=3%3A2&fit=crop&crop=faces&q=65&fm=jpg&ixlib=react-9.0.2&w=8192",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "IN THE SHADOW OF JUSTICE: POSTWAR LIBERALISM AND THE REMAKING OF POLITICAL PHILOSOPHY by Katrina Forrester",
+                                        "credit": "Princeton University Press, 432 pp., $35.00",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://images.newrepublic.com/8615c5e2412a27af34febc191764a96e664fae13.jpeg?w=800",
+                                        "width": 800
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://images.newrepublic.com/8cbe56bf578380c92ed734b094fcd94a823c30c2.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+                                "timeToRead": 16,
+                                "givenUrl": "https://newrepublic.com/article/155294/john-rawls-missed-create-just-society",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "4563863",
+                                        "name": "Doug Chayka",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2019-10-29 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc3MzU3ODg5M18qXzE1Nzk1NjcwOTQ=",
+                        "node": {
+                            "url": "https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto/",
+                            "_createdAt": 1572456238,
+                            "_updatedAt": 1579567094,
+                            "id": "2773578893",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567094,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Biology is Eating the World: A Manifesto",
+                                "itemId": "2773578893",
+                                "resolvedId": "2773578893",
+                                "resolvedUrl": "https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Andreessen Horowitz"
+                                },
+                                "excerpt": "We are at the beginning of a new era, where biology has shifted from an empirical science to an engineering discipline.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://a16z.com/wp-content/uploads/2019/10/Bio-FeatureImage2.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "43808897",
+                                        "name": "Vijay Pande",
+                                        "url": "https://a16z.com/author/vijay-pande/"
+                                    },
+                                    {
+                                        "id": "70783231",
+                                        "name": "Jorge Conde",
+                                        "url": "https://a16z.com/author/jorge-conde/"
+                                    },
+                                    {
+                                        "id": "116487063",
+                                        "name": "Julie Yoo",
+                                        "url": "https://a16z.com/author/julie-yoo/"
+                                    }
+                                ],
+                                "datePublished": "2019-10-28 17:01:08",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc3NDc1MjQxNV8qXzE1Nzk1NjcxMDE=",
+                        "node": {
+                            "url": "http://nymag.com/intelligencer/2019/10/rising-seas-are-going-to-drown-more-cities-than-wed-thought.html",
+                            "_createdAt": 1572577300,
+                            "_updatedAt": 1579567101,
+                            "id": "2774752415",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567101,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Rising Seas Are Going to Drown Way More Cities Than We’d Thought: Study",
+                                "itemId": "2774752415",
+                                "resolvedId": "2774752415",
+                                "resolvedUrl": "https://nymag.com/intelligencer/2019/10/rising-seas-are-going-to-drown-more-cities-than-wed-thought.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New York Magazine"
+                                },
+                                "excerpt": "Climate change will bring (and has already brought) a wide variety of menacing disruptions to human existence.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "intelligencer is a Vox Media Network.\n     © 2021 Vox Media, LLC. All rights reserved.",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/623/d14/86fa19bbe288bc62411105a144940ac144-29-sea-level-1.rsquare.w700.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Photo: MIT Technology Review",
+                                        "credit": "Photo: MIT Technology Review",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/bf2/29b/1dc5c8e528d357e64b91983cb233a5f5b2-29-sea-level-3.w710.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Photo: The New York Times",
+                                        "credit": "Photo: The New York Times",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://pyxis.nymag.com/v1/imgs/e84/a3a/07f5f5142fcd18984b6780e62f77967e83-29-sea-level-2.w710.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://pyxis.nymag.com/v1/imgs/623/d14/86fa19bbe288bc62411105a144940ac144-29-sea-level-1.1x.rsocial.w1200.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "http://nymag.com/intelligencer/2019/10/rising-seas-are-going-to-drown-more-cities-than-wed-thought.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "109220272",
+                                        "name": "Eric Levitz",
+                                        "url": "https://nymag.com/author/eric-levitz/"
+                                    }
+                                ],
+                                "datePublished": "2019-10-29 17:32:41",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc1NjEzMTk1N18qXzE1Nzk1NjcxMDI=",
+                        "node": null
+                    },
+                    {
+                        "cursor": "Mjc3NTcwMDY2NF8qXzE1Nzk1NjcxMDU=",
+                        "node": {
+                            "url": "https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/",
+                            "_createdAt": 1572659108,
+                            "_updatedAt": 1579567105,
+                            "id": "2775700664",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567105,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "New Atheism: The Godlessness That Failed",
+                                "itemId": "2775700664",
+                                "resolvedId": "2775700664",
+                                "resolvedUrl": "https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Scott Alexander"
+                                },
+                                "excerpt": "Thucydides predicted that future generations would underestimate the power of Sparta. It built no great temples, left no magnificent ruins. Absent any tangible signs of the sway it once held, memories of its past importance would sound like ridiculous exaggerations.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends4.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends_times.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends_average.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends3.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_polar1.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_polar2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_polar3.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends5.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://slatestarcodex.com/blog_images/athe_trends6.jpg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://slatestarcodex.com/wp-content/themes/two_column_pujugama/images/codex_spotlight.png",
+                                "timeToRead": 25,
+                                "givenUrl": "https://slatestarcodex.com/2019/10/30/new-atheism-the-godlessness-that-failed/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "52711708",
+                                        "name": "Scott Alexander",
+                                        "url": "https://slatestarcodex.com/author/admin/"
+                                    }
+                                ],
+                                "datePublished": "2019-10-30 13:43:04",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc4MTkwMDMzNV8qXzE1Nzk1NjcxMDc=",
+                        "node": {
+                            "url": "https://stratechery.com/2019/tech-and-liberty/",
+                            "_createdAt": 1572977207,
+                            "_updatedAt": 1579567107,
+                            "id": "2781900335",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567107,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Tech and Liberty",
+                                "itemId": "2781900335",
+                                "resolvedId": "2781900335",
+                                "resolvedUrl": "https://stratechery.com/2019/tech-and-liberty/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Stratechery"
+                                },
+                                "excerpt": "Alexander Hamilton was against the Bill of Rights, particularly the First Amendment. This famous xkcd comic explains why: According to Randall Munroe, the author, the “Right to Free Speech” is granted by the First Amendment, which was precisely the outcome Hamilton feared in Federalist No.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 600,
+                                        "imageId": 1,
+                                        "src": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2022/09/stratechery-update-marketing.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 577,
+                                        "imageId": 2,
+                                        "src": "https://i0.wp.com/stratechery.com/wp-content/uploads/2019/11/free_speech.png?resize=566%2C577&ssl=1",
+                                        "width": 566
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 600,
+                                        "imageId": 3,
+                                        "src": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2022/09/stratechery-interviews-marketing.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 600,
+                                        "imageId": 4,
+                                        "src": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2022/09/dithering-marketing.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 600,
+                                        "imageId": 5,
+                                        "src": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2022/09/sharptech-marketing-2.png",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 667,
+                                        "imageId": 6,
+                                        "src": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2022/10/Sharp-China-Yellow-1024x1024.png",
+                                        "width": 667
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://149384716.v2.pressablecdn.com/wp-content/uploads/2019/11/free_speech.png",
+                                "timeToRead": 15,
+                                "givenUrl": "https://stratechery.com/2019/tech-and-liberty/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "33685485",
+                                        "name": "Ben Thompson",
+                                        "url": "https://stratechery.com/author/stratechery/"
+                                    }
+                                ],
+                                "datePublished": "2019-11-05 10:10:50",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc4MTYyMzI3Nl8qXzE1Nzk1NjcxMDk=",
+                        "node": {
+                            "url": "https://www.nytimes.com/2019/11/05/opinion/latinix-warren-democrats.html",
+                            "_createdAt": 1573018895,
+                            "_updatedAt": 1579567109,
+                            "id": "2781623276",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567109,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Liberalism’s Latinx Problem",
+                                "itemId": "2781623276",
+                                "resolvedId": "2781623276",
+                                "resolvedUrl": "https://www.nytimes.com/2019/11/05/opinion/latinix-warren-democrats.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "Everyone remembers the image that demonstrated Donald Trump’s cluelessness about Hispanic voters: the picture, from May 2016, showing him grinning like a fool over a tortilla bowl, with the immortal tweet attached: “Happy #CincodeMayo! The best taco bowls are made in Trump Tower Grill.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2019/11/05/opinion/05douthatWeb/merlin_160596315_589b81fc-3675-4175-bafd-bf662534bb02-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge-v2.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2019/11/05/opinion/05douthatWeb/05douthatWeb-facebookJumbo.jpg?year=2019&h=550&w=1050&s=197555c115d4be1199d0ec0ebf01b3898d375ea01b1c79f62c08be019e7fb996&k=ZQJBKqZ0VN",
+                                "timeToRead": 5,
+                                "givenUrl": "https://www.nytimes.com/2019/11/05/opinion/latinix-warren-democrats.html",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62805967",
+                                        "name": "ROSS DOUTHAT",
+                                        "url": "https://www.nytimes.com/by/ross-douthat"
+                                    }
+                                ],
+                                "datePublished": "2019-11-05 05:00:08",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc4MTYyMTkwOF8qXzE1Nzk1NjcxMTE=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/ideas/archive/2019/11/thomas-chatterton-williams-self-portrait-black-white/601408/",
+                            "_createdAt": 1573019328,
+                            "_updatedAt": 1579567111,
+                            "id": "2781621908",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567111,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Unraveling Race",
+                                "itemId": "2781621908",
+                                "resolvedId": "2781621908",
+                                "resolvedUrl": "https://www.theatlantic.com/ideas/archive/2019/11/thomas-chatterton-williams-self-portrait-black-white/601408/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Thomas Chatterton Williams wants to discard traditional racial categories. About the author: Conor Friedersdorf is a California-based staff writer at The Atlantic, where he focuses on politics and national affairs.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Alex John Beck",
+                                        "credit": "",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/JN9sprGKg-upyVK4l5BjK4NhF0k=/8x210:5386x3235/960x540/media/img/mt/2019/11/thomas_portrait/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/-vuKts9yRfLjxygIBsS_2Z3WHvw=/1x323:5380x3125/960x500/media/img/mt/2019/11/thomas_portrait/original.jpg",
+                                "timeToRead": 21,
+                                "givenUrl": "https://www.theatlantic.com/ideas/archive/2019/11/thomas-chatterton-williams-self-portrait-black-white/601408/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62512348",
+                                        "name": "Conor Friedersdorf",
+                                        "url": "https://www.theatlantic.com/author/conor-friedersdorf/"
+                                    }
+                                ],
+                                "datePublished": "2019-11-05 05:45:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc4NDI3MTU2Nl8qXzE1Nzk1NjcxMTQ=",
+                        "node": {
+                            "url": "https://www.newyorker.com/culture/annals-of-inquiry/the-myth-and-magic-of-generating-new-ideas",
+                            "_createdAt": 1573576498,
+                            "_updatedAt": 1579567114,
+                            "id": "2784271566",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567114,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Myth and Magic of Generating New Ideas",
+                                "itemId": "2784271566",
+                                "resolvedId": "2784271566",
+                                "resolvedUrl": "https://www.newyorker.com/culture/annals-of-inquiry/the-myth-and-magic-of-generating-new-ideas",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "Where do ideas come from? That’s a big question. Here’s a smaller one: Where do mathematical ideas come from? I’ve wondered about this from the time I first contemplated being a mathematician until long after I officially became one.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Illustration by Ana Galvañ",
+                                        "credit": "Illustration  Ana Galvañ",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/photos/5dc4543316692d0008a43110/master/w_2560%2Cc_limit/Rockmore-Mathemathic.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1572023175/thenewyorker_how-silent-movies-give-fried-brains-a-break.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/5d9504f9daf38e00089a8f96/4:3/w_480%2Cc_limit/Poll-FrenchPostalWorkerElderly-1.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/5d80f2228c2ac4000809c6ac/4:3/w_480%2Cc_limit/tracksuits.gif",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/5d39f796aa092500087a7489/4:3/w_480%2Cc_limit/Topol-DoctorUnion.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/5dc4543316692d0008a43110/16:9/w_1280,c_limit/Rockmore-Mathemathic.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "https://www.newyorker.com/culture/annals-of-inquiry/the-myth-and-magic-of-generating-new-ideas",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "89313523",
+                                        "name": "Dan Rockmore",
+                                        "url": "https://www.newyorker.com/contributors/dan-rockmore"
+                                    }
+                                ],
+                                "datePublished": "2019-11-07 11:46:26",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc4OTA1NTk5MF8qXzE1Nzk1NjcxMTU=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/magazine/archive/2019/12/adam-serwer-civility/600784/",
+                            "_createdAt": 1573624177,
+                            "_updatedAt": 1579567116,
+                            "id": "2789055990",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567115,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Civility Is Overrated",
+                                "itemId": "2789055990",
+                                "resolvedId": "2789055990",
+                                "resolvedUrl": "https://www.theatlantic.com/magazine/archive/2019/12/adam-serwer-civility/600784/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "The gravest danger to American democracy isn’t an excess of vitriol—it’s the false promise of civility. Image above: William Howard Taft and a succession of other Republican presidents privileged restoring relations with the South over protecting black Americans’ rights.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Illustration: Mendelsund / Munday; Bettmann / Getty",
+                                        "credit": "",
+                                        "height": 810,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/_veg3v-zKOkgcZhV8anbeExdZvg=/0x0:2000x1125/1440x810/media/img/2019/10/31/WEL_Serwer_ReconOpener/original.jpg",
+                                        "width": 1440
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 108,
+                                        "imageId": 2,
+                                        "src": "https://cdn.theatlantic.com/thumbor/IPO_Z24pnxYz_QcJC3xGG9TA9j8=/29x0:4696x6300/80x108/media/img/issues/2019/11/12/1219_Cover/original.jpg",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "In 1877, Democrats agreed to hand the Republican Rutherford B. Hayes the presidency in exchange for the withdrawal of federal troops in the South, effectively ending the region’s brief experiment in multiracial governance.",
+                                        "credit": "Illustration: Mendelsund / Munday; Universal History Archive / Getty",
+                                        "height": 663,
+                                        "imageId": 3,
+                                        "src": "https://cdn.theatlantic.com/thumbor/gNp93u2CIK9jbJwkMjYLcD_KwvU=/0x0:2000x1429/928x663/media/img/posts/2019/10/WEL_Serwer_ReconSpot/original.jpg",
+                                        "width": 928
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 4,
+                                        "src": "https://cdn.theatlantic.com/thumbor/r2_zzCMTFPTR3j1RICMoreGbgbU=/438x0:1563x1125/72x72/media/img/2019/02/BOB_Serwer_Grant_crop/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 5,
+                                        "src": "https://cdn.theatlantic.com/thumbor/QeiQMtowXxb7lniyKkVC3uYFJMc=/328x0:1453x1125/72x72/media/img/mt/2019/07/SewerPiece/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 72,
+                                        "imageId": 6,
+                                        "src": "https://cdn.theatlantic.com/thumbor/rfQD5g1oTWxuptKWteLnO8eNPPQ=/124x0:1010x886/72x72/media/video/img/2019/06/Above_All_Else/original.jpg",
+                                        "width": 72
+                                    },
+                                    {
+                                        "caption": "Explore The Atlantic Archive",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 7,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/nav-archive-promo-5541b02ae92f1a9276249e1c6c2534ee.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "Play The Atlantic crossword",
+                                        "credit": "",
+                                        "height": 80,
+                                        "imageId": 8,
+                                        "src": "https://cdn.theatlantic.com/_next/static/images/crossword-promo-9cea96c006418979f2978e842640b987.png",
+                                        "width": 80
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 9,
+                                        "src": "https://www.theatlantic.com/magazine/images/current-issue.large.jpg",
+                                        "width": 266
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 10,
+                                        "src": "https://cdn.theatlantic.com/media/img/specialreports/lead/2020/10/14/Thumbnail.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Crossword Puzzle",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 11,
+                                        "src": "https://cdn.theatlantic.com/assets/media/files/nav-crossword.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Magazine Archive",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 12,
+                                        "src": "https://cdn.theatlantic.com/media/files/archive-thumbnail.png",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "Your Subscription",
+                                        "credit": "",
+                                        "height": 148,
+                                        "imageId": 13,
+                                        "src": "https://cdn.theatlantic.com/media/files/YourSubscription_300x300.jpg",
+                                        "width": 148
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 128,
+                                        "imageId": 14,
+                                        "src": "https://cdn.theatlantic.com/thumbor/S9WMZNozWS06N7BilqC4I-s4fUU=/0x0:4725x6300/96x128/media/img/issues/2019/11/12/1219_Cover/original.jpg",
+                                        "width": 96
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/Cp14Kwqg3u9epbyIWB53XfGuoE0=/0x37:1732x939/1200x625/media/img/2019/11/WEL_Serwer_ReconOpener_TOC/original.jpg",
+                                "timeToRead": 16,
+                                "givenUrl": "https://www.theatlantic.com/magazine/archive/2019/12/adam-serwer-civility/600784/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "63056968",
+                                        "name": "Adam Serwer",
+                                        "url": "https://www.theatlantic.com/author/adam-serwer/"
+                                    }
+                                ],
+                                "datePublished": "2019-11-12 02:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc5MTc4MzAyMF8qXzE1Nzk1NjcxMTg=",
+                        "node": {
+                            "url": "https://angel.co/blog/on-messing-up-your-remote-team-and-then-getting-it-right?utm_source=Pointer&utm_campaign=68ee417c24-EMAIL_CAMPAIGN_ISSUE_159_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-68ee417c24-262690585",
+                            "_createdAt": 1573750726,
+                            "_updatedAt": 1579567118,
+                            "id": "2791783020",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567118,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "2768013057",
+                                "resolvedId": "2768013057",
+                                "resolvedUrl": "https://angel.co/blog/on-messing-up-your-remote-team-and-then-getting-it-right",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "angel.co"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://angel.co/blog/on-messing-up-your-remote-team-and-then-getting-it-right?utm_source=Pointer&utm_campaign=68ee417c24-EMAIL_CAMPAIGN_ISSUE_159_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-68ee417c24-262690585",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc5MTc4NTE3NV8qXzE1Nzk1NjcxMjE=",
+                        "node": {
+                            "url": "https://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html?utm_source=Pointer&utm_campaign=68ee417c24-EMAIL_CAMPAIGN_ISSUE_159_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-68ee417c24-262690585",
+                            "_createdAt": 1573750889,
+                            "_updatedAt": 1579567121,
+                            "id": "2791785175",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567121,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Next 50 Years of Databases // Blog // Andy Pavlo : Carnegie Mellon University",
+                                "itemId": "2791785175",
+                                "resolvedId": "2791785175",
+                                "resolvedUrl": "https://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html?utm_source=Pointer&utm_campaign=68ee417c24-EMAIL_CAMPAIGN_ISSUE_159_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-68ee417c24-262690585",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "cs.cmu.edu"
+                                },
+                                "excerpt": "So I ended up doing what I promised myself I would not do. And that is be a professor who has a blog that they never update. I know that it's been a year since my last post and that I still need to write part 3 in my series on the open research problems for transaction processing database systems.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://www.gravatar.com/avatar/75219a26e1b5940510ad17df0d8c42d3?s=200",
+                                "timeToRead": 9,
+                                "givenUrl": "https://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html?utm_source=Pointer&utm_campaign=68ee417c24-EMAIL_CAMPAIGN_ISSUE_159_COPY_01&utm_medium=email&utm_term=0_6ba2b83261-68ee417c24-262690585",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": "2015-09-24 19:37:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc5MTU4NzU0M18qXzE1Nzk1NjcxMjU=",
+                        "node": {
+                            "url": "https://ungleich.ch/u/blog/the-importance-of-decentralisation/",
+                            "_createdAt": 1573752991,
+                            "_updatedAt": 1579567125,
+                            "id": "2791587543",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567125,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The importance of decentralisation",
+                                "itemId": "2791587543",
+                                "resolvedId": "2791587543",
+                                "resolvedUrl": "https://ungleich.ch/u/blog/the-importance-of-decentralisation/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ungleich.ch"
+                                },
+                                "excerpt": "Did you ever wonder, why the Internet is as robust as it is? Then this article is for you. The Internet basically consists of a lose collaboration of network service operators.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://ungleich.ch/u/ipv6-to-ipv4-proxy.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": 4,
+                                "givenUrl": "https://ungleich.ch/u/blog/the-importance-of-decentralisation/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "124033282",
+                                        "name": "ungleich",
+                                        "url": "https://twitter.com/ungleich"
+                                    }
+                                ],
+                                "datePublished": "2019-11-14 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc4NTM5OTAwOF8qXzE1Nzk1NjcxMjY=",
+                        "node": {
+                            "url": "https://blog.floydhub.com/naive-bayes-for-machine-learning/",
+                            "_createdAt": 1573755465,
+                            "_updatedAt": 1579567126,
+                            "id": "2785399008",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567126,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Naïve Bayes for Machine Learning – From Zero to Hero",
+                                "itemId": "2785399008",
+                                "resolvedId": "2785399008",
+                                "resolvedUrl": "https://blog.floydhub.com/naive-bayes-for-machine-learning/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blog.floydhub.com"
+                                },
+                                "excerpt": "Bayes’ Theorem is about more than just conditional probability, and Naive Bayes is a flavor of the theorem which adds to its complexity and usefulness.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://blog.floydhub.com/content/images/size/w2000/2019/11/franki-chamaki-1K6IQsQbizI-unsplash.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Reference: mathsisfun",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://blog.floydhub.com/content/images/2019/11/probability.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Where probability lies - Reference: mathsisfun",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://blog.floydhub.com/content/images/2019/11/probabilities2.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "memecenter.com",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://lh6.googleusercontent.com/0-LqU-07iWmM8TgkGiq9GlUrBPRqztLrP9tfdCLIVbUApt61m6qYj3tL68MYYm4WGzm0exc-IDVN6NJRKQFPcbUg8KqYVkMPDwH6M2COCXIrubsR_q2GWDsBoxIgrSgs3tdbEryj",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Source: kdnuggets.com",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://lh6.googleusercontent.com/EHst5aPysPdVOiEGkSnTgIjJ0FfpePCzt9P1uyJ3D_B9o6FvdhrFfkNK4z_tBvnMFqCkY_tkAZbXjwS9ry6hU_HgLbeXoAH31gq7kuPcnWfCd5xkEpkzmc4JNOZaphbLWHMJIrE7",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://lh6.googleusercontent.com/cpoFv7RgkJ5ym_1xffuWSlNHbCYECtXcwPJ4RGXSIiQ_IZ937uqDsMqEuyLyXOfbCUXAQZwddoVcbpk6PmBSkub9JIRqiagq05Jps3NZrGp85np7tNFZRW-82GZ1-PYfOQqLOW8h",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://static.floydhub.com/button/button.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://blog.floydhub.com/content/images/2019/11/franki-chamaki-1K6IQsQbizI-unsplash.jpg",
+                                "timeToRead": 18,
+                                "givenUrl": "https://blog.floydhub.com/naive-bayes-for-machine-learning/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "128385676",
+                                        "name": "Naren Thiagarajan",
+                                        "url": "https://blog.floydhub.com/author/naren/"
+                                    }
+                                ],
+                                "datePublished": "2019-11-08 11:09:55",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "OTE0NDQwNTIxXypfMTU3OTU2NzEzNQ==",
+                        "node": {
+                            "url": "https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations",
+                            "_createdAt": 1574701780,
+                            "_updatedAt": 1579567135,
+                            "id": "914440521",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567135,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Clash of Civilizations?",
+                                "itemId": "914440521",
+                                "resolvedId": "914440521",
+                                "resolvedUrl": "https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Foreign Affairs"
+                                },
+                                "excerpt": "THE NEXT PATTERN OF CONFLICT World politics is entering a new phase, and intellectuals have not hesitated to proliferate visions of what it will be—the end of history, the return of traditional rivalries between nation states, and the decline of the nation state from the conflicting pulls of trib",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2022/05/20/RTXF4IU.jpg?itok=2rPUVtCp",
+                                "timeToRead": 43,
+                                "givenUrl": "https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "147701346",
+                                        "name": "Samuel P. Huntington",
+                                        "url": "https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations#author-info"
+                                    }
+                                ],
+                                "datePublished": "2022-09-02 14:49:25",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MjczODM5NDU3MF8qXzE1Nzk1NjcxMzc=",
+                        "node": {
+                            "url": "https://providencemag.com/2019/09/submission-michel-houellebecq-sex-history/",
+                            "_createdAt": 1574726065,
+                            "_updatedAt": 1579567137,
+                            "id": "2738394570",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567137,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "A Path to Submission: Michel Houellebecq, Sex, and History",
+                                "itemId": "2738394570",
+                                "resolvedId": "2738394570",
+                                "resolvedUrl": "https://providencemag.com/2019/09/submission-michel-houellebecq-sex-history/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "providencemag.com"
+                                },
+                                "excerpt": "With the 2015 publication of Submission, Michel Houellebecq became notorious. This slim novel speculated how Islamist parties might rise to power in a near-future France.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://providencemag.com/wp-content/uploads/30948228655_5435162d79_o-e1568920818677.jpg",
+                                "timeToRead": 12,
+                                "givenUrl": "https://providencemag.com/2019/09/submission-michel-houellebecq-sex-history/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "120088140",
+                                        "name": "Micah Meadowcroft",
+                                        "url": "https://providencemag.com/authors/micah-meadowcroft/"
+                                    }
+                                ],
+                                "datePublished": "2019-09-26 03:00:16",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "Mjc5NzUzMDMyNV8qXzE1Nzk1NjcxMzk=",
+                        "node": {
+                            "url": "https://americanaffairsjournal.org/2019/11/the-real-class-war/",
+                            "_createdAt": 1574783029,
+                            "_updatedAt": 1579567139,
+                            "id": "2797530325",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1579567139,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Real Class War",
+                                "itemId": "2797530325",
+                                "resolvedId": "2797530325",
+                                "resolvedUrl": "https://americanaffairsjournal.org/2019/11/the-real-class-war/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "americanaffairsjournal.org"
+                                },
+                                "excerpt": "Since at least 2016, the divide between the “working class” and the “elite” has been considered a defining issue in American (and Western) politics.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 425,
+                                        "imageId": 1,
+                                        "src": "http://americanaffairsjournal.org/wp-content/uploads/2019/11/Krein-1-1024x680.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 479,
+                                        "imageId": 2,
+                                        "src": "http://americanaffairsjournal.org/wp-content/uploads/2019/11/Krein-2-1024x767.jpg",
+                                        "width": 640
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://americanaffairsjournal.org/wp-content/uploads/2019/11/Lit_de_justice_tenu_par_Louis_XV.jpg",
+                                "timeToRead": 31,
+                                "givenUrl": "https://americanaffairsjournal.org/2019/11/the-real-class-war/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "63765875",
+                                        "name": "Julius Krein",
+                                        "url": "https://americanaffairsjournal.org/author/julius/"
+                                    }
+                                ],
+                                "datePublished": "2019-11-20 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MjcyNDI4MDI2Ml8qXzE1Nzk1NjcwNDU=",
+                    "endCursor": "Mjc5NzUzMDMyNV8qXzE1Nzk1NjcxMzk="
+                },
+                "totalCount": 1562
+            }
+        }
+    },
+    "extensions": {
+        "valueCompletion": [
+            {
+                "message": "Cannot return null for non-nullable field Item.itemId",
+                "path": [
+                    "user",
+                    "savedItems",
+                    "edges",
+                    16,
+                    "node",
+                    "item"
+                ]
+            },
+            {
+                "message": "Cannot return null for non-nullable field SavedItem.item",
+                "path": [
+                    "user",
+                    "savedItems",
+                    "edges",
+                    16,
+                    "node",
+                    "item"
+                ]
+            }
+        ]
+    }
+}

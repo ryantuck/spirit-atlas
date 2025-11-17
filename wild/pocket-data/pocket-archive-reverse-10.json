@@ -1,0 +1,1837 @@
+{
+    "data": {
+        "user": {
+            "savedItems": {
+                "edges": [
+                    {
+                        "cursor": "MTYxNzY0MDMzM18qXzE0ODk4NzY0NTk=",
+                        "node": {
+                            "url": "http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds",
+                            "_createdAt": 1487732867,
+                            "_updatedAt": 1489876461,
+                            "id": "1617640333",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876459,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why Facts Don’t Change Our Minds",
+                                "itemId": "1617640333",
+                                "resolvedId": "1617640333",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "In 1975, researchers at Stanford invited a group of undergraduates to take part in a study about suicide. They were presented with pairs of suicide notes. In each pair, one note had been composed by a random individual, the other by a person who had subsequently taken his own life.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/59097c982179605b11ad912b/1:1/w_270%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“Thanks again for coming—I usually find these office parties rather awkward.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/cartoons/593b68c55d2f45736c34d1de/master/w_1600%2Cc_limit/170227_a20683.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "The vaunted human capacity for reason may have more to do with winning arguments than with thinking straight.Illustration by Gérard DuBois",
+                                        "credit": "Illustration  Gérard DuBois",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/59097e2f8b51cf59fc42419f/master/w_2560%2Cc_limit/170227_r29468.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/590933286552fa0be682addf/4:3/w_480%2Cc_limit/080225_r17113_p646.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://media.newyorker.com/photos/590978a22179605b11ad8972/4:3/w_480%2Cc_limit/misinformation-580.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.newyorker.com/photos/65985c9437656feff2e97740/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://media.newyorker.com/photos/65a99ff854c7666d01a743a4/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/59097e2f8b51cf59fc42419f/16:9/w_1280,c_limit/170227_r29468.jpg",
+                                "timeToRead": 13,
+                                "givenUrl": "http://www.newyorker.com/magazine/2017/02/27/why-facts-dont-change-our-minds",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "74243872",
+                                        "name": "Elizabeth Kolbert",
+                                        "url": "https://www.newyorker.com/contributors/elizabeth-kolbert"
+                                    }
+                                ],
+                                "datePublished": "2017-02-19 18:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTAxNzEwMDA5OF8qXzE0ODk4NzY0NjQ=",
+                        "node": {
+                            "url": "https://www.wired.com/insights/2014/12/understanding-the-innovators-dilemma/",
+                            "_createdAt": 1487626044,
+                            "_updatedAt": 1489876465,
+                            "id": "1017100098",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876464,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Understanding the Innovator’s Dilemma",
+                                "itemId": "1017100098",
+                                "resolvedId": "1017100098",
+                                "resolvedUrl": "https://www.wired.com/insights/2014/12/understanding-the-innovators-dilemma/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "“The Innovator’s Dilemma” is one of the most — if not the most — important books chronicling how innovation takes place, and why its common that market leaders and incumbents fail to seize the next wave of innovation in their respective industries.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "manoftaste.de/Flickr",
+                                        "credit": "",
+                                        "height": 330,
+                                        "imageId": 1,
+                                        "src": "https://www.wired.com/wp-content/uploads/images_blogs/insights/2013/12/crystalball_660.jpg",
+                                        "width": 660
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.wired.com/wp-content/themes/Phoenix/assets/images/article-icon.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.wired.com/insights/2014/12/understanding-the-innovators-dilemma/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "56969791",
+                                        "name": "Xenios Thrasyvoulou, PeoplePerHour.com",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2014-12-08 07:27:22",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTYwMDA1NjczMF8qXzE0ODk4NzY0Njk=",
+                        "node": {
+                            "url": "https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/",
+                            "_createdAt": 1486668632,
+                            "_updatedAt": 1489876470,
+                            "id": "1600056730",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876469,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The Next Big Blue-Collar Job Is Coding",
+                                "itemId": "1600056730",
+                                "resolvedId": "1600056730",
+                                "resolvedUrl": "https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "WIRED"
+                                },
+                                "excerpt": "But this Silicon Valley stereotype isn’t even geographically accurate. The Valley employs only 8 percent of the nation’s coders. All the other millions? They’re more like Devon, a programmer I met who helps maintain a ­security-software service in Portland, Oregon.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.wired.com/photos/592679d5f3e2356fd8009606/master/w_2560%2Cc_limit/thompson.png",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.wired.com/photos/592679d5f3e2356fd8009606/191:100/w_1280,c_limit/thompson.png",
+                                "timeToRead": 3,
+                                "givenUrl": "https://www.wired.com/2017/02/programming-is-the-new-blue-collar-job/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "70064180",
+                                        "name": "Clive Thompson",
+                                        "url": "https://www.wired.com/author/clive-thompson"
+                                    }
+                                ],
+                                "datePublished": "2017-02-08 12:30:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU4NTk5MzM0Nl8qXzE0ODk4NzY0NzE=",
+                        "node": {
+                            "url": "https://newhumanist.org.uk/articles/5143/derrida-vs-the-rationalists",
+                            "_createdAt": 1486661813,
+                            "_updatedAt": 1489876472,
+                            "id": "1585993346",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876471,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1585993346",
+                                "resolvedId": "1585993346",
+                                "resolvedUrl": "https://newhumanist.org.uk/articles/5143/derrida-vs-the-rationalists",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "newhumanist.org.uk"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://newhumanist.org.uk/articles/5143/derrida-vs-the-rationalists",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU4MzczMDQxN18qXzE0ODk4NzY0NzM=",
+                        "node": {
+                            "url": "https://singularityhub.com/2017/01/28/quantum-computing-progress-will-speed-up-thanks-to-open-sourcing/",
+                            "_createdAt": 1486605181,
+                            "_updatedAt": 1489876475,
+                            "id": "1583730417",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876473,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Quantum Computing Progress Will Speed Up Thanks to Open Sourcing",
+                                "itemId": "1583730417",
+                                "resolvedId": "1583730417",
+                                "resolvedUrl": "https://singularityhub.com/2017/01/28/quantum-computing-progress-will-speed-up-thanks-to-open-sourcing/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "singularityhub.com"
+                                },
+                                "excerpt": "In the quest for ever more powerful computers, researchers are beginning to build quantum computers—machines that exploit the strange properties of physics on the smallest of scales. The field has been making progress in recent years, and quantum computing company D-Wave is one of the pioneers.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 1,
+                                        "src": "https://singularityhub.com/wp-content/uploads/2017/01/quantum-computing-speed-up-open-sourcing-1.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 200,
+                                        "imageId": 2,
+                                        "src": "https://singularityhub.com/wp-content/uploads/2017/01/quantum-computing-speed-up-open-sourcing-2.jpg",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "zvfkXjzzYOo",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/zvfkXjzzYOo"
+                                    }
+                                ],
+                                "topImageUrl": "https://singularityhub.com/wp-content/uploads/2017/01/quantum-computing-e1485463653864.jpg",
+                                "timeToRead": 5,
+                                "givenUrl": "https://singularityhub.com/2017/01/28/quantum-computing-progress-will-speed-up-thanks-to-open-sourcing/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62194989",
+                                        "name": "Mark Jackson",
+                                        "url": "https://singularityhub.com/author/mjackson/"
+                                    }
+                                ],
+                                "datePublished": "2017-01-28 11:00:05",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTYwNzg2OTI2NV8qXzE0ODk4NzY0NzY=",
+                        "node": {
+                            "url": "http://www.popularmechanics.com/flight/drones/news/a25196/ehang-dubai/",
+                            "_createdAt": 1487463968,
+                            "_updatedAt": 1489876477,
+                            "id": "1607869265",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876476,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Drone Flying Cars Will Soar Over Dubai This Summer",
+                                "itemId": "1607869265",
+                                "resolvedId": "1607869265",
+                                "resolvedUrl": "https://www.popularmechanics.com/flight/drones/news/a25196/ehang-dubai/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Popular Mechanics"
+                                },
+                                "excerpt": "Up, up and away: Dubai hopes to have a passenger-carrying drone regularly buzzing through the skyline of this futuristic city-state in July.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1000,
+                                        "imageId": 1,
+                                        "src": "https://hips.hearstapps.com/vidthumb/manual_upload/5a57a37ee694aa1c4dfd482a/thumb_1515692948.png?crop=1xw:1xh;center,top&resize=1200:*",
+                                        "width": 2000
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://hips.hearstapps.com/pop.h-cdn.co/assets/17/07/3200x1600/landscape-1487015457-dubai-drone-taxis-mose.jpg?resize=1200:*",
+                                "timeToRead": 3,
+                                "givenUrl": "http://www.popularmechanics.com/flight/drones/news/a25196/ehang-dubai/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "83226739",
+                                        "name": "Associated Press",
+                                        "url": "https://www.popularmechanics.com/author/14653/associated-press/"
+                                    }
+                                ],
+                                "datePublished": "2017-02-13 13:53:52",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU4NzcyMzM1MF8qXzE0ODk4NzY3NDA=",
+                        "node": {
+                            "url": "http://www.newstatesman.com/culture/books/2017/01/whatever-happened-public-intellectual",
+                            "_createdAt": 1486604875,
+                            "_updatedAt": 1489877327,
+                            "id": "1587723350",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876740,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Whatever happened to the public intellectual?",
+                                "itemId": "3626513502",
+                                "resolvedId": "3626513502",
+                                "resolvedUrl": "https://www.newstatesman.com/culture/2017/01/whatever-happened-public-intellectual",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "New Statesman"
+                                },
+                                "excerpt": "The Oxford philosopher Derek Parfit died on New Year’s Day. He was one of the leading thinkers of his generation, yet his death was not widely reported outside the obituary pages of the broadsheets. The contrast with the response to John Berger’s death the following day is striking.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 584,
+                                        "imageId": 1,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2021/06/2017_04_philosophers.jpg",
+                                        "width": 1038
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 2,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/11/202248-Don-Delillo-464x348.jpg",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "Film\nWhite Noise: a weird and wonderful spectacle",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 3,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/10/202242-Notes-464x348.jpg",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "Nature\nWho the green movement leaves behind ",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 4,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/12/202250-Sami-464x348.jpg",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 5,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/12/shutterstock_1473734840-CMYK-treatedlandingpage_resize-464x348.webp",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "Coinbase’s USD stablecoin – what is it and why should you use it?\n Spotlight",
+                                        "credit": "",
+                                        "height": 348,
+                                        "imageId": 6,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/12/Lifestyle-Static-1400x900-1-464x348.png",
+                                        "width": 464
+                                    },
+                                    {
+                                        "caption": "Five ways the metaverse could transform British politics over the next five years\n James Dunn",
+                                        "credit": "",
+                                        "height": 247,
+                                        "imageId": 7,
+                                        "src": "https://www.newstatesman.com/wp-content/uploads/sites/2/2022/12/DXC-Technology_Metaverse_pic1-1.png",
+                                        "width": 464
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://live-newstatesman-multisite.pantheonsite.io/newstatesman/wp-content/uploads/sites/2/2021/06/2017_04_philosophers.jpg",
+                                "timeToRead": 11,
+                                "givenUrl": "http://www.newstatesman.com/culture/books/2017/01/whatever-happened-public-intellectual",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "158678722",
+                                        "name": "David Herman",
+                                        "url": "https://www.newstatesman.com/author/david-herman"
+                                    }
+                                ],
+                                "datePublished": "2017-01-31 07:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU5NDgwODgxMF8qXzE0ODk4NzY3NTI=",
+                        "node": {
+                            "url": "https://www.theatlantic.com/politics/archive/2017/02/everyone-has-a-right-to-free-speech-even-milo/515565/?utm_source=twb",
+                            "_createdAt": 1486524146,
+                            "_updatedAt": 1489877327,
+                            "id": "1594808810",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876752,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Milo Yiannopoulos Tested Progressives—and They Failed",
+                                "itemId": "1592004464",
+                                "resolvedId": "1592004464",
+                                "resolvedUrl": "https://www.theatlantic.com/politics/archive/2017/02/everyone-has-a-right-to-free-speech-even-milo/515565/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Atlantic"
+                                },
+                                "excerpt": "Conservative students have the right to bring obnoxious bigots to speak on campus and other students have a right to protest. But controversial speakers should be allowed to speak.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "A burned out portable light system is seen at UC Berkeley after a student protest turned violent during a demonstration over right-wing speaker Milo Yiannopoulos. ",
+                                        "credit": "Stephen Lam / Reuters",
+                                        "height": 540,
+                                        "imageId": 1,
+                                        "src": "https://cdn.theatlantic.com/thumbor/GwvoJQZihij1seMiM670trlsMlw=/0x285:5472x3363/960x540/media/img/mt/2017/02/RTX2Z9PM/original.jpg",
+                                        "width": 960
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://cdn.theatlantic.com/thumbor/rv-DkjCCioEDZA5w4Ye3YcO85a8=/0x402:5459x3245/960x500/media/img/mt/2017/02/RTX2Z9PM/original.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://www.theatlantic.com/politics/archive/2017/02/everyone-has-a-right-to-free-speech-even-milo/515565/?utm_source=twb",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "65488052",
+                                        "name": "Peter Beinart",
+                                        "url": "https://www.theatlantic.com/author/peter-beinart/"
+                                    }
+                                ],
+                                "datePublished": "2017-02-03 03:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU2OTEyOTc0OF8qXzE0ODk4NzY3NTg=",
+                        "node": {
+                            "url": "http://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/",
+                            "_createdAt": 1485094247,
+                            "_updatedAt": 1489877327,
+                            "id": "1569129748",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876758,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Brief(ish) explanation of how https works",
+                                "itemId": "1569129748",
+                                "resolvedId": "1569129748",
+                                "resolvedUrl": "https://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "blinkingcaret.com"
+                                },
+                                "excerpt": "When learning about how to use OpenSSL to create self-signed certs, it became clear to me that most of the information available online assumes you know what certificates are, and how they fit in HTTPS.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 248,
+                                        "imageId": 1,
+                                        "src": "https://i0.wp.com/www.blinkingcaret.com/wp-content/uploads/2017/01/https.jpg?resize=483%2C248",
+                                        "width": 483
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.blinkingcaret.com/wp-content/uploads/2017/01/https.jpg",
+                                "timeToRead": 8,
+                                "givenUrl": "http://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "85974993",
+                                        "name": "Rui Figueiredo",
+                                        "url": "https://www.blinkingcaret.com/author/ruidfigueiredo/"
+                                    }
+                                ],
+                                "datePublished": "2017-01-18 06:00:52",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUyODU0ODgwOF8qXzE0ODk4NzY3ODU=",
+                        "node": {
+                            "url": "https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7",
+                            "_createdAt": 1483197246,
+                            "_updatedAt": 1489877327,
+                            "id": "1528548808",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876785,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "The Hacker Noon Newsletter",
+                                "itemId": "1528548808",
+                                "resolvedId": "1528548808",
+                                "resolvedUrl": "https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Hacker Noon"
+                                },
+                                "excerpt": "Programming 5 reactions 5 reactions 5 reactions Technology 6 reactions 8 reactions 5 reactions Cryptocurrency 5 reactions 4 reactions 3 reactions Javascript 8 reactions 7 reactions 7 reactions Python 6 reactions 6 reactions 6 reactions Blockchain 4 reactions 12 reactions 6 reactions Gaming 6 reactio",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://hackernoon.com/fallback-feat.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU4MDE2MjkwNV8qXzE0ODk4NzY3ODg=",
+                        "node": {
+                            "url": "http://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas",
+                            "_createdAt": 1486509288,
+                            "_updatedAt": 1489877327,
+                            "id": "1580162905",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876788,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "140 Machine Learning Formulas",
+                                "itemId": "1580162905",
+                                "resolvedId": "1580162905",
+                                "resolvedUrl": "https://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Data Science Central"
+                                },
+                                "excerpt": "By Rubens Zimbres. Rubens is a Data Scientist, PhD in Business Administration, developing Machine Learning, Deep Learning, NLP and AI models using R, Python and Wolfram Mathematica. Click here to check his Github page.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://storage.ning.com/topology/rest/1.0/file/get/1979693952?profile=original",
+                                        "width": 532
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "http://storage.ning.com/topology/rest/1.0/file/get/1979693952?profile=original",
+                                "timeToRead": null,
+                                "givenUrl": "http://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "77618048",
+                                        "name": "Vincent Granville",
+                                        "url": "https://www.datasciencecentral.com/profile/VincentGranville"
+                                    }
+                                ],
+                                "datePublished": "2017-01-25 18:30:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTU5MTExMDI0MF8qXzE0ODk4NzY3OTA=",
+                        "node": {
+                            "url": "http://www.theguardian.com/media/2017/feb/02/amusing-ourselves-to-death-neil-postman-trump-orwell-huxley",
+                            "_createdAt": 1486509308,
+                            "_updatedAt": 1489877327,
+                            "id": "1591110240",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876790,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "My dad predicted Trump in 1985 – it's not Orwell, he warned, it's Brave New World",
+                                "itemId": "1591110240",
+                                "resolvedId": "1591110240",
+                                "resolvedUrl": "https://www.theguardian.com/media/2017/feb/02/amusing-ourselves-to-death-neil-postman-trump-orwell-huxley",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The Guardian"
+                                },
+                                "excerpt": "Over the last year, as the presidential campaign grew increasingly bizarre and Donald Trump took us places we had never been before, I saw a spike in media references to Amusing Ourselves to Death, a book written by my late father, Neil Postman, which anticipated back in 1985 so much about what has",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "We were keeping our eye on 1984. But it’s Brave New World we should have feared instead. Photograph: Flickr/Urban Integration",
+                                        "credit": "",
+                                        "height": 279,
+                                        "imageId": 1,
+                                        "src": "https://i.guim.co.uk/img/media/ea219e2dd40f737d8cb69d9a59919be945c78a8d/0_186_5184_3110/master/5184.jpg?width=465&quality=85&dpr=1&s=none",
+                                        "width": 465
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://i.guim.co.uk/img/media/ea219e2dd40f737d8cb69d9a59919be945c78a8d/0_186_5184_3110/master/5184.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc84a07f062289b84b2240099af64288",
+                                "timeToRead": 9,
+                                "givenUrl": "http://www.theguardian.com/media/2017/feb/02/amusing-ourselves-to-death-neil-postman-trump-orwell-huxley",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "145222789",
+                                        "name": "Andrew Postman",
+                                        "url": "https://www.theguardian.com/profile/andrew-postman"
+                                    }
+                                ],
+                                "datePublished": "2017-02-02 12:09:23",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUxOTE5NzI0NV8qXzE0ODk4NzY3OTY=",
+                        "node": {
+                            "url": "https://aeon.co/ideas/empathy-is-an-overrated-skill-when-dispensing-medical-care",
+                            "_createdAt": 1483197080,
+                            "_updatedAt": 1489877327,
+                            "id": "1519197245",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876796,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Empathy is an overrated skill when dispensing medical care",
+                                "itemId": "1519197245",
+                                "resolvedId": "1519197245",
+                                "resolvedUrl": "https://aeon.co/ideas/empathy-is-an-overrated-skill-when-dispensing-medical-care",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "Over the past few decades, empathy – the ability to take on the perspective, or ‘feel’ the emotions, of another person – has been touted as a key clinical skill, and a cornerstone of the doctor-patient relationship.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://alpha.aeon.co/images/2d9edb16-7d31-4b5d-b429-9dd3de63ec9f/idea_sized-cod-newsroom-14067359044_45f2324bd7_o.jpg",
+                                "timeToRead": 3,
+                                "givenUrl": "https://aeon.co/ideas/empathy-is-an-overrated-skill-when-dispensing-medical-care",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "53793126",
+                                        "name": "Karin Jongsma",
+                                        "url": "https://aeon.co/users/karin-jongsma"
+                                    },
+                                    {
+                                        "id": "60350742",
+                                        "name": "Verena Klar",
+                                        "url": "https://aeon.co/users/verena-klar-2"
+                                    }
+                                ],
+                                "datePublished": "2016-12-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "NjExOTAzOTI0XypfMTQ4OTg3Njc5OA==",
+                        "node": {
+                            "url": "https://www.nytimes.com/2014/05/11/magazine/masala-dosa-to-die-for.html?_r=0",
+                            "_createdAt": 1482330266,
+                            "_updatedAt": 1489877327,
+                            "id": "611903924",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876798,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3913813715",
+                                "resolvedId": "3913813715",
+                                "resolvedUrl": "https://getpocket.com:443/sHg6B",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://www.nytimes.com/2014/05/11/magazine/masala-dosa-to-die-for.html?_r=0",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUyNjgxOTQ3NV8qXzE0ODk4NzY4MDA=",
+                        "node": {
+                            "url": "https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b#.rmqn7gr42",
+                            "_createdAt": 1482330261,
+                            "_updatedAt": 1489877327,
+                            "id": "1526819475",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489876800,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Learning From A Year of Security Breaches",
+                                "itemId": "1526819475",
+                                "resolvedId": "1526819475",
+                                "resolvedUrl": "https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Medium"
+                                },
+                                "excerpt": "This year (2016) I accepted as much incident response work as I could. I spent about 300 hours responding to security incidents and data breaches this year as a consultant or volunteer.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 1090,
+                                        "imageId": 1,
+                                        "src": "https://miro.medium.com/max/11476/1*MFJADI8P3NR9ULPXiTJbbg.jpeg",
+                                        "width": 5738
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 48,
+                                        "imageId": 2,
+                                        "src": "https://miro.medium.com/fit/c/96/96/0*3kOsPC2HwId9NCAA.jpg",
+                                        "width": 48
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://miro.medium.com/max/1200/1*MFJADI8P3NR9ULPXiTJbbg.jpeg",
+                                "timeToRead": 10,
+                                "givenUrl": "https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b#.rmqn7gr42",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "143051810",
+                                        "name": "Ryan McGeehan",
+                                        "url": "https://magoo.medium.com"
+                                    }
+                                ],
+                                "datePublished": "2016-12-20 20:39:52",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUwOTM3MDIxNV8qXzE0ODk4Nzc3MzE=",
+                        "node": {
+                            "url": "https://aeon.co/essays/why-wont-biologists-say-that-animals-might-be-conscious",
+                            "_createdAt": 1482001077,
+                            "_updatedAt": 1489877760,
+                            "id": "1509370215",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489877731,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Why won’t biologists say that animals might be conscious?",
+                                "itemId": "1509370215",
+                                "resolvedId": "1509370215",
+                                "resolvedUrl": "https://aeon.co/essays/why-wont-biologists-say-that-animals-might-be-conscious",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "I have recently decided to bring two small parrots into my home. They are celestial parrotlets, originally from Ecuador and Peru, and one of the smallest parrot species that can cohabit with humans. I call them Dandolo and Madeleine.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://nu.aeon.co/images/525ff7e8-4321-4819-969a-328656927b80/header_essay-mallard-duckling-nationalgeographic_1380741.jpg",
+                                "timeToRead": 14,
+                                "givenUrl": "https://aeon.co/essays/why-wont-biologists-say-that-animals-might-be-conscious",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "120019007",
+                                        "name": "Antone Martinho-Truswell",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-12-08 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTUxNjczOTYyNF8qXzE0ODk4NzgwNzM=",
+                        "node": {
+                            "url": "https://looker.warby.io/sql",
+                            "_createdAt": 1481654804,
+                            "_updatedAt": 1489878128,
+                            "id": "1516739624",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878073,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "Log In",
+                                "itemId": "1516739624",
+                                "resolvedId": "1516739624",
+                                "resolvedUrl": "https://looker.warby.io/sql",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "looker.warby.io"
+                                },
+                                "excerpt": "false {\"viewer\":{\"enabled\":true,\"url\":null},\"headers\":{\"X-B3-TraceId\":\"7c204d8507db3bb2fc38183e01feb0c3\",\"X-B3-SpanId\":\"dd3e32f54f3d5bfe\",\"X-B3-Sampled\":\"0\"},\"attributes\":{},\"timestamp\":1709402722452076} true {\"notice\":null,\"error\":null,\"warning\":null} null false false false false false {\"admin_chat",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "https://looker.warby.io/sql",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5NzIwNzkxMV8qXzE0ODk4NzgwODA=",
+                        "node": {
+                            "url": "http://mobile.nytimes.com/2016/11/29/world/americas/western-liberal-democracy.html?_r=0&referer=http://m.facebook.com",
+                            "_createdAt": 1480478570,
+                            "_updatedAt": 1489878128,
+                            "id": "1497207911",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878080,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "1497645743",
+                                "resolvedId": "3910737742",
+                                "resolvedUrl": "https://getpocket.com:443/sMjTjA?cta=1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://mobile.nytimes.com/2016/11/29/world/americas/western-liberal-democracy.html?_r=0&referer=http://m.facebook.com",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5OTI1ODQyNV8qXzE0ODk4NzgwODQ=",
+                        "node": {
+                            "url": "http://mobile.nytimes.com/2016/11/30/opinion/i-am-a-dangerous-professor.html?smid=fb-nytimes&smtyp=cur&referer=http://m.facebook.com/",
+                            "_createdAt": 1480562410,
+                            "_updatedAt": 1489878128,
+                            "id": "1499258425",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878084,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "I Am a Dangerous Professor",
+                                "itemId": "1498968787",
+                                "resolvedId": "1498968787",
+                                "resolvedUrl": "https://www.nytimes.com/2016/11/30/opinion/i-am-a-dangerous-professor.html",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New York Times"
+                                },
+                                "excerpt": "Those familiar with George Orwell’s “1984” will recall that “Newspeak was designed not to extend but to diminish the range of thought.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 455,
+                                        "imageId": 1,
+                                        "src": "https://static01.nyt.com/images/2016/11/30/opinion/sunday/30stone/30stone-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static01.nyt.com/images/2016/11/30/opinion/sunday/30stone/30stone-facebookJumbo.jpg?year=2016&h=550&w=1050&s=c0e1a38650758d3da6aa0d874e3bbb092a3111a62469b09b322152c607db92a4&k=ZQJBKqZ0VN",
+                                "timeToRead": 6,
+                                "givenUrl": "http://mobile.nytimes.com/2016/11/30/opinion/i-am-a-dangerous-professor.html?smid=fb-nytimes&smtyp=cur&referer=http://m.facebook.com/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "584903",
+                                        "name": "George Yancy",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-11-30 14:55:35",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5MjkzMTQwMV8qXzE0ODk4NzgwODY=",
+                        "node": {
+                            "url": "https://blogs.scientificamerican.com/guest-blog/lets-colonize-titan/",
+                            "_createdAt": 1480298984,
+                            "_updatedAt": 1489878128,
+                            "id": "1492931401",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878086,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Let's Colonize Titan",
+                                "itemId": "1492931401",
+                                "resolvedId": "1492931401",
+                                "resolvedUrl": "https://blogs.scientificamerican.com/guest-blog/lets-colonize-titan/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Scientific American"
+                                },
+                                "excerpt": "The idea of a human colony on Titan, a moon of Saturn, might sound crazy. Its temperature hovers at nearly 300° below zero Fahrenheit, and its skies rain methane and ethane that flow into hydrocarbon seas.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 800,
+                                        "imageId": 1,
+                                        "src": "https://static.scientificamerican.com/blogs/cache/file/3CF83A09-2454-4D74-A86D95B97AD4F8EC_source.jpg?w=590&h=800&4053DB7C-6A33-4BD0-B1B6FC1119BE3409",
+                                        "width": 590
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://static.scientificamerican.com/blogs/cache/file/3CF83A09-2454-4D74-A86D95B97AD4F8EC.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "https://blogs.scientificamerican.com/guest-blog/lets-colonize-titan/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "103983",
+                                        "name": "Charles Wohlforth",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-11-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2Njc4ODMwMV8qXzE0ODk4NzgwOTc=",
+                        "node": {
+                            "url": "https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one",
+                            "_createdAt": 1480881945,
+                            "_updatedAt": 1489878128,
+                            "id": "1466788301",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878097,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "It looks like scientists and philosophers might have made consciousness far more mysterious than it needs to be",
+                                "itemId": "1466788301",
+                                "resolvedId": "1466788301",
+                                "resolvedUrl": "https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Aeon"
+                                },
+                                "excerpt": "What is the best way to understand consciousness? In philosophy, centuries-old debates continue to rage over whether the Universe is divided, following René Descartes, into ‘mind stuff’ and ‘matter stuff’.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://images.aeonmedia.co/images/2d9159a6-fde0-4e09-a604-585cb17867e9/essay-the_city_rises_by_umberto_boccioni_1910.jpg?width=1200&quality=75&format=auto",
+                                "timeToRead": 16,
+                                "givenUrl": "https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "122280952",
+                                        "name": "Anil K Seth",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2016-11-02 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ5NjY5NjU1Ml8qXzE0ODk4NzgxMDY=",
+                        "node": {
+                            "url": "http://bigthink.com/robby-berman/how-about-new-theory-of-evolution-with-less-natural-selection",
+                            "_createdAt": 1480457448,
+                            "_updatedAt": 1489878128,
+                            "id": "1496696552",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878106,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "How About a New Theory of Evolution with Less Natural Selection?",
+                                "itemId": "3551378921",
+                                "resolvedId": "3551378921",
+                                "resolvedUrl": "https://bigthink.com/surprising-science/how-about-new-theory-of-evolution-with-less-natural-selection/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Big Think"
+                                },
+                                "excerpt": "In early November, a group of preeminent biologists, doctors, anthropologists, and computer scientists met in London to consider making a major change to the concept of evolutionary biology introduced by Charles Darwin in Origin of the Species in 1859.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Science!",
+                                        "credit": "BOBVDK",
+                                        "height": 270,
+                                        "imageId": 1,
+                                        "src": "https://bigthink.com/wp-content/uploads/2016/11/origin-11.jpg?w=480&h=270&crop=1",
+                                        "width": 480
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 220,
+                                        "imageId": 2,
+                                        "src": "https://bigthink.com/wp-content/uploads/2022/01/smarter_faster.svg?w=128&h=96&crop=1",
+                                        "width": 600
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://bigthink.com/wp-content/uploads/2016/11/origin-11.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://bigthink.com/robby-berman/how-about-new-theory-of-evolution-with-less-natural-selection",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "156885528",
+                                        "name": "Robby Berman",
+                                        "url": "https://bigthink.com/people/robby-berman/"
+                                    }
+                                ],
+                                "datePublished": "2022-04-19 09:00:32",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MzQ4NzExMV8qXzE0ODk4NzgxMDc=",
+                        "node": {
+                            "url": "http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/",
+                            "_createdAt": 1479688844,
+                            "_updatedAt": 1489878128,
+                            "id": "1483487111",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878107,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Britain has passed the 'most extreme surveillance law ever passed in a democracy'",
+                                "itemId": "1483487111",
+                                "resolvedId": "1483487111",
+                                "resolvedUrl": "https://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "ZDNet"
+                                },
+                                "excerpt": "It's 2016 going on 1984. The UK has just passed a massive expansion in surveillance powers, which critics have called \"terrifying\" and \"dangerous\".",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "UK government \"complicit\" in NSA's PRISM spy program",
+                                        "credit": "",
+                                        "height": 165,
+                                        "imageId": 1,
+                                        "src": "https://www.zdnet.com/a/hub/i/r/2014/09/18/57df774d-3f12-11e4-b6a0-d4ae52e95e57/resize/220x165/6ebaccb8c85c6f32a406c0c1919b7b88/u-k-government-complicit-in-nsas-prism-snooping.jpg",
+                                        "width": 220
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 322,
+                                        "imageId": 2,
+                                        "src": "https://www.zdnet.com/a/hub/i/r/2016/11/22/2590e88a-138c-4410-a8d0-eb281d26d12a/thumbnail/570x322/6c094226f5f92d1532f2bdf314e3686a/is-this-the-most-extreme-surveillance-law-ever-passed-in-a-democracy-thumb.jpg",
+                                        "width": 570
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://www.zdnet.com/a/hub/i/r/2016/11/17/797fb9c5-85f9-41de-aeb5-2bdc9697af88/thumbnail/770x578/6dd52713d89805348f428e2d323cfe83/giphy-2.jpg",
+                                "timeToRead": 2,
+                                "givenUrl": "http://www.zdnet.com/article/snoopers-charter-expansive-new-spying-powers-becomes-law/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "86745162",
+                                        "name": "Zack Whittaker",
+                                        "url": "https://www.zdnet.com/meet-the-team/us/zack-whittaker/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-17 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4MTU2NDk5NV8qXzE0ODk4NzgxMjc=",
+                        "node": {
+                            "url": "http://www.nature.com/news/crispr-gene-editing-tested-in-a-person-for-the-first-time-1.20988",
+                            "_createdAt": 1479688838,
+                            "_updatedAt": 1489878128,
+                            "id": "1481564995",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878127,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "CRISPR gene-editing tested in a person for the first time",
+                                "itemId": "3359660082",
+                                "resolvedId": "3359660082",
+                                "resolvedUrl": "https://www.nature.com/articles/nature.2016.20988",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Nature Publishing Group"
+                                },
+                                "excerpt": "The move by Chinese scientists could spark a biomedical duel between China and the United States.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "Gene-editing could improve the ability of immune cells to attack cancer.\n            Credit: Steve Gschmeissner/Science Photo Library",
+                                        "credit": "Steve Gschmeissner/Science Photo Library",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.springernature.com/w300/springer-static/image/art%3A10.1038%2Fnature.2016.20988/MediaObjects/41586_2016_Article_BFnature201620988_Figb_HTML.jpg",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fnature.2016.20988/MediaObjects/41586_2016_Article_BFnature201620988_Figb_HTML.jpg",
+                                "timeToRead": 4,
+                                "givenUrl": "http://www.nature.com/news/crispr-gene-editing-tested-in-a-person-for-the-first-time-1.20988",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "152215053",
+                                        "name": "David Cyranoski",
+                                        "url": "https://www.nature.com/articles/nature.2016.20988?error=cookies_not_supported&code=5cc7e123-8bf0-484d-b00f-f60489952062#auth-David-Cyranoski"
+                                    }
+                                ],
+                                "datePublished": "2016-11-15 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ4NTEwNjY0M18qXzE0ODk4NzgxMzI=",
+                        "node": {
+                            "url": "http://mobile.nytimes.com/2016/11/20/opinion/sunday/the-end-of-identity-liberalism.html?smid=tw-share&_r=0&referer=",
+                            "_createdAt": 1479497950,
+                            "_updatedAt": 1489878132,
+                            "id": "1485106643",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878132,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3959689005",
+                                "resolvedId": "3959689005",
+                                "resolvedUrl": "https://getpocket.com:443/sMYTEJ",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://mobile.nytimes.com/2016/11/20/opinion/sunday/the-end-of-identity-liberalism.html?smid=tw-share&_r=0&referer=",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ3NDM4OTA4MF8qXzE0ODk4NzgxMzM=",
+                        "node": {
+                            "url": "http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump",
+                            "_createdAt": 1478707369,
+                            "_updatedAt": 1489878135,
+                            "id": "1474389080",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878133,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "An American Tragedy",
+                                "itemId": "1474389080",
+                                "resolvedId": "1474389080",
+                                "resolvedUrl": "http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "The election of Donald Trump to the Presidency is nothing less than a tragedy for the American republic, a tragedy for the Constitution, and a triumph for the forces, at home and abroad, of nativism, authoritarianism, misogyny, and racism.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "The electorate has, in its plurality, decided to live in Trump’s world.Source Photograph by Joe Raedle / Getty",
+                                        "credit": "Source Photograph  Joe Raedle / Getty",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/59097bbd1c7a8e33fb390266/master/w_2560%2Cc_limit/Trump_Win_WP.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/photos/59097b70ebe912338a37864e/1:1/w_270%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://media.newyorker.com/photos/59097a722179605b11ad8cf6/4:3/w_480%2Cc_limit/161010_r28815.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://media.newyorker.com/photos/590978101c7a8e33fb38faf2/4:3/w_480%2Cc_limit/160711_r28386.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/59097bbd1c7a8e33fb390266/16:9/w_1280,c_limit/Trump_Win_WP.jpg",
+                                "timeToRead": 7,
+                                "givenUrl": "http://www.newyorker.com/news/news-desk/an-american-tragedy-donald-trump",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "71275245",
+                                        "name": "David Remnick",
+                                        "url": "https://www.newyorker.com/contributors/david-remnick"
+                                    }
+                                ],
+                                "datePublished": "2016-11-09 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2ODU2NDQ5Ml8qXzE0ODk4NzgxMzU=",
+                        "node": {
+                            "url": "http://nymag.com/daily/intelligencer/2016/11/andrew-sullivan-trump-america-and-the-abyss.html",
+                            "_createdAt": 1478645210,
+                            "_updatedAt": 1489878136,
+                            "id": "1468564492",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878135,
+                            "tags": [],
+                            "item": {
+                                "isArticle": false,
+                                "title": "",
+                                "itemId": "3911817213",
+                                "resolvedId": "3911817213",
+                                "resolvedUrl": "https://getpocket.com:443/sMsUbs?cta=1",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Pocket"
+                                },
+                                "excerpt": "",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": null,
+                                "timeToRead": null,
+                                "givenUrl": "http://nymag.com/daily/intelligencer/2016/11/andrew-sullivan-trump-america-and-the-abyss.html",
+                                "collection": null,
+                                "authors": [],
+                                "datePublished": null,
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQ2Nzg1OTI1NV8qXzE0ODk4NzgxMzc=",
+                        "node": {
+                            "url": "http://arstechnica.co.uk/information-technology/2016/11/private-microwave-networks-financial-hft/",
+                            "_createdAt": 1478476020,
+                            "_updatedAt": 1489878138,
+                            "id": "1467859255",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878137,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "The secret world of microwave networks",
+                                "itemId": "1468432191",
+                                "resolvedId": "1468432191",
+                                "resolvedUrl": "https://arstechnica.com/information-technology/2016/11/private-microwave-networks-financial-hft/",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "Ars Technica"
+                                },
+                                "excerpt": "Stretching between London and Frankfurt there is a private, mysterious network that is twice as fast as the normal Internet. The connection, provided by a series of microwave dishes on masts, was once completely secret: only one very rich company was allowed to use it, and no one else knew about it.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "HAS_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 418,
+                                        "imageId": 1,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/microwave-tower-1-800x522.jpg",
+                                        "width": 640
+                                    },
+                                    {
+                                        "caption": "Enlarge / A 1949 newspaper clipping showing AT&T's \"just 34 hops\" microwave link from New York to Chicago.",
+                                        "credit": "",
+                                        "height": 696,
+                                        "imageId": 2,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/34Jumps01.jpg",
+                                        "width": 980
+                                    },
+                                    {
+                                        "caption": "Enlarge / The UK's proposed microwave backbone in 1956.",
+                                        "credit": "",
+                                        "height": 431,
+                                        "imageId": 3,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/GPO_Backbone_map.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "Enlarge / A map of some of the microwave networks in southern England and continental Europe, mapped out by Alexandre Laumonier. The microwave links down to Cornwall are for the transatlantic submarine cables that land there. This map is by no means exhaustive; it was compiled by a third party.",
+                                        "credit": "Alexandre Laumonier",
+                                        "height": 394,
+                                        "imageId": 4,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2015/12/microwave-wireless-networks-england-europe.jpg",
+                                        "width": 980
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/european-backbone-map-2001-640x421.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/telegeography-europe-cable-map-2002-640x469.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/telegeography-submarine-cable-map-2016-640x531.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Enlarge / The BridgeWave FP80-3000, capable of up to 3Gbps over 80GHz. For scale, the antenna is 30cm across.",
+                                        "credit": "",
+                                        "height": 300,
+                                        "imageId": 8,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/1052636.jpg",
+                                        "width": 300
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/20120801.KnightWashSalesSymbolCounts-640x387.png",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Enlarge / One of BT's many microwave towers, on top of a hill somewhere.",
+                                        "credit": "",
+                                        "height": 400,
+                                        "imageId": 10,
+                                        "src": "https://cdn.arstechnica.net/wp-content/uploads/sites/3/2016/10/Whitestone_BT-Tower_-_geograph.org_.uk_-_89423.jpg",
+                                        "width": 300
+                                    }
+                                ],
+                                "videos": [
+                                    {
+                                        "vid": "04O_fF5N1XI",
+                                        "videoId": 1,
+                                        "type": "YOUTUBE",
+                                        "src": "https://www.youtube.com/embed/04O_fF5N1XI?start=0&wmode=transparent"
+                                    }
+                                ],
+                                "topImageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/microwave-tower-1-640x418.jpg",
+                                "timeToRead": 18,
+                                "givenUrl": "http://arstechnica.co.uk/information-technology/2016/11/private-microwave-networks-financial-hft/",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "62142967",
+                                        "name": "Sebastian Anthony",
+                                        "url": "https://arstechnica.com/author/mrseb/"
+                                    }
+                                ],
+                                "datePublished": "2016-11-03 13:14:40",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTQzMzY2MjE1NV8qXzE0ODk4NzgxMzk=",
+                        "node": {
+                            "url": "http://www.newyorker.com/magazine/2016/10/10/juno-takes-on-uber",
+                            "_createdAt": 1478398098,
+                            "_updatedAt": 1489878139,
+                            "id": "1433662155",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878139,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "Juno Takes on Uber",
+                                "itemId": "1433662155",
+                                "resolvedId": "1433662155",
+                                "resolvedUrl": "https://www.newyorker.com/magazine/2016/10/10/juno-takes-on-uber",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "The New Yorker"
+                                },
+                                "excerpt": "The LaGuardia Plaza Hotel is a four-minute drive from LaGuardia Airport, in Queens, and on a recent August afternoon nearly every car parked in the hotel’s lot was black.",
+                                "hasImage": "HAS_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": [
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 1,
+                                        "src": "https://media.newyorker.com/photos/59097b721c7a8e33fb3901f6/1:1/w_270%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "Juno’s business model centers on getting drivers to defect from rival services.Illustration by Sébastien Plassard",
+                                        "credit": "Illustration  Sébastien Plassard",
+                                        "height": 0,
+                                        "imageId": 2,
+                                        "src": "https://media.newyorker.com/photos/59097a77c14b3c606c109252/master/w_2560%2Cc_limit/161010_r28826.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“I’ve got those ‘Don’t worry about me, I’ll just be here, all alone’ blues.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 3,
+                                        "src": "https://media.newyorker.com/cartoons/593b67f957b86d47b169ca93/master/w_1600%2Cc_limit/161010_a20134.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "“It’s a smaller, less destructive nuclear weapon, but it’s also a hat.”",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 4,
+                                        "src": "https://media.newyorker.com/cartoons/593b67fb57b86d47b169ca95/master/w_1600%2Cc_limit/161010_a20137.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 5,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo.f1893bac6dafe13d6d5bad671a5bee2345efa44d.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 6,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-header.6e34c81346bc43475ffd572e6c2eb3e125927148.svg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 7,
+                                        "src": "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill%2Cd_placeholder_thescene.jpg%2Cfl_progressive%2Cg_center%2Ch_360%2Cq_80%2Cw_480/v1403566753/thenewyorker_documentaries-thank-you-for-vaping.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 8,
+                                        "src": "https://media.newyorker.com/photos/59095fce019dfc3494e9fd79/4:3/w_480%2Cc_limit/131125_r24296.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 9,
+                                        "src": "https://media.newyorker.com/photos/59096e996552fa0be68301c9/4:3/w_480%2Cc_limit/Malik-The-Long-History-of-The-Protests-Against-Uber.jpg",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 10,
+                                        "src": "https://media.newyorker.com/photos/637541f23c21007776b0d0b0/4:3/w_480%2Cc_limit/undefined",
+                                        "width": 0
+                                    },
+                                    {
+                                        "caption": "",
+                                        "credit": "",
+                                        "height": 0,
+                                        "imageId": 11,
+                                        "src": "https://www.newyorker.com/verso/static/the-new-yorker/assets/logo-reverse.f915b516b6ca9c0c2a9bdf9b749519365b2b2e4a.svg",
+                                        "width": 0
+                                    }
+                                ],
+                                "videos": null,
+                                "topImageUrl": "https://media.newyorker.com/photos/59097a77c14b3c606c109252/16:9/w_1280,c_limit/161010_r28826.jpg",
+                                "timeToRead": 23,
+                                "givenUrl": "http://www.newyorker.com/magazine/2016/10/10/juno-takes-on-uber",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "73360761",
+                                        "name": "Sheelah Kolhatkar",
+                                        "url": "https://www.newyorker.com/contributors/sheelah-kolhatkar"
+                                    }
+                                ],
+                                "datePublished": "2016-10-03 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    },
+                    {
+                        "cursor": "MTM5MzM5MTc4NV8qXzE0ODk4NzgxNDA=",
+                        "node": {
+                            "url": "https://gist.github.com/garybernhardt/122909856b570c5c457a6cd674795a9c?&utm_source=hackernewsletter&utm_medium=email&utm_term=fav",
+                            "_createdAt": 1478397893,
+                            "_updatedAt": 1489878141,
+                            "id": "1393391785",
+                            "status": "ARCHIVED",
+                            "isFavorite": false,
+                            "favoritedAt": null,
+                            "isArchived": true,
+                            "archivedAt": 1489878140,
+                            "tags": [],
+                            "item": {
+                                "isArticle": true,
+                                "title": "types.markdown",
+                                "itemId": "1390203471",
+                                "resolvedId": "1390203471",
+                                "resolvedUrl": "https://gist.github.com/garybernhardt/122909856b570c5c457a6cd674795a9c",
+                                "domain": null,
+                                "domainMetadata": {
+                                    "name": "GitHub"
+                                },
+                                "excerpt": "It's now here, in The Programmer's Compendium. The content is the same as before, but being part of the compendium means that it's actively maintained.",
+                                "hasImage": "NO_IMAGES",
+                                "hasVideo": "NO_VIDEOS",
+                                "images": null,
+                                "videos": null,
+                                "topImageUrl": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
+                                "timeToRead": null,
+                                "givenUrl": "https://gist.github.com/garybernhardt/122909856b570c5c457a6cd674795a9c?&utm_source=hackernewsletter&utm_medium=email&utm_term=fav",
+                                "collection": null,
+                                "authors": [
+                                    {
+                                        "id": "55835546",
+                                        "name": "262588213843476",
+                                        "url": ""
+                                    }
+                                ],
+                                "datePublished": "2021-05-25 00:00:00",
+                                "syndicatedArticle": null
+                            }
+                        }
+                    }
+                ],
+                "pageInfo": {
+                    "hasNextPage": true,
+                    "hasPreviousPage": true,
+                    "startCursor": "MTYxNzY0MDMzM18qXzE0ODk4NzY0NTk=",
+                    "endCursor": "MTM5MzM5MTc4NV8qXzE0ODk4NzgxNDA="
+                },
+                "totalCount": 1562
+            }
+        }
+    }
+}
