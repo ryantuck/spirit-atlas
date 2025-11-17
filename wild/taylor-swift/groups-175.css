@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+
+body {
+    background-color: #b3b;
+    width: 100vw;
+}
+
+* {
+    font-family: "Borel", system-ui;
+    color: #fff;
+}
+
+.div-round-1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    align-content: top;
+    gap: 5px;
+}
+
+.div-group {
+    width: 18vw;
+    min-width: 300px;
+}
