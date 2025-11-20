@@ -1,5 +1,20 @@
 outputs : round-1.html round-2.html bracket-tracks.jsonl
 
+bracket.html : html_bracket_round.py
+	echo '<link rel="stylesheet" href="bracket.css">' > $@
+	cat html-rounds-input.html >> $@
+	echo '<div class="bracket">' >> $@
+	cat bracket-tracks.jsonl | python html_bracket_round.py >> $@
+	cat bracket-tracks-32.jsonl | python html_bracket_round.py >> $@
+	cat bracket-tracks-16.jsonl | python html_bracket_round.py >> $@
+	cat bracket-tracks-8.jsonl | python html_bracket_round.py >> $@
+	cat bracket-tracks-4.jsonl | python html_bracket_round.py >> $@
+	cat bracket-tracks-2.jsonl | python html_bracket_round.py >> $@
+	cat bracket-tracks-1.jsonl | python html_bracket_round.py >> $@
+	echo '</div>' >> $@
+	echo '<script src="rounds-input.js"></script>' >> $@
+
+
 # ----------------------------------
 # Bracket
 # 	playlist id: 6IO6fZlgFER4AuOfE30XlZ

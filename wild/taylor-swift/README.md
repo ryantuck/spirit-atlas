@@ -4,7 +4,7 @@ Round 1 Playlist - https://open.spotify.com/playlist/1PB3W2M73GTrTlucICRtKO?si=4
 
 ## Structure
 
-Nine original albums. 176 songs.
+Twelve original albums. 176 songs.
 
 Structure is 2 group rounds followed by a bracket round.
 
@@ -34,3 +34,4 @@ Pick one song that's been eliminated to bring it back in as the last entry in th
 
     64 = 63 + 1
 
+Seed into a 64-entry bracket and let 'em battle it out!
