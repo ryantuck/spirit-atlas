@@ -7,18 +7,15 @@ ebacd
 badec
 cdabe
 ebadc
-abdce ?
-cedba ?
-        ?
-abcde ?
-cebda ?
-ea      ?
-abdce ?
-cdaeb ?
-cadeb ?
-baecd ?
-dceab ?
-ea      ?
-
-
-
+abdce
+cedba
+ebacd
+abcde
+cebda
+eacbd
+abdce
+cdaeb
+cadeb
+baecd
+decab
+eabdc

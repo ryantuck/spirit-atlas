@@ -1,15 +1,61 @@
-outputs : round-1.html round-2.html
+outputs : round-1.html round-2.html bracket-tracks.jsonl
+
+# ----------------------------------
+# Bracket
+# 	playlist id: 6IO6fZlgFER4AuOfE30XlZ
+# 	round of 32: 58Teqr5cnjWSpQ8wTTeRge
+# 	round of 16: 1u0rt1Y0H8LN67pr87uPia
+# 	round of 8: 0aRJSwhl5H8TYBZxuJQoSD
+# 	Wow, beginning of bracket round, so exciting, every song is dope, I
+# 	have no clue what's gonna come out on top, five matchups in and lots are
+# 	already close calls, the rap bracket was arguably easier!
+# ----------------------------------
+bracket-tracks-1.jsonl : bracket-tracks-2.jsonl results-bracket-2.txt
+	python bracket_round.py $^ | jq '.[]' -c > $@
+
+bracket-tracks-2.jsonl : bracket-tracks-4.jsonl results-bracket-4.txt
+	python bracket_round.py $^ | jq '.[]' -c > $@
+
+bracket-tracks-4.jsonl : bracket-tracks-8.jsonl results-bracket-8.txt
+	python bracket_round.py $^ | jq '.[]' -c > $@
+
+bracket-track-ids-8.txt : bracket-tracks-8.jsonl
+	cat $< | jq .id -r > $@
+
+bracket-tracks-8.jsonl : bracket-tracks-16.jsonl results-bracket-16.txt
+	python bracket_round.py $^ | jq '.[]' -c > $@
+
+bracket-track-ids-16.txt : bracket-tracks-16.jsonl
+	cat $< | jq .id -r > $@
+
+bracket-tracks-16.jsonl : bracket-tracks-32.jsonl results-bracket-32.txt
+	python bracket_round.py $^ | jq '.[]' -c > $@
+
+bracket-track-ids-32.txt : bracket-tracks-32.jsonl
+	cat $< | jq .id -r > $@
+
+bracket-tracks-32.jsonl : bracket-tracks.jsonl results-bracket-64.txt
+	python bracket_round.py $^ | jq '.[]' -c > $@
+
+bracket-track-ids.txt : bracket-tracks.jsonl
+	cat $< | jq .id -r > $@
+
+bracket-tracks.jsonl : groups-105-ranked.json seed_bracket.py
+	cat $< | python seed_bracket.py | jq '.[]' -c > $@
 
 # ----------------------------------
 # Round 2
 # 	playlist id: 0IgOK8gyt2bOhp6WgZyECj
 # ----------------------------------
 
+round-2.html : groups-105-ranked.json html_round_1.py
+	cat $< | jq | python html_round_1.py > $@
+
+groups-105-ranked.json : groups-105.json results-round-2.txt sort_tracks.py
+	cat $< | jq | python sort_tracks.py results-round-2.txt | jq > $@
+
 round-2-track-ids-sorted.txt : groups-105.json
 	cat $< | jq 'to_entries | .[] | .value.[] | .id' -r > $@
-
-round-2.html : groups-105.json html_round_1.py
-	cat $< | jq | python html_round_1.py > $@
 
 groups-105.html : groups-105.md groups-175.css
 	pandoc $< \
@@ -43,7 +89,7 @@ groups-175.md : groups-175.json md_groups.py
 	cat $< | jq | python md_groups.py > $@
 
 groups-175-ranked.json : groups-175.json results-round-1.txt sort_tracks.py
-	cat $< | jq | python sort_tracks.py | jq > $@
+	cat $< | jq | python sort_tracks.py results-round-1.txt | jq > $@
 
 groups-175.json : tracks-175.jsonl groups.py
 	cat $< | jq -c | python groups.py > $@

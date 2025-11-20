@@ -5,7 +5,8 @@ def sorted_tracks(tracks: list[dict], rankings: str) -> list[dict]:
 
 
 import json, sys
-results_round_1 = [line.strip() for line in open('results-round-1.txt').readlines()]
+filename = sys.argv[1]
+results_round_1 = [line.strip() for line in open(filename).readlines()]
 data = json.loads('\n'.join(line for line in sys.stdin))
 groups = list(data.values())
 zipped = list(zip(groups, results_round_1))

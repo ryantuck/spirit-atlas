@@ -51,8 +51,8 @@ def div_group(group_id: str, tracks: list[dict]) -> str:
     track_strs = [track_str(track) for track in tracks]
 
     # ordered ol for ranked groups, ul for unranked, TODO split out formally
-    # track_list = ol(lis=[li(t) for t in stylized_list(track_strs)])
-    track_list = ul(lis=[li(t) for t in track_strs])
+    track_list = ol(lis=[li(t) for t in stylized_list(track_strs)])
+    # track_list = ul(lis=[li(t) for t in track_strs])
 
     return div(
         elements=[
