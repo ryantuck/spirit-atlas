@@ -1,0 +1,25 @@
+alias repos="gh api graphql -f query='{
+  organization(login: \"whatever\") {
+    repositories(first: 100) {
+      totalCount
+      edges {
+        node {
+          name
+          isArchived
+        }
+      }
+    }
+  }
+}' | jq -r '.data.organization.repositories.edges[].node | select (.isArchived==false ).name' | sort"
+
+
+save-roam() {
+    cp ~/.roam/roam.md ~/.roam/snapshots/$(date -u +"%Y-%m-%d-%H-%M-%S")-roam.md
+}
+
+today() {
+    today_dir=~/daily/$(date -u +'%Y-%m-%d')
+    mkdir -p $today_dir && cd $today_dir
+}
+
+alias tidy="mv ~/Desktop/* ~/inbox; mv ~/Downloads/* ~/inbox"
