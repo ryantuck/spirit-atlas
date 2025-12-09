@@ -1,0 +1,3 @@
+ai - reverse prompt generation - "what prompt produced these input/output pairs?" - something about models being wrong, hume, causality,
+
+games of beasts

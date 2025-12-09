@@ -1,0 +1,13 @@
+Posit alignment is fundamentally impossible by creating black box intelligences, therefore how to architect things?
+
+    Same problem we've had since deep learning came on the scene. Issue is inscrutability.
+
+    A program of human-understandable heuristics can theoretically have all of its edge-cases elucidated.
+
+        Code verifiability is a thing to google.
+
+    Chain-of-thought was helpful breakthrough but isn't bulletproof against misalignment.
+
+    Similar to cellular automata, game of life, break down into grokkable / controllable subsystems and still gain benefit of emergent properties of resulting intelligent system?
+
+        Is this also impossible?
