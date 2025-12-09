@@ -29,16 +29,16 @@ roundsInput.addEventListener('input', () => {
             var nCols = 7 - startingIdx;
             var relIdx = i-startingIdx;
 
-            var fontSizes = [1, 1.1, 1.2, 1.3, 1.4, 1.4, 1.4];
+            var fontSizes = [0.5, 0.6, 1.0, 1.1, 1.2, 1.3, 1.5];
             var fontVar = fontSizes[relIdx];
 
             roundElements[i].style.fontSize = fontVar.toString() + 'rem';
 
-            const h = 16 * Math.pow(2,relIdx);
+            const h = 4 * Math.pow(2,relIdx);
             const subdivs = roundElements[i].querySelectorAll('div');
             subdivs.forEach(d => d.style.height = h.toString()+'vh');
-            subdivs[0].style.height = (4 + h/2).toString()+ 'vh';
-            subdivs.forEach(d => d.style.fontSize = fontVar.toString() + 'em');
+            subdivs[0].style.height = (2 + h/2).toString()+ 'vh';
+            subdivs.forEach(d => d.style.fontSize = fontVar.toString() + 'rem');
 
         }
     }

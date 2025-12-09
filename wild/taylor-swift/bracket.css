@@ -25,54 +25,78 @@ body {
     justify-content: flex-start;
 }
 
-.bracket .bracket-round div {
+.bracket .bracket-round .entry {
     display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
 
     border-bottom: 1px solid white;
-    padding: 5px;
+    padding: 2px 5px;
+    line-height: 1;
+}
 
+.album-art {
+    flex: 1;
+}
+
+.album-art img {
+    max-height: 1.5rem;
+    display: block;
+    padding-bottom: 2px;
+}
+
+.title {
+    flex: 3;
 }
 
 /* bracket lines styling */
-.bracket .bracket-round div:nth-child(even) {
+.bracket .bracket-round .entry:nth-child(even) {
     border-right: 1px solid white;
 }
 
 /* hover effects */
-.bracket .bracket-round div .artists { color: #999; }
-.bracket .bracket-round div:hover .title { color: #ff0; }
-.bracket .bracket-round div:hover .artists { color: #999; }
-.bracket .bracket-round div:hover { color: #ff3; }
-.bracket .bracket-round div:hover .title { text-shadow: 3px 3px #000; }
+.album-1989 { color: #ccc; }
+.album-evermore { color: #b84; }
+.album-fearless { color: #bb3; }
+.album-folklore { color: #666; }
+.album-lover { color: #b36; }
+.album-midnights { color: #b9b; }
+.album-red { color: #b00; }
+.album-reputation { color: #333; }
+.album-speak-now { color: #b5b; }
+.album-taylor-swift { color: #66b; }
+.album-the-life-of-a-showgirl { color: #6b6; }
+.album-the-tortured-poets-department { color: #bbb; }
+
+
 
 /* bracket rounds */
-.bracket .bracket-round:nth-child(1)        {   background-color: #b46;     }
-.bracket .bracket-round:nth-child(2)        {   background-color: #b47;     }
-.bracket .bracket-round:nth-child(3)        {   background-color: #b48;     }
-.bracket .bracket-round:nth-child(4)        {   background-color: #b49;     }
-.bracket .bracket-round:nth-child(5)        {   background-color: #b4a;     }
-.bracket .bracket-round:nth-child(6)        {   background-color: #b4b;     }
-.bracket .bracket-round:nth-child(7)        {   background-color: #b4c;     }
+.bracket .bracket-round:nth-child(1)        {   background-color: #999;     }
+.bracket .bracket-round:nth-child(2)        {   background-color: #999;     }
+.bracket .bracket-round:nth-child(3)        {   background-color: #999;     }
+.bracket .bracket-round:nth-child(4)        {   background-color: #999;     }
+.bracket .bracket-round:nth-child(5)        {   background-color: #999;     }
+.bracket .bracket-round:nth-child(6)        {   background-color: #999;     }
+.bracket .bracket-round:nth-child(7)        {   background-color: #999;     }
 
 /* height doubles each round */
-.bracket .bracket-round:nth-child(1) div      {   height: 16vh; font-size: 1rem;             }
-.bracket .bracket-round:nth-child(2) div      {   height: 32vh; font-size: 1.4rem;               }
-.bracket .bracket-round:nth-child(3) div      {   height: 64vh; font-size: 1.5rem;               }
-.bracket .bracket-round:nth-child(4) div      {   height: 128vh; font-size: 1.6rem;              }
-.bracket .bracket-round:nth-child(5) div      {   height: 256vh; font-size: 1.7rem;             }
-.bracket .bracket-round:nth-child(6) div      {   height: 512vh; font-size: 1.8rem;              }
-.bracket .bracket-round:nth-child(7) div      {   height: 1024vh; font-size: 1.9rem;             }
+.bracket .bracket-round:nth-child(1) .entry      {   height: 4vh; font-size: 0.5rem;             }
+.bracket .bracket-round:nth-child(2) .entry      {   height: 8vh; font-size: 0.6rem;               }
+.bracket .bracket-round:nth-child(3) .entry      {   height: 16vh; font-size: 1.0rem;               }
+.bracket .bracket-round:nth-child(4) .entry      {   height: 32vh; font-size: 1.1rem;              }
+.bracket .bracket-round:nth-child(5) .entry      {   height: 64vh; font-size: 1.2rem;             }
+.bracket .bracket-round:nth-child(6) .entry      {   height: 128vh; font-size: 1.3rem;              }
+.bracket .bracket-round:nth-child(7) .entry      {   height: 256vh; font-size: 1.5rem;             }
 
 /* adjust to center stuff */
-.bracket .bracket-round:nth-child(1) div:nth-child(1)    {   height:12vh;                }
-.bracket .bracket-round:nth-child(2) div:nth-child(1)    {   height:20vh;                }
-.bracket .bracket-round:nth-child(3) div:nth-child(1)    {   height:36vh;                }
-.bracket .bracket-round:nth-child(4) div:nth-child(1)    {   height:68vh;                }
-.bracket .bracket-round:nth-child(5) div:nth-child(1)    {   height:132vh;               }
-.bracket .bracket-round:nth-child(6) div:nth-child(1)    {   height:260vh;               }
-.bracket .bracket-round:nth-child(7) div:nth-child(1)    {   height:516vh;               }
+.bracket .bracket-round:nth-child(1) .entry:nth-child(1)    {   height:4vh;                }
+.bracket .bracket-round:nth-child(2) .entry:nth-child(1)    {   height:6vh;                }
+.bracket .bracket-round:nth-child(3) .entry:nth-child(1)    {   height:10vh;                }
+.bracket .bracket-round:nth-child(4) .entry:nth-child(1)    {   height:18vh;                }
+.bracket .bracket-round:nth-child(5) .entry:nth-child(1)    {   height:34vh;               }
+.bracket .bracket-round:nth-child(6) .entry:nth-child(1)    {   height:66vh;               }
+.bracket .bracket-round:nth-child(7) .entry:nth-child(1)    {   height:130vh;               }
 
 @media screen and (max-width: 479px) {
     .bracket {
