@@ -8,6 +8,9 @@ def element(tag: str, content: str, kwargs:dict={}, newlines: bool = False) -> s
 def h1(txt):
     return element('h1', txt)
 
+def h2(txt):
+    return element('h2', txt)
+
 def span(txt):
     return element('span', txt)
 
@@ -35,6 +38,8 @@ def link(href):
 def track_str(track: dict) -> str:
     title = track['title']
     album = track['album']
+    album_tidy = album.lower().replace(' ', '-')
+    return f'<div class="group-entry"><span class="album-art"><img src="{album_tidy}.png" /></span><span class="title">{title}</span></div>'
     return f'{title} ({album})'
 
 
@@ -56,7 +61,7 @@ def div_group(group_id: str, tracks: list[dict]) -> str:
 
     return div(
         elements=[
-            h1(group_id),
+            h2(group_id),
             track_list,
         ],
         kwargs={'class': 'div-group'},
@@ -85,7 +90,7 @@ def body(round_1_data):
 
 def html(round_1_data):
     return '\n'.join([
-        head(),
+        # head(),
         body(round_1_data),
     ])
 

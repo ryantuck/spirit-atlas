@@ -1,20 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 
-body {
-    background-color: #b3b;
-    width: 100vw;
-}
-
-* {
-    font-family: "Borel", system-ui;
-    color: #fff;
-    box-sizing: border-box;
-}
-
 .bracket {
     display: flex;
     width: 100vw;
-    margin-bottom: 30vh;
 }
 
 .bracket .bracket-round {
@@ -36,18 +24,22 @@ body {
     line-height: 1;
 }
 
-.album-art {
+.entry .album-art {
     flex: 1;
 }
 
-.album-art img {
-    max-height: 1.5rem;
-    display: block;
-    padding-bottom: 2px;
+.entry .title {
+    flex: 4;
 }
 
-.title {
-    flex: 3;
+#bracket-rounds-selector {
+	margin: 0;
+	background-color: #828;
+	text-align: center;
+}
+
+#bracket-rounds-selector * {
+	margin: 0;
 }
 
 /* bracket lines styling */
@@ -70,15 +62,14 @@ body {
 .album-the-tortured-poets-department { color: #bbb; }
 
 
-
 /* bracket rounds */
-.bracket .bracket-round:nth-child(1)        {   background-color: #999;     }
-.bracket .bracket-round:nth-child(2)        {   background-color: #999;     }
-.bracket .bracket-round:nth-child(3)        {   background-color: #999;     }
-.bracket .bracket-round:nth-child(4)        {   background-color: #999;     }
-.bracket .bracket-round:nth-child(5)        {   background-color: #999;     }
-.bracket .bracket-round:nth-child(6)        {   background-color: #999;     }
-.bracket .bracket-round:nth-child(7)        {   background-color: #999;     }
+.bracket .bracket-round:nth-child(1)        {   background-color: #828;     }
+.bracket .bracket-round:nth-child(2)        {   background-color: #828;     }
+.bracket .bracket-round:nth-child(3)        {   background-color: #828;     }
+.bracket .bracket-round:nth-child(4)        {   background-color: #828;     }
+.bracket .bracket-round:nth-child(5)        {   background-color: #828;     }
+.bracket .bracket-round:nth-child(6)        {   background-color: #828;     }
+.bracket .bracket-round:nth-child(7)        {   background-color: #828;     }
 
 /* height doubles each round */
 .bracket .bracket-round:nth-child(1) .entry      {   height: 4vh; font-size: 0.5rem;             }
@@ -109,4 +100,13 @@ body {
         flex-shrink: 1;
     }
 
+}
+
+#footer {
+	text-align: center;
+	background-color: #f8f;
+	h1 {
+		margin: 0;
+		padding-top: 20px;
+	}
 }

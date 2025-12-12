@@ -1,8 +1,11 @@
-outputs : round-1.html round-2.html bracket-tracks.jsonl
+outputs : all.html
 
-bracket.html : html_bracket_round.py
-	echo '<link rel="stylesheet" href="bracket.css">' > $@
-	cat html-rounds-input.html >> $@
+all.html : head.html header-tournament.html header-round-1.html round-1.html header-round-2.html round-2.html header-bracket.html bracket.html footer.html
+	cat $^ > $@
+
+bracket.html : html_bracket_round.py html-rounds-input.html
+	# echo '<link rel="stylesheet" href="bracket.css">' > $@
+	cat html-rounds-input.html > $@
 	echo '<div class="bracket">' >> $@
 	cat bracket-tracks.jsonl | python html_bracket_round.py >> $@
 	cat bracket-tracks-32.jsonl | python html_bracket_round.py >> $@
@@ -64,7 +67,7 @@ bracket-tracks.jsonl : groups-105-ranked.json seed_bracket.py
 # ----------------------------------
 
 round-2.html : groups-105-ranked.json html_round_1.py
-	cat $< | jq | python html_round_1.py > $@
+	cat $< | jq | python html_round_1.py | sed -e 's/round-1/round-2/g' > $@
 
 groups-105-ranked.json : groups-105.json results-round-2.txt sort_tracks.py
 	cat $< | jq | python sort_tracks.py results-round-2.txt | jq > $@

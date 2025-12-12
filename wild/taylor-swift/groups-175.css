@@ -1,14 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 
 body {
-    background-color: #b3b;
+    background-color: #fff;
     width: 100vw;
+    margin: 0;
 }
 
 * {
     font-family: "Borel", system-ui;
     color: #fff;
+    box-sizing: border-box;
 }
+
+
 
 .div-round-1 {
     display: flex;
@@ -17,9 +21,126 @@ body {
     justify-content: space-around;
     align-content: top;
     gap: 5px;
+
+    background-color: #b3b;
+
+}
+
+.div-round-2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    align-content: top;
+    gap: 5px;
+
+    background-color: #939;
 }
 
 .div-group {
     width: 18vw;
     min-width: 300px;
+}
+
+.div-group ol li .group-entry {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+
+.album-art img {
+	height: 90%;
+	width: auto;
+	max-height: 1.5rem;
+	display: inline;
+	padding-bottom: 2px;
+	vertical-align: middle;
+}
+
+.div-group ol li .album-art {
+	flex: 1;
+}
+.div-group ol li .title {
+	flex: 6;
+}
+
+.div-group ol li:nth-child(4) { color: #bbb; }
+.div-group ol li:nth-child(4) * { color: #bbb; }
+.div-group ol li:nth-child(5) { color: #bbb; }
+.div-group ol li:nth-child(5) * { color: #bbb; }
+/*
+.div-group ol li:nth-child(4) img { filter: grayscale(100%); }
+.div-group ol li:nth-child(5) img { filter: grayscale(100%); }
+*/
+
+#header-round-1 {
+	text-align: center;
+	background-color: #b3b;
+	h1 { padding-top: 20px; }
+}
+
+#header-round-1 * {
+	margin: 0;
+}
+
+#header-round-2 {
+	text-align: center;
+	background-color: #939;
+	h1 { padding-top: 20px; }
+}
+
+#header-round-2 * {
+	margin: 0;
+}
+
+#header-bracket {
+	text-align: center;
+	background-color: #828;
+	h1 { padding-top: 20px; }
+	div { width: 60%; margin: auto; }
+}
+
+#header-bracket * {
+	margin: 0;
+}
+
+#header-tournament {
+	background-color: #f6f;
+	text-align: center;
+}
+
+#header-tournament * {
+	margin: 0;
+}
+
+#header-tournament h1 {
+	font-size: 3rem;
+	padding-top: 20px;
+}
+
+#structure {
+	background-color: #f9f;
+	h2 { padding-top: 10px; }
+	div { width: 60%; margin: auto; }
+}
+
+#albums {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	gap: 10px;
+	margin: auto;
+	padding-bottom:20px;
+	
+}
+.albums-row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 10px;
+
+	img { width: 4rem; height: auto; }
 }
