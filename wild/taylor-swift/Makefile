@@ -1,6 +1,6 @@
 outputs : all.html
 
-all.html : head.html header-tournament.html header-round-1.html round-1.html header-round-2.html round-2.html header-bracket.html bracket.html footer.html
+all.html : head.html header-tournament.html header-round-1.html round-1.html header-round-2.html round-2.html header-bracket.html bracket.html footer.html player.html
 	cat $^ > $@
 
 bracket.html : html_bracket_round.py html-rounds-input.html

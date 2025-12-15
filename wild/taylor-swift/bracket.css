@@ -32,6 +32,10 @@
     flex: 4;
 }
 
+.entry span {
+	cursor: pointer;
+}
+
 #bracket-rounds-selector {
 	margin: 0;
 	background-color: #828;
@@ -89,7 +93,9 @@
 .bracket .bracket-round:nth-child(6) .entry:nth-child(1)    {   height:66vh;               }
 .bracket .bracket-round:nth-child(7) .entry:nth-child(1)    {   height:130vh;               }
 
-@media screen and (max-width: 479px) {
+
+
+@media screen and (max-width: 767px) {
     .bracket {
         overflow-x: scroll;
         width: 100%;
@@ -110,3 +116,5 @@
 		padding-top: 20px;
 	}
 }
+
+

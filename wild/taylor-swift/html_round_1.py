@@ -38,8 +38,9 @@ def link(href):
 def track_str(track: dict) -> str:
     title = track['title']
     album = track['album']
+    track_id = track['id']
     album_tidy = album.lower().replace(' ', '-')
-    return f'<div class="group-entry"><span class="album-art"><img src="{album_tidy}.png" /></span><span class="title">{title}</span></div>'
+    return f'<div class="group-entry" data-track-id="{track_id}"><span class="album-art"><img src="{album_tidy}.png" /></span><span class="title">{title}</span></div>'
     return f'{title} ({album})'
 
 
