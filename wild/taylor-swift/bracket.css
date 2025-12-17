@@ -3,6 +3,7 @@
 .bracket {
     display: flex;
     width: 100vw;
+    padding-left: 10px;
 }
 
 .bracket .bracket-round {
@@ -30,6 +31,7 @@
 
 .entry .title {
     flex: 4;
+    padding-left: 5px;
 }
 
 .entry span {
@@ -98,7 +100,7 @@
 @media screen and (max-width: 767px) {
     .bracket {
         overflow-x: scroll;
-        width: 100%;
+	width: 100%;
     }
     .bracket .bracket-round {
         flex-basis: 0;
@@ -115,6 +117,7 @@
 		margin: 0;
 		padding-top: 20px;
 	}
+	margin-bottom: 20vh;
 }
 
 
