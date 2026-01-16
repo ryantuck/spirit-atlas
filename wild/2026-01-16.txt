@@ -1,0 +1,16 @@
+QUESTION: Describe how you've used an LLM or coding agent as a force multiplier on a real project
+
+I've been hacking away at https://ryantuck.io/demigods where I sick agents on whatever pops into my head starting along the lines of extremely difficult hard math problems, to varying degrees of success. I had tried getting Gemini CLI to just start trying to formalize a proof for an Erdos problem using Lean but it got super hung up on installation and went down a long loop of trying to debug error messages to no avail. I took a step back and read the docs myself and realized Gemini was finding old docs online for how to actually install and execute the lean engine and couldn't quite get the environment set up accordingly. I got back to basics, took fifteen minutes to do a hello world install myself as a sanity check with the latest docs. Once I had that established, I could tell Gemini to operate out of a specific directory and advised it on how to build and run the executable. Doing that fully unlocked it to operate autonomously and the proof details on the site I linked above hopefully suffice to show how far down the rabbit hole it was able to go on iterating on lemmas, conjectures, and proofs to "understand" the problem and get the job done. Very crazy stuff we're working with in the future here!
+
+QUESTION: FastAPI and Postgres service works okay, what do you work on before features or refactor to ensure it works for the first five enterprise clients?
+
+Probably a bunch of good answers here, but here's three pieces of free advice off the top of my head :)
+
+1. 100x the scale of data in core tables in the database (in dev/staging using synthetic data) and measure what queries still perform well enough and which ones end up choking. Add indexes to frequently joined and queried columns as needed.
+2. Assess multi-tenancy (one db per client) to determine if a minimal amount of complexity overhead is worth taking on for the benefits of securing this system into the future. 
+3. Ensure docs pipeline is automated to go out with deploys. Easy thing to overlook, easy thing to implement, going to be essential to set up consumers for success by having a reliably up-to-date source of documentation prior to engagement or else they won't trust the docs 100% for the foreseeable future. 
+4. Ensure the API is versioned from the start to avoid all sorts of headaches around breaking changes down the line.
+
+QUESTION: Distributed, async, or database-backed system behaved differently than your mental model, how ddi you update
+
+Database system - had consistently run deploys without issue for months, and suddenly we had a deploy take down the site due to locking up a table in the DB. Upon investigation, turns out a field was introduced to the Users model for reporting purposes, and alembic was attempting to lock the table in order to ALTER it. The users table was utilized as a join and filter condition in just about every query to the database, which meant nothing could actually go through. Until we would have enough time to refactor the GraphQL layer sufficiently, we had to pivot in the short-term to disabling the GraphQL API layer during deploys to reduce the database load enough to let the deploy go through, and then pivot subsequently to leveraging "bridge" tables for minimizing changes to the User model going forward. 
