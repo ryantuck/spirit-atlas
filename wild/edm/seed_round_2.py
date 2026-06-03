@@ -37,5 +37,3 @@ if __name__ == '__main__':
         groups = seed(batch)
         for group in groups:
             print(json.dumps(group))
-
-
