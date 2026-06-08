@@ -6,3 +6,11 @@ bdca
 bcda
 bcad
 bacd
+abdc # bd close
+cadb
+cdab
+adcb
+bdac
+dabc # ab close
+dbca
+dbac
