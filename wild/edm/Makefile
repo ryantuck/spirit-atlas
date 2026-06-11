@@ -2,6 +2,16 @@
 # SHUFFLED https://open.spotify.com/playlist/4AuzWWD4udbfKsDRdXprqV
 # Round of 2048 https://open.spotify.com/playlist/2JT5x5Nb7QaZnddFHhpRdg
 # Round of 1024 https://open.spotify.com/playlist/6iUIgndhVGCNA9Pm7wtVbc
+# Round of 512
+
+rankings-round-4.jsonl : results-round-4.txt tracks-round-4-512.jsonl
+	python parse_round_4.py results-round-4.txt tracks-round-4-512.jsonl | jq -c > $@
+
+tracks-round-4-512.jsonl : tracks-round-4-512-seeds.jsonl
+	cat $< | jq -c '.[]' > $@
+
+tracks-round-4-512-seeds.jsonl : rankings-round-3.jsonl
+	cat $< | python seed_round_4.py | jq -c > $@
 
 rankings-round-3.jsonl : results-round-3.txt tracks-round-3-1024.jsonl
 	python parse_round_3.py results-round-3.txt tracks-round-3-1024.jsonl | jq -c > $@
