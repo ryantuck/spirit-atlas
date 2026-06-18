@@ -2,7 +2,7 @@
 # SHUFFLED https://open.spotify.com/playlist/4AuzWWD4udbfKsDRdXprqV
 # Round of 2048 https://open.spotify.com/playlist/2JT5x5Nb7QaZnddFHhpRdg
 # Round of 1024 https://open.spotify.com/playlist/6iUIgndhVGCNA9Pm7wtVbc
-# Round of 512
+# Round of 512 	https://open.spotify.com/playlist/79J8kvEVnrT8ylyCL7GAaA
 
 rankings-round-4.jsonl : results-round-4.txt tracks-round-4-512.jsonl
 	python parse_round_4.py results-round-4.txt tracks-round-4-512.jsonl | jq -c > $@

@@ -126,3 +126,35 @@ badce
 baecd
 bdace # dq
 cdabe
+bdcae
+bdcea
+dbcea
+bedac
+abcde # might as well be random
+acbde
+aedbc
+abdec
+ecabd
+cdabe
+cdeba
+badec
+decab
+adceb
+ebdac
+adbec
+aecdb
+bcdea
+eabcd
+daebc
+cbdea
+ebdac
+adebc
+deabc
+eabdc # dq
+daceb
+ecadb
+cdbea
+dbeca
+eadbc
+dbace
+cebad
