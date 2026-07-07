@@ -190,3 +190,67 @@ eacdb
 cebad
 edbca
 becad
+cdaeb
+daebc
+abdce
+dbeca
+abdce # sorting - group 197
+adcbe
+cbdae # sorting - group 199
+bdcae # was missing
+dabec # sorting - group 201
+badce # sorting - group 202
+bcaed # sorting - group 203
+cdbea 
+aebdc # sorting - group 205
+cbeda
+badec
+dbeac # sorting - group 208
+dabec # sorting - group 209
+ecbad # was missing
+cabed # sorting - group 211
+cbade
+acedb
+cabed
+edacb # sorting - group 215
+aedbc
+bdeac
+cbaed
+ceabd
+abdce
+decba
+abedc
+cbead
+baedc
+bedca
+adbec
+bdcea
+abced
+ebacd
+bdcae
+becda
+bdeac
+ecbad
+acdeb
+dbace
+bdace
+bcdea
+cbaed
+eabdc
+acdbe
+cbade
+eadbc
+cdabe
+ceadb
+eabdc
+cbdea
+aedbc
+ecdab
+caebd
+edacb
+becad
+daebc
+bdaec
+abecd
+badec
+acbde
