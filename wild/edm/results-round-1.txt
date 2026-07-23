@@ -286,3 +286,35 @@ deacb
 cbaed
 daceb # take my hand
 ecabd
+cdeba
+edbca
+acbde
+abdec
+baecd
+dabce
+decba
+daecb
+ceabd
+adbec
+edbac
+deacb
+cdbea
+caedb
+eabdc
+ebdca
+cbdae
+eadbc
+cbdae
+dbaec
+badec
+badec
+cbaed # zombie nation
+edbca
+edcba
+dceba
+abedc
+ecbda
+acdeb
+ceadb
+abdec
+baedc
