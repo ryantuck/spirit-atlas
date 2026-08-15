@@ -3,6 +3,13 @@
 # Round of 2048 https://open.spotify.com/playlist/2JT5x5Nb7QaZnddFHhpRdg
 # Round of 1024 https://open.spotify.com/playlist/6iUIgndhVGCNA9Pm7wtVbc
 # Round of 512 	https://open.spotify.com/playlist/79J8kvEVnrT8ylyCL7GAaA
+# Round of 256  https://open.spotify.com/playlist/6Q1EVf2ZJIEQSwO1bkYCoL
+
+tracks-round-5-256.jsonl : tracks-round-5-256-seeds.jsonl
+	cat $< | jq -c '.[]' > $@
+
+tracks-round-5-256-seeds.jsonl : rankings-round-4.jsonl
+	cat $< | python seed_round_5.py | jq -c > $@
 
 rankings-round-4.jsonl : results-round-4.txt tracks-round-4-512.jsonl
 	python parse_round_4.py results-round-4.txt tracks-round-4-512.jsonl | jq -c > $@
