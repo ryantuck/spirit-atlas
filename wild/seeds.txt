@@ -1,28 +1,29 @@
-Barefoot Life
+Barefoot Life - Going barefoot as often as possible is a nice way to live.
 
-Symmetric Surveillance
+Symmetric Surveillance - If surveillance infrastructure is inevitable can a healthy public ecosystem be regained and the prototypical surveillance state be avoided by regulating it and giving rights to the recorded?
 
-Book Notes
+Book Highlights - Book highlights from over X classics, 50?
 
-Music Tournaments
+Music Tournaments - Country, Rap, Taylor Swift, EDM (WIP)
 
-Margin of Error
+Margin of Error - Err on the side of too much margin for error. Tried getting away with a tight notch needed for windowsill for builtins on the second try and it was no bueno.
 
-Lids
+Lids - Lids are only useful to protect fragile stuff and stack tubs you want to infrequently access. Lids increase the query cost for a scan of stuff but provide structure.
 
-Hats
+Hats - I don't care for hats generally. Or sunglasses really.
 
-Rock War
+Rock War - Board game I have designed for about three years. Simple war strategy game. Working on it at https://ryantuck.io/rock-war
 
-Cardboard
+Cardboard - So much cardboard from so many shipments. Harvesting raw rectangles of varying sizes gives you a lot of micro-lumber to work with.
 
-Sharpies
+Writing Implements - BIC mechanical pencil. Pilot G2. Sharpies. Apple Pencil.
 
-Szasz
+Szasz - Mental illness is a collection of observed behaviors often without a particular thing on the body or in the brain to point to - is illness and language around it ("having" depression, "cure" through "treatment", taking speed as "medicine") the appropriate metaphor?
 
-Software Engineering
+Software Engineering - I have made a career of software engineering. What's it been like? Lots of ups. Lots of downs. AI is a strange new mode.
 
-AI - Tooling, Etc
+AI - Tooling, Etc - I read Bostrom's Superintelligence in 2016 and was a doomer before being a doomer was a thing. I no longer actually code at work, the AIs are so reliable at it. I am implementing a repository of machine-generated formalizations called erdos-ai. I fed in the rules for Rock War and had AI build a frontend and fully-implemented game engines. 
 
-Spicy Food
+Spicy Food - Bring it on baby, heat-seeking culinary lifestyle in full effect. Just learned how to make hot sauce - mix peppers and vinegar and maybe other stuff. Keep in fridge. Heat kills stuff and allows it to last longer, possibly shelf-stable. Blender for texture. Cooking peppers down first softens them and makes them better for sauces.
 
+LIT - I tried starting a startup with my best friend out of college designing LED headbands for raves. Learned to code and design and produce custom circuit boards. More fruitful than an EE degree or CS degree? It was awesome. 
