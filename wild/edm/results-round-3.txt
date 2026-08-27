@@ -158,3 +158,11 @@ dcba
 bcda
 bdac
 dabc
+acdb
+adbc
+cdab
+cabd
+bdca
+dbac
+bcda
+bcda
