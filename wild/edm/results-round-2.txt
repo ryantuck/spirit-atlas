@@ -334,3 +334,19 @@ abdc
 abcd
 abcd
 bcad
+badc
+abcd
+bcad
+abcd
+abcd
+abdc
+bacd
+abcd
+acbd
+cabd
+abcd # overflowing
+badc
+cabd
+abcd
+abdc
+abcd
