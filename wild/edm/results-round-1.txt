@@ -350,3 +350,19 @@ adcbe
 bdeac
 bceda
 acdbe
+bedac
+edcba
+deabc
+cadbe
+aedcb
+adcbe
+bceda
+ebadc
+adbce # x
+aebcd # x
+beacd
+edcab
+adebc
+adecb # x
+bcead
+edbca
