@@ -350,3 +350,19 @@ cabd
 abcd
 abdc
 abcd
+abcd
+abdc
+abdc
+bcad
+acbd
+acbd
+abcd
+abcd
+abcd # raindrops
+abcd
+abdc
+bacd
+abcd
+abdc
+bacd
+acbd
