@@ -366,3 +366,19 @@ adebc
 adecb # x
 bcead
 edbca
+ebcad
+dcbea
+dacbe
+cebda
+decba
+deabc
+abdec
+bceda
+aecdb
+beacd
+beadc
+eacbd
+cbeda
+baedc
+aecbd
+eabcd
